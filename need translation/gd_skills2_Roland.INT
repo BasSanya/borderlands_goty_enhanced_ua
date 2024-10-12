@@ -1,0 +1,315 @@
+[Action.A_DeployScorpio SkillDefinition]
+SkillName="Scorpio Turret"
+SkillDescription="Gain the ability to deploy a Scorpio Turret that automatically fires at enemies.  The Scorpio Turret also has shields that can be used as cover."
+LockedSkillDetailStr="<Locked>"
+
+[Action.A_DeployScorpio:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Cooldown: $NUMBER$ seconds"
+NoConstraintText=""
+Suffix=""
+
+[ActionElemental.Scorpio_CorrosiveBolt SkillDefinition]
+SkillName="Corrosive Bolt"
+SkillDescription="The Scorpio deals corrosive damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.Scorpio_ExplosiveBolt SkillDefinition]
+SkillName="Explosive Bolt"
+SkillDescription="The Scorpio deals Explosive Damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.Scorpio_FireBolt SkillDefinition]
+SkillName="Fire Bolt"
+SkillDescription="The Scorpio deals Fire Damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.Scorpio_ShockBolt SkillDefinition]
+SkillName="Shock Bolt"
+SkillDescription="The Scorpio deals shock damage"
+LockedSkillDetailStr="<Locked>"
+
+[Adrenaline.Adrenaline_Roland SkillDefinition]
+SkillName="Adrenaline - Roland"
+SkillDescription="Roland gains adrenaline when he damages enemies or if one of his friends gets crippled."
+LockedSkillDetailStr="<Locked>"
+
+[Adrenaline.Adrenaline_Roland:AttributePresentationDefinition_36 AttributePresentationDefinition]
+Description="Roland gains adrenaline when he damages enemies or if one of his friends gets crippled."
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Assault SkillDefinition]
+SkillName="Assault"
+SkillDescription="Increases Magazine Size and reduces Recoil with Combat Rifles."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.Assault:AttributePresentationDefinition_40 AttributePresentationDefinition]
+Description="Accuracy"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Assault:AttributePresentationDefinition_41 AttributePresentationDefinition]
+Description="Recoil Reduction"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Assault:AttributePresentationDefinition_42 AttributePresentationDefinition]
+Description="Magazine Size and Recoil Reduction"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.GuidedMissile SkillDefinition]
+SkillName="Guided Missile"
+SkillDescription="Your Scorpio Turret launches guided missiles in addition to using its regular gun."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.GuidedMissile:AttributePresentationDefinition_43 AttributePresentationDefinition]
+Description="Fire a missile every $NUMBER$ seconds."
+NoConstraintText=""
+Suffix=""
+
+[Infantry.MetalStorm SkillDefinition]
+SkillName="Metal Storm"
+SkillDescription="Killing an enemy increases your Fire Rate and reduces Recoil for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.MetalStorm:AttributePresentationDefinition_32 AttributePresentationDefinition]
+Description="Weapon Fire Rate"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.MetalStorm:AttributePresentationDefinition_33 AttributePresentationDefinition]
+Description="Recoil Reduction"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Refire SkillDefinition]
+SkillName="Refire"
+SkillDescription="Shooting an enemy reduces the cooldown of your Scorpio Turret.  This effect can only occur every 2 seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.Refire:AttributePresentationDefinition_44 AttributePresentationDefinition]
+Description="Cooldown reduction per hit: $NUMBER$ (in seconds)"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Refire_activated SkillDefinition]
+SkillName="Refire - activated"
+SkillDescription="Shooting an enemy reduces the cooldown of your Scorpio Turret."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.Refire_activated:AttributePresentationDefinition_139 AttributePresentationDefinition]
+Description="Cooldown reduction"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Scattershot SkillDefinition]
+SkillName="Scattershot"
+SkillDescription="Increases shotgun damage and spread."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.Scattershot:AttributePresentationDefinition_78 AttributePresentationDefinition]
+Description="Shotgun Damage"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Scattershot:AttributePresentationDefinition_79 AttributePresentationDefinition]
+Description="Shotgun Spread"
+NoConstraintText=""
+Suffix=""
+
+[Infantry.Sentry SkillDefinition]
+SkillName="Sentry"
+SkillDescription="Increases Scorpio Turret damage."
+LockedSkillDetailStr="<Locked>"
+
+[Infantry.Sentry:AttributePresentationDefinition_92 AttributePresentationDefinition]
+Description="Scorpio Turret Damage"
+NoConstraintText=""
+Suffix=""
+
+[Medic.AidStation SkillDefinition]
+SkillName="Aid Station"
+SkillDescription="Allies near the Scorpio Turret regenerate health.  "
+LockedSkillDetailStr="<Locked>"
+
+[Medic.AidStation:AttributePresentationDefinition_35 AttributePresentationDefinition]
+Description="Regenerates $NUMBER$ health per second"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Cauterize SkillDefinition]
+SkillName="Cauterize"
+SkillDescription="Shooting team members heals them.  This effect also works with grenades and rockets."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Cauterize:AttributePresentationDefinition_45 AttributePresentationDefinition]
+Description="Converts $NUMBER$ damage to health"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Fitness SkillDefinition]
+SkillName="Fitness"
+SkillDescription="Increases your Maximum Health."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Fitness:AttributePresentationDefinition_38 AttributePresentationDefinition]
+Description="Maximum Health"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Fitness_HealUp SkillDefinition]
+SkillName="Fitness_HealUp"
+SkillDescription="Heals you after increasing your Max Health."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Fitness_HealUp:AttributePresentationDefinition_38 AttributePresentationDefinition]
+Description="Maximum Health"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Grit SkillDefinition]
+SkillName="Grit"
+SkillDescription="Increases your resistance to Bullet Damage."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Grit:AttributePresentationDefinition_46 AttributePresentationDefinition]
+Description="Bullet Resistance"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Overload SkillDefinition]
+SkillName="Overload"
+SkillDescription="Increases magazine capacity with all weapon types.  "
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Overload:AttributePresentationDefinition_51 AttributePresentationDefinition]
+Description="Magazine Size"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Revive SkillDefinition]
+SkillName="Revive"
+SkillDescription="The Scorpio Turret has a chance to instantly revive nearby crippled friends when deployed."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Revive:AttributePresentationDefinition_47 AttributePresentationDefinition]
+Description="Revival Chance"
+NoConstraintText=""
+Suffix=""
+
+[Medic.Stat SkillDefinition]
+SkillName="Stat"
+SkillDescription="Killing an enemy increases health regeneration for you and nearby friends for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Medic.Stat:AttributePresentationDefinition_52 AttributePresentationDefinition]
+Description="Regenerates $NUMBER$ health per second"
+NoConstraintText=""
+Suffix=""
+
+[Support.Barrage SkillDefinition]
+SkillName="Barrage"
+SkillDescription="Increases the number of shots your Scorpio Turret fires in each burst."
+LockedSkillDetailStr="<Locked>"
+
+[Support.Barrage:AttributePresentationDefinition_53 AttributePresentationDefinition]
+Description="Shots fired per burst"
+NoConstraintText=""
+Suffix=""
+
+[Support.Defense SkillDefinition]
+SkillName="Defense"
+SkillDescription="Increases how quickly your shields recharge."
+LockedSkillDetailStr="<Locked>"
+
+[Support.Defense:AttributePresentationDefinition_37 AttributePresentationDefinition]
+Description="Shield Recharge Speed"
+NoConstraintText=""
+Suffix=""
+
+[Support.deploy SkillDefinition]
+SkillName="Deploy"
+SkillDescription="Reduces the cooldown for your Scorpio Turret."
+LockedSkillDetailStr="<Locked>"
+
+[Support.deploy:AttributePresentationDefinition_48 AttributePresentationDefinition]
+Description="Cooldown reduction $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Support.Grenadier SkillDefinition]
+SkillName="Grenadier"
+SkillDescription="Killing an enemy increases your grenade damage and causes you to regenerate grenades for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Support.Grenadier:AttributePresentationDefinition_54 AttributePresentationDefinition]
+Description="Grenades per minute"
+NoConstraintText=""
+Suffix=""
+
+[Support.Grenadier:AttributePresentationDefinition_55 AttributePresentationDefinition]
+Description="Grenade Damage"
+NoConstraintText=""
+Suffix=""
+
+[Support.Impact SkillDefinition]
+SkillName="Impact"
+SkillDescription="Increases Bullet Damage with all weapon types."
+LockedSkillDetailStr="<Locked>"
+
+[Support.Impact:AttributePresentationDefinition_39 AttributePresentationDefinition]
+Description="Bullet Damage"
+NoConstraintText=""
+Suffix=""
+
+[Support.QuickCharge SkillDefinition]
+SkillName="Quick Charge"
+SkillDescription="Killing an enemy causes your shields to quickly regenerate for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Support.QuickCharge:AttributePresentationDefinition_49 AttributePresentationDefinition]
+Description="Shields per second"
+NoConstraintText=""
+Suffix=""
+
+[Support.Stockpile SkillDefinition]
+SkillName="Stockpile"
+SkillDescription="Players near the Scorpio Turret regenerate ammo for the weapon currently in their hands."
+LockedSkillDetailStr="<Locked>"
+
+[Support.Stockpile:AttributePresentationDefinition_50 AttributePresentationDefinition]
+Description="Ammo Regeneration Rate"
+NoConstraintText=""
+Suffix=""
+
+[Support.SupplyDrop SkillDefinition]
+SkillName="Supply Drop"
+SkillDescription="The Scorpio Turret periodically fires out supply pickups to resupply players."
+LockedSkillDetailStr="<Locked>"
+
+[Support.SupplyDrop:AttributePresentationDefinition_93 AttributePresentationDefinition]
+Description="Supply drop every $NUMBER$ seconds"
+NoConstraintText=""
+Suffix=""
+
+[z_DELETEDELETE.Detonate SkillDefinition]
+SkillName="Detonate"
+SkillDescription="The Scorpio Turret creates a pulse every few seconds that pushes enemies away and damages them.  (BROKEN)"
+LockedSkillDetailStr="<Locked>"
+
+[z_DELETEDELETE.Detonate_active SkillDefinition]
+SkillName="Detonate_active"
+SkillDescription="The Scorpio Turret creates a pulse every few seconds that pushes enemies away and damages them."
+LockedSkillDetailStr="<Locked>"
+
+[z_DELETEDELETE.ScoprioHomingRockets SkillDefinition]
+SkillName="Scorpio Rockets"
+SkillDescription="The Scorpio Turret fires homing rockets in addition to its regular attack."
+LockedSkillDetailStr="<Locked>"
+
+[z_DELETEDELETE.ScoprioHomingRockets:AttributePresentationDefinition_151 AttributePresentationDefinition]
+Description="Cooldown Rate"
+NoConstraintText=""
+Suffix=""
+

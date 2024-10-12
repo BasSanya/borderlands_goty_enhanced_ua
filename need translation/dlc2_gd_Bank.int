@@ -1,0 +1,140 @@
+[A_Item.INV_BankUpgrade_01 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 1"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_01:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 15."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_02 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 2"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_02:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 18."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_03 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 3"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_03:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 21."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_04 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 4"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_04:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 24."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_05 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 5"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_05:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 27."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_06 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 6"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_06:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 30."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_07 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 7"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_07:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 33."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_08 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 8"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_08:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 36."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_09 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 9"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_09:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 39."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_10 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bank Upgrade - Level 10"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_BankUpgrade_10:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Purchase to increase your number of Bank Slots to 42."
+NoConstraintText=""
+Suffix=""
+

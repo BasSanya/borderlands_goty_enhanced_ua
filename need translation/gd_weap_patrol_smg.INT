@@ -1,0 +1,189 @@
+[Grip.grip3 WeaponPartDefinition]
+PartName="Maliwan"
+
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Dahl"
+
+[acc.acc2 WeaponPartDefinition]
+PartName=Fast Load Upgrade
+
+[Body.body3 WeaponPartDefinition]
+PartName="TEK"
+
+[Grip.grip4_gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[Title.Title__SMG WeaponNamePartDefinition]
+PartName="SMG"
+
+[Sight.sight3:AttributePresentationDefinition_20 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=
+
+[Sight.sight2:AttributePresentationDefinition_11 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Prefix.Prefix_Quality1_Violent WeaponNamePartDefinition]
+PartName="Violent"
+
+[Prefix.Prefix_Quality3_Malevolent WeaponNamePartDefinition]
+PartName="Malevolent"
+
+[Prefix.Prefix_Quality2_Hostile WeaponNamePartDefinition]
+PartName="Hostile"
+
+[Title.TitleU_GameSpy_TheSpy:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText=I spy with my little eye...
+
+[Title.TitleU_GameSpy_TheSpy WeaponNamePartDefinition]
+PartName=The Spy
+
+[Title.TitleM_Dahl1_Wildcat WeaponNamePartDefinition]
+PartName="Wildcat"
+
+[Title.TitleM_Maliwan1_HellFire WeaponNamePartDefinition]
+PartName="HellFire"
+
+[Title.TitleM_Hyperion1_Bitch:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Smack 'em."
+
+[Title.TitleM_Dahl1_Wildcat:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="The ultimate close quarters feline."
+
+[Sight.sight5:AttributePresentationDefinition_30 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+
+[Title.Title_Acc2_Vector WeaponNamePartDefinition]
+PartName="Vector"
+
+[mag.mag1 WeaponPartDefinition]
+PartName=
+
+[UniqueParts.BoneShredder_Material WeaponPartDefinition]
+PartName="-A"
+
+[mag.mag5_twisted WeaponPartDefinition]
+PartName=
+
+[Prefix.Prefix_Barrel3_Twisted WeaponNamePartDefinition]
+PartName="Twisted"
+
+[Prefix.Prefix_Acc2_Ruthless WeaponNamePartDefinition]
+PartName="Ruthless"
+
+[Prefix.Prefix_Mag5_Twisted WeaponNamePartDefinition]
+PartName=Twisted
+
+[Title.Title_Firerate1_Stinger WeaponNamePartDefinition]
+PartName="Stinger"
+
+[Title.Title_Mag1_Thumper WeaponNamePartDefinition]
+PartName="Thumper"
+
+[Sight.sight1:AttributePresentationDefinition_2 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[Title.Title_LowAccuracy1_Anarchy WeaponNamePartDefinition]
+PartName="Anarchy"
+
+[Sight.sight4:AttributePresentationDefinition_26 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+
+[Title.TitleM_Hyperion1_Bitch WeaponNamePartDefinition]
+PartName="Bitch"
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Torque"
+
+[Title.Title_Damage1_Bruiser WeaponNamePartDefinition]
+PartName="Bruiser"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Tediore"
+
+[Prefix.Prefix_Basic1_Patrol WeaponNamePartDefinition]
+PartName="Patrol"
+
+[Body.body5 WeaponPartDefinition]
+PartName="HX "
+
+[Title.TitleM_Maliwan1_HellFire:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="We don't need no water..."
+
+[Title.TitleU_Bonehead_BoneShredder WeaponNamePartDefinition]
+PartName="Bone Shredder"
+
+[Title.TitleM_Tediore1_Savior WeaponNamePartDefinition]
+PartName="Savior"
+
+[Title.Title_Tediore1_Savior WeaponNamePartDefinition]
+PartName=Savior
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[Title.TitleU_Retail_TheSpy:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="I spy with my little eye..."
+
+[Title.TitleM_Tediore1_Savior:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Hallelujah"
+
+[acc.acc2_Ruthless WeaponPartDefinition]
+PartName="Ruthless"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Hyperion"
+
+[A_Weapon.WeaponType_patrol_smg WeaponTypeDefinition]
+TypeName="Patrol SMG"
+
+[Title.TitleM_Torgue1_Gasher:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Tear it up"
+
+[acc.acc2_Vector WeaponPartDefinition]
+PartName="Vector"
+
+[Title.TitleM_Torgue1_Gasher WeaponNamePartDefinition]
+PartName="Gasher"
+
+[acc.acc1_Relentless WeaponPartDefinition]
+PartName="Relentless"
+
+[Title.TitleU_Retail_TheSpy WeaponNamePartDefinition]
+PartName="The Spy"
+
+[Title.TitleU_Bonehead_BoneShredder:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="The lead wind blows"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Body.body4 WeaponPartDefinition]
+PartName="RF"
+
+[Prefix.Prefix_Acc1_Relentless WeaponNamePartDefinition]
+PartName="Relentless"
+
+[Body.body3_Tediore_Savior WeaponPartDefinition]
+PartName="SV"
+
+[Body.body2 WeaponPartDefinition]
+PartName="KKA"
+
+[Body.body1 WeaponPartDefinition]
+PartName="TD"
+
+[acc.acc5_Maliwan_HellFire WeaponPartDefinition]
+PartName="Incendiary"
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+

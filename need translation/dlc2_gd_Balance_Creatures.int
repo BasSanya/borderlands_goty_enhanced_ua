@@ -1,0 +1,147 @@
+[Scythids.dlc2_Balance_Scythid_Badass_Corrosive AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Poison Scythid"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Venomous Scythid"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Noxious Scythid"))
+
+[Scythids.dlc2_Balance_Scythid_Badass_Fire AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Fire Crawler"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Blazing Crawler"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Scorching Crawler"))
+
+[Scythids.dlc2_Balance_Scythid_Badass_Shock AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Scythid"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Lightning Scythid"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Galvanizing Scythid"))
+
+[Scythids.dlc2_Balance_Scythid_Bursting AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bursting Scythid"))
+Grades[1]=(GradeModifiers=(DisplayName="Exploding Scythid"))
+Grades[2]=(GradeModifiers=(DisplayName="Kablooey Scythid"))
+
+[Scythids.dlc2_Balance_Scythid_Crawler AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Scythid Crawler"))
+Grades[1]=(GradeModifiers=(DisplayName="Scythid Slug"))
+Grades[2]=(GradeModifiers=(DisplayName="Scythid Creep"))
+
+[Scythids.dlc2_Balance_Scythid_Desert AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Desert Scythid"))
+Grades[1]=(GradeModifiers=(DisplayName="Wasteland Scythid"))
+Grades[2]=(GradeModifiers=(DisplayName="Dune Scythid"))
+
+[Scythids.dlc2_Balance_Scythid_Giant AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Giant Scythid"))
+Grades[1]=(GradeModifiers=(DisplayName="Mommoth Scythid"))
+Grades[2]=(GradeModifiers=(DisplayName="Colossal Scythid"))
+
+[Skags.dlc2_Balance_Alpha_Corrosive_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Corrosive Alpha"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Corrosive Alpha"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Corrosive Alpha"))
+
+[Skags.dlc2_Balance_Alpha_Fire_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Fire Alpha"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Fire Alpha"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Fire Alpha"))
+
+[Skags.dlc2_Balance_Alpha_Shock_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Alpha"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Shock Alpha"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Shock Alpha"))
+
+[Skags.dlc2_Balance_Skag_Adult AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Adult Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="Feral Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="Bestial Skag"))
+
+[Skags.dlc2_Balance_Skag_Alpha AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Alpha Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="Hardened Alpha Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="Armored Alpha Skag"))
+
+[Skags.dlc2_Balance_Skag_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="AssKicking Skag"))
+
+[Skags.dlc2_Balance_Skag_Corrosive_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Corrosive Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Corrosive Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Corrosive Skag"))
+
+[Skags.dlc2_Balance_Skag_Digit AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Digit"))
+
+[Skags.dlc2_Balance_Skag_Elder AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Elder Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="Hulking Elder Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="Stalwart Elder Skag"))
+
+[Skags.dlc2_Balance_Skag_Fire_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Fire Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Fire Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Fire Skag"))
+
+[Skags.dlc2_Balance_Skag_Pinky AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Pinky"))
+
+[Skags.dlc2_Balance_Skag_Pup AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Pup Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="Annoyed Pup Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="Colicy Skag"))
+
+[Skags.dlc2_Balance_Skag_Shock_Champion AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Shock Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Shock Skag"))
+
+[Skags.dlc2_Balance_Skag_Spitter AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spitter Skag"))
+Grades[1]=(GradeModifiers=(DisplayName="Hawking Skag"))
+Grades[2]=(GradeModifiers=(DisplayName="Sputum Skag"))
+
+[Skags.dlc2_Balance_Skag_Whelp AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Skag Whelp"))
+Grades[1]=(GradeModifiers=(DisplayName="Skag Whelp"))
+Grades[2]=(GradeModifiers=(DisplayName="Angry Skag Whelp"))
+Grades[3]=(GradeModifiers=(DisplayName="Querulous Skag Whelp"))
+
+[Spiderants.dlc2_Balance_Spiderant_Badass_Corrosive AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Spiderant Corrupter"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Spiderant Infector"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Spiderant Desecrator"))
+
+[Spiderants.dlc2_Balance_Spiderant_Badass_Fire AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Spiderant Burner"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Spiderant Incinerator"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Spiderant Cremator"))
+
+[Spiderants.dlc2_Balance_Spiderant_Badass_Shock AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Spiderant Zapper"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Spiderant Shocker"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Spiderant Fulminator"))
+
+[Spiderants.dlc2_Balance_Spiderant_Gyro AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spiderant Gyro"))
+Grades[1]=(GradeModifiers=(DisplayName="Spiderant Beetle"))
+Grades[2]=(GradeModifiers=(DisplayName="Spiderant Vermin"))
+
+[Spiderants.dlc2_Balance_Spiderant_King AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spiderant King"))
+Grades[1]=(GradeModifiers=(DisplayName="Spiderant Overlord"))
+Grades[2]=(GradeModifiers=(DisplayName="Spiderant Emperor"))
+
+[Spiderants.dlc2_Balance_Spiderant_Queen AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spiderant Queen"))
+Grades[1]=(GradeModifiers=(DisplayName="Spiderant Matriarch"))
+Grades[2]=(GradeModifiers=(DisplayName="Spiderant Queen Mother"))
+
+[Spiderants.dlc2_Balance_Spiderant_Soldier AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spiderant Soldier"))
+Grades[1]=(GradeModifiers=(DisplayName="Spiderant Warrior"))
+Grades[2]=(GradeModifiers=(DisplayName="Spiderant Slayer"))
+
+[Spiderants.dlc2_Balance_Spiderant_Worker AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Spiderant Worker"))
+Grades[1]=(GradeModifiers=(DisplayName="Spiderant Toiler"))
+Grades[2]=(GradeModifiers=(DisplayName="Spiderant Slave"))
+

@@ -1,0 +1,108 @@
+[Prefix.Prefix_Cold WeaponNamePartDefinition]
+PartName="Cold"
+
+[mag.mag3 WeaponPartDefinition]
+PartName="Extended Magazine"
+
+[A_Weapon.WeaponType_machine_pistol WeaponTypeDefinition]
+TypeName="TMP"
+
+[mag.mag3_SandS_Thanatos WeaponPartDefinition]
+PartName="Thanatos"
+
+[Title.Title_Firerate1_Rage WeaponNamePartDefinition]
+PartName="Rage"
+
+[Prefix.Prefix_Quality3_Vile WeaponNamePartDefinition]
+PartName="Vile"
+
+[Title.TitleM_Hyperion1_Reaper WeaponNamePartDefinition]
+PartName="Reaper"
+
+[Title.TitleU_BSG_SuckerPunch WeaponNamePartDefinition]
+PartName="Sucker Punch"
+
+[Title.TitleU_BSG_SuckerPunch:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Your shoelace is untied..."
+
+[Title.TitleM_Vladof1_Vengence:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Vengeance is Yours"
+
+[Title.TitleM_Vladof1_Vengence WeaponNamePartDefinition]
+PartName="Vengeance"
+
+[Title.TitleU_NineToes_TheClipper WeaponNamePartDefinition]
+PartName="The Clipper"
+
+[Title.TitleU_NineToes_TheClipper:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Don't drop it... might lose a toe."
+
+[Title.TitleM_Hyperion1_Reaper:AttributePresentationDefinition_5 AttributePresentationDefinition]
+NoConstraintText="Slice Slice"
+
+[DELETEDELETE.Prefix_Quality1_Gridelete WeaponNamePartDefinition]
+PartName="Grim"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Vladof"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Hyperion"
+
+[Title.Title_Firerate1_Rage:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Burst Fire"
+
+[UniqueParts.TheClipper_acc5_Incendiary WeaponPartDefinition]
+PartName="The Clipper"
+
+[Prefix.Prefix_Vile WeaponNamePartDefinition]
+PartName=Vile
+
+[Prefix.Prefix_Vladof1_Cold WeaponNamePartDefinition]
+PartName=Cold
+
+[Title.Title__AccuracyLow1_Fury WeaponNamePartDefinition]
+PartName=Fury
+
+[Title.Title__Firerate1_Rage WeaponNamePartDefinition]
+PartName=Rage
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="S&S Munitions"
+
+[Prefix.Prefix_Quality1_Mean WeaponNamePartDefinition]
+PartName="Mean"
+
+[Title.Title_Vladof1_Vengence WeaponNamePartDefinition]
+PartName=Vengeance
+
+[acc.acc2_Cold WeaponPartDefinition]
+PartName="Cold"
+
+[Prefix.Prefix_Quality2_Grim WeaponNamePartDefinition]
+PartName="Grim"
+
+[Title.TitleM_SandS1_Thanatos:AttributePresentationDefinition_4 AttributePresentationDefinition]
+NoConstraintText="Big Tony says \"Hi\""
+
+[Prefix.Prefix_Raging WeaponNamePartDefinition]
+PartName="Raging"
+
+[Title.TitleM_SandS1_Thanatos WeaponNamePartDefinition]
+PartName="Thanatos"
+
+[Prefix.Prefix_TechQuality1_Vile WeaponNamePartDefinition]
+PartName="Vile"
+
+[Title.Title_Damage1_Torment WeaponNamePartDefinition]
+PartName="Torment"
+
+[Body.body5 WeaponPartDefinition]
+PartName="TMP"
+
+[Title.Title__MachinePistol WeaponNamePartDefinition]
+PartName="Machine Pistol"
+
+[Title.Title_AccuracyLow1_Fury WeaponNamePartDefinition]
+PartName="Fury"
+

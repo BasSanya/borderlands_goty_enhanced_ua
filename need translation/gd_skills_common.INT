@@ -1,0 +1,362 @@
+[Loyalty.SandSLoyalty:AttributePresentationDefinition_173 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.TedioreLoyalty:AttributePresentationDefinition_178 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.SandSLoyalty:AttributePresentationDefinition_172 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.JakobsLoyalty:AttributePresentationDefinition_165 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.JakobsLoyalty:AttributePresentationDefinition_164 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.SandSLoyalty SkillDefinition]
+SkillName="S&S Loyalty"
+SkillDescription="Improves Performance of S&S Brand Weapons"
+
+[Loyalty.VladofLoyalty:AttributePresentationDefinition_185 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.JakobsLoyalty SkillDefinition]
+SkillName="Jakobs Loyalty"
+SkillDescription="Improves Performance of Jakobs Brand Weapons"
+
+[Loyalty.SandSLoyalty:AttributePresentationDefinition_175 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.VladofLoyalty SkillDefinition]
+SkillName="Vladof Loyalty"
+SkillDescription="Improves Performance of Vladof Brand Weapons"
+
+[Loyalty.SandSLoyalty:AttributePresentationDefinition_174 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.TorgueLoyalty:AttributePresentationDefinition_180 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.TorgueLoyalty:AttributePresentationDefinition_182 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.TorgueLoyalty:AttributePresentationDefinition_181 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.TedioreLoyalty:AttributePresentationDefinition_177 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.TorgueLoyalty SkillDefinition]
+SkillName="Torgue Loyalty"
+SkillDescription="Improves Performance of Torgue Brand Weapons"
+
+[Loyalty.TedioreLoyalty SkillDefinition]
+SkillName="Tediore Loyalty"
+SkillDescription="Improves Performance of Tediore Brand Weapons"
+
+[Loyalty.MaliwanLoyalty SkillDefinition]
+SkillName="Maliwan Loyalty"
+SkillDescription="Improves Performance of Maliwan Brand Weapons"
+
+[Loyalty.JakobsLoyalty:AttributePresentationDefinition_167 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.JakobsLoyalty:AttributePresentationDefinition_166 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.MaliwanLoyalty:AttributePresentationDefinition_168 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.TedioreLoyalty:AttributePresentationDefinition_176 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.VladofLoyalty:AttributePresentationDefinition_184 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.MaliwanLoyalty:AttributePresentationDefinition_171 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.MaliwanLoyalty:AttributePresentationDefinition_169 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.MaliwanLoyalty:AttributePresentationDefinition_170 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.TorgueLoyalty:AttributePresentationDefinition_183 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.TedioreLoyalty:AttributePresentationDefinition_179 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.HyperionLoyalty:AttributePresentationDefinition_163 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.HyperionLoyalty:AttributePresentationDefinition_162 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.HyperionLoyalty:AttributePresentationDefinition_161 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.HyperionLoyalty:AttributePresentationDefinition_160 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.HyperionLoyalty SkillDefinition]
+SkillName="Hyperion Loyalty"
+SkillDescription="Improves Performance of Hyperion Brand Weapons"
+
+[Loyalty.DahlLoyalty:AttributePresentationDefinition_159 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.DahlLoyalty:AttributePresentationDefinition_158 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.DahlLoyalty:AttributePresentationDefinition_157 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.DahlLoyalty:AttributePresentationDefinition_156 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.DahlLoyalty SkillDefinition]
+SkillName="Dahl Loyalty"
+SkillDescription="Improves Performance of Dahl Brand Weapons"
+
+[Loyalty.AtlasLoyalty:AttributePresentationDefinition_155 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.AtlasLoyalty:AttributePresentationDefinition_154 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[Loyalty.AtlasLoyalty:AttributePresentationDefinition_153 AttributePresentationDefinition]
+Description="Weapon Recoil"
+
+[Loyalty.AtlasLoyalty:AttributePresentationDefinition_152 AttributePresentationDefinition]
+Description="Weapon Damage"
+
+[Loyalty.AtlasLoyalty SkillDefinition]
+SkillName="Atlas Loyalty"
+SkillDescription="Improves Performance of Atlas Brand Weapons"
+
+[Combat.Combat_Impact:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description="Bullet Damage"
+
+[Combat.Combat_Impact SkillDefinition]
+SkillName="Impact"
+SkillDescription="Increase Bullet Damage"
+
+[Combat.Combat_Health:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Maximum Health"
+
+[Combat.Combat_Health SkillDefinition]
+SkillName="Health"
+SkillDescription="Increase maximum health"
+
+[Basic.ZoomWeapon SkillDefinition]
+SkillName="ZoomWeapon"
+
+[Basic.Use SkillDefinition]
+SkillName="Use"
+
+[Basic.ShowStatusMenu SkillDefinition]
+SkillName="Show Status Menu"
+
+[Basic.ShowMap SkillDefinition]
+SkillName="Quick Access Map"
+
+[Basic.RevivePlayer SkillDefinition]
+SkillName="Revive Player"
+
+[Basic.Reload SkillDefinition]
+SkillName="Reload"
+
+[Basic.QuickSelectWeapon SkillDefinition]
+SkillName="QuickSelectWeapon"
+SkillDescription="Shows and hides the Radial Weapon Select Menu"
+
+[Basic.QuickSelectUp SkillDefinition]
+SkillName="EquipWeaponFromSlot QuickSelectUp"
+
+[Basic.QuickSelectRight SkillDefinition]
+SkillName="EquipWeaponFromSlot QuickSelectRight"
+
+[Basic.QuickSelectLeft SkillDefinition]
+SkillName="EquipWeaponFromSlot QuickSelectLeft"
+
+[Basic.QuickSelectDown SkillDefinition]
+SkillName="EquipWeaponFromSlot QuickSelectDown"
+
+[Basic.ProteanGrenade SkillDefinition]
+SkillName="CycleGrenadeSkill"
+
+[Basic.PrevWeapon SkillDefinition]
+SkillName="PrevWeapon"
+
+[Basic.PreJump SkillDefinition]
+SkillName="PreJump"
+
+[Basic.PickupEquip SkillDefinition]
+SkillName="Pickup and Equip"
+
+[Basic.Pickup SkillDefinition]
+SkillName="Pickup"
+
+[Basic.NextWeapon SkillDefinition]
+SkillName="NextWeapon"
+
+[Basic.Melee SkillDefinition]
+SkillName="Melee"
+
+[Basic.KeyboardReload SkillDefinition]
+SkillName="Reload"
+
+[Basic.Jump SkillDefinition]
+SkillName="Jump"
+
+[Basic.InjuredSuicide SkillDefinition]
+SkillName="Injured Suicide"
+
+[Basic.Grenade SkillDefinition]
+SkillName="Throw Grenade"
+
+[Basic.Fire SkillDefinition]
+SkillName="Fire"
+
+[Basic.ExitVehicle SkillDefinition]
+SkillName="ExitVehicle"
+
+[Basic.DriverFireTurretGun SkillDefinition]
+SkillName="DriverFireTurretGun"
+
+[Basic.DoubleTime:AttributePresentationDefinition_27 AttributePresentationDefinition]
+Description="Accuracy Penalty"
+
+[Basic.DoubleTime:AttributePresentationDefinition_26 AttributePresentationDefinition]
+Description="Foot Speed"
+
+[Basic.DoubleTime SkillDefinition]
+SkillName="Double Time"
+SkillDescription="SIMPLE SKILL:  Double tap 'Forward' to run. Accuracy is reduced while running. Bonus levels increase speed."
+
+[Basic.DoDuck SkillDefinition]
+SkillName="DoDuck"
+
+[Basic.Afterburner SkillDefinition]
+SkillName="Afterburner"
+
+[WeaponProficiencySkills.Skill_SniperRifleProficiency:AttributePresentationDefinition_23 AttributePresentationDefinition]
+Description="Rate of Fire"
+
+[WeaponProficiencySkills.Skill_ShotgunProficiency:AttributePresentationDefinition_20 AttributePresentationDefinition]
+Description="Rate of Fire"
+
+[WeaponProficiencySkills.Skill_ShotgunProficiency:AttributePresentationDefinition_19 AttributePresentationDefinition]
+Description="Reload Speed"
+
+[WeaponProficiencySkills.Skill_SMGProficiency SkillDefinition]
+SkillName="Submachine Gun Proficiency"
+SkillDescription="Increase your skill with the Submachine Gun through continued use. The higher your Submachine Gun proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_ShotgunProficiency:AttributePresentationDefinition_21 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_SMGProficiency:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Reload Speed"
+
+[WeaponProficiencySkills.Skill_EridanWeaponProficiency SkillDefinition]
+SkillName="Eridian Weapon Proficiency"
+SkillDescription="Increase your skill with Eridian Weapons through continued use. The higher your Eridian Weapon proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_CombatRifleProficiency:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Reload Speed"
+
+[WeaponProficiencySkills.Skill_CombatRifleProficiency:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_CombatRifleProficiency:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_SMGProficiency:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_PistolProficiency:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Accuracy"
+
+[WeaponProficiencySkills.Skill_PistolProficiency:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Reload Speed"
+
+[WeaponProficiencySkills.Skill_PistolProficiency:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_PistolProficiency SkillDefinition]
+SkillName="Pistol Proficiency"
+SkillDescription="Increase your skill with the pistol through continued use. The higher your pistol proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_SniperRifleProficiency SkillDefinition]
+SkillName="Sniper Rifle Proficiency"
+SkillDescription="Increase your skill with the Sniper Rifle through continued use. The higher your Sniper Rifle proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_RocketLauncherProficiency:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="Reload Speed"
+
+[WeaponProficiencySkills.Skill_RocketLauncherProficiency:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_RocketLauncherProficiency SkillDefinition]
+SkillName="Launcher Proficiency"
+SkillDescription="Increase your skill with Launchers through continued use. The higher your Launcher proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_PistolProficiency:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_SniperRifleProficiency:AttributePresentationDefinition_22 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_ShotgunProficiency:AttributePresentationDefinition_18 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_ShotgunProficiency SkillDefinition]
+SkillName="Shotgun Proficiency"
+SkillDescription="Increase your skill with the Shotgun through continued use. The higher your Shotgun proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[WeaponProficiencySkills.Skill_RocketLauncherProficiency:AttributePresentationDefinition_17 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_RocketLauncherProficiency:AttributePresentationDefinition_16 AttributePresentationDefinition]
+Description="Accuracy"
+
+[WeaponProficiencySkills.Skill_SMGProficiency:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_CombatRifleProficiency:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description="Accuracy"
+
+[WeaponProficiencySkills.Skill_CombatRifleProficiency SkillDefinition]
+SkillName="Combat Rifle Proficiency"
+SkillDescription="Increase your skill with the combat rifle through continued use. The higher your combat rifle proficiency the more damage you will do and the less encumbered you will be when using one."
+
+[Loyalty.VladofLoyalty:AttributePresentationDefinition_187 AttributePresentationDefinition]
+Description="Weapon Accuracy"
+
+[Loyalty.VladofLoyalty:AttributePresentationDefinition_186 AttributePresentationDefinition]
+Description="Weapon Reload Speed"
+
+[WeaponProficiencySkills.Skill_SMGProficiency:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Accuracy"
+
+[WeaponProficiencySkills.Skill_EridanWeaponProficiency:AttributePresentationDefinition_31 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+
+[WeaponProficiencySkills.Skill_EridanWeaponProficiency:AttributePresentationDefinition_30 AttributePresentationDefinition]
+Description="Accuracy"
+
+[WeaponProficiencySkills.Skill_EridanWeaponProficiency:AttributePresentationDefinition_29 AttributePresentationDefinition]
+Description="Cooldown Rate"
+
+[WeaponProficiencySkills.Skill_EridanWeaponProficiency:AttributePresentationDefinition_28 AttributePresentationDefinition]
+Description="Damage"
+
+[WeaponProficiencySkills.Skill_SniperRifleProficiency:AttributePresentationDefinition_24 AttributePresentationDefinition]
+Description="Stability"
+
+[WeaponProficiencySkills.Skill_SniperRifleProficiency:AttributePresentationDefinition_25 AttributePresentationDefinition]
+Description="Weapon Min Level Requirement"
+

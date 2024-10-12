@@ -1,0 +1,28 @@
+[dlgDlcOutpostNotInstalled]
+Caption=Downloadable Content
+Prompt=This game was saved in downloadable content that is not installed on this system.  You will begin in Fyrestone after the game loads.
+
+[dlgDlcOutpostNotInstalled360]
+Caption=Downloadable Content
+Prompt=This game was saved in downloadable content that is not installed on this console.  You will begin in Fyrestone after the game loads.
+
+[dlgNewDLCAvailable]
+Caption=Downloadable Content
+Prompt=The following new downloadable content is now available. Press Yes to view the Xbox LIVE Marketplace or No to go back to the main menu.
+MenuHeader=New downloadable content
+
+[vss]
+WeaponType=Vehicle Type
+
+[dlgManageDlc]
+Caption=Manage Content
+Prompt=Choose which downloadable content to remove.
+PromptNone=No downloadable content is installed.
+
+[dlgManageDlcSuccess]
+Caption=Manage Content
+Prompt=Downloadable content was removed successfully.
+
+[dlgManageDlcFailure]
+Caption=Manage Content
+Prompt=Error removing downloadable content. Please try again.

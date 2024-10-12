@@ -1,0 +1,203 @@
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[acc.acc1_Frantic WeaponPartDefinition]
+PartName=
+
+[acc.acc2 WeaponPartDefinition]
+PartName=
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=Stabilizer
+
+[acc.acc4_SandS_Draco WeaponPartDefinition]
+PartName=Draco
+
+[acc.acc4_SandS_Draco_Incendiary WeaponPartDefinition]
+PartName=Draco
+
+[acc.acc5_Atlas_Ogre_Explosive WeaponPartDefinition]
+PartName=Ogre
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Atlas"
+
+[Barrel.barrel4_Torgue_Bastard WeaponPartDefinition]
+PartName=Bastard
+
+[Title.TitleU_BSG_MugShot WeaponNamePartDefinition]
+PartName="Mug Shot"
+
+[Title.TitleU_BSG_MugShot:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Does your face hurt? It's killin'me..."
+
+[Title.TitleM_Hyperion_Destroyer WeaponNamePartDefinition]
+PartName="Destroyer"
+
+[Title.TitleM_Hyperion_Destroyer:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="The destructor has come"
+
+[Body.body1 WeaponPartDefinition]
+PartName="CR"
+
+[Body.body2 WeaponPartDefinition]
+PartName="HVY"
+
+[Body.body3_Tediore_Guardian WeaponPartDefinition]
+PartName=GRD
+
+[Body.body4_Tediore_Guardian WeaponPartDefinition]
+PartName="GRD"
+
+[Grip.grip5_Gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="S&S Munitions"
+
+[Body.body3 WeaponPartDefinition]
+PartName="TCH"
+
+[Body.body5 WeaponPartDefinition]
+PartName="AR"
+
+[Body.body4 WeaponPartDefinition]
+PartName="HLK"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Tediore"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Vladof"
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Torgue"
+
+[Prefix.Prefix_Damage1_Punishing WeaponNamePartDefinition]
+PartName="Punishing"
+
+[mag.mag2 WeaponPartDefinition]
+PartName=
+
+[Title.TitleM_Dahl_Raven:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="2 more bullets make all the difference"
+
+[Prefix.Prefix_LowDamage1_Short WeaponNamePartDefinition]
+PartName="Short"
+
+[mag.mag4 WeaponPartDefinition]
+PartName=
+
+[mag.mag5 WeaponPartDefinition]
+PartName=
+
+[mag.mag5_VladofRevolution WeaponPartDefinition]
+PartName=
+
+[Prefix.Prefix_Acc1_Frantic WeaponNamePartDefinition]
+PartName=Frantic
+
+[Sight.sight4:AttributePresentationDefinition_22 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+
+[Prefix.Prefix_Acc2_Intense WeaponNamePartDefinition]
+PartName="Intense"
+
+[Prefix.Prefix_Kick1_Glorious WeaponNamePartDefinition]
+PartName=Glorious
+
+[Sight.sight3:AttributePresentationDefinition_19 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+
+[Title.TitleU_Retail_Sentinel:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="A watchful eye"
+
+[Prefix.Prefix_Vladof_Kick1_Glorious WeaponNamePartDefinition]
+PartName=Glorious
+
+[acc.acc4_Deathly WeaponPartDefinition]
+PartName="Deathly"
+
+[Title.TitleM_Tediore_Guardian WeaponNamePartDefinition]
+PartName="Guardian"
+
+[Title.TitleM_Tediore_Guardian:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Hold your ground... Forever."
+
+[Title.TitleU_Retail_Sentinel WeaponNamePartDefinition]
+PartName="The Sentinel"
+
+[Prefix.Prefix_Mag2_Support WeaponNamePartDefinition]
+PartName="Support"
+
+[Prefix.Prefix_Technical WeaponNamePartDefinition]
+PartName="Technical"
+
+[Sight.sight2:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Sight.sight1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[A_Weapon.WeaponType_combat_rifle WeaponTypeDefinition]
+TypeName="Combat Rifle"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Title.Title_Damage1_Mauler WeaponNamePartDefinition]
+PartName=Mauler
+
+[Title.Title_Firerate1_Havoc WeaponNamePartDefinition]
+PartName=Havoc
+
+[Prefix.Prefix_Acc3_Deathly WeaponNamePartDefinition]
+PartName="Deathly"
+
+[Title.Title_Tediore_Guardian WeaponNamePartDefinition]
+PartName=Guardian
+
+[Title.Title_Vladof_Mag5_Revolution WeaponNamePartDefinition]
+PartName=Revolution
+
+[Title.TitleM_Atlas_Ogre WeaponNamePartDefinition]
+PartName=Ogre
+
+[Title.Title_Damage2_Stomper WeaponNamePartDefinition]
+PartName="Stomper"
+
+[Title.Title__Rifle WeaponNamePartDefinition]
+PartName="Rifle"
+
+[Title.Title_Mag1_Pounder WeaponNamePartDefinition]
+PartName="Pounder"
+
+[Title.Title_Accuracy1_Cobra WeaponNamePartDefinition]
+PartName="Cobra"
+
+[Sight.sight5:AttributePresentationDefinition_32 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+
+[Title.TitleM_Dahl_Raven WeaponNamePartDefinition]
+PartName="Raven"
+
+[Title.TitleM_Torgue_Bastard WeaponNamePartDefinition]
+PartName=Bastard
+
+[Title.TitleM_Torgue_Bastard:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description=
+NoConstraintText=TORGUE!  Bastard Guns for Bastard People!
+Suffix=
+
+[Title.TitleM_Vladof_Revolution WeaponNamePartDefinition]
+PartName=Revolution
+

@@ -1,0 +1,36 @@
+[ECID_Claptrap EchoCallerIDDefinition]
+CallerName="Claptrap"
+
+[ECID_DrTannis EchoCallerIDDefinition]
+CallerName="Patricia Tannis"
+
+[ECID_Earl EchoCallerIDDefinition]
+CallerName="Crazy Earl"
+
+[ECID_Flynt EchoCallerIDDefinition]
+CallerName="Baron Flynt"
+
+[ECID_FyrestoneSettler EchoCallerIDDefinition]
+CallerName="Fyrestone Settler"
+
+[ECID_Helena EchoCallerIDDefinition]
+CallerName="Helena Pierce"
+
+[ECID_Markus EchoCallerIDDefinition]
+CallerName="Marcus Kincaid"
+
+[ECID_Scooter EchoCallerIDDefinition]
+CallerName="Scooter"
+
+[ECID_Steele EchoCallerIDDefinition]
+CallerName="Commandant Steele"
+
+[ECID_TKBaha EchoCallerIDDefinition]
+CallerName="TK Baha"
+
+[ECID_VoG EchoCallerIDDefinition]
+CallerName="Guardian Angel"
+
+[ECID_Zed EchoCallerIDDefinition]
+CallerName="Dr. Zed"
+

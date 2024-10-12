@@ -1,0 +1,5 @@
+[Definitions.VSSVehicle_LightRunner VehicleSpawnStationVehicleDefinition]
+VehicleName="Rocket Launcher Runner"
+
+[Definitions.VSSVehicle_LightRunner_MG VehicleSpawnStationVehicleDefinition]
+VehicleName="Machine Gun Runner"

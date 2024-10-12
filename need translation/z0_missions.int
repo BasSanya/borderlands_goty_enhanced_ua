@@ -1,0 +1,429 @@
+[missions.m_accessstores MissionDefinition]
+MissionDescription="I thought I was a goner that time!  Damn bandits won't leave us alone. Had to lock the place up tight, and now the damn door won't open. Blasted circuits are on the fritz again.  Give it a go from the switch out there, would ya?"
+MissionGiver="Dr. Zed"
+MissionName="The Doctor Is In"
+MissionSummary="Open Building 03 in Fyrestone, and meet Dr. Zed."
+Objectives[0]=(ProgressMessage="Building 03 open:")
+Objectives[1]=(ProgressMessage="Dr. Zed talked to:")
+TurnInDescription="Thanks fer openin' her up again. Name's Zed. They still call me 'doctor', even though they don't let me cut on folks anymore. I keep the med vendors 'round here up and runnin'.  From the vendors you can buy all the healin' you could ever want from a real doc."
+
+[missions.m_backtozed MissionDefinition]
+MissionDescription="Head on back to Zed. Let him know you fixed the Catch-A-Ride and opened up the main road. He'll be happy to hear it. Squeeze him a little and I'm sure he'll cough up a little somethin' for your trouble. If he don't, tell him Scooter's gonna come out there and kick his quack ass."
+MissionGiver="Scooter"
+MissionName="Return To Zed"
+MissionSummary="Let Zed know the Catch-A-Ride is fixed."
+Objectives[0]=(ProgressMessage="Dr. Zed talked to:")
+TurnInDescription="Some of the locals heard you opened that barricade and hightailed it for New Haven. I wish them the best of luck, but the area is still crawlin' with bandits. Sledge is still out there, and just between you and me, I ain't goin' nowhere until I know for sure I won't end up danglin' from a pike."
+
+[missions.m_banditpresence1 MissionDefinition]
+MissionDescription="You've discovered a beat-up data recorder dropped by the bandits. The data is too garbled to be of any use, but there may be other recorders like this in Skag Gully. Search for additional evidence, and take any you find back to the bounty board in Fyrestone."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Why Are They Here?"
+MissionSummary="Find two more data recorders in Skag Gully."
+Objectives[0]=(ProgressMessage="1st Data Recorder:")
+Objectives[1]=(ProgressMessage="2nd Data Recorder:")
+TurnInDescription="Using data from the three recorders, you've managed to reconstruct a message. 'You slugs wanna join Sledge's tribe? Fine. Set up a camp in Skag Gully. I want those Fyrestoners pissing their pants.' It sounds like this 'Sledge' is the real threat."
+
+[missions.m_bloodonthetires MissionDefinition]
+MissionDescription="Scooter's lettin' you drive his Runners, huh? You know what's fun? Roadkillin'. Runnin' over every living thing that's stupid enough to wander in front of your grille. I bet you're squeamish, though. I bet good money you haven't got the guts to go roadkillin' yourself."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Get A Little Blood On The Tires"
+MissionSummary="Roadkill enemies with the Runner vehicle."
+Objectives[0]=(ProgressMessage="Roadkill:")
+TurnInDescription="Haha! That was worth every penny. Be careful, though. Scooter has no sense of humor. He revoked my Catch-A-Ride permit after I brought back one too many blood-soaked Runners."
+
+[missions.m_bountyboard MissionDefinition]
+MissionDescription="I think you're gonna make a real stir here on Pandora. If you're lookin' for more work, go check the bounty board and see what's available."
+MissionGiver="Dr. Zed"
+MissionName="Job Hunting"
+MissionSummary="Check the bounty board in Fyrestone for your next job."
+Objectives[0]=(ProgressMessage="Bounty Board checked:")
+TurnInDescription="You've found the bounty board. On it are posted jobs and missions that you can complete for rewards and payment. Come back and check the board occasionally, because new jobs are being posted all the time."
+
+[missions.m_buygrenades MissionDefinition]
+MissionDescription="Good news! I just heard Marcus reopened his weapon vendor in Fyrestone! Before you go after Nine-Toes, you gotta get yourself some grenades. I'm so happy you killed them skags that I'd just hand you some, but I don't have any left after my last fishin' trip. So, head over to Fyrestone and buy some grenades. Then come on back."
+MissionGiver="T.K. Baha"
+MissionName="Got Grenades?"
+MissionSummary="Buy at least one grenade, then return to T.K. Baha."
+Objectives[0]=(ProgressMessage="Grenade purchased:")
+TurnInDescription="Got a grenade or two? Great! That'll come in handy. Now you're ready to go to Skag Gully and shove one of 'em up Nine-Toes' ass!"
+
+[missions.m_buyshield MissionDefinition]
+MissionDescription="If you're planning to venture farther outside of Fyrestone, you're gonna need a shield. A shield forms an invisible barrier around you that absorbs incoming damage and keeps it from reaching you. It so happens that I've got them for sale in the med vendor here."
+MissionGiver="Dr. Zed"
+MissionName="Keep Your Insides Inside"
+MissionSummary="Buy a shield from the med vendor."
+Objectives[0]=(ProgressMessage="Shield purchased:")
+TurnInDescription="That ought to do it. Remember that shields aren't invincible. Damage weakens them, and once they're used up, you'll start getting hurt again. If you can avoid taking damage for a few seconds, the shield will recharge back to full power. Anyway, I've decided you're ready to start looking for Nine-Toes."
+
+[missions.m_circlemeatandgreet MissionDefinition]
+MissionDescription="Think you've got what it takes to be a gladiator? Enter the arena and put your life on the line for the amusement of our spectators and gamblers! Direct all enquiries to Rade Zayben, director of events."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Circle Of Death: Meat And Greet"
+MissionSummary="Talk to Rade Zayben."
+Objectives[0]=(ProgressMessage="Rade Zayben met:")
+TurnInDescription="Ah, fresh meat. Here's how it works.  You survive, you get paid.  Simple as that."
+
+[missions.m_circleofdeath01 MissionDefinition]
+MissionDescription="Get in there.  You live, you get paid.  You die, I get paid a lot more.  Either way, I win.  Oh, and if you're gonna die, at least try to put on a good show. Scream and spurt blood a lot, the crowd loves that."
+MissionGiver="Rade Zayben"
+MissionName="Circle Of Death: Round 1"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="You call that skill?  I saw a lot of luck in there.  Crowd seemed to enjoy it for some reason though.  Here's your cut.  You want another go, you let me know."
+
+[missions.m_circleofdeath02 MissionDefinition]
+MissionDescription="Back for more, eh? It's gonna be tougher this time. I don't expect a punk like you to last very long, but you understand the sequel has to up the ante."
+MissionGiver="Rade Zayben"
+MissionName="Circle Of Death: Round 2"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="Not bad.  Not as good as I was back in my day, but we can't all be superstars.  Well, I'm talking to you, so I guess I gotta pay you.  If you've got another round in you, you know where to find me."
+
+[missions.m_circleofdeath03 MissionDefinition]
+MissionDescription="No one has gone three rounds in the circle that ain't skag food right now.  You got the smell of skag food."
+MissionGiver="Rade Zayben"
+MissionName="Circle Of Death: Final Round"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="You kidding me?  No one should have survived that.  The crowd ain't looking for a hero.  They're looking to see someone die.  Take your money and beat it."
+
+[missions.m_claptraprescuelostcave MissionDefinition]
+MissionDescription="You've discovered yet another defunct Claptrap here. Doubtless, he wandered in here and was destroyed by the inhabitants of the cave. Perhaps there is a Repair Kit nearby?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: The Lost Cave"
+MissionSummary="Find the Repair Kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you, kind traveler! I can now return to my assigned duties. By the way, I found this. You look like you could use one of these!"
+
+[missions.m_claptraprescuesafehouse MissionDefinition]
+MissionDescription="You've discovered a defunct Claptrap here. It looks like the bandits were pretty rough on him. Perhaps there is a Repair Kit nearby?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Safe House"
+MissionSummary="Find the Repair Kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you, kind traveler! I can now return to my appointed tasks. By the way, I found this while sweeping out the storage bins. You look like you could use one of these!"
+
+[missions.m_exterminateskag MissionDefinition]
+MissionDescription="I did hear it! Damned skags gettin' into my food! Damn them all to hell! You! Whoever you are, I want you to go kill those rat-bastards! They just stole half my food stores! Go get my food back, then we'll talk after I ain't so pissed off."
+MissionGiver="T.K. Baha"
+MissionName="Nine-Toes: T.K.'s Food"
+MissionSummary="Recover the stolen food items and return to T.K. Baha."
+Objectives[0]=(ProgressMessage="Stolen Food:")
+TurnInDescription="Whoo! I enjoyed listening to that. Skag corpses hittin' the ground is like music to my ears. Brought my food back, did ya? Thank you, stranger. So, you're lookin' for Nine-Toes' hideout? It's over in Skag Gully. Seein' as you helped me with my skag problem, I'm happy to help you with your Nine-Toes problem!"
+
+[missions.m_fixhealthvending MissionDefinition]
+MissionDescription="If you're gonna head out of town, you need a shield. A shield forms an invisible barrier around you that absorbs damage. Normally, you'd buy one from the med vendor here, but this one took a bullet during the bandit raid. Fortunately, it just needs a new Power Coupling, and it so happens there's an old vendor we can use for parts. It's right outside of town, down the road east. Go grab the part, install it into the med vendor, and buy yourself a shield."
+MissionGiver="Dr. Zed"
+MissionName="Fix'er Upper"
+MissionSummary="Obtain a Power Coupling, repair the med vendor, and buy a shield."
+Objectives[0]=(ProgressMessage="Power Coupling:")
+Objectives[1]=(ProgressMessage="Med Vendor repaired:")
+Objectives[2]=(ProgressMessage="Shield purchased:")
+TurnInDescription="See? You don't need a PhD to do my job. I guess people just feel more comfortable with my honest face and bedside manner. Feel free to sell your items at the med vendor and buy some First Aid Kits for later."
+
+[missions.m_fixvss MissionDefinition]
+MissionDescription="Damned if the Catch-A-Ride station ain't totally busted. Diagnostics report the primary Digistruct Module is missing. Without it, that station won't do diddly. I'd hit up Bone Head and his gang. They got a camp just down the road a bit, tucked away next to Fyrestone. I bet those sons of bitches took it. Get the Digistruct Module back from them and reinstall it into this station."
+MissionGiver="Scooter"
+MissionName="Bone Head's Theft"
+MissionSummary="Get the Digistruct Module from Bone Head."
+Objectives[0]=(ProgressMessage="Bone Head killed:")
+Objectives[1]=(ProgressMessage="Digistruct Module:")
+TurnInDescription="See? It drops right in there. Any monkey can do it. Listen, thanks for savin' me all that trouble. I'm gonna set you up with an all-access Runner account. It'll keep you in a vehicle until my gratitude wears thin."
+
+[missions.m_gatherseeds MissionDefinition]
+MissionDescription="I'll only survive the winter if I can plant my crops soon enough, but I'm out of Bladeflower Seeds. I haven't been able to restock since I closed up Skag Gully. I used to get my seeds from the caves in there while I was hunting skag. Their vomit must make for amazing fertilizer.  Blasted smelly piss mongers apparently are good for something. If you're willing to risk your life and personal hygiene to give a blind man a hand, I'll reward you."
+MissionGiver="T.K. Baha"
+MissionName="By The Seeds Of Your Pants"
+MissionSummary="Gather Bladeflower Seeds and return to T.K. Baha."
+Objectives[0]=(ProgressMessage="Bladeflower Seeds:")
+TurnInDescription="I can't believe you waded through skag infested, vomit encrusted caves just so I won't starve in the coming season. That's right neighborly of you, and I want you to have this. Even better, come back in a few months, and I'll cook you some of my famous Bladeflower Stew!"
+
+[missions.m_getmylegback MissionDefinition]
+MissionDescription="I used to be a go-getter like you...till a skag named Scar bit my leg off. I stabbed him through the eye, but it didn't kill him! I had another go after Dr. Zed whipped up a replacement leg, but Scar got that one, too! Pulled the thing clean off, and I was barely able to drag myself home. Say, you mind getting my leg back from Scar?  If you kill him while you're at it, I got a special gift for you!"
+MissionGiver="T.K. Baha"
+MissionName="T.K.'s Life And Limb"
+MissionSummary="Kill Scar in Skag Gully and return T.K. Baha's Prosthetic Leg."
+Objectives[0]=(ProgressMessage="Scar killed:")
+Objectives[1]=(ProgressMessage="T.K. Baha's Leg:")
+TurnInDescription="Well I'll be the demon spawn of rakk's second cousin!  That's my old leg, all right. Whoo-ee! Didn't account for the stench, but I think I can make it work. Scar got what he deserved? Great! I surely appreciate you bringing this back to me. Thank you kindly."
+
+[missions.m_harvestcrystals_electrical MissionDefinition]
+MissionDescription="Shock Elemental Artifacts allow you to customize your skills with the power of lightning. The key component for such an artifact is the Shock Crystal. I can fashion an artifact for you, but you'll need to provide the crystals. Go to the Lost Cave and shoot the Crystal Clusters to break them apart. Watch out for the bandits that have taken over the cave."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Shock Crystal Harvest"
+MissionSummary="Harvest Shock Crystals in the Lost Cave."
+Objectives[0]=(ProgressMessage="Shock Crystals:")
+TurnInDescription="These crystals are perfect! Here's the artifact I promised. Enjoy your shocking new ability!"
+
+[missions.m_introstatesaver MissionDefinition]
+MissionDescription="A mysterious, disembodied woman spoke to you and told you to follow this little robot into town. That seems like the best course of action, for now."
+MissionGiver="Guardian Angel"
+MissionName="Fresh Off The Bus"
+MissionSummary="Follow Claptrap into Fyrestone."
+TurnInDescription="You followed Claptrap into Fyrestone, and soon found yourself in a firefight with the local bandits. If you can find a survivor, maybe he'll be able to help you on your way to finding the Vault."
+
+[missions.m_introstatesaver02 MissionDefinition]
+MissionDescription="A mysterious, disembodied woman spoke to you and told you to follow this little robot into town. That seems like the best course of action, for now."
+MissionGiver="Guardian Angel"
+MissionName="Fresh Off The Bus"
+MissionSummary="Follow Claptrap into Fyrestone."
+TurnInDescription="You followed Claptrap into Fyrestone, and soon found yourself in a firefight with the local bandits. If you can find a survivor, maybe he'll be able to help you on your way to finding the Vault."
+
+[missions.m_introstatesaver03 MissionDefinition]
+MissionDescription="A mysterious, disembodied woman spoke to you and told you to follow this little robot into town. That seems like the best course of action, for now."
+MissionGiver="Guardian Angel"
+MissionName="Fresh Off The Bus"
+MissionSummary="Follow Claptrap into Fyrestone."
+TurnInDescription="You followed Claptrap into Fyrestone, and soon found yourself in a firefight with the local bandits. If you can find a survivor, maybe he'll be able to help you on your way to finding the Vault."
+
+[missions.m_investigatevss MissionDefinition]
+MissionDescription="Hey, this here's Scooter. If there's anyone out around Fyrestone, I'd sure appreciate you givin' the Catch-A-Ride a try. It's just south of town and it ain't seen activity for months. I doubt it even works anymore, what with Nine-Toes and Sledge and all the other bandits on the rise."
+MissionGiver="Scooter"
+MissionName="Catch-A-Ride"
+MissionSummary="Find and use the Catch-A-Ride Station outside of Fyrestone."
+Objectives[0]=(ProgressMessage="Catch-A-Ride used:")
+TurnInDescription="Hey, stranger, pleased to meet ya. My name's Scooter. I run the Catch-A-Ride stations and maintain the Runners. Looks like I was right, this station is on the fritz. Lemme run the diagnostics program and see what's up."
+
+[missions.m_jumpthegap MissionDefinition]
+MissionDescription="Y'all got one last hurdle to escape Fyrestone. Sledge's bandits put up a gate across the main road. The controls are on the far side. To reach them controls, ya need get yourself a Runner from that there Catch-A-Ride, then drive up the ramp and jump the gully we call 'Piss Wash.'  Once you're over, attack 'em from behind and open that gate!"
+MissionGiver="Scooter"
+MissionName="The Piss Wash Hurdle"
+MissionSummary="Jump over Piss Wash gully and open the bandits' gate."
+Objectives[0]=(ProgressMessage="Runner driven:")
+Objectives[1]=(ProgressMessage="Piss Wash jumped:")
+Objectives[2]=(ProgressMessage="Gate switch found:")
+TurnInDescription="Sledge has been doin' everything he can to stop the travel between Fyrestone and New Haven. Now there's one less obstacle, at least. Folks can come and go the easy way."
+
+[missions.m_killbandits MissionDefinition]
+MissionDescription="Nine-Toes placed a few men at a small outpost outside of town, across the road and west. Those men report every move we make, so our next move should be to make them dead."
+MissionGiver="Dr. Zed"
+MissionName="Blinding Nine-Toes"
+MissionSummary="Kill bandits and return to Dr. Zed."
+Objectives[0]=(ProgressMessage="Bandits killed:")
+TurnInDescription="Well done, friend. Here's the bounty for those guys.  By the time Nine-Toes realizes we've taken out his eyes, we'll already be making our next move."
+
+[missions.m_killskags_zed MissionDefinition]
+MissionDescription="Outside of Fyrestone, just past the gate and across the road, you'll find several skag dens. A skag is a vicious four-legged creature, and they'll eat anything, including you. I wanna know if you can handle yourself in a fight against some of these beasts, so head on out there and kill some of 'em for me. If you're still in one piece, then c'mon back."
+MissionGiver="Dr. Zed"
+MissionName="Skags At The Gate"
+MissionSummary="Kill skags and return to Dr. Zed."
+Objectives[0]=(ProgressMessage="Skags killed:")
+TurnInDescription="I guess those skags didn't give you much trouble, eh? You clearly know how to handle a gun. That's good, real good. You're gonna need it, 'cause I've got somethin' else for you to help me with."
+
+[missions.m_killsledge1 MissionDefinition]
+MissionDescription="The note you found suggests that the Mine Gate Key can be found at Sledge's Safe House, to the north."
+MissionGiver="Shep Sanders"
+MissionName="Sledge: To The Safe House"
+MissionSummary="Obtain the Mine Gate Key and take it to Headstone Mine."
+Objectives[0]=(ProgressMessage="Mine Gate Key:")
+TurnInDescription="When the grisly 'key' is placed on the thumbprint scanner, the gate unlocks. Now that you can enter Headstone Mine, it's time to take the fight to Sledge."
+
+[missions.m_killsledge2 MissionDefinition]
+MissionDescription="It's time to push the attack! Infiltrate Headstone Mine and kill Sledge. If you get the chance, grab that Eridian Artifact of his. As Dr. Zed put it, nobody wants another bandit to find it and start another blood-fueled crusade for the Vault. If you manage to come out of this fight alive, head on back to Zed and let him know what happened."
+MissionGiver="Shep Sanders"
+MissionName="Sledge: Battle For The Badlands"
+MissionSummary="Kill Sledge and take his Eridian Artifact."
+Objectives[0]=(ProgressMessage="Sledge killed:")
+Objectives[1]=(ProgressMessage="Eridian Artifact:")
+TurnInDescription="I hardly believe you managed to take down Sledge! I'll put in the word to Helena, and I'm sure if I tell her your story, she'll give you the clearance you need to enter the Dahl Headlands."
+
+[missions.m_meetal MissionDefinition]
+MissionDescription="There's a reward for the death of Nine-Toes, but he's elusive. We don't really know where his hideout is. Talk to T.K. Baha at his farm south of Fyrestone. He's blind as a bat, but no one knows the area better than he does. Maybe he can help."
+MissionGiver="Dr. Zed"
+MissionName="Nine-Toes: Meet T.K. Baha"
+MissionSummary="Talk to T.K. Baha at T.K.'s Claim."
+Objectives[0]=(ProgressMessage="T.K. Baha met:")
+TurnInDescription="Who's there?! Oh, new kid in town, eh? The name's T.K. Baha. Wait! I think I heard somethin'..."
+
+[missions.m_meetshep MissionDefinition]
+MissionDescription="I think you're ready to go after Sledge now. You'll probably find him in the old Headstone Mine, but you can't just waltz in there. The place is locked down tight. If there's any way to get inside, Shep Sanders knows it. He was a foreman for Dahl until they pulled out and left him here. You'll find him near the crossroads, keeping an eye on the bandits."
+MissionGiver="Dr. Zed"
+MissionName="Sledge: Meet Shep"
+MissionSummary="Talk to Shep Sanders near the crossroads."
+Objectives[0]=(ProgressMessage="Shep Sanders met:")
+TurnInDescription="Hello, friend. The name's Shep Sanders. I oversee the operation of Zephyr Substation and Headstone Mine. Well, that's what I did before Dahl pulled out and the bandits moved in."
+
+[missions.m_missingtools MissionDefinition]
+MissionDescription="I just got a call from my good buddy, T.K. Baha. You met him, right? Blind as a bat in heat, and twice as looney. He'll watch your back in a fight, though. Just make sure you yell a lot so's he knows where you're standin'. Anyway, he called me, but he didn't say nothin'. That coot never calls unless he's got a reason, y'know? Would you go check on him? Make sure a skag didn't eat his other leg or somethin'."
+MissionGiver="Scooter"
+MissionName="Is T.K. O.K.?"
+MissionSummary="Check on T.K. Baha for Scooter."
+Objectives[0]=(ProgressMessage="T.K. checked on:")
+TurnInDescription="T.K.'s dead?! Man, that asshole never returned those tools he borrowed, neither! Well, thanks for checkin' on him. Here's some money for your trouble, and by 'trouble', I mean you're gonna be in charge of the funeral. It sure as hell ain't gonna be me! Me and the boys'll raise our glasses in his name tonight."
+
+[missions.m_moemarley MissionDefinition]
+MissionDescription="Rumors speak of Moe and Marley, two of the toughest skags to ever walk Pandora. I want their skulls mounted on my wall, but I'm too busy to go track them down myself. Instead, I'm offering to pay anyone to find them and take them down."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="The Legend Of Moe and Marley"
+MissionSummary="Kill Moe and Marley."
+Objectives[0]=(ProgressMessage="Moe killed:")
+Objectives[1]=(ProgressMessage="Marley killed:")
+TurnInDescription="The rumors were true?! Outstanding! By accepting this payment, you agree that I get to take all credit for killing these monsters. The ladies of Sanctuary will be so impressed!"
+
+[missions.m_mothrak MissionDefinition]
+MissionDescription="Over in the Arid Badlands, just east of Shine Gravel Processor, people have been disappearing in the night. Some say they're being carried away by a monster rakk, one the locals call 'Mothrakk.' She seems to be attracted to fire, and that's how we're going to lure her out. Light the three torches I've set up, and when she shows up, you take her down!"
+MissionGiver="New Haven Bounty Board"
+MissionName="Like A Moth To Flame"
+MissionSummary="Light the torches and kill Mothrakk."
+Objectives[0]=(ProgressMessage="1st Torch lit:")
+Objectives[1]=(ProgressMessage="2nd Torch lit:")
+Objectives[2]=(ProgressMessage="3rd Torch lit:")
+Objectives[3]=(ProgressMessage="Mothrakk killed:")
+TurnInDescription="Well done! That was the most amazing battle I've ever seen! Man against monster! There were a couple times when I thought you were a goner, but you pulled it off! Enjoy your reward!"
+
+[missions.m_ninetoesgetreward MissionDefinition]
+MissionDescription="Good job killin' Nine-Toes, but I sure as hell ain't gonna pay you for it. You'll want to go back to Zed in Fyrestone. He oughta have a big ol' payday for you, seein' as you did his dirty work and saved his ass."
+MissionGiver="T.K. Baha"
+MissionName="Nine-Toes: Time To Collect"
+MissionSummary="Go to Dr. Zed in Fyrestone and collect your reward."
+Objectives[0]=(ProgressMessage="Returned to Zed:")
+TurnInDescription="You did Fyrestone a great service by eliminating Nine-Toes, and this reward is well-deserved. Unfortunately, he was just a cog in the machine. The real problem is his boss, Sledge."
+
+[missions.m_opengatetoskag MissionDefinition]
+MissionDescription="Nine-Toes is in Skag Gully, but I barricaded the nearest entrance when the skags started actin' up. I rigged it with explosives, just in case I ever wanted to get back in. 'Always plan ahead,' I say! Once you're in, look for my wife's grave. It so happens that I stashed one of her favorite guns behind the grave marker. Use it to kill Nine-Toes. She would've wanted it that way."
+MissionGiver="T.K. Baha"
+MissionName="Nine-Toes: Take Him Down"
+MissionSummary="Destroy the barricade, enter Skag Gully, and kill Nine-Toes."
+Objectives[0]=(ProgressMessage="Barricade destroyed:")
+Objectives[1]=(ProgressMessage="Gun stash found:")
+Objectives[2]=(ProgressMessage="Nine-Toes killed:")
+TurnInDescription="Huh? Who's there?! Oh, it's you again. So you actually pulled it off! Nine-Toes is dead. That'll piss off his boss Sledge for sure. Oh, if only my wife were here now. If only I could remember her name. So lonely..."
+
+[missions.m_owedmoneydebt MissionDefinition]
+MissionDescription="In the journal, Bruce described a scam where he gathered local plant leaves, rolled them into cigars, then sold them to bandits while claiming they were prized offworld tobacco. With the money, he'd hoped to marry his fiancee and take her away from Pandora. Apparently, his first customer immediately died of massive internal bleeding, and the bandits forced Bruce to use his own product as payback. You'd better round up these cigars before some kid gets hold of one and smokes it in a back alley. The journal mentions that Bruce's customers were primarily the bandits around Titan's End."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Product Recall"
+MissionSummary="Collect Bruce's Boxes Of Cigars near Titan's End."
+Objectives[0]=(ProgressMessage="Box Of Cigars:")
+TurnInDescription="Bruce is dead? That idiot! We could've made a life together here, somehow. Instead, he threw it all away on a stupid scam! Oh well, it's not like there aren't plenty of available men around. I'll get by. Thank goodness you took those poisonous cigars off the market!"
+
+[missions.m_owedmoneyinvestigate MissionDefinition]
+MissionDescription="Can anyone help me? I haven't heard from my fiance in weeks. His name is Bruce McClane, and he lives in a shack out near Zephyr Substation. Last I saw him, he was bragging about how rich he was about to become, and how he was gonna buy us a flight off this planet. Whatever he was up to, I bet it got him into trouble. Please, someone, find my fiance."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Find Bruce McClane"
+MissionSummary="Find Bruce McClane."
+Objectives[0]=(ProgressMessage="Bruce McClane found:")
+TurnInDescription="Bruce McClane is dead, just as his fiancee feared. You found a handwritten journal on his corpse. Perhaps it will shed some light on how he met his end."
+
+[missions.m_rakkdebris MissionDefinition]
+MissionDescription="All of the wind turbines are functioning, except for the one in Howling Defile. For some reason, the rakk always flock over that one, so the whole thing is covered in rakk droppings. The turbine blades won't even turn! I'm offering a cash reward to anyone who goes out and shoots all that crap off."
+MissionGiver="Shep Sanders"
+MissionName="What Hit The Fan"
+MissionSummary="Shoot the rakk droppings off of the wind turbine in Howling Defile."
+Objectives[0]=(ProgressMessage="Droppings removed:")
+TurnInDescription="The Howling Defile wind turbine is spinning again, thanks to you. Here's your reward."
+
+[missions.m_rakkmenace MissionDefinition]
+MissionDescription="There's a flock of rakk that keep flying around the wind turbines at Zephyr Substation. The bandits may have control of the turbines for now, but I plan to take them back, and in the meantime, I don't need rakk flying into the blades and damaging the equipment. So, I'm willing to pay you to eliminate the entire flock of rakk."
+MissionGiver="Shep Sanders"
+MissionName="Get The Flock Outta Here"
+MissionSummary="Kill rakk, then return to Shep Sanders."
+Objectives[0]=(ProgressMessage="Rakk killed:")
+TurnInDescription="Nice shooting! Hopefully, there won't be any further damage to the turbines."
+
+[missions.m_recoverlostdata_1 MissionDefinition]
+MissionDescription="This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in the Arid Badlands, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Hidden Journal: The Arid Badlands"
+MissionSummary="Download 5 Log Entries from Data Recorders in the Arid Badlands."
+Objectives[0]=(ProgressMessage="Journal Day 1:")
+Objectives[1]=(ProgressMessage="Journal Day 43:")
+Objectives[2]=(ProgressMessage="Journal Day 76:")
+Objectives[3]=(ProgressMessage="Journal Day 119:")
+Objectives[4]=(ProgressMessage="Journal Day 172:")
+TurnInDescription="Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal."
+
+[missions.m_refugeetwowrongs MissionDefinition]
+MissionDescription="Shawn's cousin will be devastated to hear about this. It seems that this 'Reaver' character needs to be taught a little respect for his elders. If he joined Krom's men, he'll probably be found in Krom's Canyon. Find him, and mete out some old fashioned discipline. Then, return to New Haven and report what happened."
+MissionGiver="New Haven Bounty Board"
+MissionName="Two Wrongs Make A Right"
+MissionSummary="Eliminate Reaver and report back to New Haven."
+Objectives[0]=(ProgressMessage="Reaver killed:")
+TurnInDescription="Jed joined the bandits, took the name 'Reaver', then murdered his own father? Then you killed Jed? Well, that's a lot more horrible than I'd imagined. I'm in shock, I think. Here's your payment, with a little extra for going above and beyond what I asked for. I guess it's all for the best, but please, never contact me again."
+
+[missions.m_repairclaptrap_02 MissionDefinition]
+MissionDescription="Claptrap has been shot by the bandits, but the damage looks minor. Perform a quick diagnostic, then see if you can find a Repair Kit somewhere in Fyrestone. You might be able to revive him."
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue"
+MissionSummary="Perform a diagnostic on Claptrap, then find the Repair Kit and repair him."
+Objectives[0]=(ProgressMessage="Diagnostic performed:")
+Objectives[1]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Once you've tightened a few screws, replaced some burnt wiring, and judiciously applied a little duct tape, Claptrap is rolling once again."
+
+[missions.m_saboteur MissionDefinition]
+MissionDescription="This here's a job for anyone who thinks they got a pair that clank. Everyone knows how the bandits overran Headstone Mine. They've been sellin' iridium on the black market. I don't know who's buyin' it, but screw 'em. Anything fundin' bandits needs to stop. I tried blowing the emergency valves on the main line, but they chased me out before the job was done. I need someone to get in there, finish connecting the fuses, then blow them up. Any takers?"
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Schemin' That Sabotage"
+MissionSummary="Infiltrate the Headstone Mine, place the fuses, and use the detonator."
+Objectives[0]=(ProgressMessage="Fuse A placed:")
+Objectives[1]=(ProgressMessage="Fuse B placed:")
+Objectives[2]=(ProgressMessage="Fuse C placed:")
+Objectives[3]=(ProgressMessage="Pipeline Destroyed:")
+TurnInDescription="Great work! Without a steady flow of cash, those bandit bastards won't be able to afford their weapons much longer. Maybe that'll keep 'em off my back and outta Fyrestone."
+
+[missions.m_scavenger1 MissionDefinition]
+MissionDescription="I was working on a custom rifle.  I didn't want the bandits to get a hold of my design so I dismantled it and scattered the components around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Stock, Sight, and Barrel."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Scavenger: Combat Rifle"
+MissionSummary="Find all of the combat rifle parts."
+Objectives[0]=(ProgressMessage="Combat Rifle Body:")
+Objectives[1]=(ProgressMessage="Combat Rifle Stock:")
+Objectives[2]=(ProgressMessage="Combat Rifle Sight:")
+Objectives[3]=(ProgressMessage="Combat Rifle Barrel:")
+TurnInDescription="She's a beauty, isn't she?  I'm just glad those bandits didn't get a hold of it.  Why don't you hang on to it.  A nice new combat rifle could come in handy, right?"
+
+[missions.m_scavenger2 MissionDefinition]
+MissionDescription="I used to hunt skags from the east ridge near the mine.  I was working on a new sniper rifle so I could really take 'em down.  I never quite finished and had to stash the parts around so the bandits wouldn't find 'em.  If you retrieve the pieces its all yours.  I need the Stock, Body, Sight, and Barrel."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Scavenger: Sniper Rifle"
+MissionSummary="Find all of the sniper rifle parts."
+Objectives[0]=(ProgressMessage="Sniper Rifle Body:")
+Objectives[1]=(ProgressMessage="Sniper Rifle Stock:")
+Objectives[2]=(ProgressMessage="Sniper Rifle Sight:")
+Objectives[3]=(ProgressMessage="Sniper Rifle Barrel:")
+TurnInDescription="You found 'em!  Here you go.  Its ready for action.  Enjoy!"
+
+[missions.m_substationkey MissionDefinition]
+MissionDescription="You want to kick Sledge out of Headstone Mine, huh? Good for you. I think you're crazy, but I'll give you a hand. You need the key. Last I checked, there was one down in the Zephyr Substation office. Of course, the bandits aren't going to make it easy for you."
+MissionGiver="Shep Sanders"
+MissionName="Sledge: The Mine Key"
+MissionSummary="Go to Zephyr Substation and get the Mine Key."
+Objectives[0]=(ProgressMessage="Mine Gate Key:")
+TurnInDescription="Instead of a key, you've found a note that was left in its place. Years of accumulated dust suggest that the key won't be returned anytime soon. You'll need to look for it elsewhere."
+
+[missions.m_theskulls MissionDefinition]
+MissionDescription="The bandits took over my dig site in the Arid Badlands. Members of my team attempted to defend themselves, but they were failures and now the bandits have hung up their skulls like trophies. This is unsanitary and inappropriate for an archeological dig site. I will pay someone to go to Titan's End and remove their skulls from the pikes."
+MissionGiver="Fyrestone Bounty Board"
+MissionName="Insult To Injury"
+MissionSummary="Remove the human skulls from the pikes at Titan's End."
+Objectives[0]=(ProgressMessage="Skulls removed:")
+TurnInDescription="Have the bandits stopped displaying skulls as trophies? Good. The last replacement team I hired immediately quit in fear. It's good to know that my next team won't be aware of the danger, and will continue to do their work for me."
+
+[missions.m_tkhasmorework MissionDefinition]
+MissionDescription="Hey, stranger! If you're still alive, I've got some more work for you! Come see me and I'll fill you in."
+MissionGiver="T.K. Baha"
+MissionName="T.K. Has More Work"
+MissionSummary="Go see T.K. Baha."
+Objectives[0]=(ProgressMessage="T.K. Baha visited:")
+TurnInDescription="Glad you could stop by! I don't get hardly any visitors since my wife died. I think you're actually my best friend! Well, friend, I've got another job for someone with your talents."
+
+[missions.m_traveltonh MissionDefinition]
+MissionDescription="Pierce agreed to bump up your clearance level. She wants you to go to New Haven and meet with her. So, drive west to the Dahl Headland gate, and speak with the Claptrap robot there. He'll let you through. When you get past the gate, talk with Ernest Whitting on the other side. He knows the Headland better than anyone, and can bring you up to speed."
+MissionGiver="Dr. Zed"
+MissionName="Leaving Fyrestone"
+MissionSummary="Travel to the Dahl Headland and speak with Ernest Whitting."
+Objectives[0]=(ProgressMessage="Claptrap talked to:")
+Objectives[1]=(ProgressMessage="Ernest found:")
+TurnInDescription="You showed up just in the nick of time. The bandits have regrouped behind some character named Mad Mel. He's apparently got it in for whoever kacked Sledge. Would that be you?"
+
+[missions.m_windturbine_activate MissionDefinition]
+MissionDescription="During one of their first raids, the bandits took over Zephyr Substation and set the emergency brakes on all the wind turbines. They tried to ransom the region's power supply, but Helena Pierce refused to negotiate. We've been running off generator power ever since. Since you're on some sort of anti-bandit crusade anyway, why not release those brakes and turn the power back on? There'll be a reward for your trouble."
+MissionGiver="Shep Sanders"
+MissionName="Braking Wind"
+MissionSummary="Release the emergency Turbine Brakes at Zephyr Substation."
+Objectives[0]=(ProgressMessage="Turbine Brake A released:")
+Objectives[1]=(ProgressMessage="Turbine Brake B released:")
+Objectives[2]=(ProgressMessage="Turbine Brake C released:")
+TurnInDescription="The power grid's back online, such as it is. Now, I need you to go activate all the air conditioners. Just kidding! Dahl seized those right about the same time they built the turbines. Some sort of 'green' initiative, I guess. Crazy, if you ask me.There's nothing green on this entire planet!"
+

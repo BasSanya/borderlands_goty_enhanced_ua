@@ -1,0 +1,5 @@
+[DamageType.DmgType_Explosive:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Chance to cause explosions"
+NoConstraintText=""
+Suffix=""
+

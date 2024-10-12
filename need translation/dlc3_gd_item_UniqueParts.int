@@ -1,0 +1,43 @@
+[Shield.body3_Pangolin_Ironclad ItemPartDefinition]
+PartName="OC"
+
+[Shield.body4_Anshin_Rose ItemPartDefinition]
+PartName="AWE"
+
+[Shield.body4_Atlas_Omega ItemPartDefinition]
+PartName="OO"
+
+[Skills.Skill_Anshin_Rose_Health SkillDefinition]
+SkillName="HealingRose"
+SkillDescription="Heals the player when his shield is depleted"
+LockedSkillDetailStr="<Locked>"
+
+[Skills.Skill_Anshin_Rose_Health:Behavior_AttributeEffect_1.SkillDefinition_112 SkillDefinition]
+SkillName=""
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Title.Title_P_Anshin_Rose ItemNamePartDefinition]
+PartName="Rose"
+
+[Title.Title_P_Anshin_Rose:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Beauty and Life"
+Suffix=""
+
+[Title.Title_P_Pangolin_Ironclad ItemNamePartDefinition]
+PartName="Ironclad"
+
+[Title.Title_P_Pangolin_Ironclad:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description=""
+NoConstraintText="I stand unvanquished!"
+Suffix=""
+
+[Title.Title_U_Atlas_Omega ItemNamePartDefinition]
+PartName="Omega"
+
+[Title.Title_U_Atlas_Omega:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description=""
+NoConstraintText="The Alpha and that other thing."
+Suffix=""
+

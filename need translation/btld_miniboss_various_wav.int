@@ -1,0 +1,20 @@
+[nar_echo_banditvehicleboss_156 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do you think this is?  Your personal playground?  Nobody passes through here without paying the toll... and the toll is DEATH!",Time=0.000000)
+
+[nar_echo_banditvehicleboss_159 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aaaaaaarrrggg!",Time=0.000000)
+
+[nar_echo_banditvehicleboss_158 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="God damnit!  You're not going to like dealing with me.  I promise you that.",Time=0.000000)
+
+[nar_echo_banditvehicleboss_157 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="God damn useless... Get out there! KILL THEM!!!!!",Time=0.000000)
+

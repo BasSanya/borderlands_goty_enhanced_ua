@@ -1,0 +1,3 @@
+[Turret.Pawn_Balance_Scorpio_Corrosive AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Corrosive Scorpio"))
+

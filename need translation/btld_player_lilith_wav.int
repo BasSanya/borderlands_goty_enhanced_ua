@@ -1,0 +1,535 @@
+[bd_response_needammo_lilith_71b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need to find some ammo.",Time=0.000000)
+
+[bd_response_elitekill_lilith_31 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Amateurs.",Time=0.000000)
+
+[bd_response_duellose_lilith_94a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hmph, whatever.",Time=0.000000)
+
+[bd_action_approachchest_lilith_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hm, what could be in here?",Time=0.000000)
+
+[bd_action_heal_lilith_99b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health!",Time=0.000000)
+
+[bd_response_needammo_lilith_70b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No ammo.",Time=0.000000)
+
+[bd_response_elitekill_lilith_28 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How disappointing, I didn't even break a sweat.",Time=0.000000)
+
+[bd_response_duellose_lilith_96a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was a surprise.",Time=0.000000)
+
+[bd_action_openchest_lilith_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Look at all this stuff!",Time=0.000000)
+
+[bd_response_needammo_lilith_71a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need to find some ammo.",Time=0.000000)
+
+[bd_action_heal_lilith_97a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see a health vial.",Time=0.000000)
+
+[bd_response_elitekill_lilith_29 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was barely worth it.",Time=0.000000)
+
+[bd_action_heal_lilith_99a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health!",Time=0.000000)
+
+[bd_response_idle_lilith_62 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, great view or whatever.  Let's move, please.",Time=0.000000)
+
+[bd_action_duelstart_lilith_87a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanna fight?  Don't worry, I'll make this quick.",Time=0.000000)
+
+[bd_action_duelstart_lilith_85b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe I'll even let you get a shot in!",Time=0.000000)
+
+[bd_action_approachchest_lilith_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hope this chest's worth it.",Time=0.000000)
+
+[bd_response_needammo_lilith_68a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great... out of ammo.",Time=0.000000)
+
+[bd_response_duelget_lilith_88b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, this should be entertaining.",Time=0.000000)
+
+[bd_response_levelup_lilith_24b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I just keep getting better!",Time=0.000000)
+
+[bd_response_needammo_lilith_72a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Used all my ammo!",Time=0.000000)
+
+[bd_response_elitekill_lilith_30 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's it?",Time=0.000000)
+
+[bd_action_swapseat_lilith_49 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Could you be any worse?  Swap with me!",Time=0.000000)
+
+[bd_action_duelstart_lilith_87b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanna fight?  Don't worry, I'll make this quick.",Time=0.000000)
+
+[bd_response_duelget_lilith_90b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Me?  Fight you?  Do you like pain?",Time=0.000000)
+
+[bd_response_raredrop_lilith_101a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is amazing!",Time=0.000000)
+
+[bd_response_duelwin_lilith_91a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You didn't have a chance.",Time=0.000000)
+
+[bd_action_duelstart_lilith_86b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think you can take me?",Time=0.000000)
+
+[bd_response_duellose_lilith_94b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hmph, whatever.",Time=0.000000)
+
+[bd_response_joincoop_lilith_64b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ever seen a siren in action?  Here's your chance.",Time=0.000000)
+
+[bd_response_idle_lilith_63 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Can we go now?",Time=0.000000)
+
+[bd_action_swapseat_lilith_48 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Swap with me!  We won't survive with you there!",Time=0.000000)
+
+[bd_action_openchest_lilith_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hope I'm lucky...",Time=0.000000)
+
+[bd_action_skillkill_lilith_81 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Easy.  Next!",Time=0.000000)
+
+[bd_response_joincoop_lilith_64a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ever seen a siren in action?  Here's your chance.",Time=0.000000)
+
+[bd_response_joincoop_lilith_65a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="With me around, you might actually get somewhere.",Time=0.000000)
+
+[bd_response_raredrop_lilith_102a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I've never seen anything like this!",Time=0.000000)
+
+[bd_action_heal_lilith_97b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see a health vial.",Time=0.000000)
+
+[bd_action_reviveteam_lilith_74a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't make me have to do this again!",Time=0.000000)
+
+[bd_action_heal_lilith_100a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyone need health?",Time=0.000000)
+
+[bd_response_needammo_lilith_70a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No ammo.",Time=0.000000)
+
+[bd_response_death_lilith_122 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_needammo_lilith_67a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damnit!  Out of ammo!",Time=0.000000)
+
+[bd_response_raredrop_lilith_103b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now this is loot!",Time=0.000000)
+
+[bd_response_needammo_lilith_68b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great... out of ammo.",Time=0.000000)
+
+[bd_action_approachchest_lilith_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I found a chest!",Time=0.000000)
+
+[bd_response_raredrop_lilith_102b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I've never seen anything like this!",Time=0.000000)
+
+[bd_response_criticalshot_lilith_51 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm really good at this!",Time=0.000000)
+
+[bd_action_approachchest_lilith_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got some loot here.",Time=0.000000)
+
+[bd_action_usevss_lilith_34b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's get out of here.",Time=0.000000)
+
+[bd_response_duelget_lilith_89a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sure.  I'll close my eyes to make it fair.",Time=0.000000)
+
+[bd_response_idle_lilith_61 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't have time to just stand here.",Time=0.000000)
+
+[bd_response_duelget_lilith_89b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sure.  I'll close my eyes to make it fair.",Time=0.000000)
+
+[bd_response_duelwin_lilith_92b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What a waste of my time.",Time=0.000000)
+
+[bd_action_skillkill_lilith_82 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Who's next?",Time=0.000000)
+
+[bd_action_openchest_lilith_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The loots be mine!",Time=0.000000)
+
+[bd_response_duelwin_lilith_93b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Practice more.",Time=0.000000)
+
+[bd_response_duellose_lilith_96b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was a surprise.",Time=0.000000)
+
+[bd_response_criticalshot_lilith_52 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw... did that hurt?",Time=0.000000)
+
+[bd_response_raredrop_lilith_103a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now this is loot!",Time=0.000000)
+
+[bd_response_levelup_lilith_24a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I just keep getting better!",Time=0.000000)
+
+[bd_action_openchest_lilith_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mine, mine, aaaand mine!",Time=0.000000)
+
+[bd_action_heal_lilith_100b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyone need health?",Time=0.000000)
+
+[bd_action_heal_lilith_98a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I found some health!",Time=0.000000)
+
+[bd_response_duellose_lilith_95a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When did you get skills?",Time=0.000000)
+
+[bd_response_joincoop_lilith_65b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="With me around, you might actually get somewhere.",Time=0.000000)
+
+[bd_response_joincoop_lilith_66a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like you could use some help.",Time=0.000000)
+
+[bd_response_elitekill_lilith_27 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, it acted tough.",Time=0.000000)
+
+[bd_response_joincoop_lilith_66b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like you could use some help.",Time=0.000000)
+
+[bd_response_criticalshot_lilith_53 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes!  Feel it!",Time=0.000000)
+
+[bd_action_skillkill_lilith_79a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is that all you've got?",Time=0.000000)
+
+[bd_response_needammo_lilith_67b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damnit!  Out of ammo!",Time=0.000000)
+
+[bd_action_approachchest_lilith_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see a chest!",Time=0.000000)
+
+[bd_response_needammo_lilith_72b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Used all my ammo!",Time=0.000000)
+
+[bd_response_needammo_lilith_69a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cover me - out of ammo!",Time=0.000000)
+
+[bd_action_openchest_lilith_8 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More loot?  Don't mind if I do!",Time=0.000000)
+
+[bd_action_duelstart_lilith_85a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe I'll even let you get a shot in!",Time=0.000000)
+
+[bd_action_heal_lilith_98b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I found some health!",Time=0.000000)
+
+[bd_response_death_lilith_121 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_raredrop_lilith_101b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is amazing!",Time=0.000000)
+
+[bd_action_reviveteam_lilith_73b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enjoying your break?  Get up!",Time=0.000000)
+
+[bd_response_duellose_lilith_95b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When did you get skills?",Time=0.000000)
+
+[bd_action_reviveteam_lilith_75 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pay more attention next time!",Time=0.000000)
+
+[bd_action_usevss_lilith_34a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's get out of here.",Time=0.000000)
+
+[bd_response_duelwin_lilith_92a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What a waste of my time.",Time=0.000000)
+
+[bd_response_levelup_lilith_23a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is there no end to my power?",Time=0.000000)
+
+[bd_action_swapseat_lilith_50 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Switch seats with me!",Time=0.000000)
+
+[bd_action_reviveteam_lilith_73a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enjoying your break?  Get up!",Time=0.000000)
+
+[bd_response_levelup_lilith_23b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is there no end to my power?",Time=0.000000)
+
+[bd_action_approachchest_lilith_3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot over here.",Time=0.000000)
+
+[bd_action_openchest_lilith_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's see what we've got.",Time=0.000000)
+
+[bd_response_elitekill_lilith_26 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wait - that was it?  It's dead?",Time=0.000000)
+
+[bd_response_levelup_lilith_25 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Getting stronger by the minute!",Time=0.000000)
+
+[bd_response_duelwin_lilith_91b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You didn't have a chance.",Time=0.000000)
+
+[bd_action_skillkill_lilith_84 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Keep 'em comin'!",Time=0.000000)
+
+[bd_action_skillkill_lilith_79b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is that all you've got?",Time=0.000000)
+
+[bd_action_reviveteam_lilith_74b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't make me have to do this again!",Time=0.000000)
+
+[bd_action_approachchest_lilith_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohhh... a chest!  Wonder what it's got for me.",Time=0.000000)
+
+[bd_action_duelstart_lilith_86a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think you can take me?",Time=0.000000)
+
+[bd_action_usevss_lilith_32 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enough walking!",Time=0.000000)
+
+[bd_action_skillkill_lilith_83 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another down!",Time=0.000000)
+
+[bd_response_duelget_lilith_88a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, this should be entertaining.",Time=0.000000)
+
+[bd_response_duelget_lilith_90a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Me?  Fight you?  Do you like pain?",Time=0.000000)
+
+[bd_response_duelwin_lilith_93a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Practice more.",Time=0.000000)
+
+[bd_response_death_lilith_120 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_needammo_lilith_69b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cover me - out of ammo!",Time=0.000000)
+
+[bd_action_usevss_lilith_33 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's get some wheels.",Time=0.000000)
+

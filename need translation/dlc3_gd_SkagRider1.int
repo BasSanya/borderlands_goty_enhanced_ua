@@ -1,0 +1,9 @@
+[SkagMount1.PopOpDen.Pawn_Balance_Rider1 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=)
+
+[SkagMount1.PopOpDen.Pawn_Balance_RiderOff AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Skag Rider"))
+
+[SkagMount1.PopOpDen.Pawn_Balance_RiderOff2 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Raider"))
+

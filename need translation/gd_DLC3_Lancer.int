@@ -1,0 +1,64 @@
+[Definitions.Text_BlastSeatEnterPrompt LocalizedStringDefinition]
+Text="<StringAliasMap:blast_bar> ENTER BLAST SEAT"
+
+[Definitions.Text_MineSeatEnterPrompt LocalizedStringDefinition]
+Text="<StringAliasMap:blast_bar> ENTER MINE SEAT"
+
+[VehicleArchetype.DLC3_lancer:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[VehicleArchetype.DLC3_Lancer_Enemy:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Weapon_AoEBlast.WeaponType_AoEBlast WeaponTypeDefinition]
+TypeName="Heavy Vehicle Mine Layer"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_FrontMG.WeaponType_LancerFrontMG WeaponTypeDefinition]
+TypeName="Light Vehicle Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_Laser_Cannon.WeaponType_Laser_Cannon WeaponTypeDefinition]
+TypeName="Light Vehicle Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_MineLayer.WeaponType_MineLayer WeaponTypeDefinition]
+TypeName="Heavy Vehicle Mine Layer"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretGrenadeLauncher.WeaponType_LancerTurretGrenadeLauncher WeaponTypeDefinition]
+TypeName="Light Vehicle Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretRailgun.WeaponType_LancerTurretRailgun WeaponTypeDefinition]
+TypeName="Railgun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

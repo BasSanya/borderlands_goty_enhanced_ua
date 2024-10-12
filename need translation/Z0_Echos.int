@@ -1,0 +1,216 @@
+[ClapTrap.Z0E_Badass EchoCallDefinition]
+Subject="Badasses"
+
+[ClapTrap.Z0E_CorrosiveWeapons EchoCallDefinition]
+Subject="Corrosive Weapons"
+
+[ClapTrap.Z0E_EnemyLevels EchoCallDefinition]
+Subject="Enemy Status Display"
+
+[ClapTrap.Z0E_ExplosiveWeapons EchoCallDefinition]
+Subject="Explosive Weapons"
+
+[ClapTrap.Z0E_GrenadeMods EchoCallDefinition]
+Subject="Grenade Mods"
+
+[ClapTrap.Z0E_IncendiaryWeapons EchoCallDefinition]
+Subject="Incendiary Weapons"
+
+[ClapTrap.Z0E_IntroFakeEcho EchoCallDefinition]
+Subject=""
+
+[ClapTrap.Z0E_MoreMissionsFyrestone EchoCallDefinition]
+Subject="Fyrestone Bounty Board"
+
+[ClapTrap.Z0E_MoreMissionsGroaning EchoCallDefinition]
+Subject="Groaning Hollow Bounty Board"
+
+[ClapTrap.Z0E_MoreMissionsShep EchoCallDefinition]
+Subject="Shep Has More Missions"
+
+[ClapTrap.Z0E_MoreMissionsZed EchoCallDefinition]
+Subject="Dr. Zed Has More Missions"
+
+[ClapTrap.Z0E_Revolver EchoCallDefinition]
+Subject="Revolvers"
+
+[ClapTrap.Z0E_ShockWeapons EchoCallDefinition]
+Subject="Shock Weapons"
+
+[ClapTrap.Z0E_StorageDeckUpgrade EchoCallDefinition]
+Subject="Storage Deck Upgrade"
+
+[Flynt.Z0E_KilledMyMan EchoCallDefinition]
+Subject="You Killed My Man"
+
+[Helena.Z0E_GuideToFirestone EchoCallDefinition]
+Subject="Guide To Fyrestone"
+
+[Helena.Z0E_IntroducingHelena EchoCallDefinition]
+Subject="Introducing Helena"
+
+[Helena.Z0E_RoadToNewHaven EchoCallDefinition]
+Subject="The Road To New Haven Is Open"
+
+[Helena.Z0E_TannisBelieves EchoCallDefinition]
+Subject="Tannis Believes It's Real"
+
+[Helena.Z0E_VaultIsAMyth EchoCallDefinition]
+Subject="The Vault is a Myth"
+
+[Helena.Z0E_VaultIsReal EchoCallDefinition]
+Subject="The Vault is Real?"
+
+[Markus.Z0E_IntroducingMarkus EchoCallDefinition]
+Subject="Introducing Marcus"
+
+[Markus.Z0E_OpeningFyrestone EchoCallDefinition]
+Subject="Fyrestone Store Open"
+
+[Markus.Z0E_TannisOpportunity EchoCallDefinition]
+Subject="Tannis Brings Opportunity"
+
+[Markus.Z0E_VaultRumorsProfit EchoCallDefinition]
+Subject="Vault Rumors Mean Profit"
+
+[Scooter.Z0E_IntroducingScooter EchoCallDefinition]
+Subject="Introducing Scooter"
+
+[Scooter.Z0E_JumpedPissWash EchoCallDefinition]
+Subject="That Was Awesome!"
+
+[Scooter.Z0E_SummonedVehicle EchoCallDefinition]
+Subject="That Runner's A Beaut'"
+
+[Scooter.Z0E_TakeALookAtVSS EchoCallDefinition]
+Subject="Check Out The Catch-A-Ride"
+
+[Steele.Z0E_IntroducingSteele EchoCallDefinition]
+Subject="Introducing Steele"
+
+[Steele.Z0E_NotfoolingAnyone EchoCallDefinition]
+Subject="You're Not Fooling Anyone"
+
+[Tannis.Z0E_INeedYourSupport EchoCallDefinition]
+Subject="I Need Your Support"
+
+[Tannis.Z0E_IntroducingTannis EchoCallDefinition]
+Subject="Introducing Tannis"
+
+[TKBaha.Z0E_KillNineToes EchoCallDefinition]
+Subject="I Heard That!"
+
+[VoG.Z0E_Claptrap_Down EchoCallDefinition]
+Subject="Give Him A Hand"
+
+[VoG.Z0E_Claptrap_GotBetter EchoCallDefinition]
+Subject="He Seems To Be Okay"
+
+[VoG.Z0E_EstablishingTalk01 EchoCallDefinition]
+Subject="A Moment Of Your Time"
+
+[VoG.Z0E_EstablishingTalk02 EchoCallDefinition]
+Subject="You're On Your Way"
+
+[VoG.Z0E_FirstRealChallenge EchoCallDefinition]
+Subject="Your First Real Challenge"
+
+[VoG.Z0E_FirstStepComplete EchoCallDefinition]
+Subject="Completed Your First Step"
+
+[VoG.Z0E_GenericPraise01 EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_GenericPraise02 EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_GetOffTheBus EchoCallDefinition]
+Subject="Get Off The Bus"
+
+[VoG.Z0E_HelpingDrZed EchoCallDefinition]
+Subject="Help Dr. Zed"
+
+[VoG.Z0E_HopefulKillSteele EchoCallDefinition]
+Subject="Sledge Has Something We Need"
+
+[VoG.Z0E_IAmHopeful EchoCallDefinition]
+Subject="Don't Be Alarmed"
+
+[VoG.Z0E_OnYourWay EchoCallDefinition]
+Subject="You're Well On Your Way"
+
+[VoG.Z0E_Sledge_Approach EchoCallDefinition]
+Subject="This One Is A Brute"
+
+[VoG.Z0E_Sledge_FirstKey EchoCallDefinition]
+Subject="First Piece Of The Key"
+
+[VoG.Z0E_Sledge_GotKey EchoCallDefinition]
+Subject="Nothing Stands In Your Way"
+
+[VoG.Z0E_Sledge_GotMission EchoCallDefinition]
+Subject="Sledge Has Something We Need"
+
+[VoG.Z0E_Sledge_OpenedMine EchoCallDefinition]
+Subject="A Real Challenge"
+
+[VoG.Z0E_Sledge_ShieldDown EchoCallDefinition]
+Subject="His Shield Is Down!"
+
+[VoG.Z0E_SoHappy EchoCallDefinition]
+Subject="I'm So Happy"
+
+[VoG.Z0E_VenturingOut EchoCallDefinition]
+Subject="Venturing Out?"
+
+[VoG.Z0E_VeryHappy EchoCallDefinition]
+Subject="I'm Very Happy"
+
+[VoG.Z0E_VoG_FyrestoneCustom01 EchoCallDefinition]
+Subject="I Knew You Were The Right Choice"
+
+[VoG.Z0E_VoG_GenericAffirmation EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericContact EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericEncourage EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericPrompt EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericResponse EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericStatement EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_VoG_GenericView EchoCallDefinition]
+Subject=""
+
+[VoG.Z0E_WellDone EchoCallDefinition]
+Subject="The Robot Needs Our Help"
+
+[VoG.Z0E_Wonderful EchoCallDefinition]
+Subject="Think Of Me As Your Guardian Angel"
+
+[VoG.Z0E_YouWon EchoCallDefinition]
+Subject="You Won!"
+
+[Zed.Z0E_ComeOnBack EchoCallDefinition]
+Subject="Come On Back"
+
+[Zed.Z0E_IntroducingZed EchoCallDefinition]
+Subject="Introducing Zed"
+
+[Zed.Z0E_LetMeOut EchoCallDefinition]
+Subject="Let Me Out"
+
+[Zed.Z0E_ThatOughtToDoIt EchoCallDefinition]
+Subject="That Ought To Do It"
+
+[Zed.Z0E_UnderNineToesSkin EchoCallDefinition]
+Subject="Under Nine-Toes Skin"
+

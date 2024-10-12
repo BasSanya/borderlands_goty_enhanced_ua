@@ -1,0 +1,10 @@
+[Skills.PayAdmission SkillDefinition]
+SkillName=""
+SkillDescription="Takes the money for admission if you have enough"
+LockedSkillDetailStr="<Locked>"
+
+[Skills.VehicleRadarOverlay SkillDefinition]
+SkillName="Vehicle Radar Overlay"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+

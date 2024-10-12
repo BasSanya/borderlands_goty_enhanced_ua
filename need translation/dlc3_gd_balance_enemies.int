@@ -1,0 +1,216 @@
+[Bandits.Named.Pawn_Balance_MotorHead AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Motor Head"))
+
+[Bandits.Pawn_Balance_dlc3_Elite AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Desperado"))
+
+[Bandits.Pawn_Balance_dlc3_Elite_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Desperado"))
+
+[Bandits.Pawn_Balance_dlc3_Grunt_Basic AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Outlaw"))
+
+[Bandits.Pawn_Balance_dlc3_Grunt_Driver AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Outlaw"))
+
+[Bandits.Pawn_Balance_dlc3_Grunt_Gunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Killer"))
+
+[Bandits.Pawn_Balance_dlc3_Heavy_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Bruiser"))
+
+[Bandits.Pawn_Balance_dlc3_Psycho AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Psycho"))
+
+[Bandits.Pawn_Balance_dlc3_Psycho_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Psycho"))
+
+[Bandits.Pawn_Balanced_dlc3_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bruiser"))
+
+[CrabWorms.Pawn_Balance_CrawMaggot AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Craw Maggot"))
+
+[CrabWorms.Pawn_Balance_Crawmerax AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crawmerax the Invincible"))
+
+[CrabWorms.Pawn_Balance_dlc3_CrabWorm AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Armored Craw Worm"))
+
+[CrabWorms.Pawn_Balance_dlc3_GreenWorm AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Green Craw Worm"))
+
+[CrimsonLance.Named.Pawn_Balance_Ajax AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Ajax"))
+
+[CrimsonLance.Named.Pawn_Balance_CLAssassinNamed1 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Vulcana"))
+
+[CrimsonLance.Named.Pawn_Balance_CLAssassinNamed2 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Hera"))
+
+[CrimsonLance.Named.Pawn_Balance_CLAssassinNamed3 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Minerva"))
+
+[CrimsonLance.Named.Pawn_Balance_CLAssassinNamed4 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Ceresia"))
+
+[CrimsonLance.Named.Pawn_Balance_CLAssassinNamed5 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Helicon"))
+
+[CrimsonLance.Named.Pawn_Balance_Knoxx AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="General Knoxx"))
+
+[CrimsonLance.Named.Pawn_Balance_Kyros AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Commander Kyros"))
+
+[CrimsonLance.Named.Pawn_Balance_Typhon AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Commander Typhon"))
+
+[CrimsonLance.Pawn_Balance_BadassDevastator AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Devastator"))
+
+[CrimsonLance.Pawn_Balance_CLAssassin AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Assassin"))
+
+[CrimsonLance.Pawn_Balance_CLAssassinBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Lance Assassin"))
+
+[CrimsonLance.Pawn_Balance_CLBadassArmor AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Lance Armor"))
+
+[CrimsonLance.Pawn_Balance_CLBadassRocketeer AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Rocketeer"))
+
+[CrimsonLance.Pawn_Balance_CLCorrosive AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Chemical Trooper"))
+
+[CrimsonLance.Pawn_Balance_CLCorrosiveBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Chemical Trooper"))
+
+[CrimsonLance.Pawn_Balance_CLDefender AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Defender"))
+
+[CrimsonLance.Pawn_Balance_CLDefenderBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Defender"))
+
+[CrimsonLance.Pawn_Balance_CLDriver AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Infantry"))
+
+[CrimsonLance.Pawn_Balance_CLEngineer AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Engineer"))
+
+[CrimsonLance.Pawn_Balance_CLEngineerBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Engineer"))
+
+[CrimsonLance.Pawn_Balance_CLFire AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Pyro"))
+
+[CrimsonLance.Pawn_Balance_CLFireBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Pyro"))
+
+[CrimsonLance.Pawn_Balance_CLInfantry AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Infantry"))
+
+[CrimsonLance.Pawn_Balance_CLInfantryBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Infantry"))
+
+[CrimsonLance.Pawn_Balance_CLMedic AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Combat Medic"))
+
+[CrimsonLance.Pawn_Balance_CLProbe AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Probe"))
+
+[CrimsonLance.Pawn_Balance_CLRocketeer AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Rocketeer"))
+
+[CrimsonLance.Pawn_Balance_CLRoyalGuard AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Royal Guard"))
+
+[CrimsonLance.Pawn_Balance_CLShock AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Shock Trooper"))
+
+[CrimsonLance.Pawn_Balance_CLShockBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Trooper"))
+
+[CrimsonLance.Pawn_Balance_Devastator AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Devastator"))
+
+[Drifters.Named.Pawn_Balance_Named1 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName=" Skyscraper "))
+
+[Drifters.Pawn_Balance_BadassDrifter AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Drifter"))
+
+[Drifters.Pawn_Balance_Drifter AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Drifter"))
+
+[Midgets.Named.Pawn_Balance_DumpsterDiver AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Dumpster Diver"))
+
+[Midgets.Named.Pawn_Balance_MeatPop AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Meat Popsicle"))
+
+[Midgets.Named.Pawn_Balance_MidgetLance AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crimson Shorty"))
+
+[Midgets.Named.Pawn_Balance_MiniSteve AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mini Steve"))
+
+[Midgets.Named.Pawn_Balance_TWrestler AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Truxican Wrestler"))
+
+[Midgets.Pawn_Balance_Midget_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Midget"))
+
+[Midgets.Pawn_Balance_Midget_Raider AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Raider"))
+
+[Midgets.Pawn_Balance_Midget_Ravager AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Ravager"))
+
+[Midgets.Pawn_Balance_Midget_Rustler AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Rustler"))
+
+[Midgets.Pawn_Balance_Midget_Shotgunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+
+[Prisoners.Named.Pawn_Balance_Chaz AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Chaz"))
+
+[Prisoners.Named.Pawn_Balance_Shank AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Shank"))
+
+[Prisoners.Pawn_Balance_dlc3_Badass_Thug AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Thug"))
+
+[Prisoners.Pawn_Balance_dlc3_Banger AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Banger"))
+
+[Prisoners.Pawn_Balance_dlc3_Enforcer AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Enforcer"))
+
+[Prisoners.Pawn_Balance_dlc3_Punk AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Punk"))
+
+[SkagRiders.Pawn_Balance_Delete AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Rider 1"))
+
+[SkagRiders.Pawn_Balance_SkagRider3Rider AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Skag Rapparee"))
+
+[SkagRiders.Pawn_Balance_SkagRiderAxe AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Skag Raider"))
+
+[SkagRiders.Pawn_Balance_SkagRiderBadass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Skag Rider"))
+
+[SkagRiders.Pawn_Balance_SkagRiderGrenade AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Skag Ravager"))
+
+[SkagRiders.Pawn_Balance_SkagRiderSword AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Skag Rustler"))
+
+[Skags.Pawn_Balance_SkagAlpha AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Wild Alpha Skag"))
+

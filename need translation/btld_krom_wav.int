@@ -1,0 +1,285 @@
+[bd_response_death_krom_38a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_krom_1a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know why you're here.  You're a lap dog for that Tannis bitch, and she sent you here to take back her little trinket.  Is it really worth throwing your life away?",Time=0.000000)
+
+[bd_response_goredeath_krom_40d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_krom_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You shouldn't of come here, merc!  You're gonna be nothin' but a burned mark on the ground when I'm done!",Time=0.000000)
+
+[bd_response_goredeath_krom_39d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_krom_3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well look what the Skag dragged in!  Let's see what you got, runt!",Time=0.000000)
+
+[bd_response_death_krom_37a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_krom_39g SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntcombat_krom_10b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come and get me!",Time=0.000000)
+
+[bd_response_minionskilled_krom_24 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna blow you away!",Time=0.000000)
+
+[bd_action_tauntcombat_krom_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's about time a worthy opponent challenged me!",Time=0.000000)
+
+[bd_action_tauntcombat_krom_10a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come and get me!",Time=0.000000)
+
+[bd_response_goredeath_krom_40b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_krom_38f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_turretdamage_krom_17 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's no way to win, merc!",Time=0.000000)
+
+[bd_response_minionskilled_krom_21 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm not as easy to kill as my men!",Time=0.000000)
+
+[bd_response_minionskilled_krom_22 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nobody kills my men but me!",Time=0.000000)
+
+[bd_action_tauntcombat_krom_8 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="None may challenge Krom!",Time=0.000000)
+
+[bd_action_tauntapproach_krom_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna kill you first, and then that bitch that sent you!",Time=0.000000)
+
+[bd_response_minionskilled_krom_23a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna pay for that!",Time=0.000000)
+
+[bd_response_switchweapon_krom_31 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try this on for size!",Time=0.000000)
+
+[bd_response_death_krom_38d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_krom_39b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_switchweapon_krom_35 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Eat this!",Time=0.000000)
+
+[bd_response_switchweapon_krom_32 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got somethin' else for ya!",Time=0.000000)
+
+[bd_action_minionsattack_krom_11b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get 'em!  Get 'em!",Time=0.000000)
+
+[bd_response_goredeath_krom_39f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_minionsattack_krom_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy them!  Destroy them, and leave nothing left!  Ain't Nothin!  Nothin!",Time=0.000000)
+
+[bd_response_death_krom_37d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_turretdamage_krom_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not good enough to kill me!",Time=0.000000)
+
+[bd_action_tauntcombat_krom_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's no way to win, merc!",Time=0.000000)
+
+[bd_action_minionsattack_krom_11a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get 'em!  Get 'em!",Time=0.000000)
+
+[bd_action_minionsattack_krom_14 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions!  Attack!",Time=0.000000)
+
+[bd_response_turretdamage_krom_16 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not quite close enough, merc!",Time=0.000000)
+
+[bd_response_death_krom_36 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I hated this shithole planet anyway. (Death rattle)",Time=0.000000)
+
+[bd_action_minionsattack_krom_15 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do I keep you around for?  Shoot 'em!",Time=0.000000)
+
+[bd_response_turretdamage_krom_19 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm through messing around with you now you're going down!",Time=0.000000)
+
+[bd_action_tauntcombat_krom_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Time to show you how we do things on Pandora!",Time=0.000000)
+
+[bd_action_minionsattack_krom_13a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't just stand there - shoot!",Time=0.000000)
+
+[bd_action_tauntapproach_krom_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're really going through with this, are you?  Bring it on!",Time=0.000000)
+
+[bd_response_goredeath_krom_39a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_turretdamage_krom_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Give it up - you're gonna die!",Time=0.000000)
+
+[bd_response_death_krom_38c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_krom_40a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_krom_38e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_krom_1b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know why you're here.  You're a lap dog for that Tannis bitch, and she sent you here to take back her little trinket.  Is it really worth throwing your life away?",Time=0.000000)
+
+[bd_response_death_krom_37c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_krom_38b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_krom_37b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_minionskilled_krom_25 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What are you waiting for - kill him!",Time=0.000000)
+
+[bd_action_minionsattack_krom_13b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't just stand there - shoot!",Time=0.000000)
+
+[bd_response_minionskilled_krom_23b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna pay for that!",Time=0.000000)
+
+[bd_response_goredeath_krom_39c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_switchweapon_krom_34 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's more than one way to skin a merc!",Time=0.000000)
+
+[bd_response_goredeath_krom_40c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_krom_39e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_switchweapon_krom_33 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Suck on this!",Time=0.000000)
+

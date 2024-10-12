@@ -1,0 +1,220 @@
+[Lookups.RegistrationStationLookup:AqueductEncampment TeleportOutpostLookupObject]
+OutpostDisplayName="Aqueduct Encampment"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:AridHillsEntrance TeleportOutpostLookupObject]
+OutpostDisplayName="Arid Hills"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:AridMine TeleportOutpostLookupObject]
+OutpostDisplayName="Headstone Mine"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Bunker TeleportOutpostLookupObject]
+OutpostDisplayName="Sledge's Safe House"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:BunkerEntrance TeleportOutpostLookupObject]
+OutpostDisplayName="Arid Hills"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:cauldren TeleportOutpostLookupObject]
+OutpostDisplayName="The Cauldron"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Crimson TeleportOutpostLookupObject]
+OutpostDisplayName="Crimson Enclave"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:CrimsonLanceBunker TeleportOutpostLookupObject]
+OutpostDisplayName="Crimson Fastness"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Descent1 TeleportOutpostLookupObject]
+OutpostDisplayName="The Descent"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Digsite TeleportOutpostLookupObject]
+OutpostDisplayName="Eridian Promontory"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:DryEntranceSave TeleportOutpostLookupObject]
+OutpostDisplayName="The Arid Hills"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:EntranceToSkagGully TeleportOutpostLookupObject]
+OutpostDisplayName="Entrance To Skag Gully"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Firestone TeleportOutpostLookupObject]
+OutpostDisplayName="Fyrestone"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:HeadlandElectricalStation TeleportOutpostLookupObject]
+OutpostDisplayName="Dahl Headland Electrical Station"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Interlude1Entrance TeleportOutpostLookupObject]
+OutpostDisplayName="The Outeryard"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Interlude2Cave TeleportOutpostLookupObject]
+OutpostDisplayName="The Back Door"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:KCanyon TeleportOutpostLookupObject]
+OutpostDisplayName="Krom's Canyon"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Lucky'sLastChanceWateringHole TeleportOutpostLookupObject]
+OutpostDisplayName="Lucky's Last Chance Watering Hole"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:LudicrousSpeedway TeleportOutpostLookupObject]
+OutpostDisplayName="Ludicrous Speedway"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:MiddleofNoWhere TeleportOutpostLookupObject]
+OutpostDisplayName="Middle of Nowhere"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:midpoint TeleportOutpostLookupObject]
+OutpostDisplayName="Crimson Fastness Midpoint"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:MineEntrance TeleportOutpostLookupObject]
+OutpostDisplayName=""
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:NewHaven TeleportOutpostLookupObject]
+OutpostDisplayName="New Haven"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Oasis TeleportOutpostLookupObject]
+OutpostDisplayName="Oasis"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:OasisCheckpoint TeleportOutpostLookupObject]
+OutpostDisplayName="Oasis Midpoint"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:OldHavenEntrance TeleportOutpostLookupObject]
+OutpostDisplayName="Old Haven"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:PirateBay TeleportOutpostLookupObject]
+OutpostDisplayName="Treacher's Landing"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:PitArena TeleportOutpostLookupObject]
+OutpostDisplayName="Fyrestone Coliseum"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:RuinsArena TeleportOutpostLookupObject]
+OutpostDisplayName="The Devil's Footstool"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:SaltFlats TeleportOutpostLookupObject]
+OutpostDisplayName="The Salt Flats"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:ScrapGate TeleportOutpostLookupObject]
+OutpostDisplayName="The Salt Flats"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Scraple TeleportOutpostLookupObject]
+OutpostDisplayName="Scraple"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:ScrapMidpoint TeleportOutpostLookupObject]
+OutpostDisplayName="The Salt Flats Gate"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:ScrapOverlook TeleportOutpostLookupObject]
+OutpostDisplayName="The Trashy Knoll"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Scrapyard TeleportOutpostLookupObject]
+OutpostDisplayName="Crazy Earl's Scrapyard"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:SewerArena TeleportOutpostLookupObject]
+OutpostDisplayName="The Cesspool"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:ShantyTown TeleportOutpostLookupObject]
+OutpostDisplayName="Devil's Gate Hill"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:SkagGully TeleportOutpostLookupObject]
+OutpostDisplayName="Skag Gully"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:SkullBandit TeleportOutpostLookupObject]
+OutpostDisplayName="Titan's End"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TetanusWarren TeleportOutpostLookupObject]
+OutpostDisplayName="Tetanus Warrens"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TetanusWarrensEntrance TeleportOutpostLookupObject]
+OutpostDisplayName="Tetanus Warrens Entrance"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TheCesspool TeleportOutpostLookupObject]
+OutpostDisplayName="The Cesspool"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TheLostCave TeleportOutpostLookupObject]
+OutpostDisplayName="The Lost Cave"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TheUnderpass TeleportOutpostLookupObject]
+OutpostDisplayName="The Underpass"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TheVault TeleportOutpostLookupObject]
+OutpostDisplayName="The Vault"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Thor TeleportOutpostLookupObject]
+OutpostDisplayName="Thor"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Thor_Cave TeleportOutpostLookupObject]
+OutpostDisplayName="Thor Cave"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Thor_CrimsonEnclave TeleportOutpostLookupObject]
+OutpostDisplayName=""
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Thor_Digtown TeleportOutpostLookupObject]
+OutpostDisplayName="Thor Digtown"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Thor_TheDescent TeleportOutpostLookupObject]
+OutpostDisplayName="The Descent"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TrashCoast TeleportOutpostLookupObject]
+OutpostDisplayName="Trash Coast"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TrashEntranceNorth TeleportOutpostLookupObject]
+OutpostDisplayName="The Underpass - East"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:TrashEntranceSouth TeleportOutpostLookupObject]
+OutpostDisplayName="South Drawbridge"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:Tunnel TeleportOutpostLookupObject]
+OutpostDisplayName="Groaning Hollow"
+OutpostDescription="No Description"
+
+[Lookups.RegistrationStationLookup:UpperSeeps TeleportOutpostLookupObject]
+OutpostDisplayName="UpperSeeps"
+OutpostDescription="No Description"
+

@@ -1,0 +1,11 @@
+[Turret.Weapon.WeaponType_BlasterTurret_Gatling WeaponTypeDefinition]
+TypeName="Blaster Turret Gatling Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[PopOpDen.Pawn_Balance_Turret AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=)
+

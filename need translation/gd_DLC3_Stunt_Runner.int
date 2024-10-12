@@ -1,0 +1,42 @@
+[VehicleArchetype.DLC3_Stunt_Runner_Rockets:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[VehicleArchetype.LightRunner_MG:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Weapon_FrontMG.WeaponType_RunnerFrontMG WeaponTypeDefinition]
+TypeName="Light Vehicle Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretFlameThrower.WeaponType_RunnerTurretFlameThrower WeaponTypeDefinition]
+TypeName="Light Vehicle Flame Thrower"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretMG.WeaponType_RunnerTurretMG WeaponTypeDefinition]
+TypeName="Light Vehicle Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretRocketLauncher.WeaponType_RunnerTurretRocketLauncher WeaponTypeDefinition]
+TypeName="Light Vehicle Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

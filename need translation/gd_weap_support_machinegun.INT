@@ -1,0 +1,78 @@
+[Prefix.Prefix_Damage1_Shattering WeaponNamePartDefinition]
+PartName="Shattering"
+
+[Prefix.Prefix_Quality1_Support WeaponNamePartDefinition]
+PartName="Support"
+
+[acc.acc4_SandS_Draco_Incendiary WeaponPartDefinition]
+PartName="Draco"
+
+[acc.acc5_Atlas_Ogre_Explosive WeaponPartDefinition]
+PartName="Ogre"
+
+[Prefix.Prefix_Kick1_Glorious WeaponNamePartDefinition]
+PartName="Glorious"
+
+[Prefix.Prefix_Quality2_Heavy WeaponNamePartDefinition]
+PartName="Heavy"
+
+[Title.TitleM_Torgue_Bastard:AttributePresentationDefinition_2 AttributePresentationDefinition]
+NoConstraintText="TORGUE!  Bastard Guns for Bastard People!"
+
+[Title.TitleM_Vladof_Revolution WeaponNamePartDefinition]
+PartName="Revolution"
+
+[Title.TitleM_Vladof_Revolution:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Guns of the Revolution will never fall silent!"
+
+[Title.TitleU_JaynisKobb_TheMeatGrinder:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="War is in your blood"
+
+[Prefix.Prefix_AccuracyLow1_Rowdy WeaponNamePartDefinition]
+PartName="Rowdy"
+
+[Prefix.Prefix_Quality0_Light WeaponNamePartDefinition]
+PartName="Light"
+
+[Barrel.barrel4_Torgue_Bastard WeaponPartDefinition]
+PartName="Bastard"
+
+[Prefix.Prefix_Acc1_Frantic WeaponNamePartDefinition]
+PartName="Frantic"
+
+[Title.TitleU_JaynisKobb_TheMeatGrinder WeaponNamePartDefinition]
+PartName="The Meat Grinder"
+
+[Title.TitleM_SandS_Draco:AttributePresentationDefinition_3 AttributePresentationDefinition]
+NoConstraintText="Dragon Fire!"
+
+[Title.Title_Accuracy1_Massacre WeaponNamePartDefinition]
+PartName="Massacre"
+
+[Title.Title_Damage1_Mauler WeaponNamePartDefinition]
+PartName="Mauler"
+
+[Title.TitleM_Atlas_Ogre:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Ogre SMASH!"
+
+[Title.TitleM_Torgue_Bastard WeaponNamePartDefinition]
+PartName="Bastard"
+
+[Title.TitleM_SandS_Draco WeaponNamePartDefinition]
+PartName="Draco"
+
+[Title.Title_Firerate1_Havoc WeaponNamePartDefinition]
+PartName="Havoc"
+
+[Prefix.Prefix_Quality3_Max WeaponNamePartDefinition]
+PartName="Max"
+
+[Title.Title__MachineGun WeaponNamePartDefinition]
+PartName="Machine Gun"
+
+[A_Weapon.WeaponType_support_machinegun WeaponTypeDefinition]
+TypeName="Support Machine Gun"
+
+[Title.TitleM_Atlas_Ogre WeaponNamePartDefinition]
+PartName="Ogre"
+

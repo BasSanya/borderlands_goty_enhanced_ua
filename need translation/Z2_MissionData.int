@@ -1,0 +1,132 @@
+[ItemDefs.ID_AlienKey ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_AlienKey:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="This thing has certainly caused its share of trouble."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_LanceBunker ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_LanceBunker:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Has all the cable ties and duct tape you need to get Claptrap rolling again."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_Thor ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_Thor:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's got what Claptraps crave."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_GuardianLeftArm ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Guardian Arm"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_GuardianRightArm ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Guardian Arm"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LancerWheel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Lancer Wheel"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_PuppyMeat ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Skrappy Meat"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Z2_Crystal_Explosive01 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Explosive Crystal"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.Zone2_CanBeans_ID ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Beans"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.Zone2_CanCarrots_ID ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Carrots"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.Zone2_CanCoffee_ID ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Coffee"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.Zone2_CanPeaches_ID ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Peaches"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.Zone2_CanYeast_ID ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Yeast"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

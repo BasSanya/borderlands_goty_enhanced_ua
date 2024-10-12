@@ -1,0 +1,16 @@
+[LeftSide.LeftSide_Level1 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level1:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level2 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level2:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+

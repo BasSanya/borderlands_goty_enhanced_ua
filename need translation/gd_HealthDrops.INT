@@ -1,0 +1,103 @@
+[A_Item.HealthVial_2:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description="Quickly regain 40 health."
+
+[A_Item.HealthPack_5:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Regain 500 health over 10 seconds."
+
+[A_Item.HealthPack_5:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Can be carried in your Storage Deck."
+
+[A_Item.HealthPack_2 ItemDefinition]
+ItemName="Light Healing Kit"
+UseFailureConstraintsMessage="You can't use this right now!"
+
+[A_Item.HealthVial_2 ItemDefinition]
+ItemName="Light Insta-Health Vial"
+UseFailureConstraintsMessage="Health at Maxmium"
+
+[A_Item.HealthPack_4:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Can be carried in your Storage Deck."
+
+[A_Item.HealthPack_5 ItemDefinition]
+ItemName="Super Healing Kit"
+UseFailureConstraintsMessage="You can't use this right now!"
+
+[A_Item.HealthPack_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Can be carried in your Storage Deck."
+
+[A_Item.HealthVial_1:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Used when picked up."
+
+[A_Item.HealthPack_4:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Regain 300 health over 10 seconds."
+
+[A_Item.HealthPack_4 ItemDefinition]
+ItemName="Greater Healing Kit"
+UseFailureConstraintsMessage="You can't use this right now!"
+
+[A_Item.HealthPack_1 ItemDefinition]
+ItemName="Minor Healing Kit"
+UseFailureConstraintsMessage="You can't use this right now!"
+
+[A_Item.HealthVial_1:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description="Quickly regain 20 health."
+
+[A_Item.HealthPack_3:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Can be carried in your Storage Deck."
+
+[A_Item.HealthPack_3:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Regain 180 health over 10 seconds."
+
+[A_Item.HealthPack_2:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Can be carried in your Storage Deck."
+
+[A_Item.HealthVial_1 ItemDefinition]
+ItemName="Minor Insta-Health Vial"
+UseFailureConstraintsMessage="Health at Maxmium"
+
+[A_Item.HealthPack_3 ItemDefinition]
+ItemName="Healing Kit"
+UseFailureConstraintsMessage="You can't use this right now!"
+
+[A_Item.HealthPack_2:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Regain 100 health over 10 seconds."
+
+[A_Item.HealthPack_1:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Regain 60 health over 10 seconds."
+
+[A_Item.HealthVial_3:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Used when picked up."
+
+[A_Item.HealthVial_5:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Used when picked up."
+
+[A_Item.HealthVial_3:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="Quickly regain 80 health."
+
+[A_Item.HealthVial_5:AttributePresentationDefinition_17 AttributePresentationDefinition]
+Description="Quickly regain 200 health."
+
+[A_Item.HealthVial_5 ItemDefinition]
+ItemName="Super Insta-Health Vial"
+UseFailureConstraintsMessage="Health at Maxmium"
+
+[A_Item.HealthVial_3 ItemDefinition]
+ItemName="Insta-Health Vial"
+UseFailureConstraintsMessage="Health at Maxmium"
+
+[A_Item.HealthVial_4:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Used when picked up."
+
+[A_Item.HealthVial_4:AttributePresentationDefinition_16 AttributePresentationDefinition]
+Description="Quickly regain 120 health."
+
+[A_Item.HealthVial_2:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Used when picked up."
+
+[A_Item.HealthVial_4 ItemDefinition]
+ItemName="Greater Insta-Health Vial"
+UseFailureConstraintsMessage="Health at Maxmium"
+
+[Amounts.25_Points ItemPartDefinition]
+PartName=
+

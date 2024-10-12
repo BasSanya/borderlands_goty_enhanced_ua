@@ -1,0 +1,31 @@
+[Behaviors.PlayerBehavior_LevelUp:Behavior_AttributeEffect_0.SkillDefinition_0 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[Behaviors.PlayerBehavior_LevelUp:Behavior_AttributeEffect_1.SkillDefinition_1 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillEffectDefinitions[0]=(HumanReadableText="DOUBLE DAMAGE")
+SkillName=""
+
+[Behaviors.PlayerBehavior_LevelUp:Behavior_AttributeEffect_2.SkillDefinition_2 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[injured.PlayerInjuredDefinition:Behavior_AttributeEffect_1.SkillDefinition_0 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Power Boost"
+
+[injured.PlayerInjuredDefinition:Behavior_AttributeEffect_4.SkillDefinition_1 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Defense Boost"
+SkillName=""
+
+[injured.PlayerInjuredDefinition:Behavior_AttributeEffect_5.SkillDefinition_2 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+

@@ -1,0 +1,5 @@
+[DamageType.DmgType_Healing:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Heals Friendlies"
+NoConstraintText=""
+Suffix=""
+

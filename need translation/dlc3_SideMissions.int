@@ -1,0 +1,255 @@
+[SideMissions.M_dlc3_BigBrother MissionDefinition]
+MissionName="Big Crimson Brother is Watching"
+MissionDescription="Helena Pearce here.  The Crimson Lance have installed security cameras to spy on the local population at T-Bone junction. This is in direct violation of Atlas's charter on Pandora.  Please destroy the cameras to ensure the privacy of the citizens."
+TurnInDescription="T-Bone Junction thanks you!  Please take this as a token of our appreciation."
+MissionSummary="Eliminate Crimson Lance Security Cameras."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Camera 1:")
+Objectives[1]=(ProgressMessage="Camera 2:")
+Objectives[2]=(ProgressMessage="Camera 3:")
+Objectives[3]=(ProgressMessage="Camera 4:")
+Objectives[4]=(ProgressMessage="Camera 5:")
+
+[SideMissions.M_dlc3_ClaptrapRescue MissionDefinition]
+MissionName="Claptrap Rescue: Lockdown Palace"
+MissionDescription="You've discovered a Claptrap robot that has been immobilized.  Find a Claptrap repair kit to release him."
+TurnInDescription="Thank you, stranger! Take this! I think you'll like it!  Oh!  I've got something else for you.  Follow me!"
+MissionSummary="Release Claptrap."
+MissionGiver="Claptrap"
+Objectives[0]=(ProgressMessage="Repair kit:")
+
+[SideMissions.M_dlc3_CPaws01 MissionDefinition]
+MissionName="Road Rage"
+MissionDescription="The Crimson Lance is entirely capable of handling your security needs!  We merely ask that, should you be driving around the area and run into bandits breaking the off-road driving laws, you please feel free to destroy them.  We are more than willing to reward the happy populace for doing our jobs for us."
+TurnInDescription="Thank you citizen.  Your efforts are ensuring a brighter future for Pandora!"
+MissionSummary="Eliminate bandit vehicles."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Bandit patrols:")
+
+[SideMissions.M_dlc3_Digistruct MissionDefinition]
+MissionName="OMG APC"
+MissionDescription="Have you seen those Lancer APCs them d-bags are driving around!  I need to get me one!  If you can find me a Lancer Digistruct Module, I can upload it into the Catch-A-Ride! system.  How'd you like to get yer hands on one-a them?"
+TurnInDescription="Shit and meatballs!  You pulled it off!  I wish mine were as brass as yours man!"
+MissionSummary="Find a Lancer Digistruct Module."
+MissionGiver="Scooter"
+Objectives[0]=(ProgressMessage="Found Digistruct Module:")
+
+[SideMissions.M_dlc3_Drifter MissionDefinition]
+MissionName="Drifter Lifter"
+MissionDescription="Locals have seen a larger drifter out there and dubbed him Skyscraper. He's a real menace.  See if you can take him down."
+TurnInDescription="Skyscraper has been demolished!"
+MissionSummary="Kill Skyscraper"
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Skyscraper killed:")
+
+[SideMissions.M_dlc3_Drones MissionDefinition]
+MissionName="Big Crimson Brother is Watching"
+MissionDescription="Helena Pearce here.  The Crimson Lance have installed security cameras to spy on the local population at T-Bone Junction. This is in direct violation of Atlas's charter on Pandora.  Please destroy the cameras to ensure the privacy of the citizens."
+TurnInDescription="T-Bone Junction thanks you!  Please take this as a token of our appreciation."
+MissionSummary="Eliminate Crimson Lance Security Cameras."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Drones Destroyed:")
+
+[SideMissions.M_dlc3_DryWell MissionDefinition]
+MissionName="Purple Juice!"
+MissionDescription="You've found a midget in distress.  Through his ranting and mumbling you've managed to figure out that some bandits have cut off the midgets supply of 'purple juice' and they are starting to die of thirst.  Maybe you should help them."
+TurnInDescription="He seems to be much happier now that the flow of Purple Juice has been restored."
+MissionSummary="Restore the flow of purple juice to the midgets."
+MissionGiver="Thirsty the Midget"
+Objectives[0]=(ProgressMessage="Restore Brandybuck pump:")
+Objectives[1]=(ProgressMessage="Restore Took pump:")
+Objectives[2]=(ProgressMessage="Restore Gamgee pump:")
+Objectives[3]=(ProgressMessage="Restore Underhill pump:")
+
+[SideMissions.M_dlc3_GetLoot02 MissionDefinition]
+MissionName="Super-Marcus Sweep"
+MissionDescription="Marcus is allowing you to have another run through the old Lance armory.  However, his rules are the same.  You only have a short time before being kicked out...by him killing you."
+TurnInDescription="Did you have a good haul?"
+MissionSummary="Grab loot!"
+MissionGiver="Marcus"
+Objectives[0]=(ProgressMessage="Countdown started:")
+Objectives[1]=(ProgressMessage="Steal loot:")
+Objectives[2]=(ProgressMessage="Boom!:")
+
+[SideMissions.M_dlc3_GetLoot03 MissionDefinition]
+MissionName="It's Like Christmas!"
+MissionDescription="Marcus is allowing you to have another run through the old Lance armory.  However, his rules are the same.  You only have a short time before being kicked out...by him killing you."
+TurnInDescription="Hopefully the third time was the charm."
+MissionSummary="Grab as much loot as you can!"
+MissionGiver="Marcus"
+Objectives[0]=(ProgressMessage="Countdown started:")
+Objectives[1]=(ProgressMessage="Steal loot:")
+Objectives[2]=(ProgressMessage="Boom!:")
+
+[SideMissions.M_dlc3_Gondola MissionDefinition]
+MissionName="Bugged"
+MissionDescription="Citizens of Pandora.  The fine people of the Dahl corporation would like to invite you to help us help you deal with your Atlas problem.  There is an Atlas communications tower near their new facility.  There is a nice reward for anyone who can place the provided listening device onto the tower. "
+TurnInDescription="Thank you!  The Dahl corporation hopes you enjoy our free gift."
+MissionSummary="Bug the communications dish near the Atlas armory."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Find lever:")
+Objectives[1]=(ProgressMessage="Activate gondola:")
+Objectives[2]=(ProgressMessage="Place bug:")
+
+[SideMissions.M_dlc3_Graffiti MissionDefinition]
+MissionName="Stain Removal"
+MissionDescription="The bandits in the region have painting the most awful things about me all around the area.  Most of them are untrue.  Do you mind finding them and removing them for me?"
+TurnInDescription="Thanks, Sugah.  You're a real peach."
+MissionSummary="Remove the graffiti about Moxxi."
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Erase graffiti #1:")
+Objectives[1]=(ProgressMessage="Erase graffiti #2:")
+Objectives[2]=(ProgressMessage="Erase graffiti #3:")
+Objectives[3]=(ProgressMessage="Erase graffiti #4:")
+Objectives[4]=(ProgressMessage="Erase graffiti #5:")
+
+[SideMissions.M_dlc3_Hitman MissionDefinition]
+MissionName="Wanted: Dead!"
+MissionDescription="Atlas has a huge price on your head and has ordered their most elite units, the Omega Assassins, to find and kill you.  Athena has warned you that there will be four more teams.  You don't know where or when they'll strike, but you know they're coming.  Survive."
+TurnInDescription="Dear Atlas, is that all you got?  Signed, the vault hunters."
+MissionSummary="Survive the Omega ambushes by killing their leaders."
+MissionGiver="Agent 01"
+Objectives[0]=(ProgressMessage="Survive Hera's squad:")
+Objectives[1]=(ProgressMessage="Survive Minerva's squad:")
+Objectives[2]=(ProgressMessage="Survive Ceresia's squad:")
+Objectives[3]=(ProgressMessage="Survive Helicon's squad:")
+
+[SideMissions.M_dlc3_KillStuff01 MissionDefinition]
+MissionName="Mop Up"
+MissionDescription="Hello!  Have I got an opportunity for you!  I managed to get my hands on that Atlas armory for a song.  I guess I have you to thank for that, eh?  I've fixed it up good as new and you wouldn't believe how much I was able to salvage.  I am in a giving mood right now and would be willing to give you a 'shopping spree' if you do some work for me.  Here's the deal.  If you could eliminate some of the remaining Crimson Lance then I could be sure they won't try to take it back from me."
+TurnInDescription="That many, huh?  Not bad. Not bad.  I think that is worth a crack at my new warehouse."
+MissionSummary="Thin the ranks of Crimson Lance."
+MissionGiver="Marcus"
+Objectives[0]=(ProgressMessage="Kill Badass Lance:")
+Objectives[1]=(ProgressMessage="Kill Pyro Lance:")
+Objectives[2]=(ProgressMessage="Kill Chemical Lance:")
+Objectives[3]=(ProgressMessage="Kill Shock Lance:")
+Objectives[4]=(ProgressMessage="Kill Jetpack Lance:")
+
+[SideMissions.M_dlc3_KillStuff02 MissionDefinition]
+MissionName="Local Trouble"
+MissionDescription="It has come to my attention that Lockdown Palace has a bit of a leadership problem.  I'd like to increase my, eh, influence there.  Ex-cons are actually very hard workers, and you can pay them in cigarettes!  I'd like you to go to Lockdown Palace and, eh, do some business for me.  Let them know what Marcus is willing to do to, I mean, for them.  And those little guys running around out there are really making it difficult to get to my vending machines.  A few less of them and their filthy skags wouldn't hurt either.  What?  Is that a bit too unethical for you?  I'll make it worth your while.  How about another run through my warehouse.  All the guns you can carry!  What do you say?"
+TurnInDescription="A dirty bit of business, but I appreciate it.  Enjoy your guns!"
+MissionSummary="Do Marcus's dirty work."
+MissionGiver="Marcus"
+Objectives[0]=(ProgressMessage="Kill Prisoners:")
+Objectives[1]=(ProgressMessage="Kill Midgets:")
+Objectives[2]=(ProgressMessage="Kill Skags:")
+
+[SideMissions.M_dlc3_KnoxxECHOCollection MissionDefinition]
+MissionName="Knoxxed Out"
+MissionDescription="The more information we have about what my former employers are up to the better.  See if you can find some of General Knoxx's communications to the Admiral of the fleet.  He has a bad habit of leaving them laying around after he has transmitted them."
+TurnInDescription="Sounds like he's having some issues with central command.  Excellent.  That gives us an advantage."
+MissionSummary="Find communications from General Knoxx."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Find ECHO #1:")
+Objectives[1]=(ProgressMessage="Find ECHO #2:")
+Objectives[2]=(ProgressMessage="Find ECHO #3:")
+Objectives[3]=(ProgressMessage="Find ECHO #4:")
+Objectives[4]=(ProgressMessage="Find ECHO #5:")
+
+[SideMissions.M_dlc3_LanceCommander01 MissionDefinition]
+MissionName="This Bitch is Payback"
+MissionDescription="While I was part of the Crimson Lance there were two particularly troublesome Lieutenants.  Their names were Kyros and Typhon.  They were two of the most cruel and demeaning officers in the army.  I had many an incident with them and I would have killed them had there not been that regulation about assassinating fellow officers, but thankfully that is not an issue any more.  If you find them while you are out, you may do the honors."
+TurnInDescription="Trust me.  The galaxy is a better place with those two finally discharged from the Crimson Lance."
+MissionSummary="Kill the Crimson Lance Lieutenants"
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Kill Kyros:")
+Objectives[1]=(ProgressMessage="Kill Typhon:")
+
+[SideMissions.M_dlc3_LanceCommander02 MissionDefinition]
+MissionName="This Bitch is Payback, pt. 2"
+MissionDescription="I've just learned that Commander Ajax is in the area.  He made Kyros and Typhon look like kittens.  He could also make problems for us.  I strongly urge you to find him and eliminate him."
+TurnInDescription="Excellent.  Good work."
+MissionSummary="Kill Commander Ajax"
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Kill Ajax:")
+
+[SideMissions.M_dlc3_LoopDeLoop MissionDefinition]
+MissionName="Thrown for a Loop"
+MissionDescription="I've been thinking about starting a vehicle stunt show.  I've got an idea for some tricks, but what I really need is a loop the loop.  There's a loop out across the crevasse that some bandits built a long time ago, goodness knows why.  Everyone's been telling me that it can't be done and I should give up on the idea, but I think you can prove 'em wrong."
+TurnInDescription="Ha!  I told those wusses that it could be done.  Thanks for proving me right."
+MissionSummary="Perform a loop the loop"
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Loop the loop:")
+
+[SideMissions.M_dlc3_Motorhead MissionDefinition]
+MissionName="Little People, Big Experiments"
+MissionDescription="You've learned from Thirsty that the midgets in the area used to run with Sledge before someone killed him.  They revered him greatly and took his body to their best scientists.  Something went wrong with their attempts to revive and improve him, and he is now on the loose, rampaging through the region.  The bandits in the region have dubbed him 'Motor Head'.  The midgets would like your help to finally put him out of his misery."
+TurnInDescription="Now poor Sledge is finally at peace."
+MissionSummary="Investigate the rumors of midget experiments."
+MissionGiver="Thirsty the Midget"
+Objectives[0]=(ProgressMessage="Rumor investigated:")
+Objectives[1]=(ProgressMessage="Motor Head killed:")
+
+[SideMissions.M_dlc3_Power MissionDefinition]
+MissionName="Power Leech"
+MissionDescription="Hey.  This is Mr. Shank.  Lockdown Palace has a problem.  If any a you panty waists on the outside want to make a few bucks here's the sitch.  Those bastards in the bandit camps on the overpass are syphoning off our power.  We're getting constant brownouts in here.  It's cruel and unusal punishment.  No one messes with Mr. Shank.  I want all my power back.  We've got most of it rigged up to destoy the tower they are using to steal from us but there are a few last details we need help with.  Explosives, etc. Do this for me and I won't kill you the next time I see you...probably."
+TurnInDescription="That was a fine bit of killin' you musta done to help us with that.  We appreciate it, but I don't ever want to see your face at the Palace!"
+MissionSummary="Restore full power to Lockdown Palace."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Bomb found:")
+Objectives[1]=(ProgressMessage="Charge placed:")
+Objectives[2]=(ProgressMessage="Powerline destroyed:")
+
+[SideMissions.M_dlc3_PowerCores MissionDefinition]
+MissionName="Core Collection"
+MissionDescription="Hello!  With the Crimson Lance in the area there is a great opportunity for us.  Their armor has these special energy cores inside them.  A top secret piece of Atlas technology.  Torgue, Maliwan, and Hyperion are always on the lookout for them.  If you bring some to me there is a lot of dough in it for you."
+TurnInDescription="Excellent!  And in three varieties too!  Oh, you always do such great work for me.  Here is your cut."
+MissionSummary="Collect Lance energy cores for Marcus"
+MissionGiver="Marcus"
+Objectives[0]=(ProgressMessage="Power cores:")
+Objectives[1]=(ProgressMessage="Speed cores:")
+Objectives[2]=(ProgressMessage="Shock cores:")
+
+[SideMissions.M_dlc3_RoadKill01 MissionDefinition]
+MissionName="Support Local 101!"
+MissionDescription="From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  Since the Crimson Lance has arrived and stopped travel on the highways we have hit hard times.  Please help us by running over something, anything, so we can clean it up."
+TurnInDescription="Thank you.  We can get back on the job!"
+MissionSummary="Create some roadkill for the Roadkill Shovellers Union."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Roadkill:")
+
+[SideMissions.M_dlc3_RoadKill02 MissionDefinition]
+MissionName="Local 101 needs your help!"
+MissionDescription="From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  We appreciate the few donations we have obtained but there are still a lot of hardworking psychos in local 101 who could use your help.  Please help us by running over something, anything, so we can clean it up."
+TurnInDescription="Your donations make a difference.  -Roadkill Shovellers Union of Pandora, Local 101"
+MissionSummary="Create some roadkill for the Roadkill Shovellers Union."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Roadkill:")
+
+[SideMissions.M_dlc3_RoadKill03 MissionDefinition]
+MissionName="The Shovellers Union Needs You!"
+MissionDescription="From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  Our donations have been increasing recently and your support is appreciated.  If we could just get a few more hours of your time it can translate to many, many hours of work for our members.  You have no idea how long it takes to scrape up all of those gibs."
+TurnInDescription="Thanks for killin' all that stuff.  We are almost back on our feet."
+MissionSummary="Run over more stuff for those poor Union workers."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Roadkill:")
+
+[SideMissions.M_dlc3_RoadKill04 MissionDefinition]
+MissionName="Our Goals are in Sight!"
+MissionDescription="From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  The outpouring of support for us has been overwhelming.  We can't thank you enough.  With one more push we can be back on our feet, but we need your help to reach our goal."
+TurnInDescription="A tremendous effort on your part has provided for the livelihood of tens of families on Pandora.  Thank you!"
+MissionSummary="Smash more stuff with your car.  It's for the good of Pandora!"
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Roadkill:")
+
+[SideMissions.M_dlc3_Treasure MissionDefinition]
+MissionName="Lost Lewts"
+MissionDescription="You found a strange device which appears to be a special radar for the Lancer.  The manual reads: 'When installed this transponder detector allows the driver to find Atlas supply stashes that were deem irretrievable at the end of the first occupation.  The transponder pulse will appear on the radar when you are near a stash.  The brighter the pulse the closer you are.  A green crosshair appears in the radar when you are directly on top of the stash.  At this point someone must jump out and dig up the stash.  If the entire radar is green you have already retrieved that hidden stash.'"
+TurnInDescription="Wow!  You found all of those old Atlas stashes!  People have been looking for those for years.  Anything you'd like to sell?"
+MissionSummary="Use a Lancer to find the hidden supply stashes."
+MissionGiver="Radar device"
+Objectives[0]=(ProgressMessage="Stash 1:")
+Objectives[1]=(ProgressMessage="Stash 2:")
+Objectives[2]=(ProgressMessage="Stash 3:")
+Objectives[3]=(ProgressMessage="Stash 4:")
+Objectives[4]=(ProgressMessage="Stash 5:")
+
+[SideMissions.M_dlc3_UberBoss MissionDefinition]
+MissionName="You. Will. Die."
+MissionDescription="There is an ancient tale in these parts of a massive beast that used to roam the sea.  This is way back when there was water and everything.  The tales have been passed down from generation to generation.  His name was Crawmerax.  They said he was invincible.  Why am I telling you all of this?  Since you blew up that Lance depot there have been tremors in the Deep Fathoms.  Some say that Crawmerax is out there.  That you reawakened him from hibernation.  It would be one hell of a story if it were true, and whoever killed him would become a legend!"
+TurnInDescription="Holy crap. You did it?  For real?  I was just making up a story.  I didn't think he was really out there."
+MissionSummary="Find Crawmerax.  Kill him...if you can."
+MissionGiver="Bounty Board"
+Objectives[0]=(ProgressMessage="Kill Crawmerax:")

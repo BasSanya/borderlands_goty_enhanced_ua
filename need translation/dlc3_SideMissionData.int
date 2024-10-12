@@ -1,0 +1,154 @@
+[ItemDefs.ID_dlc3_Bomb ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bomb"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_Bomb:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A bundle of explosives."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_ClaptrapRepairkit ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_ClaptrapRepairkit:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Contains everything you need to release an immobilized Claptrap robot."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_DigistructModule ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Lancer Digitruct Module"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Atlas"
+
+[ItemDefs.ID_dlc3_DigistructModule:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Contains all of the necessary digital information to manufacture the vehicle at a Catch-A-Ride."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_EchoPickup_KnoxxCollection ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="ECHO Recorder"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_EchoPickup_KnoxxCollection:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="An ECHO recording device. It may have some interesting information on it."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_Lever ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Gondola Lever"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_Lever:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="The missing lever to reactivate the gondola."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_Notes ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Science Notes"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_Notes:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A book of notes scrawled in a tiny hand detailing some horrific experiments."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_TreasureItem ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Atlas Transponder Radar"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Atlas"
+
+[ItemDefs.ID_dlc3_TreasureItem:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="When installed in the Lancer vehicle, allows the driver to find hidden Atlas weapon caches."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_TreasureMap ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Atlas Transponder radar"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_TreasureMap:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="When installed in the Lancer vehicle, allows the driver to find hidden Atlas weapon caches."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Power_Core_Damage ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Crimson Lance Power core"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Power_Core_Damage:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A hi-tech power supply used by the Crimson Lance. Provides bonus melee and projectile damage for a short period of time."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Power_Core_Shock ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Crimson Lance Shock core"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Power_Core_Shock:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A hi-tech power supply used by the Crimson Lance. Instantly charges your Shields and periodically causes Shock Novas for a short period of time."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Power_Core_Speed ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Crimson Lance Speed core"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Power_Core_Speed:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A hi-tech power supply used by the Crimson Lance. When collected, movement speed is increased and you earn bonus XP for a short period of time."
+NoConstraintText=""
+Suffix=""
+

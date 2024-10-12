@@ -1,0 +1,31 @@
+[Weapons.WeaponType_AutomatedTurretRL WeaponTypeDefinition]
+TypeName="Automated Turret Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapons.WeaponType_AutomatedTurretMG WeaponTypeDefinition]
+TypeName="Automated Turret Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Skills.CLScorpio_CorrosiveBolt SkillDefinition]
+SkillName="Corrosive Bolt"
+SkillDescription="The Scorpio deals corrosive damage"
+LockedSkillDetailStr="<Locked>"
+
+[Projectiles.Scorpio_SupplyDrop:Behavior_AttributeEffect_2.SkillDefinition_8 SkillDefinition]
+SkillName=""
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Projectiles.Scorpio_SupplyDrop:Behavior_AttributeEffect_3.SkillDefinition_9 SkillDefinition]
+SkillName=""
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+

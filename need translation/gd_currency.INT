@@ -1,0 +1,115 @@
+[A_Item.Bobblehead ItemDefinition]
+ItemName="Marcus Bobblehead"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Cash at Maxmium"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Currency ItemDefinition]
+ItemName="Money"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Cash at Maxmium"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Currency_big ItemDefinition]
+ItemName="Money"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Cash at Maxmium"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.SkagPearl ItemDefinition]
+ItemName="Pearlstone"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Cash at Maxmium"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[BigMoney.BigMoney_00 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_01 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_02 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_03 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_04 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_05 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_06 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_07 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_08 ItemPartDefinition]
+PartName=""
+
+[BigMoney.BigMoney_09 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_00 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_01 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_02 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_03 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_04 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_05 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_06 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_07 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_08 ItemPartDefinition]
+PartName=""
+
+[LittleMoney.LittleMoney_09 ItemPartDefinition]
+PartName=""
+
+[Manufacturers.Cash_Manufacturer ManufacturerDefinition]
+Grades[0]=(DisplayName="Cash")
+Grades[1]=(DisplayName="Cash")
+Grades[10]=(DisplayName="Cash")
+Grades[11]=(DisplayName="Cash")
+Grades[12]=(DisplayName="Cash")
+Grades[13]=(DisplayName="Cash")
+Grades[14]=(DisplayName="Cash")
+Grades[15]=(DisplayName="Cash")
+Grades[16]=(DisplayName="Cash")
+Grades[2]=(DisplayName="Cash")
+Grades[3]=(DisplayName="Cash")
+Grades[4]=(DisplayName="Cash")
+Grades[5]=(DisplayName="Cash")
+Grades[6]=(DisplayName="Cash")
+Grades[7]=(DisplayName="Cash")
+Grades[8]=(DisplayName="Cash")
+Grades[9]=(DisplayName="Cash")
+

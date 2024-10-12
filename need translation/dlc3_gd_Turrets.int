@@ -1,0 +1,24 @@
+[gatling.Weapons.WeaponType_Turret_Gatling WeaponTypeDefinition]
+TypeName="Turret Gatling Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Grenade.Weapons.WeaponType_Turret_Grenade WeaponTypeDefinition]
+TypeName="Grenade Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[rocket.Weapons.WeaponType_Turret_Rocket WeaponTypeDefinition]
+TypeName="Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

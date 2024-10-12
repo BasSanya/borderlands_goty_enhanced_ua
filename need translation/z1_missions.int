@@ -1,0 +1,517 @@
+[missions.m_abugproblem MissionDefinition]
+MissionDescription="Given the plant growth I've observed outside of New Haven, I suspect there is a component in the sulfur springs which acts as fertilizer for Pandora's native flora. To test my theory, I need samples both from The Retching Seeps and The Fetid Cauldron. I'd do it myself, but each location is guarded by a nasty spiderant! Eliminate these nuisances, and I'll be able to conduct further tests without the need for assistance."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="A Bug Problem"
+MissionSummary="Collect sulphur samples and kill Helob and Widowmaker."
+Objectives[0]=(ProgressMessage="Retching Seeps sample:")
+Objectives[1]=(ProgressMessage="Widowmaker killed:")
+Objectives[2]=(ProgressMessage="Fetid Cauldron sample:")
+Objectives[3]=(ProgressMessage="Helob killed:")
+TurnInDescription="Excellent work! I will begin testing these samples right away. Perhaps this study will eventually lead to profitable agriculture on Pandora! Here is your reward for helping an old chemist with his bug problem."
+
+[missions.m_altarego MissionDefinition]
+MissionDescription="We need to put an end to this new 'religion' the bandits are creating, before they gain a following and all hell breaks loose. I can't help but wonder what started the whole thing, but I'm paying you to end it. I want you to destroy the scriptures that they preach at each of their altars."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Altar Ego: Burning Heresy"
+MissionSummary="Burn the scriptures at bandit chapels."
+Objectives[0]=(ProgressMessage="1st scripture burnt:")
+Objectives[1]=(ProgressMessage="2nd scripture burnt:")
+Objectives[2]=(ProgressMessage="3rd scripture burnt:")
+TurnInDescription="I should've known, we've only made them angrier and more zealous. Fortunately, I've got new information that'll put an end to these charlatans."
+
+[missions.m_anotherlittlesuprise MissionDefinition]
+MissionDescription="The Guardian Angel spoke cryptically of a challenge that awaits in the Trash Coast, and Tannis thinks another piece of the Vault Key can be found there. Given the way things have worked out so far, you're probably going to need to overcome this mysterious challenge before you'll be able to obtain the third fragment of the Vault Key and return it to Tannis."
+MissionGiver="Guardian Angel"
+MissionName="Another Piece Of The Puzzle"
+MissionSummary="Recover another Vault Key Piece from the Trash Coast."
+Objectives[0]=(ProgressMessage="Challenge overcome:")
+Objectives[1]=(ProgressMessage="Vault Key Piece:")
+TurnInDescription="This is the third piece of the Vault Key that you've brought me. We almost have the complete set now."
+
+[missions.m_assassinatejack MissionDefinition]
+MissionDescription="What did you and Marcus do?  One-Eyed Jack is madder than hell, and my sources tell me he's going to take it out on New Haven.  Our only chance is to kill him before he strikes.  This is your fault.  You fix it."
+MissionGiver="Helena Pierce"
+MissionName="Jack's Other Eye"
+MissionSummary="Kill One-Eyed Jack, and bring back his eye as proof."
+Objectives[0]=(ProgressMessage="Jack's Other Eye:")
+TurnInDescription="That's Jack's eye, alright. I know I was upset with you, but you have taken responsiblity for your actions and fixed the situation.  Thank you."
+
+[missions.m_baitresearch MissionDefinition]
+MissionDescription="Attempts at human habitation along the Trash Coast have always failed, because spiderants overwhelm anyone who tries to live there. The bandits managed it, though, by placing a Queen Spiderant Abdomen in the middle of their camp. I want you to take an abdomen from a rival Queen, then replace the bandits' with that one. Let's see if the spiderants will do our dirty work for us."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Bait And Switch"
+MissionSummary="Collect a Queen Spiderant Abdomen and swap it for the bandits'."
+Objectives[0]=(ProgressMessage="Queen Abdomen:")
+Objectives[1]=(ProgressMessage="Abdomen swapped:")
+TurnInDescription="Wow! That was even more successful than I'd hoped! I don't know if that's an easier way to keep the bandits under control, but it's sure as hell more fun! Here's your reward for a job well done."
+
+[missions.m_bandittreasurethree MissionDefinition]
+MissionDescription="One of the bandits is breathing his last few, ragged breaths. He opens his hand, holding what appears to be a strongbox key. He wheezes, 'Find brothers... two more... keys... Lance get nothin' He coughs and then lies still."
+MissionGiver="Dead Bandit"
+MissionName="Bandit Treasure: Three Corpses, Three Keys"
+MissionSummary="Search Old Haven for keys and a locked strongbox."
+Objectives[0]=(ProgressMessage="1st Bandit Key:")
+Objectives[1]=(ProgressMessage="2nd Bandit Key:")
+Objectives[2]=(ProgressMessage="3rd Bandit Key:")
+Objectives[3]=(ProgressMessage="Strongbox found:")
+TurnInDescription="The three keys open the strongbox. Inside, you find some sort of map. The map marks a location in the Dahl Headland. Perhaps something is hidden there?"
+
+[missions.m_bandittreasurexmarks MissionDefinition]
+MissionDescription="The ragged map in the strongbox marks a location in the Dahl Headland. The bandit's dying wish was that his treasure not fall into the hands of the Crimson Lance. You feel duty-bound to grant the man's final request by taking it for yourself."
+MissionGiver="Dead Bandit"
+MissionName="Bandit Treasure: X Marks The Spot"
+MissionSummary="Go to the Dahl Headland and recover the bandit treasure."
+Objectives[0]=(ProgressMessage="Stash found:")
+TurnInDescription="You've discovered a strongbox like the one in Old Haven. It opens using the same three keys. Inside are various personal mementos from the brothers' childhood, which should fetch a decent price in New Haven. There is also a kick-ass gun."
+
+[missions.m_bridgesdamntrespassers MissionDefinition]
+MissionDescription="You want a favor from me? Well, pick my nose and I'll pick yours, as the saying goes. I got trespassers crawlin' all over my property here. They got their eye on my treasure. You get out there and start exterminatin' interlopers. Then we'll see about whatever it was you wanted."
+MissionGiver="Crazy Earl"
+MissionName="Get Off My Lawn!"
+MissionSummary="Kill bandits and spiderants."
+Objectives[0]=(ProgressMessage="Bandits killed:")
+Objectives[1]=(ProgressMessage="Spiderants killed:")
+TurnInDescription="What the hell do you want?! You better not be taking any of my stuff. You killed all the trespassers? I have no idea what you're talking about. I don't see any trespassers."
+
+[missions.m_bridgesgetabeer MissionDefinition]
+MissionDescription="One more thing. I'm all outta booze. You wanna get my alien whatsit? You're gonna go pick up a new supply from the bandits out at Treacher's Landing. They brew a mean moonshine out there. Don't know what's in it, but who cares? Those bandits don't part with it willingly, of course. That's why you're going, and not me!"
+MissionGiver="Crazy Earl"
+MissionName="Hair Of The Dog"
+MissionSummary="Collect Bottles Of Booze from the bandits at Treacher's Landing."
+Objectives[0]=(ProgressMessage="Bottle Of Booze:")
+TurnInDescription="Thanks for the booze! Now, about that alien whatever-the-hell. Funny story. Krom heard about it and stopped by about a year ago. Gave me an offer I couldn't refuse. Why do you think I barricaded myself in here? I don't know why he wanted it, but I wasn't about to argue. That's the last I saw of it."
+
+[missions.m_claptraprescuecanyon MissionDefinition]
+MissionDescription="You've discovered a defunct Claptrap here. It looks like the bandits were pretty rough on him. Perhaps there is a repair kit nearby?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Krom's Canyon"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair kit:")
+TurnInDescription="Thank you most effusively for you kindness and generosity! I am not worthy to lick your boots. Not that I have a tongue. Anyway, I have this trifling trinket, which you may find useful in your travels."
+
+[missions.m_claptraprescuenewhaven MissionDefinition]
+MissionDescription="You've discovered another malfunctioning Claptrap robot. You noticed that there were some discarded Claptraps rusting on the scrap heaps around town. Perhaps some spare parts could be salvaged from those?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: New Haven"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair kit:")
+TurnInDescription="Thank you, stranger! What a beautiful, wonderful day this is turning out to be! How can I possibly express my appreciation? I know-- take this! I think you'll like it!"
+
+[missions.m_claptraprescueoldhaven MissionDefinition]
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in this town?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Old Haven"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Funny, how just when you think life can't possibly get any worse it suddenly does. I think you ought to know I'm feeling very depressed. A guy finally gets a break from all the shooting and raping. Oh yes, these are desperate men. Just when he's having a rest, you come along and repair him. I suppose you want a reward for exposing me to more of this torturous existence."
+
+[missions.m_claptraprescuescrapyard MissionDefinition]
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in this scrap heap?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Scrapyard"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you, kind stranger! Now that I am repaired, I can go about my usual duties with aplomb and enthusiasm! Please take this as a token of my gratitude!"
+
+[missions.m_claptraprescuetrashcave MissionDefinition]
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in here?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Tetanus Warren"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you kindly, stranger! The trash collapsed and I fell into this cave. Thanks to you, I think I can find my way back home now. Here's a little something to express my gratitude."
+
+[missions.m_claptraprescuetrashcoast MissionDefinition]
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out here?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: Trash Coast"
+MissionSummary="Find the repair kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you kindly, stranger! I got lost out here and eventually the salt in the air rusted me to pieces. Thanks to you, I think I can find my way back home now. Here's a little something to express my gratitude."
+
+[missions.m_earlbanditoutpostdestroyed MissionDefinition]
+MissionDescription="Those bandit assholes stole my C-Charges! The explosives must be around their camp somewhere. You're gonna teach them a lesson. They want my C-Charges? Fine. We'll shove 'em up their asses and set 'em off. You steal Earl's stuff, you get blasted to hell."
+MissionGiver="Crazy Earl"
+MissionName="Today's Lesson: High Explosives"
+MissionSummary="Collect Earl's C-Charges, then plant them and set them off."
+Objectives[0]=(ProgressMessage="C-Charge:")
+Objectives[1]=(ProgressMessage="C-Charge placed:")
+TurnInDescription="Hah! Taught those bandits a lesson for sure! Looks like you got a little singed, yourself. Oh, that's right! I had those charges and timers set for remote detonation! I could've done it from here, with the push of a button, but I totally forgot! That's friggin' hilarious!"
+
+[missions.m_earlsbestfriend MissionDefinition]
+MissionDescription="My best friend! The bandits took 'im out to the Trash Coast! You gotta save 'im! I'll do anything, just don't let them kill 'im!"
+MissionGiver="Crazy Earl"
+MissionName="Earl's Best Friend"
+MissionSummary="Rescue Earl's best friend, held by the bandits on the Trash Coast."
+Objectives[0]=(ProgressMessage="Earl's best friend freed:")
+TurnInDescription="Skrappy! You came home! Who's a good boy? Skrappy's a good boy! Did those mean bandits scare you? Thanks for setting him free. He's really a lap skag, and those bandits wouldn't even know how to clean up his little Skrappy-doos. Would they. No, they wouldn't!"
+
+[missions.m_finalartifact MissionDefinition]
+MissionDescription="The little Claptrap doorman is freed, so you should now be able to enter the Salt Flats. Talk to the Claptrap once he's at the gate. It is time to go after Baron Flynt, who punched my dog and stole a piece of the Vault Key. Did I mention he lives on a giant digging machine in the Salt Flats? He calls himself the leader of all the bandits. You'd like him, I think."
+MissionGiver="Patricia Tannis"
+MissionName="The Final Piece"
+MissionSummary="Take back the final piece of the Vault Key from Baron Flynt."
+Objectives[0]=(ProgressMessage="Bandit patrols destroyed:")
+Objectives[1]=(ProgressMessage="Thor infiltrated:")
+Objectives[2]=(ProgressMessage="Baron Flynt killed:")
+TurnInDescription="Tannis lied. Baron Flynt did not have a piece of the Vault Key."
+
+[missions.m_findearl MissionDefinition]
+MissionDescription="Have you met the bearded turtle yet? Crazy Earl? He hides from me, in his Scrapyard to the south. Any time I want to see him, I have to blow a hole in his junk pile. Anyway, he has a piece of the Vault key, along with most of my underwear. The details of that transaction are unimportant, just get that artifact back."
+MissionGiver="Patricia Tannis"
+MissionName="Meet 'Crazy' Earl"
+MissionSummary="Go to the Scrapyard and blow up an entrance to meet Crazy Earl."
+Objectives[0]=(ProgressMessage="Path cleared:")
+TurnInDescription="Oh, so now that Tannis bitch wants that alien hunk o' junk, eh? And you're her little helper? Bah! And they call ME 'crazy'! What have you done for me, besides blow a hole in my back fence?! Tell me that!"
+
+[missions.m_firepowermunitions MissionDefinition]
+MissionDescription="I believe that One-Eyed Jack is storing a recent ammo shipment in his warehouse. We can't have that! When there's too much supply, there's no demand. Prices go down, and nobody profits. So, I want you to go to the warehouse and trigger a little 'market correction' by destroying the ammo dumps. You'll need explosives or elemental weapons, which are, of course, available at any of my stores for a reasonable price!"
+MissionGiver="Marcus Kincaid"
+MissionName="Firepower: Market Correction"
+MissionSummary="Destroy the ammo dumps."
+Objectives[0]=(ProgressMessage="Ammo Dumps destroyed:")
+TurnInDescription="You destroyed the ammo dumps! Good work, my friend! You're proving to be an extremly effective partner, and I'm so glad you weren't blasted into soup! Now, if only we knew exactly which corporation has decided to cut me out of my profits!"
+
+[missions.m_firepowerplans MissionDefinition]
+MissionDescription="I have an amazing opportunity for you, my friend, where both of us stand to profit. You see, the bandits are better equipped than most of the locals! They are a large, untapped market, but they have no demand for my goods! I need someone like you to find out who is supplying them. Go to their hideout and search for a sales invoice or something. I'll pay you a fair price for the information."
+MissionGiver="Marcus Kincaid"
+MissionName="Firepower: All Sales Are Final"
+MissionSummary="Search for information about the bandit weapon supplier."
+Objectives[0]=(ProgressMessage="Weapon Shipment Invoice:")
+TurnInDescription="As I suspected, One-Eyed Jack and his men have been receiving weapon shipments. This invoice is encoded, but it looks like one of the manufacturers decided to cut out the middle man and sell direct. I'm that middle man, and I won't tolerate it! Those faceless corporations don't care about the work I do to scratch out a living here. We must stop them somehow!"
+
+[missions.m_firepowerweapons MissionDefinition]
+MissionDescription="I need to know who exactly is supplying the bandits. The invoice you found was a good start, but we need more. I'm sure you can find some of the original shipping crates, and that will provide the evidence we need. While you're at it, destroy One-Eyed Jack's weapon caches. There is too much of my competitor's product out there! We'll show them what happens when they try to cut out the middle man!"
+MissionGiver="Marcus Kincaid"
+MissionName="Firepower: Plight Of The Middle Man"
+MissionSummary="Destroy Weapon Caches and find evidence."
+Objectives[0]=(ProgressMessage="Caches destroyed:")
+Objectives[1]=(ProgressMessage="Evidence found:")
+TurnInDescription="So, it was Torgue who was delivering weapons to Pandora behind my back! I'll be sure to give them a stern talking-to about about their business practices.  As for the bandits, hopefully they know to buy from me from now on. Thank you, my friend! It's been a pleasure doing business with you!"
+
+[missions.m_greencrystalharvest MissionDefinition]
+MissionDescription="Corrosive Elemental Artifacts allow you to customize your skills with the power of acid. The key component for such an artifact is the Corrosive Crystal. I can fashion an artifact for you, but you'll need to provide the crystals. Go to the Tetanus Warren and shoot the Crystal Clusters to break them apart. Watch out for the bandits that have taken over the cave."
+MissionGiver="New Haven Bounty Board"
+MissionName="Corrosive Crystal Harvest"
+MissionSummary="Harvest Corrosive Crystals in the Tetanus Warren."
+Objectives[0]=(ProgressMessage="Corrosive Crystals:")
+TurnInDescription="These crystals are perfect! Here's the artifact I promised. Enjoy your corrosive new ability!"
+
+[missions.m_greenthumb MissionDefinition]
+MissionDescription="The flowers around here may look pretty, but they're actually a pretty destructive force, and they grow just about anywhere there's water. So, you can probably understand why a broken water pipe is such a problem. Please fix it, before the flowers run me out of my home! Find a valve somewhere, then use it to turn off the water pump."
+MissionGiver="Stance Von Kofsky"
+MissionName="Green Thumb"
+MissionSummary="Find a valve somewhere, then use it to turn off the water pump."
+Objectives[0]=(ProgressMessage="Valve:")
+Objectives[1]=(ProgressMessage="Water pump turned off:")
+TurnInDescription="Those flowers will die off in no time. Thanks for helping out. I was never much of a plumber."
+
+[missions.m_gunboatsabotage MissionDefinition]
+MissionDescription="The bandits have a new weapon. They've built three gunboats, and they're using them to stage raids along the entire coastline. It's got to stop. I'm putting up a bounty for anyone who'll go to Treacher's Landing and sink those things."
+MissionGiver="Scooter"
+MissionName="I've Got A Sinking Feeling..."
+MissionSummary="Sink the Righteous Man, Great Vengeance, and Furious Anger."
+Objectives[0]=(ProgressMessage="Righteous Man sunk:")
+Objectives[1]=(ProgressMessage="Great Vengeance sunk:")
+Objectives[2]=(ProgressMessage="Furious Anger sunk:")
+TurnInDescription="Great, that should put an end to the coastline raids. Those bandits are resourceful bastards, aren't they? Turn your back for a second and they'll think of some other new way to kill you."
+
+[missions.m_heathensgodlessmonsters MissionDefinition]
+MissionDescription="After looking at those pamphlets you collected, I'm fairly certain there's something interesting out there. Their crude drawings show stick figures gathered around some kind of monster named 'Slither'. Maybe if you kill their 'god', they'll abandon this whole religious scheme?"
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Altar Ego: Godless Monsters"
+MissionSummary="Go to the Trashy Knoll, find Slither, and kill it."
+Objectives[0]=(ProgressMessage="Slither killed:")
+TurnInDescription="This so-called 'Slither' is dead, so hopefully all of this bandit zealotry will die down. Thank you for helping in this matter."
+
+[missions.m_heathensinvestigate MissionDefinition]
+MissionDescription="You know Old Lynne Abbey, up on the Overlook? That place has been abandoned since we pulled out of Old Haven, but some bandits recently took the place over, and are now proselytizing and handing out pamphlets to anyone who'll listen. I doubt those nut jobs have really found religion. We need to grab some of those pamplets and find out what they're up to."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Altar Ego: The New Religion"
+MissionSummary="Collect pamphlets from the bandits at Old Lynne Abbey."
+Objectives[0]=(ProgressMessage="Pamphlets:")
+TurnInDescription="Judging by the chicken scratches on the pamphlets, these bandits are about as literate as three-year-olds. Nevertheless, they are total zealots. Something's going on, and we need to take action before they gain a following."
+
+[missions.m_jaynisbrotherlove MissionDefinition]
+MissionDescription="My brother Jaynis is the leader of Jaynistown, and he's turned the place into a hive of scum and villainy. It wasn't always that way. Good people used to live in that town, but his thugs chased them all away. When I protested, he exiled me, his own brother! It ain't right, and the people of that town deserve better. Jaynis needs to be 'removed' from office. Violently."
+MissionGiver="Taylor Kobb"
+MissionName="Jaynistown: A Brother's Love"
+MissionSummary="Kill Jaynis Kobb in Jaynistown"
+Objectives[0]=(ProgressMessage="Jaynis Kobb killed:")
+TurnInDescription="Thank you. You understand why a man can't kill his own brother. But, bounty hunters are another matter. At any rate, this is the beginning of a new era! Soon Jaynistown will be known as Taylortown!"
+
+[missions.m_jayniscleaningup MissionDefinition]
+MissionDescription="An idiot Vault Hunter follows the direction of an insane archeologist, and the result is disaster. Jaynis was no angel, but under Taylor's rule, Jaynistown is a greater threat than ever. You caused this mess, so you can clean it up by killing Taylor Kobb. If reaching the Trash Coast is so blasted important, his hacked Claptrap should allow you to pass once he's dead."
+MissionGiver="Helena Pierce"
+MissionName="Jaynistown: Cleaning Up Your Mess"
+MissionSummary="Kill Taylor Kobb, then talk to his Claptrap."
+Objectives[0]=(ProgressMessage="Taylor Kobb killed:")
+Objectives[1]=(ProgressMessage="Claptrap talked to:")
+TurnInDescription="With Taylor Kobb dead, his hacked Claptrap should have reverted to his original programming. He should be willing to open the passage to the Trash Coast now."
+
+[missions.m_jaynisgettingwhatscoming MissionDefinition]
+MissionDescription="You've done a great service for our cause. Taylor has asked that I give you a reward worthy of your service! A little ways outside of New Haven is a container. I'll mark it for you. Go out there and you'll find your reward waiting for you."
+MissionGiver="Erik Franks"
+MissionName="Jaynistown: Getting What's Coming To You"
+MissionSummary="Find the container outside of New Haven."
+Objectives[0]=(ProgressMessage="Container found:")
+TurnInDescription="You've found the container which is supposed to hold your payment. It's time to see just how much Taylor Kobb appreciates your services."
+
+[missions.m_jaynissecretrendezvous MissionDefinition]
+MissionDescription="I'm reading traces of Eridian artifact activity out at the Trash Coast, so we're going there next. It's across the drawbridges, so talk to one of the Claptraps there. Pierce has already given you the necessary credentials. It's a little shady, but I've arranged for a meeting with a bandit named Taylor Kobb. The bandits of Jaynistown control access to the Trash Coast, but he says he can get us in."
+MissionGiver="Patricia Tannis"
+MissionName="Jaynistown: Secret Rendezvous"
+MissionSummary="Cross the drawbridges and talk to Taylor Kobb, outside of Jaynistown."
+Objectives[0]=(ProgressMessage="Claptrap talked to:")
+Objectives[1]=(ProgressMessage="Taylor Kobb found:")
+TurnInDescription="I heard you want to get into the Trash Coast. I can get you in there, but you're gonna do a favor for me, first. I've got a special job, one that I'd like to keep on the down-low, if you know what I mean. It'd be best for everyone if Helena Pierce never hears about this."
+
+[missions.m_jaynisspreadtheword MissionDefinition]
+MissionDescription="You've removed my brother from power. The next step is to gather my supporters. My right-hand man is a fellow named Erik Franks. You'll find him in New Haven, keeping an eye on that Pierce bitch. Report to him, and he'll spread the word. Once we've gotten the word out, we'll clean the remaining trash out of Jaynistown. I mean, Taylortown!"
+MissionGiver="Taylor Kobb"
+MissionName="Jaynistown: Spread The Word"
+MissionSummary="Speak with Erik Franks in New Haven."
+Objectives[0]=(ProgressMessage="Erik Franks found:")
+TurnInDescription="We never thought we'd see this day, the day when Jaynistown was liberated from the tyranny of Jaynis Kobb. Long live Taylor Kobb! I'll inform the rest of the men."
+
+[missions.m_jaynisunintendedconseq MissionDefinition]
+MissionDescription="Something is fishy here. You'd better go talk to Helena Pierce. Your liberation of Jaynistown may have had unintended consequences."
+MissionGiver="Erik Franks"
+MissionName="Jaynistown: Unintended Consequences"
+MissionSummary="Report to Helena Pierce In New Haven."
+Objectives[0]=(ProgressMessage="Report to Helena Pierce:")
+TurnInDescription="You have something to report? What have you done?"
+
+[missions.m_kingweewee MissionDefinition]
+MissionDescription="The Tetanus Warren is a series of interconnected hollows under loose piles of rusting scrap metal. As if that weren't dangerous enough, one of the biggest threats to New Haven makes his home there. King Wee Wee is angry, drunken, and surrounded by a legion of followers. I'm offering a fat reward for someone to end his terrible reign."
+MissionGiver="New Haven Bounty Board"
+MissionName="King Tossing"
+MissionSummary="Go to Tetanus Warren and kill King Wee Wee."
+Objectives[0]=(ProgressMessage="King Wee Wee killed:")
+TurnInDescription="Tetanus Warren will no longer suffer under the oppressive rule of King Wee Wee, thanks to you! The threat to New Haven is ended. Here is your payment, with our thanks."
+
+[missions.m_miscommunication_findparts MissionDefinition]
+MissionDescription="The bounty board is missing a fuse, of all things.  Who uses fuses these days, anyhow?  That's the problem, really. They're hard to come by, seeing as most people have thrown 'em all out.  Not like Marcus sells 'em; can't kill anyone with one.  Even if you find one, it probably won't work.  If you find three, there ought to be one in the bunch that will work.  I'd sure appreciate it if you could find some and bring 'em to me."
+MissionGiver="Hudson Johns"
+MissionName="Middle Of Nowhere No More: Fuses? Really?"
+MissionSummary="Collect fuses and return to Hudson Johns."
+Objectives[0]=(ProgressMessage="Bounty Board Fuses:")
+TurnInDescription="Nice going.  These aren't easy to find.  I'll have a look and see if any of them are still good."
+
+[missions.m_miscommunication_investigate MissionDefinition]
+MissionDescription="A once popular fuel depot in the Rust Commons was abandoned a while ago. People have taken to calling it the 'Middle of Nowhere.' There was a Bounty Board out there, but it doesn't work anymore. Go take a look at the board and see if you can find its custodian, Mr. Johns. If you were to get the board working again, you might find several jobs left over from before the malfunction."
+MissionGiver="Helena Pierce"
+MissionName="Middle Of Nowhere No More: Investigate"
+MissionSummary="Find the Middle of Nowhere bounty board and Mr. Johns."
+Objectives[0]=(ProgressMessage="Bounty Board investigated:")
+Objectives[1]=(ProgressMessage="Mr. Johns found:")
+TurnInDescription="What's that? Oh, Miss Helena sent ya! Yeah, that bounty board hasn't worked in along time.  Sure wish it did. Help bring back some traffic to the area."
+
+[missions.m_miscommunication_returntohelena MissionDefinition]
+MissionDescription="Thanks for helpin' me get the board back up and runnin'.  Be sure to check it for jobs. Next time you're in New Haven, you ought to ask Miss Helena or that loser Scooter to come out and pay me a visit. I'd sure like to see them again."
+MissionGiver="Hudson Johns"
+MissionName="Middle Of Nowhere No More: Scoot On Back"
+MissionSummary="Return to Helena with the good news."
+Objectives[0]=(ProgressMessage="Helena talked to:")
+TurnInDescription="You helped Mr. Johns get the board working again? That's great news. I simply must pay the man a visit, if I ever get the chance."
+
+[missions.m_miscommunication_smallfavor MissionDefinition]
+MissionDescription="While I get these fuses assembled and working for the bounty board, I need a small favor. Some spiderants are causing a ruckus near by. Exterminate the bugs and when you're done I should have the fuse ready for the bounty board. You scratch my back...ya, know what I mean?"
+MissionGiver="Hudson Johns"
+MissionName="Middle Of Nowhere No More: Small Favor"
+MissionSummary="Kill off the spiderants for Hudson Johns."
+Objectives[0]=(ProgressMessage="Spiderants killed:")
+TurnInDescription="Nice work.  Will be a while before those buggers bother me again.  Fuses are ready and the board is up and working again."
+
+[missions.m_newhavendefenses MissionDefinition]
+MissionDescription="You seem like someone who can keep a secret. You see, my wife can be quick to anger, and we had, uh, a disagreement. In her rage, she took something of great value to me and threw it away. Go check the dumpsters outside of town. I think you'll know what you're looking for when you find it. I know it's asking a lot, but keep this just between you and me, okay? I'll make it worth your while."
+MissionGiver="Erik Franks"
+MissionName="Dumpster Diving For Great Justice"
+MissionSummary="Search dumpsters around New Haven to recover Erik's, uh, valuables."
+Objectives[0]=(ProgressMessage="Erik's valuables:")
+TurnInDescription="Thanks, man! I'm trusting you to keep this under your hat, right? Here, I'll pay you well to keep this a secret. Don't worry that the money's a little damp, I just washed my hands."
+
+[missions.m_newhavengenerators MissionDefinition]
+MissionDescription="You've got some nerve, Vault Hunter, strutting into New Haven like the world owes you something. Well, I've got news for you. You pull your own weight here, or you die. Before I lift one finger to help you on your mad quest for the Vault, you're going to do something for me. The last electrical storm blew out New Haven's power grid. Scooter tells me the equipment is fixed now, but someone needs to go reactivate all the generators. That's where you come in."
+MissionGiver="Helena Pierce"
+MissionName="Power To The People"
+MissionSummary="Turn on generators around New Haven."
+Objectives[0]=(ProgressMessage="Scooter's power on:")
+Objectives[1]=(ProgressMessage="West Gate power on:")
+Objectives[2]=(ProgressMessage="Tenement power on:")
+Objectives[3]=(ProgressMessage="Rooftop power on:")
+Objectives[4]=(ProgressMessage="North Gate power on:")
+TurnInDescription="So, you're not afraid to get your hands dirty with a little real work now and then. I'm glad to see that you're good for something other than slaughtering bandits."
+
+[missions.m_oldhaven_investigate MissionDefinition]
+MissionDescription="Now that the bridges are open, we've noticed four columns of smoke rising from Old Haven. We believe these are bandit distress calls, since they don't have free access to ECHOnet. It could be a trap, but we can't risk ignoring a problem that's worse than the bandits themselves. I'm offering a reward to anyone who will scout Old Haven and find out what's going on."
+MissionGiver="Helena Pierce"
+MissionName="Smoke Signals: Investigate Old Haven"
+MissionSummary="Infiltrate Old Haven and investigate the smoke signals."
+Objectives[0]=(ProgressMessage="Investigate Old Haven:")
+TurnInDescription="The smoke columns were, in fact, distress calls. The Crimson Lance have routed every bandit in Old Haven, and are now using the signal to lure more bandits into their trap. Unfortunately, they make no distinction between you and the bandits!"
+
+[missions.m_oldhaven_smoked MissionDefinition]
+MissionDescription="Steele has made good on her earlier threats. The Crimson Lance now consider you as much an enemy as any bandit. If they're going to be killing indiscriminately, you need to defuse their little trap before New Haven residents get hurt. Fight your way through Old Haven and put out their smoke signals. I'll reward you well once the job is done."
+MissionGiver="Helena Pierce"
+MissionName="Smoke Signals: Shut Them Down"
+MissionSummary="Shut down the four smoke signals in Old Haven, then return to Helena Pierce."
+Objectives[0]=(ProgressMessage="Apartment District:")
+Objectives[1]=(ProgressMessage="Canal District:")
+Objectives[2]=(ProgressMessage="Junkyard:")
+Objectives[3]=(ProgressMessage="Rooftops:")
+TurnInDescription="Thank you, here's the reward I promised. By the way, I contacted Steele. Without mentioning your name, I told her there was an attack on 'New Haven residents.' She tells me her men were acting on their own. My ass. I know she wants to turn New Haven into another Lance fiefdom, just like Sanctuary. We'll see about that."
+
+[missions.m_reachthesaltflats MissionDefinition]
+MissionDescription="Once our Vault Key is completed, it will lead us to the location of the Vault. There's just one more piece, and my sources tell me that Baron Flynt has it. He lives on a giant digging machine in the Salt Flats. Wait. The gate to the Salt Flats won't open unless you find the silly little Claptrap doorman. My sources tell me he's trapped inside Old Haven, so maybe you'd better go and get him out of there, first. Otherwise, I'll be stuck here with you."
+MissionGiver="Patricia Tannis"
+MissionName="Not Without My Claptrap"
+MissionSummary="Rescue Claptrap in Old Haven."
+Objectives[0]=(ProgressMessage="Claptrap freed:")
+TurnInDescription="Thank you, stranger! I would sing a song about your heroism, but I'm pretty sure the Crimson Lance would hear me and kill us both. They really hate music. So, I'll just see you later at the gate to the Salt Flats! Bye now!"
+
+[missions.m_recoverlostdata_2 MissionDefinition]
+MissionDescription="This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in Rust Commons West, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board."
+MissionGiver="New Haven Bounty Board"
+MissionName="Hidden Journal: Rust Commons West"
+MissionSummary="Download 5 Journal Entries from Data Recorders in Rust Commons West."
+Objectives[0]=(ProgressMessage="Journal Day 224:")
+Objectives[1]=(ProgressMessage="Journal Day 321:")
+Objectives[2]=(ProgressMessage="Journal Day 457:")
+Objectives[3]=(ProgressMessage="Journal Day 481:")
+Objectives[4]=(ProgressMessage="Journal Day 493:")
+TurnInDescription="Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal."
+
+[missions.m_refugeemissingpersons MissionDefinition]
+MissionDescription="Is anyone out there willing to help me? I'm trying to find my cousin, Shawn Stokely, and his son Jed. They both live here in New Haven, but they haven't been home or responded to my calls for weeks. Jed was a troubled young man and I think he may have run away again. Shawn must've gone after him, and now I'm fearing the worst. Anyone, please, search around New Haven and find out what happened to my cousin."
+MissionGiver="New Haven Bounty Board"
+MissionName="Missing Persons"
+MissionSummary="Search for evidence of Shawn Stokely's fate around New Haven."
+Objectives[0]=(ProgressMessage="Shawn Stokely found:")
+TurnInDescription="This corpse matches the description of Shawn Stokely. The word 'Reaver' was carved into his forehead with a knife. The man died clutching a note in his hand. The note reads 'Father, I've joined Krom's army. Don't try to come after me. They've given me a better life than you ever did, and a new name. They call me Reaver.'"
+
+[missions.m_relightthebeacons MissionDefinition]
+MissionDescription="While Dahl still maintained a strong presence on Pandora, they operated two interplanetary beacons, used by interstellar craft for navigation and communication. Recently, bandits have taken up residence around the beacon stations, shutting them down in the process. Somebody needs to get out there and clean the bandit infestation out of those stations, and reactivate the beacons."
+MissionGiver="Helena Pierce"
+MissionName="Relight The Beacons"
+MissionSummary="Reactivate both beacon towers."
+Objectives[0]=(ProgressMessage="North Ridge beacon activated:")
+Objectives[1]=(ProgressMessage="Overlook beacon activated:")
+TurnInDescription="Here's your payment for services rendered. Now that those beacons are active again, hopefully somebody other than Atlas Corp. can access the interplanetary communications network. Getting back in touch with the neighboring systems should do wonders for the local economy."
+
+[missions.m_scavenger4 MissionDefinition]
+MissionDescription="There are components to a submachine gun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Sight, and Barrel."
+MissionGiver="New Haven Bounty Board"
+MissionName="Scavenger: Submachine Gun"
+MissionSummary="Find all of the submachine gun parts."
+Objectives[0]=(ProgressMessage="SMG Body:")
+Objectives[1]=(ProgressMessage="SMG Magazine:")
+Objectives[2]=(ProgressMessage="SMG Sight:")
+Objectives[3]=(ProgressMessage="SMG Barrel:")
+TurnInDescription="Great! Here is your submachine gun, good as new."
+
+[missions.m_scavenger5 MissionDefinition]
+MissionDescription="There are components to a shotgun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Stock, and Barrel."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Scavenger: Shotgun"
+MissionSummary="Find all of the shotgun parts."
+Objectives[0]=(ProgressMessage="Shotgun Body:")
+Objectives[1]=(ProgressMessage="Shotgun Magazine:")
+Objectives[2]=(ProgressMessage="Shotgun Stock:")
+Objectives[3]=(ProgressMessage="Shotgun Barrel:")
+TurnInDescription="Great! Here is your shotgun, good as new."
+
+[missions.m_scootersusedcarparts MissionDefinition]
+MissionDescription="Scooter here. Somebody's been really hard on the Runners lately, and we're not going to see a shipment of replacement parts anytime soon. There are probably plenty of spare parts we could salvage out in the Commons. Take this list and return with the parts, and I'll pay you for 'em."
+MissionGiver="Scooter"
+MissionName="Scooter's Used Car Parts"
+MissionSummary="Collect all the vehicle parts and return to Scooter."
+Objectives[0]=(ProgressMessage="Front fender:")
+Objectives[1]=(ProgressMessage="Rear fender:")
+Objectives[2]=(ProgressMessage="Fuel cell:")
+Objectives[3]=(ProgressMessage="Rusty Engine:")
+TurnInDescription="Thanks, man. With these parts I should be able to keep the Runners running. Somebody's been abusing them like rental cars. You wouldn't happen to know anything about that, would you?"
+
+[missions.m_seektannis MissionDefinition]
+MissionDescription="If you insist on continuing your mad pursuit of the Vault, you should visit Patricia Tannis.  I spoke with her about you, and she seemed eager to meet you. If you hurry, you might find her out at her dig site. Talk to Claptrap along the way, and he'll open the gate for you."
+MissionGiver="Helena Pierce"
+MissionName="Seek Out Tannis"
+MissionSummary="Talk to Tannis at her dig site."
+Objectives[0]=(ProgressMessage="Claptrap talked to:")
+Objectives[1]=(ProgressMessage="Tannis found:")
+TurnInDescription="Incredible! With your brain, and all the hurdles that implies, you have correctly identified a piece of the Vault Key. I want you to leave this with me, so that I may run some tests. I had one of these, once. Now, it is in the hands of Crazy Earl, along with many of my unmentionables. Do you like bugs?"
+
+[missions.m_skrappyneedsfood MissionDefinition]
+MissionDescription="Hey, if you've got nothing better to do with your time, you can go get me some dinner. I'm talkin' about the best food on Pandora, canned skag meat! Only problem is, Krom likes it, too, and he hijacked my entire supply! Make yourself useful! Go on out to Krom's Canyon and hijack it back."
+MissionGiver="Crazy Earl"
+MissionName="Earl Needs Food...Badly"
+MissionSummary="Collect cans of skag meat from Krom's Canyon, then return to Earl."
+Objectives[0]=(ProgressMessage="Canned skag meat:")
+TurnInDescription="With an almost feral look in his eye, Earl snatches the cans of food. He wrestles one of them open, grabs a spoon, and begins eating the contents cold. It's obvious that he's forgotten you were ever here."
+
+[missions.m_slaughtermeatandgreet MissionDefinition]
+MissionDescription="Think you've got what it takes to be a gladiator? Forget those puny Circle Of Death events my weakling brother puts on, this is where you'll find the REAL action! Talk to Chuck Durden, if you think you got what it takes."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="Circle Of Slaughter: Meat and Greet"
+MissionSummary="Talk to Chuck Durden."
+Objectives[0]=(ProgressMessage="Chuck Durden met:")
+TurnInDescription="You think you can hold your own on the arena floor? Come and talk to me any time you want to enter the fray and make a name for yourself. Put on a good show, and you'll be well rewarded."
+
+[missions.m_slaughterwave1 MissionDefinition]
+MissionDescription="All you gotta do is survive. All my pets have to do is tear you in half. See you soon, in one piece or maybe two."
+MissionGiver="Chuck Durden"
+MissionName="Circle Of Slaughter: Round 1"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="Bah! You looked like my candy-ass brother out there. But I'm talking to you, so I owe you. Now scram."
+
+[missions.m_slaughterwave2 MissionDefinition]
+MissionDescription="Back for more?I'm gonna get 'em real riled up before I let 'em out this time.They're just gonna wanna kill the first person they see. I'd hate to be that guy.Oh wait, that's you."
+MissionGiver="Chuck Durden"
+MissionName="Circle Of Slaughter: Round 2"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="Next time I'm gonna light the stick on fire before I poke 'em. I got to get me better stock if they can't take out a lay-about like you. Here's your cash."
+
+[missions.m_slaughterwave3 MissionDefinition]
+MissionDescription="This is it. You survive this time, I might actually respect you. I'm betting heavily against you, course I know what's coming and it ain't gonna be pretty."
+MissionGiver="Chuck Durden"
+MissionName="Circle Of Slaughter: Final Round"
+MissionSummary="It's kill or be killed!"
+Objectives[0]=(ProgressMessage="Round survived:")
+TurnInDescription="I underestimated you stranger. I like your style. Course, can't let you fight anymore. Going through my pets too quickly. Here are your winnings. See you 'round."
+
+[missions.m_squatterhousehunting MissionDefinition]
+MissionDescription="I live in New Haven, but I can't stand having a woman in charge anymore. So, I found a nice bit o' waterfront property out in the Trash Coast. Trouble is, there's a bunch o' them scythid whatever-the-hells hanging around outside, including a really tough one I called Bleeder. Kill them scythids, especially Bleeder, and I'll be able to get the hell away from this place."
+MissionGiver="Middle Of Nowhere Bounty Board"
+MissionName="House Hunting"
+MissionSummary="Go to the Trash Coast and kill Bleeder."
+Objectives[0]=(ProgressMessage="Bleeder killed:")
+TurnInDescription="Cleared out my new digs, eh? Thank you, stranger! I'm out o' this cesspit. To hell with these New Haven liberals and their 'woman in charge.'"
+
+[missions.m_thirdfragment MissionDefinition]
+MissionDescription="You want my alien doo-dad? It was stolen from me by one tough-ass bandit, a bastard by the name of Krom. If you're stupid enough to take him on, you'll find him to the northeast, in Krom's Canyon. Just follow the river north and past Flood Lock. If you get it back from him, you and that Tannis woman do whatever you want with it. I'm done with it."
+MissionGiver="Crazy Earl"
+MissionName="The Next Piece"
+MissionSummary="Get Krom's piece of the Vault Key and return to Tannis."
+Objectives[0]=(ProgressMessage="Krom killed:")
+Objectives[1]=(ProgressMessage="Vault Key Piece:")
+TurnInDescription="This artifact fits together with the one you brought me earlier, like puzzle pieces. I've seen other Eridian artifacts that worked like this. Apparently, those aliens really liked puzzles. Once all of the pieces are brought together, the object activates. You should find more pieces like this one, so we can put them together. Together."
+
+[missions.m_turnonthestank MissionDefinition]
+MissionDescription="Man!  You wouldn't believe the crap I have to put up with.  And when I say crap I mean honest to goodness crap!  Seems as though bandits overran the Rust Commons Sump Station and killed the personnel. Now the dang pipes are clogged! With all that slurry trickling through tons of vermin-infested, rusting metal, it gets saturated with very unpleasant debris, if you know what I mean. We need it fixed immediately, or we'll be up to our ears in who-knows-what."
+MissionGiver="Scooter"
+MissionName="Up To Our Ears"
+MissionSummary="Destroy the blockage in 2 pipes at the Rust Commons Sump Station."
+Objectives[0]=(ProgressMessage="Pipe 1 clear:")
+Objectives[1]=(ProgressMessage="Pipe 2 clear:")
+TurnInDescription="Now you know what I mean when I have to deal with crap.  That ought to be alright for now. Thank you. Now I just need to figure out how I'm ever going to bribe somebody to work there again."
+
+[missions.m_wantedfreshfish MissionDefinition]
+MissionDescription="Fish are a rarity in the sludge you find around the Rust Commons, but they're out there and I'm willing to pay for them. There's no bait, lures, or nets that can catch the bastards, though. Your best bet is to go to the docks at Treacher's Landing and drop a grenade into the water. Grab whatever fish float to the surface, and watch out for the bandits."
+MissionGiver="New Haven Bounty Board"
+MissionName="Wanted: Fresh Fish"
+MissionSummary="Throw grenades into the water around Treacher's Landing, and pick up the fish that float to the surface. Bring them back to the New Haven bounty board."
+Objectives[0]=(ProgressMessage="Fresh Fish:")
+TurnInDescription="There'll be gumbo on the dinner table tonight! Thank you for getting these for me. Here's the payment we agreed to."
+

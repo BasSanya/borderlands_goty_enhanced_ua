@@ -1,0 +1,8 @@
+[RegList:StuntArena TeleportOutpostLookupObject]
+OutpostDisplayName="StuntArena"
+OutpostDescription="No Description"
+
+[RegList:TBoneJunc TeleportOutpostLookupObject]
+OutpostDisplayName="T-Bone Junction"
+OutpostDescription="No Description"
+

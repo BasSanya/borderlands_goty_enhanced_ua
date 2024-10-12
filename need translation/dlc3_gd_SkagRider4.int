@@ -1,0 +1,6 @@
+[SkagMount4.PopOpDen.Pawn_Balance_Rider4 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=)
+
+[SkagMount4.PopOpDen.Pawn_Balance_RiderOff4 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Midget"))
+

@@ -1,0 +1,475 @@
+[Bandits.Common.Pawn_Balance_Elite AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Raider"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Ravager"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Desperado"))
+
+[Bandits.Common.Pawn_Balance_Elite_00_Intro AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Raider"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Ravager"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Desperado"))
+
+[Bandits.Common.Pawn_Balance_Elite_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Raider"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Ravager"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Desperado"))
+
+[Bandits.Common.Pawn_Balance_Grunt_00_Intro AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Thug"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Goon"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Outlaw"))
+
+[Bandits.Common.Pawn_Balance_Grunt_01 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Common.Pawn_Balance_Grunt_02 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[5]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Common.Pawn_Balance_Grunt_03 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[5]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Common.Pawn_Balance_Grunt_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Thug"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Goon"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Outlaw"))
+
+[Bandits.Common.Pawn_Balance_Grunt_Basic AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Thug"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Thug"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Goon"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Outlaw"))
+
+[Bandits.Common.Pawn_Balance_Grunt_Gunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Killer"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Killer"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Murderer"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Executioner"))
+
+[Bandits.Common.Pawn_Balance_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[1]=(GradeModifiers=(DisplayName="Brute"))
+Grades[2]=(GradeModifiers=(DisplayName="Bully"))
+
+[Bandits.Common.Pawn_Balance_Heavy_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Bruiser"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Brute"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Bully"))
+
+[Bandits.Common.Pawn_Balance_Midget_Shotgunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+Grades[1]=(GradeModifiers=(DisplayName="Angry Little Shotgunner"))
+Grades[2]=(GradeModifiers=(DisplayName="Fuming Stunted Shotgunner"))
+
+[Bandits.Common.Pawn_Balance_Psycho AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Maniac"))
+Grades[2]=(GradeModifiers=(DisplayName="Lunatic"))
+
+[Bandits.Common.Pawn_Balance_Psycho_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Maniac"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Lunatic"))
+
+[Bandits.Common.Pawn_Balance_Psycho_Fire AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Burning Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Blazing Maniac"))
+Grades[2]=(GradeModifiers=(DisplayName="Scorching Lunatic"))
+
+[Bandits.Common.Pawn_Balance_Psycho_Midget AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[2]=(GradeModifiers=(DisplayName="Freaky Little Maniac"))
+Grades[3]=(GradeModifiers=(DisplayName="Apeshit Stunted Lunatic"))
+
+[Bandits.Common.Pawn_Balance_RoidRagePsycho AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Roid Rage Psycho"))
+
+[Bandits.Friendly.Pawn_Balance_Highwaymen AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Settler"))
+
+[Bandits.Named.Pawn_Balance_BaronFlynt AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Baron Flynt"))
+
+[Bandits.Named.Pawn_Balance_Bonehead AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bone Head"))
+
+[Bandits.Named.Pawn_Balance_Franz AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Franz"))
+
+[Bandits.Named.Pawn_Balance_Hanz AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Hanz"))
+
+[Bandits.Named.Pawn_Balance_KingWeeWee AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="King Wee Wee"))
+Grades[1]=(GradeModifiers=(DisplayName="King Wee Wee"))
+Grades[2]=(GradeModifiers=(DisplayName="King Wee Wee"))
+Grades[3]=(GradeModifiers=(DisplayName="King Wee Wee"))
+Grades[4]=(GradeModifiers=(DisplayName="King Wee Wee"))
+
+[Bandits.Named.Pawn_Balance_Kobb_Jaynis AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Jaynis Kobb"))
+
+[Bandits.Named.Pawn_Balance_Kobb_Taylor AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Taylor Kobb"))
+
+[Bandits.Named.Pawn_Balance_Krom AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Krom"))
+
+[Bandits.Named.Pawn_Balance_NineToes AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Nine-Toes"))
+
+[Bandits.Named.Pawn_Balance_OneEyeJack AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="One-Eyed Jack"))
+
+[Bandits.Named.Pawn_Balance_Reaver AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Reaver"))
+
+[Bandits.Named.Pawn_Balance_RoidRagePsycho AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Roid Rage Psycho"))
+
+[Bandits.Named.Pawn_Balance_Sledge AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Sledge"))
+
+[Bandits.Pawn_Balance_Badass_Corrosive_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+Grades[5]=(GradeModifiers=(DisplayName="Badass Corrosive Heavy"))
+
+[Bandits.Pawn_Balance_Badass_Explosive_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+Grades[5]=(GradeModifiers=(DisplayName="Badass Explosive Heavy"))
+
+[Bandits.Pawn_Balance_Badass_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[5]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+
+[Bandits.Pawn_Balance_Badass_Incendiary_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+Grades[5]=(GradeModifiers=(DisplayName="Badass Incendiary Heavy"))
+
+[Bandits.Pawn_Balance_Badass_Shock_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+Grades[5]=(GradeModifiers=(DisplayName="Badass Shock Heavy"))
+
+[Bandits.Pawn_Balance_Boss AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Sledge"))
+Grades[1]=(GradeModifiers=(DisplayName="Sledge"))
+Grades[2]=(GradeModifiers=(DisplayName="Sledge"))
+Grades[3]=(GradeModifiers=(DisplayName="Sledge"))
+
+[Bandits.Pawn_Balance_Boss_Baron AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Baron Flynt"))
+Grades[1]=(GradeModifiers=(DisplayName="Baron Flynt"))
+Grades[2]=(GradeModifiers=(DisplayName="Baron Flynt"))
+Grades[3]=(GradeModifiers=(DisplayName="Baron Flynt"))
+
+[Bandits.Pawn_Balance_Boss_Captain1 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bone Head"))
+Grades[1]=(GradeModifiers=(DisplayName="Bone Head"))
+Grades[2]=(GradeModifiers=(DisplayName="Bone Head"))
+
+[Bandits.Pawn_Balance_Boss_Captain2 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Nine-Toes"))
+Grades[1]=(GradeModifiers=(DisplayName="Nine-Toes"))
+Grades[2]=(GradeModifiers=(DisplayName="Nine-Toes"))
+
+[Bandits.Pawn_Balance_Boss_Captain3 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="One-Eyed Jack"))
+Grades[1]=(GradeModifiers=(DisplayName="One-Eyed Jack"))
+
+[Bandits.Pawn_Balance_Elite AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Elite Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Elite Bandit"))
+Grades[2]=(GradeModifiers=(DisplayName="Elite Bandit"))
+Grades[3]=(GradeModifiers=(DisplayName="Elite Bandit"))
+Grades[4]=(GradeModifiers=(DisplayName="Elite Bandit"))
+
+[Bandits.Pawn_Balance_Elite_Bombardier AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Bombardier"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Bombardier"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Bombardier"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Bombardier"))
+Grades[4]=(GradeModifiers=(DisplayName="Bandit Bombardier"))
+
+[Bandits.Pawn_Balance_Elite_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[1]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[2]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[3]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[4]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[5]=(GradeModifiers=(DisplayName="Bruiser"))
+Grades[6]=(GradeModifiers=(DisplayName="Bruiser"))
+
+[Bandits.Pawn_Balance_Elite_HeavyGunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Heavy Gunner"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Heavy Gunner"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Heavy Gunner"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Heavy Gunner"))
+Grades[4]=(GradeModifiers=(DisplayName="Bandit Heavy Gunner"))
+
+[Bandits.Pawn_Balance_Elite_Shotgunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Shotgunner"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Shotgunner"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Shotgunner"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Shotgunner"))
+Grades[4]=(GradeModifiers=(DisplayName="Bandit Shotgunner"))
+
+[Bandits.Pawn_Balance_Elite_Sniper AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Bandit Sniper"))
+Grades[1]=(GradeModifiers=(DisplayName="Bandit Sniper"))
+Grades[2]=(GradeModifiers=(DisplayName="Bandit Sniper"))
+Grades[3]=(GradeModifiers=(DisplayName="Bandit Sniper"))
+Grades[4]=(GradeModifiers=(DisplayName="Bandit Sniper"))
+
+[Bandits.Pawn_Balance_Grunt_Intro AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+
+[Bandits.Pawn_Balance_Grunt_Intro:Behavior_AttributeEffect_0.SkillDefinition_0 SkillDefinition]
+LockedSkillDetailStr=<Locked>
+SkillDescription=
+SkillName=
+
+[Bandits.Pawn_Balance_Grunt_Intro:Behavior_AttributeEffect_1.SkillDefinition_1 SkillDefinition]
+LockedSkillDetailStr=<Locked>
+SkillDescription=
+SkillName=
+
+[Bandits.Pawn_Balance_Grunt_LongRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+
+[Bandits.Pawn_Balance_Grunt_MedRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+
+[Bandits.Pawn_Balance_Grunt_ShortRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+
+[Bandits.Pawn_Balance_Grunt01_AllRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Pawn_Balance_Grunt02_AllRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Pawn_Balance_Grunt03_AllRange AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[1]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[2]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[3]=(GradeModifiers=(DisplayName="Grunt"))
+Grades[4]=(GradeModifiers=(DisplayName="Grunt"))
+
+[Bandits.Pawn_Balance_Highwaymen AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Highwaymen"))
+Grades[1]=(GradeModifiers=(DisplayName="Highwaymen"))
+Grades[2]=(GradeModifiers=(DisplayName="Highwaymen"))
+Grades[3]=(GradeModifiers=(DisplayName="Highwaymen"))
+Grades[4]=(GradeModifiers=(DisplayName="Highwaymen"))
+
+[Bandits.Pawn_Balance_JumpPack AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grunt Bandit"))
+Grades[1]=(GradeModifiers=(DisplayName="Desert Bandit"))
+Grades[2]=(GradeModifiers=(DisplayName="Garbage Bandit"))
+Grades[3]=(GradeModifiers=(DisplayName="Cut Feature Bandit"))
+
+[Bandits.Pawn_Balance_Midget_Shotgunner AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+Grades[1]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+Grades[2]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+Grades[3]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+Grades[4]=(GradeModifiers=(DisplayName="Midget Shotgunner"))
+
+[Bandits.Pawn_Balance_Psycho AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Psycho"))
+Grades[2]=(GradeModifiers=(DisplayName="Psycho"))
+Grades[3]=(GradeModifiers=(DisplayName="Psycho"))
+
+[Bandits.Pawn_Balance_Psycho_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mutant Heavy Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Mutant Heavy Psycho"))
+Grades[2]=(GradeModifiers=(DisplayName="Mutant Heavy Psycho"))
+Grades[3]=(GradeModifiers=(DisplayName="Mutant Heavy Psycho"))
+Grades[4]=(GradeModifiers=(DisplayName="Mutant Heavy Psycho"))
+
+[Bandits.Pawn_Balance_Psycho_Midget AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[1]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[2]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[3]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+Grades[4]=(GradeModifiers=(DisplayName="Mutant Midget Psycho"))
+
+[Bandits.Vehicles.Vehicle_Balance_KromTurret VehicleBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Krom's Turret"))
+
+[Bandits.Vehicles.Vehicle_Balance_MelPatrolMG VehicleBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mad Mel Patrol"))
+
+[Bandits.Vehicles.Vehicle_Balance_MelPatrolRocket VehicleBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Mad Mel Patrol"))
+
+[CrimsonLance.Pawn_Balance_Infantry AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Infantry"))
+Grades[1]=(GradeModifiers=(DisplayName="Lance Marine"))
+Grades[2]=(GradeModifiers=(DisplayName="Lance Commando"))
+
+[CrimsonLance.Pawn_Balance_Infantry_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Infantry"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Marine"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Commando"))
+
+[CrimsonLance.Pawn_Balance_Lance_Defender AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Defender"))
+Grades[1]=(GradeModifiers=(DisplayName="Lance Warden"))
+Grades[2]=(GradeModifiers=(DisplayName="Lance Sentinel"))
+
+[CrimsonLance.Pawn_Balance_Lance_Defender_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Defender"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Warden"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Sentinel"))
+
+[CrimsonLance.Pawn_Balance_Lance_Elite AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[1]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[2]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[3]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[4]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+
+[CrimsonLance.Pawn_Balance_Lance_Elite_Depricated AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[1]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[2]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[3]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+Grades[4]=(GradeModifiers=(DisplayName="Crimson Lance Elite"))
+
+[CrimsonLance.Pawn_Balance_Lance_Engineer AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Engineer"))
+Grades[1]=(GradeModifiers=(DisplayName="Lance Machinist"))
+Grades[2]=(GradeModifiers=(DisplayName="Lance Technician"))
+
+[CrimsonLance.Pawn_Balance_Lance_Engineer_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Engineer"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Machinist"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Technician"))
+
+[CrimsonLance.Pawn_Balance_Lance_Heavy AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crimson Lance Heavy"))
+Grades[1]=(GradeModifiers=(DisplayName="Crimson Lance Heavy"))
+Grades[2]=(GradeModifiers=(DisplayName="Crimson Lance Heavy"))
+Grades[3]=(GradeModifiers=(DisplayName="Crimson Lance Heavy"))
+Grades[4]=(GradeModifiers=(DisplayName="Crimson Lance Heavy"))
+
+[CrimsonLance.Pawn_Balance_Lance_Private AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Crimson Lance Trooper"))
+Grades[1]=(GradeModifiers=(DisplayName="Crimson Lance Trooper"))
+Grades[2]=(GradeModifiers=(DisplayName="Crimson Lance Trooper"))
+Grades[3]=(GradeModifiers=(DisplayName="Crimson Lance Trooper"))
+Grades[4]=(GradeModifiers=(DisplayName="Crimson Lance Trooper"))
+
+[CrimsonLance.Pawn_Balance_MasterMcCloud AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Master McCloud"))
+
+[CrimsonLance.Pawn_Balance_RoyalGuard AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Royal Guard"))
+
+[Guardians.Pawn_Balance_Guardian_Arch AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Arch Guardian"))
+Grades[1]=(GradeModifiers=(DisplayName="Arch Guardian"))
+Grades[2]=(GradeModifiers=(DisplayName="Arch Guardian"))
+
+[Guardians.Pawn_Balance_Guardian_Cherub AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Cherub Guardian"))
+Grades[1]=(GradeModifiers=(DisplayName="Cherub Guardian"))
+Grades[2]=(GradeModifiers=(DisplayName="Cherub Guardian"))
+
+[Guardians.Pawn_Balance_Guardian_Principle AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Principal Guardian"))
+Grades[1]=(GradeModifiers=(DisplayName="Principal Guardian"))
+Grades[2]=(GradeModifiers=(DisplayName="Principal Guardian"))
+
+[Guardians.Pawn_Balance_Guardian_Sera AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Sera Guardian"))
+Grades[1]=(GradeModifiers=(DisplayName="Sera Guardian"))
+Grades[2]=(GradeModifiers=(DisplayName="Sera Guardian"))
+
+[Guardians.Pawn_Balance_Guardian_TheGhost AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Guardian Wraith"))
+
+[Guardians.Pawn_Balance_Guardian_TheGhostBig AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Guardian Spectre"))
+
+[Guardians.Pawn_Balance_Principle_Badass AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Badass Guardian"))
+Grades[1]=(GradeModifiers=(DisplayName="BadMutha Guardian"))
+Grades[2]=(GradeModifiers=(DisplayName="SuperBad Guardian"))
+
+[Turret.Pawn_Balance_Turret AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Auto Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Auto Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Auto Turret"))
+
+[Turret.Pawn_Balance_Turret_Gatling AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Gatling Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Gatling Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Gatling Turret"))
+
+[Turret.Pawn_Balance_Turret_Grenade AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grenade Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Grenade Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Grenade Turret"))
+
+[Turret.Pawn_Balance_Turret_Rocket AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Rocket Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Rocket Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Rocket Turret"))
+

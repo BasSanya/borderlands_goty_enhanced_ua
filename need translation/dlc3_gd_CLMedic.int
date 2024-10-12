@@ -1,0 +1,8 @@
+[Skills.Skill_HealingCrosses SkillDefinition]
+SkillName="Skill_HealedbyTurret"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Turret.Pawn_Balance_Scorpio_Medic AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Lance Aid Station Scorpio"))
+

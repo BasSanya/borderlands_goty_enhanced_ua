@@ -1,0 +1,27 @@
+[FontLib]
+FontLib=Fonts_en.fonts_en
+
+[Fonts]
+BodyFont=OCR A Extended,normal
+HeadFont=SF Theramin Gothic,bold
+NumbersFont=Fear Factor,normal
+WillowBody=WillowBody,normal
+WillowFont=PerfectPixel,normal
+WillowHead=WillowHead,normal
+WillowHeader=Space Marine,normal
+WillowItal=Space Marine,italics
+WillowScript=Brush Script Std,normal
+
+[GFxGameViewportClient]
+ConnectingMessage="CONNECTING"
+LoadingMessage="LOADING"
+PausedMessage=""
+PrecachingMessage="PRECACHING"
+SavingMessage="SAVING"
+
+[IME]
+MoviePath=GFxIME.IME
+
+[Translation]
+Enable=1
+

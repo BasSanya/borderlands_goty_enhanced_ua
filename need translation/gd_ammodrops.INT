@@ -1,0 +1,233 @@
+[Pickups.AmmoDrop_Assault_Rifle_Bullets ItemDefinition]
+ItemName="Combat Rifle Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Combat Rifle Rounds"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Combat Rifle Ammo At Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Assault_Rifle_Bullets:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Combat Rifle bullets."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Combat_Shotgun_Shells ItemDefinition]
+ItemName="Shotgun Shells"
+NoManufacturerName="Generic"
+PickupMessage="Shotgun Shells"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Shotgun Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Combat_Shotgun_Shells:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Shotgun shells."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Grenade_Protean ItemDefinition]
+ItemName="Grenade"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Grenade Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Grenade_Protean:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Grenade."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Patrol_SMG_Clip ItemDefinition]
+ItemName="SMG Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Patrol SMG Bullets"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="SMG Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Patrol_SMG_Clip:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Contains $NUMBER$ SMG bullets."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Repeater_Pistol_Clip ItemDefinition]
+ItemName="Repeater Pistol Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Repeater Pistol Ammo"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Repeater Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Repeater_Pistol_Clip:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Repeater Pistol bullets."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Revolver_Pistol_Rounds ItemDefinition]
+ItemName="Revolver Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Revolver Pistol Rounds"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Revolver Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Revolver_Pistol_Rounds:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Revolver bullets."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Rocket_Launcher ItemDefinition]
+ItemName="Launcher Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Launcher Ammo"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Launcher Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Rocket_Launcher:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Contains $NUMBER$ shots for Grenade Launchers and Rocket Launchers."
+NoConstraintText=""
+Suffix=""
+
+[Pickups.AmmoDrop_Sniper_Rifle_Cartridges ItemDefinition]
+ItemName="Sniper Rifle Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Sniper Rifle"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Sniper Rifle Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Pickups.AmmoDrop_Sniper_Rifle_Cartridges:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Contains $NUMBER$ Sniper Rifle bullets."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Assault_Rifle_Bullets ItemDefinition]
+ItemName="Combat Rifle Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Combat Rifle Rounds"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Combat Rifle Ammo At Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Assault_Rifle_Bullets:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Contains 54 Combat Rifle bullets."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Combat_Shotgun_Shells ItemDefinition]
+ItemName="Shotgun Shells"
+NoManufacturerName="Generic"
+PickupMessage="Shotgun Shells"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Shotgun Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Combat_Shotgun_Shells:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Contains 24 Shotgun shells."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Grenade_Protean ItemDefinition]
+ItemName="Grenade"
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Grenade Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Grenade_Protean:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Contains 3 Grenades."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Patrol_SMG_Clip ItemDefinition]
+ItemName="SMG Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Patrol SMG Bullets"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="SMG Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Patrol_SMG_Clip:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Contains 72 SMG bullets."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Repeater_Pistol_Clip ItemDefinition]
+ItemName="Repeater Pistol Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Repeater Pistol Ammo"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Repeater Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Repeater_Pistol_Clip:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Contains 54 Repeater Pistol bullets."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Revolver_Pistol_Rounds ItemDefinition]
+ItemName="Revolver Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Revolver Pistol Rounds"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Revolver Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Revolver_Pistol_Rounds:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Contains 18 Revolver bullets."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Rocket_Launcher ItemDefinition]
+ItemName="Launcher Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Launcher Ammo"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Launcher Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Rocket_Launcher:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Contains 12 rockets for Rocket Launchers."
+NoConstraintText=""
+Suffix=""
+
+[Shop.AmmoShop_Sniper_Rifle_Cartridges ItemDefinition]
+ItemName="Sniper Rifle Ammo"
+NoManufacturerName="Generic"
+PickupMessage="Sniper Rifle"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Sniper Rifle Ammo at Maximum"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Shop.AmmoShop_Sniper_Rifle_Cartridges:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Contains 18 Sniper Rifle bullets."
+NoConstraintText=""
+Suffix=""
+
+[TestDrops.FullAmmo ItemDefinition]
+ItemName="MEGA Ammo Pickup"
+NoManufacturerName="Generic"
+PickupMessage="MEGA Ammo Pickup"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+

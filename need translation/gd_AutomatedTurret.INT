@@ -1,0 +1,26 @@
+[Projectiles.Scorpio_SupplyDrop:Behavior_AttributeEffect_2.SkillDefinition_8 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[Projectiles.Scorpio_SupplyDrop:Behavior_AttributeEffect_3.SkillDefinition_9 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[Weapons.WeaponType_AutomatedTurretMG WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Automated Turret Machine Gun"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Weapons.WeaponType_AutomatedTurretRL WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Automated Turret Rocket Launcher"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+

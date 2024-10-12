@@ -1,0 +1,15 @@
+[MIRV.MIRVReaction:Behavior_AttributeEffect_4.SkillDefinition_4 SkillDefinition]
+LockedSkillDetailStr=<Locked>
+SkillDescription=
+SkillName=grenadesgrenades
+
+[Transfusion.Transfusion_Projectile_Heal:Behavior_AttributeEffect_1.SkillDefinition_1 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[Transfusion.TransfusionReaction:Behavior_AttributeEffect_7.SkillDefinition_7 SkillDefinition]
+LockedSkillDetailStr=<Locked>
+SkillDescription=
+SkillName=whatthehellwasthat
+

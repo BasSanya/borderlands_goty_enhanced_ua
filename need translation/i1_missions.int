@@ -1,0 +1,97 @@
+[missions.m_banditconvoy03 MissionDefinition]
+MissionName="Road Warriors: Bandit Apocalypse"
+MissionDescription="You've decimated the bandit fleet in this area, and Mad Mel must respond or his men will take it as a sign of weakness. Seek him out in the Dahl Headland and end him. Be careful. He is a lethal weapon in any vehicle. After he's dead, you can continue on your way to New Haven. Talk to the Claptrap at the gate."
+TurnInDescription="Finally, payback against that Mad Mel! It's great to see someone with a brave heart willing to go out there and live dangerously. Well done! With Mad Mel no longer a concern, I will happily open the gate to New Haven for you."
+MissionSummary="Kill Mad Mel, then talk to Claptrap to be allowed into New Haven."
+MissionGiver="Lucky Zaford"
+Objectives[0]=(ProgressMessage="Mad Mel killed:")
+Objectives[1]=(ProgressMessage="Claptrap talked to:")
+
+[missions.m_powerlines MissionDefinition]
+MissionName="Powering The Fast Travel Network"
+MissionDescription="I wanna to get back to Ernest, but I can't face another bandit. Fast Travel would be okay, but it's been offline around here for ages. Mad Mel blocks Scooter from coming to fix it. If Fast Travel were working, we could instantly teleport to any New-U station we've ever visited, even the one next to Ernest's Emporium. Will you fix it, please? You just gotta climb the poles and throw the breakers, then hit the master switch over at the station. Easy, right?"
+TurnInDescription="Great, the Fast Travel system is back online! I'll pop on over to Ernest later. Hmm, don't you have a Fast Travel pass? I've got a spare, you can have that one. Now you can use Fast Travel! It lets you teleport to any New-U station you've visited before. Anyways, I'm feelin' a little better now. Wanna rid the Headlands of Mad Mel?"
+MissionSummary="Throw the Fast Travel breakers and flip the master switch."
+MissionGiver="Lucky Zaford"
+Objectives[0]=(ProgressMessage="Breakers thrown:")
+Objectives[1]=(ProgressMessage="Master switch flipped:")
+
+[missions.m_assassinate_skagzilla MissionDefinition]
+MissionName="Big Game Hunter"
+MissionDescription="See all the giant bones? Dug them up myself. I thought these creatures were extinct until, down at Wellspring Bluff, I came across a skag bigger than any I had ever seen! Its diet of cesium cactus, Runner fuel, and of course, human flesh, seems to have endowed it with incredible mutations. Truly, Skagzilla is a marvel of adaptation and survival. So, I want you to acquire some bait, lure it out, and kill it!"
+TurnInDescription="Magnificent show! I'm going to have him stuffed and mounted in my den!"
+MissionSummary="Get some bait, place it outside the cave, then kill Skagzilla."
+MissionGiver="Ernest Whitting"
+Objectives[0]=(ProgressMessage="Skagzilla Bait:")
+Objectives[1]=(ProgressMessage="Bait placed:")
+Objectives[2]=(ProgressMessage="Skagzilla killed:")
+
+[missions.m_fuelsupply MissionDefinition]
+MissionName="Fuel Feud"
+MissionDescription="The worst part about living out here isn't the frequent skag attacks, it's the traffic. And by traffic, I mean those bandit bastards that think they have a right to shoot anything that moves. Hit 'em where it hurts. Destroy their fuel tanks so we can ride free!"
+TurnInDescription="That oughta slow 'em down!"
+MissionSummary="Destroy the Bandit Fuel Tanks."
+MissionGiver="Lucky's Bounty Board"
+Objectives[0]=(ProgressMessage="Fuel Tanks destroyed:")
+
+[missions.m_banditconvoy01 MissionDefinition]
+MissionName="Road Warriors: Hot Shots"
+MissionDescription="Mad Mel has blocked the road to New Haven, and he spends most of his time terrorizing the southern part of the Headland. He hardly ever comes up here. If you want him to face you, you'll need to get his attention first. What says 'I'm going to kick your ass' better than killing a bunch of his men and destroying a lot of his hardware?"
+TurnInDescription="This is a great start. Every bandit Runner you destroy weakens Mad Mel that much more."
+MissionSummary="Eliminate Bandit Runner Patrols."
+MissionGiver="Lucky Zaford"
+Objectives[0]=(ProgressMessage="Runner Patrols destroyed:")
+
+[missions.m_scavenger3 MissionDefinition]
+MissionName="Scavenger: Revolver"
+MissionDescription="There are components to a revolver scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Cylinder, Sight, and Barrel."
+TurnInDescription="Great! Here is your revolver, good as new."
+MissionSummary="Find all of the revolver parts."
+MissionGiver="Lucky's Bounty Board"
+Objectives[0]=(ProgressMessage="Revolver Body:")
+Objectives[1]=(ProgressMessage="Revolver Cylinder:")
+Objectives[2]=(ProgressMessage="Revolver Sight:")
+Objectives[3]=(ProgressMessage="Revolver Barrel:")
+
+[missions.m_abandoneddig MissionDefinition]
+MissionName="Ghosts Of The Vault"
+MissionDescription="This is Tannis. I was digging in the Dahl Headland, and came very close to uncovering an Elemental Artifact, most likely from the Vault. I was forced to abandon the dig when my brain-dead team quit. They said they saw ghosts, or Bigfoot, or something. If you're someone who isn't a superstitious dolt, I invite you to recover the artifact for yourself. Here's the freight lift code so you can access the site."
+TurnInDescription="You have discovered the Elemental Artifact which Tannis spoke of. She won't mind if you keep it for yourself, right?"
+MissionSummary="Visit the Haunted Excavation and recover the Elemental Artifact."
+MissionGiver="Lucky's Bounty Board"
+Objectives[0]=(ProgressMessage="Elemental Artifact found:")
+
+[missions.m_openingtheracetrack MissionDefinition]
+MissionName="Death Race Pandora"
+MissionDescription="There's an old race track in the Dahl Headland, called the Ludicrous Speedway. It was great in its day, but it's been abandoned since the corporations pulled out. I'm thinking of reopening the place, but there's a catch. It's been overrun with vermin. I need someone to go out there and kill all the bugs."
+TurnInDescription="I should be able to get the track back open for business now, thanks to you. Hope this paycheck covers it."
+MissionSummary="Kill the Scythid Crawlers at the racetrack."
+MissionGiver="Lucky's Bounty Board"
+Objectives[0]=(ProgressMessage="Scythid killed:")
+
+[missions.m_banditconvoy02 MissionDefinition]
+MissionName="Road Warriors: No Man's Land"
+MissionDescription="You've gotten Mad Mel's attention. Now it's time to force him to react. Some of his reserve Runners are parked at the North Cistern and Wellspring Bluff camps. Destroy those, and I bet he'll get pissed enough to finally come out of his hole."
+TurnInDescription="That did it. Mad Mel will have no choice but to face you, now."
+MissionSummary="Destroy the parked Runners at the North Cistern and Wellspring Bluff camps."
+MissionGiver="Lucky Zaford"
+Objectives[0]=(ProgressMessage="North Runners destroyed:")
+Objectives[1]=(ProgressMessage="West Runners destroyed:")
+
+[missions.m_repairgaspipes MissionDefinition]
+MissionName="Well There's Your Problem Right There"
+MissionDescription="What with all the gunfights going on around here, my fuel pipes have got more holes than Swiss cheese. I think the system is salvageable, I just need somebody to close a few valves for me. I'd do it myself, but I'm afraid there'd soon be holes in me, too!"
+TurnInDescription="Thanks, it looks like my fuel station is all set to open for business. Now I've just got to fill out some paperwork for Helena Pierce. She's pretty adamant about her damned fire safety codes."
+MissionSummary="Close all Fuel Pipe Valves around the Lucky's Last Chance."
+MissionGiver="Lucky's Bounty Board"
+Objectives[0]=(ProgressMessage="Valves closed:")
+
+[missions.m_roadblocks MissionDefinition]
+MissionName="Getting Lucky"
+MissionDescription="You showed up at just the right time! Bandits decided to lay siege to the Last Chance Waterin' Hole to the south, and my friend Lucky is trapped inside! He called me for help just before you showed up. I wasn't sure what to do, but you're here now. Please, go help my friend!"
+TurnInDescription="Thanks, man. You really saved my bacon there. We really need to do something about these bandits. They're like drunk, pissed off hornets now that Sledge is dead."
+MissionSummary="Rescue Lucky Zaford at the Last Chance Waterin' Hole."
+MissionGiver="Ernest Whitting"
+Objectives[0]=(ProgressMessage="Bandits killed:")
+Objectives[1]=(ProgressMessage="Lucky rescued:")
+

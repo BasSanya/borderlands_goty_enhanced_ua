@@ -1,0 +1,224 @@
+[A_Item.Item_FireGrenade_ForPsychos ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Stock Grenade Modulator"
+PickupMessage="Acquired Stock Grenade Modulator."
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_GrenadeModulator ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Grenade Modulator"
+PickupMessage="Acquired Rubberized Grenade Modulator."
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_GrenadeModulator_Stock ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Stock Grenade Modulator"
+PickupMessage="Acquired Stock Grenade Modulator."
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Body.body1_explosive ItemPartDefinition]
+PartName=""
+
+[Body.body2_incendiary ItemPartDefinition]
+PartName=""
+
+[Body.body3_corrosive ItemPartDefinition]
+PartName=""
+
+[Body.body4_shock ItemPartDefinition]
+PartName=""
+
+[Body.body5_notech ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside1_Explosive ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftsidenone ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Anshin_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Anshin_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Transfusion grenades steal health from enemies and heal you."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Anshin_1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Equip to throw Transfusion Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Atlas_1 ItemPartDefinition]
+PartName="ATL-"
+
+[ManufacturerMaterials.Material_Atlas_1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Rain grenades throw themselves into the air and fire down on unsuspecting enemies below."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Atlas_1:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Equip to throw Rain Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Dahl_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Dahl_1:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Bouncing Bettie grenades pop up into the air before exploding."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Dahl_1:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Equip to throw Bouncing Bettie Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Hyperion_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Hyperion_1:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Longbow grenades teleport to their destination and explode."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Maliwan_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Maliwan_1:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Contact grenades explode after touching an enemy."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Maliwan_1:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Equip to throw Contact Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Pangolin_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Pangolin_1:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Rubberized grenades bounce off of all surfaces and explode when they touch an enemy."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Pangolin_1:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Equip to throw Rubberized Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_SandS_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_SandS_1:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Sticky grenades attach to surfaces and then explode after a few seconds."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_SandS_1:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Equip to throw Sticky Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Tediore_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Tediore_1:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Contact grenades explode after touching an enemy."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Tediore_1:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Equip to throw Contact Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Torgue_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Torgue_1:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="When MIRV grenades explode, they throw out several more grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Torgue_1:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Equip to throw MIRV Grenades."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Vladof_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Vladof_1:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description="Equip to throw Proximity Mines."
+NoConstraintText=""
+Suffix=""
+
+[ManufacturerMaterials.Material_Vladof_1:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Proximity Mines wait to explode until an enemy gets close."
+NoConstraintText=""
+Suffix=""
+
+[Prefix.Prefix_Corrosive ItemNamePartDefinition]
+PartName="Corrosive"
+
+[Prefix.Prefix_Explosive ItemNamePartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Incendiary ItemNamePartDefinition]
+PartName="Incendiary"
+
+[Prefix.Prefix_Shock ItemNamePartDefinition]
+PartName="Shock"
+
+[RightSide.rightside1 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightsidenone ItemPartDefinition]
+PartName=""
+
+[Title.Title_Bettie ItemNamePartDefinition]
+PartName="Bouncing Bettie"
+
+[Title.Title_Contact ItemNamePartDefinition]
+PartName="Contact"
+
+[Title.Title_LongBow ItemNamePartDefinition]
+PartName="Longbow"
+
+[Title.Title_MIRV ItemNamePartDefinition]
+PartName="MIRV"
+
+[Title.Title_MOD ItemNamePartDefinition]
+PartName="MOD"
+
+[Title.Title_Proximity ItemNamePartDefinition]
+PartName="Proximity Mine"
+
+[Title.Title_Rain ItemNamePartDefinition]
+PartName="Rain"
+
+[Title.Title_Rubberized ItemNamePartDefinition]
+PartName="Rubberized"
+
+[Title.Title_Sticky ItemNamePartDefinition]
+PartName="Sticky"
+
+[Title.Title_Tech ItemNamePartDefinition]
+PartName="Tech"
+
+[Title.Title_Transfusion ItemNamePartDefinition]
+PartName="Transfusion"
+

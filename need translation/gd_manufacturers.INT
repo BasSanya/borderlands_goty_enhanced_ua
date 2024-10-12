@@ -1,0 +1,120 @@
+[Manufacturers.Anshin ManufacturerDefinition]
+Grades[0]=(DisplayName="Anshin")
+Grades[1]=(DisplayName="Anshin Expert")
+Grades[2]=(DisplayName="Anshin Select")
+Grades[3]=(DisplayName="Anshin Impeccable")
+Grades[4]=(DisplayName="Anshin Exemplar")
+Grades[5]=(DisplayName="Anshin Immaculate")
+
+[Manufacturers.Atlas ManufacturerDefinition]
+Grades[0]=(DisplayName="Atlas")
+Grades[1]=(DisplayName="Atlas Champion")
+Grades[2]=(DisplayName="Atlas Heroic")
+Grades[3]=(DisplayName="Atlas Herculean")
+Grades[4]=(DisplayName="Atlas Legendary")
+Grades[5]=(DisplayName="Atlas Titan")
+
+[Manufacturers.Corraza ManufacturerDefinition]
+Grades[0]=(DisplayName="Corraza")
+Grades[1]=(DisplayName="Corraza Standard")
+Grades[2]=(DisplayName="Corraza Revised")
+Grades[3]=(DisplayName="Corraza Special")
+Grades[4]=(DisplayName="Corraza Choice")
+Grades[5]=(DisplayName="Corraza Prime")
+
+[Manufacturers.Dahl ManufacturerDefinition]
+Grades[0]=(DisplayName="Dahl")
+Grades[1]=(DisplayName="Dahl Mercenary")
+Grades[2]=(DisplayName="Dahl Soldier")
+Grades[3]=(DisplayName="Dahl Freelancer")
+Grades[4]=(DisplayName="Dahl Veteran")
+Grades[5]=(DisplayName="Dahl Elite")
+
+[Manufacturers.Eridan ManufacturerDefinition]
+Grades[0]=(DisplayName="Eridian")
+Grades[1]=(DisplayName="Eridian 0001")
+Grades[2]=(DisplayName="Eridian 0010")
+Grades[3]=(DisplayName="Eridian 0100")
+Grades[4]=(DisplayName="Eridian 0101")
+Grades[5]=(DisplayName="Eridian 0111")
+
+[Manufacturers.Gearbox ManufacturerDefinition]
+Grades[0]=(DisplayName="Gearbox ")
+Grades[1]=(DisplayName="Gearbox Classic")
+Grades[2]=(DisplayName="Gearbox Vintage")
+Grades[3]=(DisplayName="Gearbox Choice")
+Grades[4]=(DisplayName="Gearbox Absolute")
+Grades[5]=(DisplayName="Gearbox Original")
+
+[Manufacturers.Hyperion ManufacturerDefinition]
+Grades[0]=(DisplayName="Hyperion")
+Grades[1]=(DisplayName="Hyperion Valde")
+Grades[2]=(DisplayName="Hyperion Melior")
+Grades[3]=(DisplayName="Hyperion Ultra")
+Grades[4]=(DisplayName="Hyperion Magnus")
+Grades[5]=(DisplayName="Hyperion Optimus")
+
+[Manufacturers.Jakobs ManufacturerDefinition]
+Grades[0]=(DisplayName="Jakobs")
+Grades[1]=(DisplayName="Jakobs Classic")
+Grades[2]=(DisplayName="Jakobs Vintage")
+Grades[3]=(DisplayName="Jakobs Choice")
+Grades[4]=(DisplayName="Jakobs Antique")
+Grades[5]=(DisplayName="Jakobs Original")
+
+[Manufacturers.Maliwan ManufacturerDefinition]
+Grades[0]=(DisplayName="Maliwan")
+Grades[1]=(DisplayName="Maliwan Standard")
+Grades[2]=(DisplayName="Maliwan Sterling")
+Grades[3]=(DisplayName="Maliwan Prototype")
+Grades[4]=(DisplayName="Maliwan Paradigm")
+Grades[5]=(DisplayName="Maliwan Pure")
+
+[Manufacturers.Pangolin ManufacturerDefinition]
+Grades[0]=(DisplayName="Pangolin")
+Grades[1]=(DisplayName="Pangolin Leather")
+Grades[2]=(DisplayName="Pangolin Mail")
+Grades[3]=(DisplayName="Pangolin Buckler")
+Grades[4]=(DisplayName="Pangolin Shield")
+Grades[5]=(DisplayName="Pangolin Plate")
+
+[Manufacturers.SandSMunitions ManufacturerDefinition]
+Grades[0]=(DisplayName="S&amp;S Munitions")
+Grades[1]=(DisplayName="S&amp;S Revised")
+Grades[2]=(DisplayName="S&amp;S Upgraded")
+Grades[3]=(DisplayName="S&amp;S Enhanced")
+Grades[4]=(DisplayName="S&amp;S Faultless")
+Grades[5]=(DisplayName="S&amp;S Perfect")
+
+[Manufacturers.Stock ManufacturerDefinition]
+Grades[0]=(DisplayName="StockA")
+Grades[1]=(DisplayName="StockB")
+Grades[2]=(DisplayName="StockC")
+Grades[3]=(DisplayName="StockD")
+Grades[4]=(DisplayName="StockE")
+Grades[5]=(DisplayName="StockF")
+
+[Manufacturers.tediore ManufacturerDefinition]
+Grades[0]=(DisplayName="Tediore")
+Grades[1]=(DisplayName="Tediore Value")
+Grades[2]=(DisplayName="Tediore Special")
+Grades[3]=(DisplayName="Tediore Super")
+Grades[4]=(DisplayName="Tediore Limited")
+Grades[5]=(DisplayName="Tediore Supreme")
+
+[Manufacturers.Torgue ManufacturerDefinition]
+Grades[0]=(DisplayName="Torgue")
+Grades[1]=(DisplayName="Torgue Power")
+Grades[2]=(DisplayName="Torgue Force")
+Grades[3]=(DisplayName="Torgue Excellent")
+Grades[4]=(DisplayName="Torgue Awesome")
+Grades[5]=(DisplayName="Torgue Ultimate")
+
+[Manufacturers.Vladof ManufacturerDefinition]
+Grades[0]=(DisplayName="Vladof")
+Grades[1]=(DisplayName="Vladof Peasants")
+Grades[2]=(DisplayName="Vladof Peoples")
+Grades[3]=(DisplayName="Vladof Workers")
+Grades[4]=(DisplayName="Vladof Soldiers")
+Grades[5]=(DisplayName="Vladof Patriots")
+

@@ -1,0 +1,141 @@
+[MainMissions.M_dlc3_ActivateBridge MissionDefinition]
+MissionName="Bridging the Gap"
+MissionDescription="You have the code to the armory and the detonator to ensure its destruction.  Unfortunately the armory is on the far side of a crevasse.  You need to activate the energy bridge that the Crimson Lance has built to get across."
+TurnInDescription="The armory is now ripe for the taking."
+MissionSummary="Activate the energy bridge to reach the armory"
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Activate bridge:")
+
+[MainMissions.M_dlc3_BuildCar MissionDefinition]
+MissionName="Greasemonkey"
+MissionDescription="The Crimson Lance has injured Scooter's hand so he is unable to install the new parts on the vehicle.  He has asked you to help by installing them. "
+TurnInDescription="Looks like you got yourself a sweet new ride."
+MissionSummary="Install the parts to  complete the new vehicle"
+MissionGiver="Scooter"
+Objectives[0]=(ProgressMessage="Install supercharger:")
+Objectives[1]=(ProgressMessage="Install nitrous:")
+Objectives[2]=(ProgressMessage="Install exhaust:")
+Objectives[3]=(ProgressMessage="Upload specs:")
+
+[MainMissions.M_dlc3_DestroyDepot MissionDefinition]
+MissionName="Armory Assault"
+MissionDescription="You have the code to get into the weapons depot.  The code is Blue, Yellow, Cyan, Orange.  BYCO, remember?  Once inside the depot you need to expose the munitions to ensure their destruction.  Be careful, don't expect Knoxx to take this lying down though."
+TurnInDescription="You've done it!  With their stockpile either destroyed or in your backpack, hopefully Atlas will finally leave you and Pandora alone."
+MissionSummary="Enter and destroy the Atlas armory."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Enter code:")
+Objectives[1]=(ProgressMessage="Expose munitions:")
+
+[MainMissions.M_dlc3_FindCodeBunker MissionDefinition]
+MissionName="Code Breaker: Analysis"
+MissionDescription="Athena's plan is to blow up the giant armory that Atlas is amassing in the Deep Fathoms.  She believes that its destruction could alter Atlas's plans for Pandora and convince them to leave the planet alone.  Your mission is to acquire the secret access code to the armory."
+TurnInDescription="You've got a lead on the code.  Looks like it's time to find the World's Largest Bullet."
+MissionSummary="Search the Atlas facility for information on the most recent code."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Find info:")
+
+[MainMissions.M_dlc3_FindCodeEarl MissionDefinition]
+MissionName="Code Breaker: Time is Bullets"
+MissionDescription="One of the Crimson Lance soldiers thinks he lost the access code at the 'World's Largest Bullet'.  If you can get there first, you may be able to find it before he does."
+TurnInDescription="You've managed to acquire the code to the munitions armory."
+MissionSummary="Find the World's Largest Bullet and obtain the code."
+MissionGiver="Lance ECHO"
+Objectives[0]=(ProgressMessage="Find code:")
+
+[MainMissions.M_dlc3_GetCarParts MissionDefinition]
+MissionName="Boost the Monster"
+MissionDescription="Scooter has informed you that you won't be able to reach Moxxi unless you have a vehicle.  Scooter has been working on a new set of wheels but needs you to grab the last few parts needed to finish the boost system.  Search T-Bone Junction for the needed parts."
+TurnInDescription="You've found all the parts for Scooter's new car.  Sounds like he wants help installing them now."
+MissionSummary="Collect the necessary parts to complete the new vehicle"
+MissionGiver="Scooter"
+Objectives[0]=(ProgressMessage="Supercharger:")
+Objectives[1]=(ProgressMessage="Nitrous tank:")
+Objectives[2]=(ProgressMessage="Exhaust pipe:")
+
+[MainMissions.M_dlc3_GetDetonator MissionDefinition]
+MissionName="Athena Set Up Us The Bomb"
+MissionDescription="You have the access code to the armory.  You now need to meet with Athena to see if she's built the detonator that will activate the bombs in the weapons depot."
+TurnInDescription="Code:  Check.  Detonator: Check.  Armory here I come."
+MissionSummary="Get the detonator from the Athena."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Detonator acquired:")
+
+[MainMissions.M_dlc3_GetLoot MissionDefinition]
+MissionName="Loot Larceny"
+MissionDescription="Time is short.  The armory is going to blow in a few minutes.  Grab as much gear as you can!"
+TurnInDescription="That was fun!"
+MissionSummary="Steal weapons from Atlas."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Start countdown:")
+Objectives[1]=(ProgressMessage="Steal loot:")
+Objectives[2]=(ProgressMessage="Boom!:")
+
+[MainMissions.M_dlc3_MeetInformant MissionDefinition]
+MissionName="Rendezvous"
+MissionDescription="Athena is free.  She has asked you to rendezvous with her at Scooter's garage in T-Bone Junction."
+TurnInDescription="Athena has a plan.  Time to take the battle to the Lance."
+MissionSummary="Meet Athena in T-Bone Junction."
+MissionGiver="Athena"
+Objectives[0]=(ProgressMessage="Return to T-Bone Junction:")
+Objectives[1]=(ProgressMessage="Meet with Athena:")
+
+[MainMissions.M_dlc3_MeetMoxxi MissionDefinition]
+MissionName="You've Got Moxxi: Moxxi's Red Light"
+MissionDescription="With the raodblock taken care of your route is clear.  It's time to head out to Moxxi's Red Light to find the mysterious informant who can help you deal with Atlas and the Crimson Lance."
+TurnInDescription="Moxxi says that Mr. Shank has kidnapped your contact."
+MissionSummary="Meet with Moxxi to find the informant."
+MissionGiver="Scooter"
+Objectives[0]=(ProgressMessage="Meet Moxxi:")
+
+[MainMissions.M_dlc3_MeetScooter MissionDefinition]
+MissionName="Scooter?  But I Don't Even Know Her."
+MissionDescription="A mysterious ally has contacted you and is looking for your help.  There is a price on your head and you'll need to deal with Atlas to get rid of it.   The informant, Athena, has told you to find Scooter in T-Bone Junction.  He knows where to find her."
+TurnInDescription="It sounds like this 'Athena' is in hiding at Moxxi's place.  Whoever that is..."
+MissionSummary="Find Scooter to learn more about the mysterious informant, Athena."
+MissionGiver="Atlas informant"
+Objectives[0]=(ProgressMessage="Find Scooter:")
+
+[MainMissions.M_dlc3_PrisonInfiltrate MissionDefinition]
+MissionName="Prison Break: Over the Wall"
+MissionDescription="It is now time to put your stunt driving skills to the test. Moxxi has instructed you to find an outcropping near the prison that is your ticket in. From there, the route into the prison should become apparent."
+TurnInDescription="You've contacted Moxxi to let her know you are inside Lockdown Palace's walls. She'll have further instructions once you are inside."
+MissionSummary="Find a way into Lockdown Palace"
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Outcropping found:")
+Objectives[1]=(ProgressMessage="Prison entered:")
+
+[MainMissions.M_dlc3_PrisonMrShank MissionDefinition]
+MissionName="Prison Break: Try Not to Get Shanked"
+MissionDescription="Now that you are inside, you need to find Mr. Shank, the so-called warden of Lockdown Palace.  He has a Personal Teleporter Device that belongs to Athena.  You need to recover the PTD from him in order to rescue her.  If you can get the device from him, all you'll have to do is find Athena."
+TurnInDescription="Athena is free.  Now it's your turn to get out of here alive."
+MissionSummary="Kill Mr. Shank and rescue Athena."
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Kill Mr. Shank:")
+Objectives[1]=(ProgressMessage="Acquire teleporter:")
+Objectives[2]=(ProgressMessage="Find Athena:")
+
+[MainMissions.M_dlc3_Roadblocks1 MissionDefinition]
+MissionName="You've Got Moxxi: Roadblock"
+MissionDescription="Now that you've got some wheels, head out to Moxxi's and find the informant who can help you deal with Atlas.  The Crimson Lance has set up checkpoints along the highway to control travel in the region.  You need to open the road in order to be able to reach Moxxi and find Athena."
+TurnInDescription="The roadblock is down. You should now be able to reach Moxxi."
+MissionSummary="Clear the Crimson Lance roadblock."
+MissionGiver="Scooter"
+Objectives[0]=(ProgressMessage="Clear Roadblock:")
+
+[MainMissions.M_dlc3_Roadblocks2 MissionDefinition]
+MissionName="Prison Break: Road Warrior"
+MissionDescription="You need to infiltrate Lockdown Palace, an old prison that is now a town run by the former inmates. Their leader, Mr. Shank, has kidnapped Athena with plans to turn her in to the Crimson Lance for the substantial reward money. You need to infiltrate the prison and rescue her. The highway has Crimson Lance roadblocks that need to be removed."
+TurnInDescription="With the roadblocks down, it's time to find Lockdown Palace."
+MissionSummary="Clear the roadblocks between you and Lockdown Palace."
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Removed South roadblock:")
+Objectives[1]=(ProgressMessage="Removed North roadblock:")
+
+[MainMissions.M_dlc3_StuntShow MissionDefinition]
+MissionName="Jumping Through Hoops"
+MissionDescription="Moxxi has informed you that your contact, Athena, has been kidnapped by Mr. Shank and brought to Lockdown Palace.  Moxxi knows a way in but says you'll have to do some fancy driving.  She insists that you prove to her that you are up to the challenge before she'll give you any more details."
+TurnInDescription="Your driving skills are up to the challenge.  Lockdown Palace awaits."
+MissionSummary="Complete the stunts on Moxxi's stunt course"
+MissionGiver="Moxxi"
+Objectives[0]=(ProgressMessage="Complete Hoop Jump:")
+Objectives[1]=(ProgressMessage="Complete Bus Hurdle:")

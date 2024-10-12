@@ -1,0 +1,16 @@
+[Turret.Pawn_Balance_Scorpio_Shock AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Shock Scorpio"))
+
+[MiscData.DmgType_CLShockRadiance WillowDamageTypeDefinition]
+DamageLanguageId=0.000000
+
+[Skills.Shields_EmergencyRecharge_active SkillDefinition]
+SkillName="Emergency Shield Recharge - active"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.Shields_EmergencyRecharge SkillDefinition]
+SkillName="Emergency Shield Recharge"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+

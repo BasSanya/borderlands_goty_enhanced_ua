@@ -1,0 +1,1656 @@
+[AnalogStick]
+Legacy_LeftStick=Left/Right: Turn\nUp/Down: Move
+Legacy_RightStick=Left/Right: Strafe\nUp/Down: Look
+LegacySouthPaw_LeftStick=Left/Right: Strafe\nUp/Down: Look
+LegacySouthPaw_RightStick=Left/Right: Turn\nUp/Down: Move
+Normal_LeftStick=Left/Right: Strafe\nUp/Down: Move
+Normal_RightStick=Left/Right: Look\nUp/Down: Look
+Press=\nPress:
+PressL3=\nL3:
+PressR3=\nR3:
+SouthPaw_LeftStick=Left/Right: Look\nUp/Down: Look
+SouthPaw_RightStick=Left/Right: Strafe\nUp/Down: Move
+
+[ArenaOptionsGFxMovie]
+AllTeamsString="All Teams"
+AllTeamsSummary="Each team will participate in every round of arena combat."
+ArenaModeString="Arena Mode"
+ArenaOptionsString="Arena Options"
+AssaultRiflesString="Assault Rifles"
+ComeAsYouAreString="Come As You Are"
+FairFightString="Fair Fight"
+InvalidSummary="Invalid team configuration for arena combat. Please adjust teams accordingly."
+MatchSummaryString="Match Summary"
+NotReadyString="Not Ready!"
+PistolsString="Pistols"
+ReadyString="Ready!"
+RocketLaunchersString="Rocket Launchers"
+ShotgunsString="Shotguns"
+SMGsString="SMGs"
+SniperRiflesString="Sniper Rifles"
+SummaryString="Summary"
+TeamSelectionString="Team Selection"
+TournamentStyleString="Tournament Style"
+TwoTeamsString="Two Teams"
+TwoTeamsSummary="Two teams will participate in every round of arena combat where the winner stays as champion. Challenger teams will be cycled in and out of combat."
+WeaponSelectionString="Weapon Selection"
+
+[AttributePresentationDefinition]
+Description=""
+NoConstraintText=""
+Suffix=""
+
+[BehaviorVolume]
+LocationName=""
+
+[ButtonCallouts]
+Accept=<StringAliasMap:Accept>Accept
+Apply=<StringAliasMap:Accept>Apply
+Back=<StringAliasMap:Cancel>Back
+Cancel=<StringAliasMap:Cancel>Cancel
+Close=<StringAliasMap:Cancel>Close
+OK=<StringAliasMap:Accept>OK
+Select=<StringAliasMap:Accept>Select
+
+[ButtonFont]
+PS3_Circle=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>Y<Fonts:/><Color:/>
+PS3_DPadDown=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>q<Fonts:/><Color:/>
+PS3_DPadLeft=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>s<Fonts:/><Color:/>
+PS3_DPadRight=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>o<Fonts:/><Color:/>
+PS3_DPadUp=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>m<Fonts:/><Color:/>
+PS3_L1=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>y<Fonts:/><Color:/>
+PS3_L2=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>w<Fonts:/><Color:/>
+PS3_L3=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>j<Fonts:/><Color:/>
+PS3_LeftStick=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>k<Fonts:/><Color:/>
+PS3_LeftStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>j<Fonts:/><Color:/>
+PS3_R1=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>z<Fonts:/><Color:/>
+PS3_R2=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>x<Fonts:/><Color:/>
+PS3_R3=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>h<Fonts:/><Color:/>
+PS3_RightStick=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>i<Fonts:/><Color:/>
+PS3_RightStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>h<Fonts:/><Color:/>
+PS3_Select=[SELECT]
+PS3_Square=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>B<Fonts:/><Color:/>
+PS3_Start=[START]
+PS3_Triangle=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>A<Fonts:/><Color:/>
+PS3_X=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_ps3>X<Fonts:/><Color:/>
+Xenon_A=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>A<Fonts:/><Color:/>
+Xenon_B=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>B<Fonts:/><Color:/>
+Xenon_Back=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18><<Fonts:/><Color:/>
+Xenon_DPadDown=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>q<Fonts:/><Color:/>
+Xenon_DPadLeft=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>s<Fonts:/><Color:/>
+Xenon_DPadRight=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>o<Fonts:/><Color:/>
+Xenon_DPadUp=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>m<Fonts:/><Color:/>
+Xenon_LeftBumper=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>y<Fonts:/><Color:/>
+Xenon_LeftStick=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>k<Fonts:/><Color:/>
+Xenon_LeftStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>A<Fonts:/><Color:/>
+Xenon_LeftStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>C<Fonts:/><Color:/>
+Xenon_LeftTrigger=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>w<Fonts:/><Color:/>
+Xenon_RightBumper=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>z<Fonts:/><Color:/>
+Xenon_RightStick=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>i<Fonts:/><Color:/>
+Xenon_RightStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>A<Fonts:/><Color:/>
+Xenon_RightStickButton=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>L<Fonts:/><Color:/>
+Xenon_RightTrigger=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>x<Fonts:/><Color:/>
+Xenon_Start=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>><Fonts:/><Color:/>
+Xenon_X=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>X<Fonts:/><Color:/>
+Xenon_Y=<Color:R=1,G=1,B=1,A=1><Fonts:ui_fonts.font_xbox18>Y<Fonts:/><Color:/>
+
+[CategoryLabels]
+all="ALL"
+ammo="AMMO"
+ammoupgrade="AMMO UPGRADES"
+any="ANY"
+ar="ASSAULT RIFLES"
+comm="CLASS MODS"
+compare="COMPARE"
+echoclaptrap="Claptrap"
+echoflynt="Baron Flynt"
+echohelena="Helena Pierce"
+echomarcus="Marcus Kincaid"
+echoscooter="Scooter"
+echosteele="Helga Steele"
+echotannis="Patricia Tannis"
+echotk="T.K. Baha"
+echovog="Guardian Angel"
+echozed="Dr. Zed"
+elemental="ARTIFACTS"
+enemies="Things I killed!"
+equipped="EQUIPPED"
+eridian="ERIDIAN WEAPONS"
+grenade="GRENADES"
+health="MED KITS"
+healthTab="HEALTH"
+instahealth="INSTA-HEALTHS"
+items="ITEMS"
+killtotals="How I killed them!"
+manufacturers="BRANDS"
+mlogaccepted="Accepted"
+mlogcompleted="Completed"
+mlogineligible="Ineligible"
+mlogready="Ready to Complete"
+mod="GRENADE MODS"
+money=NOT USED
+more="Things I did while not killing."
+personal="PERSONAL"
+repeater="REPEATERS"
+revolver="REVOLVERS"
+rocket="ROCKET LAUNCHERS"
+sdu="UPGRADES"
+shield="SHIELDS"
+shop="SHOP"
+shotgun="SHOTGUNS"
+smg="SMGS"
+sniper="SNIPER RIFLES"
+types="TYPES"
+weapon="WEAPONS"
+weapons="What I killed them with!"
+
+[ChallengeConditionDefinition]
+ConditionName=""
+Description=""
+
+[ChallengeDefinition]
+ChallengeName=""
+Description=""
+RewardText=""
+
+[ChallengeFeedbackMessage]
+ChallengeCompleted=Challenge Completed: "%s"
+ChallengeUnlocked=""
+ExperienceEarned=Experience +%s
+
+[CharacterMenu]
+SkillsTitle=Active Skills: Switch at Registration Station
+
+[Default__GlobalsDefinition:EmptyConstraintObj AttributePresentationDefinition]
+Description=""
+NoConstraintText=""
+Suffix=""
+
+[DisciplineDefinition]
+DisciplineName=
+
+[EchoCallDefinition]
+Subject=""
+
+[EchoCallerIDDefinition]
+CallerName=""
+
+[EchoMessage]
+EchoCoopMissionAdded="Mission Added: \"%s\""
+EchoCoopMissionCompleted="Mission Completed: \"%s\""
+
+[Errors]
+CommunicationRequired_Message=Online communication is disabled on your PlayStation®Network account due to parental control restrictions.  Access to communication features will be disabled.
+CommunicationRequired_Title=Error
+ContentRequired_Message=Custom content is disabled on your PlayStation®Network account due to parental control restrictions.  Access to custom content features will be disabled.
+ContentRequired_Title=Error
+Error_Title=Error
+InvalidMessage_Message=The message you have entered is blank.  Please enter a longer message.
+InvalidMessage_Title=Error
+LinkDisconnected_Message=No network connection detected.  Please check to make sure you are connected to a network to continue.
+OnlineRequired_Message=Online service is disabled on your PlayStation®Network account due to parental control restrictions.  Access to online features will be disabled.
+OnlineRequired_Title=Error
+Warning_Title=Warning
+
+[ExperienceFeedbackMessage]
+IsNowLevel=%s is now level %d
+
+[FriendsListGFxMovie]
+ArenaPresence=Battling in the arena
+CruisinPresence=Cruisin' Pandora
+DuelingPresence=Dueling a teammate
+DuelsWonPresence=Duels won
+FavoriteMfgPresence=Favorite Mfg
+GameName=Name
+GunsFoundPresence=Guns found
+HealthPresence=Health
+IdlePresence=In the Borderlands...
+Joinable=Joinable
+JoinMePresence=Needs help!
+KillsPresence=Kills
+Latency=Latency
+Level=Level
+Map=Map
+MicEnabled=Microphone Enabled
+No=No
+Offline=Offline
+Online=Online
+OnlinePlayingBorderlands=Online - Playing Borderlands
+PlaythroughProgressPresence=Playthrough
+TotalProgressPresence=Completion
+Yes=Yes
+PresenceMenu=In a Menu...
+PresenceOfflineGame=Playing Offline
+PresenceOnlineGame=Playing Online
+
+[GameMappedStrings]
+GMS_A=A
+GMS_Add=+
+GMS_B=B
+GMS_Backslash=\
+GMS_BackSpace=BKSP
+GMS_C=C
+GMS_CapsLock=CAPS LOCK
+GMS_Comma=,
+GMS_D=D
+GMS_Decimal=.
+GMS_Delete=DEL
+GMS_Divide=/
+GMS_Down=Down
+GMS_E=E
+GMS_Eight=8
+GMS_End=END
+GMS_Enter=ENTER
+GMS_Equals==
+GMS_Escape=ESC
+GMS_F=F
+GMS_F1=F1
+GMS_F10=F10
+GMS_F11=F11
+GMS_F12=F12
+GMS_F2=F2
+GMS_F3=F3
+GMS_F4=F4
+GMS_F5=F5
+GMS_F6=F6
+GMS_F7=F7
+GMS_F8=F8
+GMS_F9=F9
+GMS_Five=5
+GMS_Four=4
+GMS_G=G
+GMS_H=H
+GMS_Home=HOME
+GMS_I=I
+GMS_Insert=INS
+GMS_J=J
+GMS_K=K
+GMS_L=L
+GMS_Left=LEFT
+GMS_LeftAlt=L-ALT
+GMS_LeftBracket=[
+GMS_LeftControl=L-CTRL
+GMS_LeftMouseButton=LMB
+GMS_LeftShift=L-SHIFT
+GMS_M=M
+GMS_MiddleMouseButton=MMB
+GMS_Minus=-
+GMS_Mouse=Mouse
+GMS_MouseScrollDown=SCROLL DN
+GMS_MouseScrollUp=SCROLL UP
+GMS_MouseX=MOUSE X
+GMS_MouseY=MOUSE Y
+GMS_Multiply=*
+GMS_N=N
+GMS_Nine=9
+GMS_NumLock=NUMLOCK
+GMS_NumPadEight=NUM-8
+GMS_NumPadFive=NUM-5
+GMS_NumPadFour=NUM-4
+GMS_NumPadNine=NUM-9
+GMS_NumPadOne=NUM-1
+GMS_NumPadSeven=NUM-7
+GMS_NumPadSix=NUM-6
+GMS_NumPadThree=NUM-3
+GMS_NumPadTwo=NUM-2
+GMS_NumPadZero=NUM-0
+GMS_O=O
+GMS_One=1
+GMS_P=P
+GMS_PageDown=PG DN
+GMS_PageUp=PG UP
+GMS_Pause=PAUSE
+GMS_Period=.
+GMS_Plus=+
+GMS_Q=Q
+GMS_Quote="""
+GMS_R=R
+GMS_Right=RIGHT
+GMS_RightAlt=R-ALT
+GMS_RightBracket=]
+GMS_RightControl=R-CTRL
+GMS_RightMouseButton=RMB
+GMS_RightShift=R-SHIFT
+GMS_S=S
+GMS_ScrollLock=SCROLL LOCK
+GMS_Semicolon=;
+GMS_Seven=7
+GMS_Six=6
+GMS_Slash=/
+GMS_SpaceBar=SPACE
+GMS_Subtract=-
+GMS_T=T
+GMS_Tab=TAB
+GMS_Three=3
+GMS_ThumbMouseButton=MOUSE-4
+GMS_ThumbMouseButton2=MOUSE-5
+GMS_Tilde=~
+GMS_Two=2
+GMS_U=U
+GMS_Underscore=_
+GMS_Up=Up
+GMS_V=V
+GMS_W=W
+GMS_X=X
+GMS_XBoxTypeS_A=Joy Button 1
+GMS_XBoxTypeS_B=Joy Button 2
+GMS_XBoxTypeS_Back=Joy Back
+GMS_XBoxTypeS_DPad_Down=Joy DPad Down
+GMS_XBoxTypeS_DPad_Left=Joy DPad Left
+GMS_XBoxTypeS_DPad_Right=Joy DPad Right
+GMS_XBoxTypeS_DPad_Up=Joy DPad Up
+GMS_XBoxTypeS_LeftShoulder=Joy L-Shoulder
+GMS_XBoxTypeS_LeftThumbstick=Joy L-Stick
+GMS_XBoxTypeS_LeftTrigger=Joy L-Trigger
+GMS_XboxTypeS_LeftX=Joy L-Stick
+GMS_XboxTypeS_LeftY=Joy L-Stick
+GMS_XBoxTypeS_RightShoulder=Joy R-Shoulder
+GMS_XBoxTypeS_RightThumbstick=Joy R-Stick
+GMS_XBoxTypeS_RightTrigger=Joy R-Trigger
+GMS_XboxTypeS_RightX=Joy R-Stick
+GMS_XboxTypeS_RightY=Joy R-Stick
+GMS_XBoxTypeS_Start=Joy Start
+GMS_XBoxTypeS_X=Joy Button 3
+GMS_XBoxTypeS_Y=Joy Button 4
+GMS_Y=Y
+GMS_Z=Z
+GMS_Zero=0
+
+[Generic]
+Cancel=<StringAliasMap:Cancel>CANCEL
+Disabled=Disabled
+No=<StringAliasMap:Cancel>NO
+None=None
+OK=<StringAliasMap:Accept>OK
+Yes=<StringAliasMap:Accept>YES
+
+[GlobalsDefinition]
+AttributePresentationTranslation=""
+PlayerCharacters[0].CharacterClassName=""
+PlayerCharacters[0].DefaultCharacterName=""
+PlayerCharacters[1].CharacterClassName=""
+PlayerCharacters[1].DefaultCharacterName=""
+PlayerCharacters[2].CharacterClassName=""
+PlayerCharacters[2].DefaultCharacterName=""
+PlayerCharacters[3].CharacterClassName=""
+PlayerCharacters[3].DefaultCharacterName=""
+
+[InjuredFeedbackMessage]
+SecondWind=%s has received a second wind!
+
+[ItemDefinition]
+ItemName=""
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[ItemNamePartDefinition]
+PartName=""
+
+[ItemPartDefinition]
+PartName=""
+
+[ItemsMenu]
+CancelHelp=<StringAliasMap:Cancel>Cancel
+DropHelp=<StringAliasMap:Conditional2>Drop
+SortHelp=<StringAliasMap:Conditional1>Sort:
+UseHelp=<StringAliasMap:Accept>Use
+
+[LevelStreamingVolumeDynamic]
+LocationName=""
+
+[Menu]
+Login=Ëîã³í
+
+[MessageBox]
+BindKey_Message=Press the key or button you wish to bind to...\nThe key will be bound to '`Binding`'\n(Shift-Escape Cancels)
+BindKey_Title=Bind Key
+ExitGame_Message=Òè âïåâíåíèé, ùî õî÷åø ïîêèíóòè ãðó?
+ExitGame_Title=Âèõ³ä
+InstallPS3Cancelling_Message=Cancelling Install...
+InstallPS3Finished_Message=Unreal Tournament 3 has been fully installed.
+InstallPS3Finished_Title=Install Complete
+InstallPS3Progress_Message=Installing... (`CurrentFile` of `TotalFiles`)
+InstallPS3Start_Message=Âñòàíîâëåííÿ...
+KeepResolution_Message=Your resolution has been changed.  Do you want to keep these new settings?\n(Will automatically revert in `Seconds` second(s))
+KeepResolution_Title=Keep Settings?
+ResetToDefaults_Message=By resetting to defaults, your customized settings will be lost.  Are you sure you want to do this?
+ResetToDefaults_Title=Reset to Defaults
+ResetToPreset_Message=By returning to preset mode, your customized controls will be lost.  Are you sure you want to do this?
+ResetToPreset_Title=Reset to Preset
+
+[MissionDefinition]
+MissionDescription=""
+MissionGiver=""
+MissionName=""
+MissionSummary=""
+TurnInDescription=""
+
+[MissionFeedbackMessage]
+MissionAdded=New Mission: "%s"
+MissionCompleted=Mission "%s" Çàâåðøåíî!
+MissionFailed=Mission "%s" Ïðîâàëåíî
+MissionProgressIneligible=Ineligible
+MissionReadyToTurnIn=Mission "%s" Ready To Turn In!
+
+[Missions]
+Arid_P_M_PoisonDens=Skag dens poisoned:
+Arid_P_M_SkagPearl=Skag pearls collected:
+InventoryFullString=Inventory is full!
+Mission2Objective1=Skags killed:
+SingleCountObjectiveComplete=Objective Complete
+TestMissionObjective1=Command Decks collected:
+
+[NewSkillFeedbackMessage]
+Message=New Skill [%s] Available at Save Station
+
+[OpenedChestMessage]
+OpenedChest=%s has opened a chest.
+
+[OutpostDiscoveryMessage]
+OutpostDiscoveredSolo=You Have Discovered Outpost %s
+OutpostDiscoveredTeam=%s1 Discovered Outpost %s
+
+[PlayerBlockingVolume]
+LocationName=""
+
+[PlayerRegistrationGFxMovie]
+CancelString=Complete
+DescriptionString=I hereby understand that completing this form entitles the DAHL CORPORATION and their TRUSTED AFFILIATES to contact me regarding special offers or promotions via my ECHO Communications Device.
+PlayerName=Change Name
+DefaultColorString=Change Colors
+PrimaryColorString=Color 1
+ResetSkillPoints=Purchase Reset
+SecondaryColorString=Color 2
+SelectString=Select
+SkillsTitle=Reset Skill Points
+SkillsHeader=Skills
+SubmitString=Submit
+TertiaryColorString=Color 3
+;bsg-crobinson (2.15.18): Add LOC for head strings
+Head1String_Brick=Recruit
+Head2String_Brick=Brick Fin
+Head3String_Brick=Beer Goggles
+Head4String_Brick=Skull Cap
+Head5String_Brick=The Law
+Head6String_Brick=Jawsome
+Head1String_Lilith=Au Naturale
+Head2String_Lilith=Macaroni Chic
+Head3String_Lilith=Patient Zero
+Head4String_Lilith=Spec-tacular
+Head5String_Lilith=Sunflower Sass
+Head6String_Lilith=Angsty
+Head1String_Mordecai=O.G.
+Head2String_Mordecai=Road Warrior
+Head3String_Mordecai=Rooster Tail
+Head4String_Mordecai=Bright Eyed
+Head5String_Mordecai=Headhunter
+Head6String_Mordecai=They're Listening
+Head1String_Roland=Major Plain
+Head2String_Roland=Incognito
+Head3String_Roland=Infiltrator
+Head4String_Roland=Gone Fishin'
+Head5String_Roland=Cyclops
+Head6String_Roland=Fringe
+
+[QuestFeedbackMessage]
+QuestAdded=New Quest: "%s"
+QuestCompleted=Quest "%s" Completed!
+QuestFailed=Quest "%s" Failed
+
+[ReceivedAmmoMessage]
+NumberOfRounds=%d %s
+Plural_CombatRifle=Combat Rifle Bullets
+Plural_Grenade=Protean Grenades
+Plural_RepeaterPistol=Repeater Pistol Slugs
+Plural_RevolverPistol=Revolver Pistol Rounds
+Plural_RocketLauncher=Rockets
+Plural_Shotgun=Shotgun Shells
+Plural_SMG=SMG Bullets
+Plural_SniperRifle=Sniper Rifle Cartridges
+ReceivedAmmo=%s1 received %s.
+SelfReceivedAmmo=You received %s.
+Single_CombatRifle=Combat Rifle Bullet
+Single_Grenade=Protean Grenade
+Single_RepeaterPistol=Repeater Pistol Slug
+Single_RevolverPistol=Revolver Pistol Round
+Single_RocketLauncher=Rocket
+Single_Shotgun=Shotgun Shell
+Single_SMG=SMG Bullet
+Single_SniperRifle=Sniper Rifle Cartridge
+
+[ReceivedCreditsMessage]
+MoreCredits=dollars
+NumberOfCredits=%d %s
+OneCredit=dollar
+ReceivedCredits=%s1 received %s.
+SelfReceivedCredits=You received %s.
+
+[ReceivedItemMessage]
+ReceivedItem=%s1 received item %s.
+SelfReceivedItem=You received item %s.
+
+[ReceivedWeaponMessage]
+ReceivedWeapon=%s1 received weapon %s.
+SelfReceivedItem=You received weapon %s.
+
+[RegistrationStationGFxMovie]
+NameColorsChoice=Adjust Player Registration
+PandoraSlogan=PANDORA BOARD OF TOURISM
+SelectDestination=SELECT DESTINATION
+VisitBeautiful=Visit Beautiful:
+WelcomeTo=WELCOME TO
+
+[ShieldsMenu]
+CancelHelp=<StringAliasMap:Cancel>Cancel
+DropHelp=<StringAliasMap:Conditional2>Drop
+SortHelp=<StringAliasMap:Conditional1>Sort:
+SwapHelp=<StringAliasMap:Accept>Swap
+
+[SimpleVolume]
+LocationName=""
+
+[SkillDefinition]
+LockedSkillDetailStr=<Locked>
+SkillDescription=""
+SkillName=""
+
+[SkillFamilyDefinition]
+FamilyName=
+
+[SkillPointsFeedbackMessage]
+HasSkillPoints=You gained a skill point!  Press <StringAliasMap:Action.StatusMenu> to spend skill points.
+
+[SkillsMenu]
+Category=Category:
+WelcomeMessage=Welcome to the <Color:R=1,G=1,B=1>Skill Distribution System<Color:R=0.25084023643640049676145781384072,G=0.36859092219748714872858377370284,B=0.36859092219748714872858377370284>.\nPlease select one Skill per category to Equip.
+
+[SkillTreeGFxHelper]
+AdrenalineRush=Adrenaline Rush
+AdrenalineRushDescription=Skills that are powered by Adrenaline activate when your Adrenaline bar is full.  This is known as "Rushing".
+AdrenalineRushLocked=Level up to gain access to Adrenaline Rush powers!
+AdrenalineRushUnlockedBrick=Brick gains Adrenaline when he takes damage. He also gains bonus Adrenaline when he deals Explosive Damage.
+AdrenalineRushUnlockedLilith=Lilith gains Adrenaline when she deals damage. She also gains bonus Adrenaline when she deals elemental damage.
+AdrenalineRushUnlockedMordecai=Mordecai gains Adrenaline when he deals damage. He also gains bonus Adrenaline when he gets kills.
+AdrenalineRushUnlockedRoland=Roland gains Adrenaline when he deals damage or healing. He also gains bonus Adrenaline when his friends go down.
+Artifacts=Artifacts
+ArtifactsDescription=Elemental Artifacts add elemental damage to your Action skill.
+EquipArtifact=Equip Artifact
+Level=Level
+NoArtifactEquippedDescription=Be careful which one you choose!\n\nElemental enemies are resistant to Elemental Damage of their type.
+NoArtifactOption=No Artifact
+NoArtifactsDescription=Powerful Eridian Artifacts are scattered across the world of Pandora.\n\nCan you find them?
+SkillModifierNextLevel=Next Level:
+
+[SkillTreeMovie]
+SkillsArtifactDialogTextString=Choose an artifact to equip
+SkillsArtifactDialogTitleString=ERIDIAN ARTIFACTS
+SkillsHeaderString=Skills
+SkillsHeavyBranch1String=BRAWLER
+SkillsHeavyBranch2String=TANK
+SkillsHeavyBranch3String=BLASTER
+SkillsHeavyClassString=BERSERKER
+SkillsHunterBranch1String=SNIPER
+SkillsHunterBranch2String=ROGUE
+SkillsHunterBranch3String=GUNSLINGER
+SkillsHunterClassString=HUNTER
+SkillsRemainingPointsString=REMAINING POINTS
+SkillsSirenBranch1String=CONTROLLER
+SkillsSirenBranch2String=ELEMENTAL
+SkillsSirenBranch3String=ASSASSIN
+SkillsSirenClassString=SIREN
+SkillsSoldierBranch1String=INFANTRY
+SkillsSoldierBranch2String=SUPPORT
+SkillsSoldierBranch3String=MEDIC
+SkillsSoldierClassString=SOLDIER
+
+[StatusMenu]
+Accuracy=Accuracy
+Ammo=AMMO
+AssaultRifle=ASSAULT RIFLE
+Backpack=BACKPACK
+CharacterTab=Character
+ClassRequirement="CLASS REQUIREMENT: %s"
+ComDeck=COM DECK
+ComDeckNotUppercase=COM Deck
+ComDeckText=Equip to change your specialty.
+Compare=COMPARE
+Credits=MONEY
+Dropped=Dropped
+ElementalArtifact=Elemental Artifact
+Equipped=EQUIPPED
+Firepower=Firepower
+Firerate=Rate of Fire
+Generic=GENERIC
+Grenade=GRENADE
+GrenadeMod=GRENADE MOD
+GrenadeModNotUppercase=Grenade Mod
+GrenadeText=Grenade Mods change what your grenades do.
+Health=HEALTH
+InventoryTab=Inventory
+Items=ITEMS
+ItemsTab=Items
+ItemText=Various items.
+LevelRequirement="LEVEL REQUIREMENT: %d"
+LevelString="Level "
+MissionItemText=Mission Object
+MODsTab=MODs
+Name=NAME
+QuestLogTab=Quest Log
+Repeater=REPEATER
+Revolver=REVOLVER
+RocketLauncher=ROCKET LAUNCHER
+SDU=Storage Deck Upgrade
+SPU=Skill Point Upgrade
+Shield=SHIELD
+ShieldNotUppercase=Shield
+ShieldsTab=Shields
+Shotgun=SHOTGUN
+SMG=SMG
+SniperRifle=SNIPER RIFLE
+Storage=STORAGE
+WeaponManufacturers=BRANDS
+WeaponProficiencies=WEAPON PROFICIENCIES
+WeaponsTab=Weapons
+WeaponTypes=WEAPONS
+XPString="XP "
+ItemMarkedLocked=Locked!
+ItemMarkedJunk=Junk!
+
+[MapTooltips]
+rstation=New-U Station
+rstation_body=Customize yourself!
+health=Health Station
+health_body=Heal up!
+vss=Catch-A-Ride
+vss_body=Grab a vehicle!
+bb=Bounty Board
+bb_body=Find a bounty!
+shop=Shop
+shop_body=Buy stuff!
+questionmark=Unknown
+questionmark_body=How mysterious!
+player=Player
+transition=Map Exit
+transition_body=Map exit to
+objective=Objective
+turnIn=Mission Turn In
+newMission=Mission Available
+
+[WaypointHelp]
+Waypoint=Custom Waypoint
+WaypointKB=$<Strings:WillowGame.GameMappedStrings.GMS_LeftMouseButton> to remove
+WaypointGamepad=$<StringAliasMap:GFx_X> to remove 
+
+[MapLocationNames]
+Arid_P=Arid Badlands
+Arid_Arena_Lobby_P=Fyrestone Coliseum
+Arid_SkagGully_P=Skag Gully
+Arid_Cave_P=Lost Cave
+Arid_Mine_P=Headstone Mine
+Dry_P=Arid Hills
+interlude_1_p=Dahl Headlands
+Arid_Bunker_P=Sledge's Safehouse
+Scrap_p=Rust Commons West
+Trash_P=Rust Commons East
+Scrap_TrashCoast_P=Trash Coast
+Scrap_OldHaven_P=Old Haven
+Scrap_Canyon_P=Krom's Canyon
+Interlude_2_P=Salt Flats
+Scrap_PirateBay_P=Treacher's Landing
+Scrap_scrapyard_p=Crazy Earl's Scrapyard
+Scrap_NewHaven_P=New Haven
+Scrap_Arena_Sewer_P=The Cesspool
+Scrap_TrashCave_P=Tetanus Warrens
+arid_intro_p=Arid Badlands
+Interlude_2_Cave_P=Back Door
+Waste_Crimson_P=Crimson Enclave
+Waste_CrimsonBunker_P=Crimson Fastness
+Waste_Descent_P=Descent
+Waste_Digsite_P=Digsite
+Waste_Vault_P=The Vault
+Waste_Arena_Ruins_P=The Devil's Footstool
+Scrap_Oasis_P=Oasis
+dlc1_island_p=Jakobs Cove
+dlc1_swamp_ned_p=Hallow's End
+dlc1_mill_p=The Lumber Yard
+dlc1_zombieHaven_P=Dead Haven
+dlc1_monsterhouse_p=Generally Hospital
+dlc1_mill_boss_p=The Mill
+dlc2_lobby_p=The Underdome
+dlc2_hellburb_p=Hell-Burbia
+dlc2_ruins_p=Angelic Ruins
+dlc2_Gully_P=The Gully
+dlc3_HUB_p=T-Bone Junction
+dlc3_NLanceStrip_p=The Ridgeway
+dlc3_lakebed_p=Sunken Sea
+dlc3_prison_p=Lockdown Palace
+dlc3_SLanceStrip_p=The Crimson Tollway
+dlc3_southlake_p=Deep Fathoms
+dlc3_uberboss_p=Crawmerax's Lair
+dlc3_lancedepot_p=Crimson Armory
+dlc3_circle_p=Circle of Duty
+dlc3_moxxieplace_p=Moxxi's Red Light
+dlc3_gondola_p=Road's End
+DLC4_Tartarus_Station_p=Tartarus Station
+DLC4_Hyperion_Dump_p=Hyperion Dump
+DLC4_Sanders_Gorge_p=Sanders Gorge
+DLC4_SS_Canyon_p=Scorched Snake Canyon
+DLC4_Dividing_Faults_p=Dividing Faults
+DLC4_Wayward_Pass_p=Wayward Pass
+DLC4_Arid_Badlands_p=Arid Badlands
+
+[StatusMenuExGFxMovie]
+AlreadyEquipped="%s is already equipped."
+BackpackLabel="BACKPACK"
+ChallengeLogsBar=<StringAliasMap:GFx_Cancel> CANCEL     <StringAliasMap:GBA_SortInvForward> / <StringAliasMap:GBA_SortInvBackward> SCROLL
+ChallengeLogTabStringGamepad=Challenge Log
+ChallengeLogTabStringKB=Challenge Log
+CharacterTabString=Character
+EchoLogsBar=<StringAliasMap:GFx_Accept> PLAY           <StringAliasMap:GFx_Cancel> CANCEL
+EchoLogTabStringGamepad=Echo Log
+EchoLogTabStringKB=Echo Log
+EmptyInventorySlotText=<i>Empty</i>
+EquippedLabel="Equipped Items"
+InventoryTabString=Inventory
+Leg_BB=Bounty Board
+Leg_Buddy=Buddy
+Leg_Health=Health Station
+Leg_Outpost=Outpost
+Leg_Player=Player
+Leg_POI=Landmark
+Leg_Shop=Shop
+Leg_Trans=Transition
+Leg_Unknown=Undiscovered
+Leg_Vss=Vehicle Station
+Leg_Waypoint=Waypoint
+LevelString="Level "
+LogTabString=Logs
+MapTabString=Map
+MissionLogsBar=<StringAliasMap:GFx_Accept> TRACK     <StringAliasMap:GFx_X> SORT     <StringAliasMap:GFx_Cancel> CANCEL    <StringAliasMap:GBA_SortInvForward> / <StringAliasMap:GBA_SortInvBackward> SCROLL
+MissionLogTabStringGamepad=Mission Log
+MissionLogTabStringKB=Mission Log
+NextString="Next "
+NoCommDeckString=
+NoEchoDescHeader=NO ECHO LOGS
+NoEchoListTest=No ECHO logs
+NoEchoLogsString=You do not currently have any Echo messages to review.
+NoLogsTabString=<StringAliasMap:GFx_Cancel> CANCEL
+NoMissionsString=You are not currently on any Missions. Pandora is a wondrous place, be sure to keep your eyes open.\n\nThere's always an opportunity.
+NoShieldLabel=-----
+PlayEcho=<StringAliasMap:GFx_Accept> PLAY
+PoweredByString=""
+TotalCredits=TOTAL MONEY
+WeaponProficienciesString=Weapon Proficiencies
+XPString="XP "
+StoryMission= STORY MISSION
+OptionalMission=OPTIONAL MISSION
+
+
+[StatusMenuGFxMovie]
+BackpackLabel="BACKPACK"
+ChallengeLogTabString=<StringAliasMap:GFx_Y> Challenge Log
+CharacterTabString=""
+EchoLogsBar=<StringAliasMap:GFx_Accept> PLAY   <StringAliasMap:GFx_Cancel> CANCEL
+EchoLogTabString=<StringAliasMap:GFx_Y> Echo Log
+EquippedLabel="Equipped Items"
+InventoryTabString=Inventory
+Leg_BB=Bounty Board
+Leg_Buddy=Buddy
+Leg_Health=Health Station
+Leg_Outpost=Outpost
+Leg_Player=Player
+Leg_POI=Landmark
+Leg_Shop=Shop
+Leg_Trans=Transition
+Leg_Vss=Vehicle Station
+Leg_Waypoint=Waypoint
+LevelString=""
+LogTabString=Logs
+MapTabString=Map
+MissionLogsBar=<StringAliasMap:GFx_Accept> TRACK     <StringAliasMap:GFx_Cancel> CANCEL     <StringAliasMap:GBA_ZoomIn> <StringAliasMap:GBA_Shoot> SCROLL
+MissionLogTabString=<StringAliasMap:GFx_Y> Mission Log
+NextString="Next "
+NoCommDeckString=
+NoEchoLogsString=You do not currently have any Echo messages to review.
+NoLogsTabString=<StringAliasMap:GFx_Cancel> CANCEL
+NoMissionsString=You are not currently on any Missions. Pandora is a wondrous place, be sure to keep your eyes open.\n\nThere's always an opportunity.
+NoShieldLabel=-----
+PlayEcho=<StringAliasMap:GFx_Accept> PLAY
+PoweredByString=""
+TotalCredits=TOTAL MONEY
+WeaponProficienciesString=""
+XPString=""
+
+[Storage]
+CorruptFileMessage=This save file has been corrupted. Loading default character information.
+CorruptFileTitle=Corrupt save data
+NoDeviceSelectedMessage=You have not chosen a storage device. If you do not choose one, your progress will not be saved. Do you wish to choose a storage device?
+NoDeviceSelectedNoPromptMessage=You have not chosen a storage device. If you do not choose one, your progress will not be saved.
+NoDeviceSelectedTitle=No Storage Device Selected
+NotLoggedInMessage=You are not currently signed in to a profile. Your progress and settings will not be saved until you sign in and choose a storage device.
+NotLoggedInTitle=Not Signed In
+ProfileStorageDisconnected=You have removed your profile's storage device. Either re-insert the storage device or sign out of your profile and be returned to the title screen.
+ProfileStorageDisconnectedTitle=Profile removed
+StorageDeviceDisconnected=Your current storage device has been disconnected. Please proceed with one of the following options.
+StorageDeviceDisconnectedTitle=Storage Device
+
+[TaskFeedbackMessage]
+TaskAdded=New Task: "%s"
+TaskCompleted=Task "%s" Completed!
+TaskFailed=Quest "%s" Failed
+
+[TeleporterFeedbackMessage]
+Teleporter_Disabled=Teleporters cannot be created at this location.
+Teleporter_NoRoom=There is not enough space to create a teleporter here.
+
+[TeleportOutpostDescription]
+BunkerEntrance=Bunker Entrance
+Firestone=Firestone
+FirestoneGate=Firestone Gate
+MineEntrance=Mine Entrance
+SkullBandit=Skull Bandit
+Tunnel=Tunnel
+
+[TeleportOutpostDisplayName]
+BunkerEntrance=Bunker Entrance
+Firestone=Firestone
+FirestoneGate=Firestone Gate
+MineEntrance=Mine Entrance
+SkullBandit=Skull Bandit
+Tunnel=Tunnel
+
+[TeleportOutpostLookupObject]
+OutpostDescription=""
+OutpostDisplayName=""
+
+[Terms]
+Controller_360=Controller
+Controller_PC=Gamepad
+Controller_PS3=Controller
+GamerCard_360=GAMER CARD
+GamerCard_PC=PLAYER CARD
+GamerCard_PS3=PLAYER CARD
+
+[Titles]
+MainMenu=[Main Menu]
+TitleScreen=
+WindowTitle=Borderlands® Game of the Year Edition
+
+[Training]
+ActionSkill=You now have an Action skill!\n\nPress <StringAliasMap:Action.UseSkill> to use your Action skill.\n\nAfter using your Action skill it will be unavailable until it recharges.
+ActionSkillTitle=Action Skill
+AdrenalineSkill=You unlocked an Adrenaline Skill.  Adrenaline skills activate when your adrenaline bar is full.\n\nMost character classes earn adrenaline when they deal damage.
+AdrenalineSkillTitle=Adrenaline Skill
+AmmoInventoryUpgrade=You collected an Ammo Storage Mod.\n\nThese items increase the amount of ammo that you can carry.
+AmmoInventoryUpgradeTitle=Ammo Storage Increase
+Arena=This is the Arena.\n\nIn the Arena you battle your friends in head-to-head action.
+ArenaAllPlayersPresent="All players must be present to proceed."
+ArenaAllPlayersPresentTitle="All Players Needed"
+ArenaChangeRules="Use this console to change the arena rules."
+ArenaChangeRulesTitle="Arena Rules Console"
+ArenaNotDuringCombat="This cannot be used during combat."
+ArenaNotDuringCombatTitle="Not During Combat"
+ArenaOnlyDuringCombat="This can only be used during combat."
+ArenaOnlyDuringCombatTitle="Combat Only"
+ArenaPickUpWeapon="Pick up a weapon."
+ArenaPickUpWeaponTitle="Pick Up Weapon"
+ArenaServerUseOnly="Only the host can use this."
+ArenaServerUseOnlyTitle="Host Only"
+ArenaSpectate="Use this console to spectate a player."
+ArenaSpectateTitle="Spectator Console"
+ArenaSpectatorControls="<StringAliasMap:GBA_Shoot> Next Player\n<StringAliasMap:GBA_ZoomIn> Previous Player\n<StringAliasMap:GBA_ContextButton> Ghost Cam\n<StringAliasMap:GBA_Duck> Exit"
+ArenaSpectatorControlsTitle="Spectator Controls"
+ArenaTitle=Arena Entrance
+ArenaTwoPlayersRequired="Two players are required to play in the arena."
+ArenaTwoPlayersRequiredTitle="Two Players Required"
+ClassMod=You received a Class mod.\n\nClass mods are class specific items that can positively affect a wide variety of your character's statistics.
+ClassModTitle=Class Mod
+Crouching=Press <StringAliasMap:Action.Crouch> to Crouch.\n\nPress <StringAliasMap:Action.Crouch> again to stand up.
+CrouchTitle=Crouching
+Down=You are Down!\n\nKill an enemy to save your life and get a Second Wind!
+DownTitle=Fight for Your Life!
+ElementalArtifact=You found an Elemental artifact.\n\nElemental artifacts add additional elemental effects to your Action skill.
+ElementalArtifactTitle=Elemental Artifact
+ElementalWeapons=Some weapons have additional elemental technology built in.\n\nElemental weapons occasionally provide powerful benefits when you score a critical hit, like lighting an enemy on fire.
+ElementalWeaponsCorrosive=You have collected a Corrosive Elemental tech weapon.\n\nCorrosive weapons are very effective against creatures with hard shells and have a chance to cause contagious corrisive burns on critical hits.
+ElementalWeaponsCorrosiveTitle=Corrosive Weapons
+ElementalWeaponsExplosive=You have collected an Explosive Elemental tech weapon.  Explosive weapons have a chance of causing extreme Explosive Damage in addition to their normal damage.
+ElementalWeaponsExplosiveTitle=Explosive Elemental Damage
+ElementalWeaponsShock=You have collected an Elemental tech weapon of the Shock variety.\n\nShock weapons are very effective against enemy shields and have a chance to stun enemies on a critical hit.
+ElementalWeaponsShockTitle=Shock Weapons
+ElementalWeaponsTitle=Elemental Weapons
+EnemyLevel=Just like you, enemies have levels.  Aim your crosshairs at an enemy to see their level.\n\n Enemies with skull icons should be avoided until you level up.
+EnemyLevelTitle=Enemy Levels
+FastTravel=Pandora's Fast Travel system is now online.\n\nThis system allows you to quickly travel between any New-U Station that you have previously visited.\n\nTo use it, go to the nearby New-U Station, choose the Fast Travel tab, and then choose your destination.
+FastTravelTitle= Fast Travel
+FirstAidKit=You have collected a First Aid Kit\n\nThese kits slowly regenerate health over time.\n\nAccess and use them from your inventory.
+FirstAidKitTitle=First Aid Kits
+FirstSkillPointBrick=You have earned a skill point!\n\nSkill points allow you to customize your character with additional skills and specializations.\n\nSpend your skill point now to unlock your Action skill.
+FirstSkillPointBrickTitle=Skill Points
+FirstSkillPointLilith=You have earned a skill point!\n\nSkill points allow you to customize your character with additional skills and specializations.\n\nSpend your skill point now to unlock your Action skill.
+FirstSkillPointLilithTitle=Skill Points
+FirstSkillPointMordecai=You have earned a skill point!\n\nSkill points allow you to customize your character with additional skills and specializations.\n\nSpend your skill point now to unlock your Action skill.
+FirstSkillPointMordecaiTitle=Skill Points
+FirstSkillPointRoland=You have earned a skill point!\n\nSkill points allow you to customize your character with additional skills and specializations.\n\nSpend your skill point now to unlock your Action skill.
+FirstSkillPointRolandTitle=Skill Points
+GrenadeMods1=You received a Grenade Mod.\n\nGrenade Mods can drastically change how your grenades behave.\n\nBe on the lookout for new grenade mods that grant your grenades with different abilities or attributes.
+GrenadeModsTitle=Grenade Mods
+Grenades=You now have a grenade.\n\nPress <StringAliasMap:Action.Grenade> to throw a grenade.
+GrenadesTitle=Grenades 
+Inventory=Your inventory is now full.\n\nPress <StringAliasMap:Action.StatusMenu> to access the inventory in your ECHO device.\n\nFrom there you can browse your inventory and drop unwanted items.
+InventoryTitle=Full Inventory
+InventoryUpgrade=You got a Storage Deck Upgrade for your inventory.\n\nYou can now carry more items in your backpack.
+InventoryUpgradeTitle=Inventory Upgrade
+Jumping=Press <StringAliasMap:Action.Jump> to jump.
+JumpingTitle=Jumping
+LevelUp=You just leveled up!\n\nLeveling up permanently increases the amount of health you have and the amount of damage you deal.\n\nIt also immediately gives you full health and shields.
+LevelUpTitle=Level Up!
+Map=To access your map, HOLD <StringAliasMap:Action.StatusMenu>.\n\nThe map shows you many different points of interest as well as the specific location of your waypoint.\n\nThe map can also be found in your ECHO device when pressing <StringAliasMap:Action.StatusMenu>.
+MapReminder=If you are feeling lost, use the map to help find your way.\n\nAccess the map by pressing <StringAliasMap:Action.StatusMenu>.
+MapReminderTitle=Lost
+MapTitle=Map
+Melee=Press <StringAliasMap:Action.Melee> to perform a melee attack.
+MeleeTitle=Melee Attacks
+Movement=Use <StringAliasMap:GBA_Move> for Movement.\n\nUse <StringAliasMap:GBA_Look> to look around.
+MovementTitle=Basic Movement
+MultipleMissions1=You can now work on more than one mission at a time.\nMissions can be marked as "Active".\n\nYour HUD will display the waypoint and objectives for your Active mission.\n\nTo change your Active mission, press <StringAliasMap:Action.StatusMenu> to access your ECHO device. Highlight the mission you want to be active, and press <StringAliasMap:GFx_Accept>.
+MultipleMissions1Title=Active Mission
+MultipleMissions2=You can change your Active mission in the Mission Log section of your ECHO device.\n\nPress <StringAliasMap:Action.StatusMenu> to access your ECHO device, then highlight the mission you want to be active and press <StringAliasMap:GFx_Accept>.
+PartyToContinueGeneral=All players must be present to continue.
+PartyToContinueGeneralTitle=All Players Needed
+PartyToContinueLift=All players must be on the lift before the controls will activate.
+PartyToContinueLiftTitle=All Players Needed
+Shields=You now have a shield.  Damage inflicted upon you will first be removed from the shield.\n\nIf your shield goes down, it will recharge after a short time.\n\nBe on the lookout for stronger shields.
+ShieldsTitle=Shields
+Shooting=Use <StringAliasMap:Action.Fire> to fire.\n\nUse <StringAliasMap:Action.Aim> to aim down the weapon's sights.
+ShootingTitle=Shooting
+SkipTutorial=Welcome.  You can skip tutorials by pressing <StringAliasMap:Action.StatusMenu>.
+Sprint=Press <StringAliasMap:Action.Sprint> while moving to sprint.\n\nStop moving for a moment to return to your normal run speed.
+SprintingTitle=Sprinting
+Test_Gamepad=Press <StringAliasMap:GFx_A> to continue.
+Test=$<StringAliasMap:training_test>
+TestAll=<StringAliasMap:GBA_ContextButton><StringAliasMap:GBA_Shoot><StringAliasMap:GBA_ZoomIn><StringAliasMap:GBA_ThrowGrenade><StringAliasMap:GBA_UseActionSkill><StringAliasMap:GBA_Move><StringAliasMap:GBA_Look><StringAliasMap:GBA_Duck><StringAliasMap:GBA_Jump><StringAliasMap:GBA_Melee><StringAliasMap:GBA_ChangeWeapon><StringAliasMap:GBA_Use><StringAliasMap:GBA_ShowMenu><StringAliasMap:GBA_Drive><StringAliasMap:GBA_EnterExitVehicle><StringAliasMap:GBA_SwitchSeats>
+Vehicle=Use <StringAliasMap:GBA_Move> and <StringAliasMap:GBA_Look> to drive.\n\nPress <StringAliasMap:Action.UseSkill> to use the afterburners for a boost of speed.\n\nWhile driving, press <StringAliasMap:Action.Jump> to lock the turret on an enemy.\n\nFire the turret gun by pressing <StringAliasMap:Action.Aim>.\n\nPress <StringAliasMap:VehicleSwitchSeats> to hop into the turret seat.\n\nExit the vehicle by pressing <StringAliasMap:Action.Use>.
+VehicleTitle=Driving a vehicle
+Waypoint=The diamond icon on your compass is your waypoint.\n\nThe waypoint gives you the direction to travel to find your next objective.
+WaypointReminder=Remember the waypoint on the compass will help guide you to your next objective.
+WaypointReminderTitle=Waypoint
+WaypointTitle=Objective Waypoint
+WeaponSwitching1=Switch weapons using <StringAliasMap:SwappingWeaponsTraining>.\n\nHold the <StringAliasMap:Action.Use> button when picking up ammo to collect all nearby ammo at once.
+WeaponSwitching1Title=Switching Weapons
+WeaponSwitching2=You received a Weapon Slot Storage Deck.\n\nThis storage deck has unlocked a new weapon equip slot in your inventory.\n\nYou can now equip 3 weapons at a time.\n\n<StringAliasMap:QuickSelectTraining><StringAliasMap:Action.CycleWeapon><StringAliasMap:Action.CycleWeaponNext> cycles through all of your weapons.\n\nYou can change the location of your equipped weapons from the inventory screen.
+WeaponSwitching2Title=New Weapon Slot
+WeaponSwitching3=Use your <StringAliasMap:XboxTypeS_DPad> to quick select a weapon.\n\n <StringAliasMap:Action.CycleWeapon> cycles through all of your weapons.\n\nYou can change which <StringAliasMap:XboxTypeS_DPad> position your weapons are equipped to on your inventory screen.
+WeaponSwitching3Title=Switching Weapons
+WeaponSwitching4=You currently have two slots available for quick switching weapons.\n\nAdditional weapons are stored in your backpack.\n\nYou can change which weapons are in your quick slots by pressing <StringAliasMap:Action.StatusMenu> to open your backpack and then assigning new weapons to the slots.
+WeaponSwitching4Title=Weapon Slots
+
+[UI]
+CinematicButtonCallout=Press <StringAliasMap:GBA_ContextButton> To Skip
+EmptySlot=EMPTY SLOT
+
+[UIScene_CharacterStatus]
+QuestFooterMarkup=%s
+QuestHeaderMarkup=Quest: %s\n
+QuestTaskActiveMarkup=%s %t (Active)
+QuestTaskCompletedMarkup=<Color:R=0.1165757,G=0.1165757,B=0.1165757,A=1>%s %t (Completed)<Color:R=1,G=1,B=1,A=1>
+QuestTaskFailedMarkup=<Color:R=0.0103978,G=0.0103978,B=0.0103978,A=0.0103978>%s %t (Failed)<Color:R=1,G=1,B=1,A=1>
+
+[UIScene_CreateGameSpyAccount]
+AccountCreatedMessage=Your account has been created.
+ConfirmPasswordLabel=Confirm Password:
+CreateAccountButtonLabel=Create
+CreateAccountTitle=Create Account
+CreatingAccountMessage=Attempting To Create Account...
+EmailLabel=Email Address:
+ErrorMessage_IncompleteInfo=Please fill in all of the fields.
+ErrorMessage_InitialCharInUserNameIsInvalid=Usernames can't start with "@", "+", ":", "#", and numeric characters.
+ErrorMessage_InvalidCharInUserName=Usernames may contain alphanumeric characters and the following: "#$%&'()*+-/:;<=>?@[]^_`{|}~.
+ErrorMessage_InvalidPassword=That e-mail address is already registered using a different password.
+ErrorMessage_InvalidUniqueUserName=That unique username is invalid.
+ErrorMessage_InvalidUsername=The username you entered is invalid.
+ErrorMessage_MatchingPasswords=The passwords that you entered don't match.
+ErrorMessage_ServiceUnavailable=The GameSpy service is unavailable or you do not have a network connection. Please try again later.
+ErrorMessage_UnknownError=There has been an unknown error.  Please try again later.
+ErrorMessage_UserNameInUse=That username is in use. Please try another one.
+ErrorMessage_UserNameTooShort=The username must be between 3 and 20 characters long.
+PasswordLabel=Password:
+UsernameLabel=GameSpy ID:
+VersionText=""
+
+[UIScene_MultiplayerLogin]
+clearButtonLabel=Clear Username
+createAccountStringMarkup=Create Account
+doneButtonLabel=Done
+Error_InvalidPassword=The password you entered is invalid.
+Error_InvalidUniqueUserName=The unique username you entered is invalid.
+Error_InvalidUserName=The username you entered is invalid.
+Error_Timeout=The login attempt timed out.
+Error_Unknown=The login failed for an unknown reason.
+passwordLabel=Password:
+SavePasswordLabel=Save password
+AutoLoginLabel=Automatic Login
+usernameLabel=GameSpy ID:
+VersionText=""
+
+[UIScene_ShopMenu]
+Buy=Buy
+BuyConfirmation=Complete Purchase?
+BuyHelp=<StringAliasMap:Accept>Buy
+BuySellHelp=<StringAliasMap:Accept>Buy/Sell
+CostMarkup=COST $%s
+Credits=MONEY
+Inventory=Inventory
+Quantity=Quantity:
+Sell=Sell
+SellConfirmation=Complete Sale?
+SellHelp=<StringAliasMap:Accept>Sell
+ShopInventory=Shop Inventory
+ValueMarkup=VALUE $%s
+
+[UIScene_WillowArenaHUD]
+FreeSpectatorName=Free
+LivesLabelString=Lives:
+SpectatorHeader=Spectating:
+SpectatorInstructions=<StringAliasMap:GBA_Shoot>/<StringAliasMap:GBA_ZoomIn>: Switch Between Player Views.\n <StringAliasMap:GBA_ContextButton>: Ghost Cam.\n <StringAliasMap:Cancel>: Return To Lobby.
+SpectatorStraightToLobby=Press <StringAliasMap:GBA_Shoot> to go straight to lobby.
+
+[UIScene_WillowHUD]
+ExpLevelMarkup=LV %02d
+PickupContextHelp=Press <StringAliasMap:GBA_ContextButton> to Pickup
+PickupEquipContextHelp=Press <StringAliasMap:GBA_ContextButton> to Pickup, Hold <StringAliasMap:GBA_ContextButton> to Equip
+
+[UISortObjectDefinition]
+DisplayName=""
+
+[UITabPage_ItemsMenu]
+UseItemConfirmation=Use %s?
+
+[VehicleBlockingVolume]
+LocationName=""
+
+[VehicleSeatSwap_PlayerInteractionClient]
+MsgTitle=Seat Exchange
+SwitchSeatsAccept_Console=Teammate wants seat exchange. Press <StringAliasMap:VehicleSwitchSeats> to accept.
+SwitchSeatsAccept_PC=Teammate wants seat exchange. Press <StringAliasMap:VehicleSwitchSeats> to accept.
+SwitchSeatsWaiting_Console=Press <StringAliasMap:VehicleSwitchSeats> to cancel seat exchange.
+SwitchSeatsWaiting_PC=Press <StringAliasMap:VehicleSwitchSeats> to cancel seat exchange.
+
+[VehicleSpawnStationGFxMovie]
+Deployed=""
+Greeting=""
+header=""
+Occupied=""
+Ready=""
+
+[VehicleSpawnStationVehicleDefinition]
+VehicleName=""
+
+[VendingMachineGFxMovie]
+AmmoCapacityIncreasedString="You've upgraded your Ammo Capacity."
+BuyBackTab=BUYBACK
+BuyTab=BUY
+BuyValue=Cost
+Confirm_Prompt=Are you sure?
+Decline_CantAfford=You can't afford that.
+Decline_CantUse=You can't use that.
+Decline_DontHaveRoom=You don't have enough room.
+Decline_FullOfThat=You are carrying the maximum amount of that item.
+Decline_HealthMaxed=Your health is already maxed out.
+ItemOfTheDayLabel=ITEM OF THE DAY
+SellTab=SELL
+SellValue=Value
+SoldOut=SOLD OUT
+VisitLabel="Time is Running Out!"
+SellJunkString="Sell %s1 item(s) for %s2 dollars?"
+CantSellLockedItem=Can't sell Locked Item. Unlock item to sell.
+
+[VersusHUDGlobalsDefinition]
+ArenaTransitionMessages[0].Message=""
+ArenaTransitionMessages[1].Message=""
+ArenaTransitionMessages[2].Message=""
+ArenaTransitionMessages[3].Message=""
+ArenaTransitionMessages[4].Message=""
+ArenaTransitionMessages[5].Message=""
+ArenaTransitionMessages[6].Message=""
+ArenaTransitionMessages[7].Message=""
+ClientStartMsgData.Message=""
+DrawMsgData.Message=""
+KillMsgData.Message=""
+LivesMsgData.Message=""
+LobbyFighterMsgData.Message=""
+LobbyNextMsgData.Message=""
+LobbyPrepareMsgData.Message=""
+LobbySecondMsgData.Message=""
+LobbySpectatorMsgData.Message=""
+MatchVictoryMsgData.Message=""
+NoLivesMsgData.Message=""
+RespawnFireMsgData.Message=""
+RespawnTimerMsgData.Message=""
+ServerStartMsgData.Message=""
+TeamKillMsgData.Message=""
+TimerMsgData.Message=""
+VictoryMsgData.Message=""
+
+[WeaponNamePartDefinition]
+PartName=""
+
+[WeaponPartDefinition]
+PartName=""
+
+[WeaponProficiencyFeedbackMessage]
+IsNowLevel=%s's %t is now level %i
+
+[WeaponsMenu]
+Ammunition=Ammunition
+CancelHelp=<StringAliasMap:Cancel>Cancel
+DropHelp=<StringAliasMap:Conditional2>Drop
+Grenades=Grenades
+Sidearm=SIDE ARM
+SideArmHelpDescription=SIDE ARM SLOT\n<Color:R=1,G=1,B=1>Your trusty side arm is your last line of defense when in a "downed" state. Only Pistols can be equipped in this slot.
+SortHelp=<StringAliasMap:Conditional1>Sort:
+SwapHelp=<StringAliasMap:Accept>Swap
+
+[WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName=""
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[WillowAICranePawn]
+MasteredDisplayName="%s's %n"
+MenuName=""
+
+[WillowAIDummyPawn]
+MasteredDisplayName="%s's %n"
+MenuName=""
+
+[WillowAIPawn]
+MasteredDisplayName=%s's %n
+MenuName=""
+
+[WillowBoosterDefinition]
+ItemName=
+NoManufacturerName=Generic
+PickupMessage=You got %s
+PickupMessageWithLevel=You got %s (Level %d)
+UseFailureCharacterMessage=You must be a %s to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+UseFailureLevelMessage=You must be at least level %d to use this item.
+
+[WillowCoopGameInfo]
+DefaultPlayerName="Player"
+GameName="Game"
+MapChangeCanceledPlayerDown="Travel canceled!\n\n%s is down!"
+MapChangeCanceledPlayerMenu="Travel canceled!\n\n%s is in a menu!"
+MapChangeCountdown="Travel commencing in %i."
+MapChangeInitiated="%s initiated travel."
+MapChangeMissingDLC="A member of your party does not have the downloadable content needed to travel to %t."
+MapChangePlayerDown="%s tried to initiate travel, but it failed!\n\n%t is down!"
+MapChangePlayerInMenu="%s tried to initiate travel, but it failed.\n\n%t is in a menu!"
+MapChangeYouAreInMenu="%s tried to initiate travel, but you are in a menu!"
+NewShopInventory="Shops have new inventory!"
+
+[WillowDamageSource]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDamageType]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDamageType_Bullet]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDamageTypeDefinition]
+DamageLanguageId=0
+
+[WillowDeveloperStats]
+EVENT_DEVELOPER_ENEMY_SPAWNED=Enemy Spawned
+EVENT_DEVELOPER_PLAYER_FPS=Player FPS
+EVENT_DEVELOPER_PLAYER_OUT_OF_AMMO=Player Out Of Ammo
+EVENT_DEVELOPER_PLAYER_PULSE=Player Pulse
+EVENT_DEVELOPER_PLAYER_TELEPORT=Player Teleport
+EVENT_DEVELOPER_SERVER_PULSE=Server Pulse
+STAT_DEVELOPER_PLAYER_DEATH_COUNT=Player Death Count
+
+[WillowDmgSource_Bullet]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_Grenade]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_Melee]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_MeleeWithBlade]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_Rocket]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_StatusEffect]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgSource_VehicleRanOver]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_Burning]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_Grenade]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_Melee]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_NodeDestruction]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_Pancake]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_RanOver]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_TestGun]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_VehicleCollision]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowDmgType_VehicleExplosion]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[WillowGameInfo]
+DefaultPlayerName="Ãðàâåöü"
+GameName="Ãðàòè"
+MapChangeCanceledPlayerDown="Travel canceled.\n\n%s is down!"
+MapChangeCanceledPlayerMenu="Travel canceled.\n\n%s is in a menu!"
+MapChangeCanceledPlayerIsSaving="Travel canceled.\n\n%s is saving."
+MapChangeCountdown="Travel commencing in %i."
+MapChangeInitiated=%s initiated travel.
+MapChangeMissingDLC="A member of your party does not have the downloadable content needed to travel to %t."
+MapChangePlayerDown="%s tried to initiate travel, but it failed!\n\n%t is down!"
+MapChangePlayerInMenu="%s tried to initiate travel, but it failed!\n\n%t is in a menu!"
+MapChangeYouAreInMenu="%s tried to initiate travel, but you are in a menu!"
+MapChangePlayerIsSaving="%s tried to initiate travel, but it failed!\n\n%t is saving!"
+NewShopInventory=Shops have new inventory!
+
+[WillowGameMessage]
+CreaturesGrowStronger=The creatures of Pandora grow stronger!
+CreaturesWeaken=The creatures of Pandora weaken!
+PlayerEnteredGame=" has joined your struggle!"
+PlayerLeftGame=" has abandoned your struggle!"
+
+[WillowGameViewportClient]
+ConnectingMessage="Ï³äêëþ÷åííÿ"
+LevelActionMessages[0]=""
+LevelActionMessages[1]=""
+LevelActionMessages[2]=""
+LevelActionMessages[3]=""
+LevelActionMessages[4]=""
+LevelActionMessages[5]=""
+LoadingMessage="LOADING"
+PausedMessage=""
+PrecachingMessage="PRECACHING"
+SavingMessage="SAVING"
+
+[WillowGFxMenu]
+SystemOptions[1]=(ValueStrings=("ON","OFF"))
+SystemOptions[2]=(ValueStrings=("ON","OFF"))
+SystemOptions[3]=(ValueStrings=("TRILINEAR","2x","4x","8x","16x"))
+SystemOptions[4]=(ValueStrings=("OFF","FXAA","TAA"))
+SystemOptions[5]=(ValueStrings=("ON","OFF"))
+SystemOptions[6]=(ValueStrings=("ON","OFF"))
+SystemOptions[7]=(ValueStrings=("ON","OFF"))
+SystemOptions[8]=(ValueStrings=("ON","OFF"))
+SystemOptions[9]=(ValueStrings=("LOW","HIGH"))
+SystemOptions[10]=(ValueStrings=("FULLSCREEN", "WINDOWED", "BORDERLESS WINDOW"))
+SystemOptions[11]=(ValueStrings=("ON","OFF"))
+SystemOptions[12]=(ValueStrings=("ON","OFF"))
+SystemOptions[13]=(ValueStrings=("LOW","MEDIUM","HIGH"))
+SystemOptions[14]=(ValueStrings=("ON","OFF"))
+SystemOptions[15]=(ValueStrings=("LOW","MEDIUM","HIGH"))
+SystemOptions[16]=(ValueStrings=("CUSTOM","LOW","MEDIUM","HIGH","ULTRA"))
+SystemOptions[18]=(ValueStrings=("LOW","MEDIUM","HIGH","ULTRA"))
+SystemOptions[19]=(ValueStrings=("ALWAYS ON", "PUSH TO TALK", "OFF"))
+SystemOptions[20]=(ValueStrings=("ON","OFF"))
+SystemOptions[21]=(ValueStrings=("LOW","MEDIUM","HIGH"))
+SystemOptions[22]=(ValueStrings=("ON","OFF"))
+SystemOptions[23]=(ValueStrings=("ON","OFF"))
+SystemOptions[24]=(ValueStrings=("ON","OFF"))
+
+[WillowGFxMenuScreenServerList]
+FindingMatchesStr=Finding Matches...
+MoreThanOneSecond=seconds
+NoMatchesFoundStr=No Matches Found.
+OneSecond=second
+
+[WillowGFxMoviePressStart]
+GameSpy_Legal=This product contains software technology licensed from GameSpy Industries, Inc. \n © 1999-2009 GameSpy Industries, Inc. GameSpy and the "Powered by GameSpy" design are trademarks of GameSpy Industries, Inc. All rights reserved.
+Legal_ESRBDisclaimer=Game experience may change during online play.
+Legal_GearboxTrademarks=©2009-2018 IPerion, LLC. All rights reserved. Published and distributed by 2K Games, Inc. under license from Gearbox Software, LLC. Gearbox, Borderlands and the Gearbox Software and Borderlands logos are registered trademarks, all used courtesy of Gearbox Software, LLC. 2K and the 2K logo are trademarks of Take-Two Interactive Software, Inc. This software product includes Autodesk® Scaleform® software, © 2013 Autodesk, Inc. All rights reserved. Unreal® Engine, Copyright 1998-2014, Epic Games, Inc. All rights reserved. Unreal® is a registered trademark of Epic Games, Inc. FMOD Ex Sound System is a registered trademark of Firelight Technologies. All rights reserved. Uses Bink Video. Copyright © 1997-2014 by RAD Game Tools Inc. Uses Oodle. Copyright © 2008-2018 by RAD Game Tools Inc. Portions hereof © 2002-2016 by NVIDIA® Corporation. All rights reserved. All other copyrights or trademarks are the property of their respective owners.
+Legal_Saving=When this icon is displayed, the console is saving content. Please don't turn off your console.
+Legal_SavingPC=When this icon is displayed, your progress has been saved.
+Legal_SavingPS3=When this icon is displayed, the PlayStation®4 system is saving content. Please don't turn off your PlayStation®4 system.
+
+[WillowHUD]
+DeathStringAssaultRifle=%1 filled %2 full of holes.
+DeathStringBlade=%1 got medieval on %2's ass.
+DeathStringCorrosiveDamage=%1 melted %2's face clean off.
+DeathStringDiscus=%1 annihilated %2 with a disc.
+DeathStringExplosiveDamage=%1 blew %2 to smithereens.
+DeathStringFallDamage=%2 cratered.
+DeathStringFragGrenade=%1 shoved a grenade down %2's throat.
+DeathStringGrenadeLauncher=%1 popped %2 with a pineapple.
+DeathStringHeavyWeapon=%1 obliterated %2 with heavy munitions.
+DeathStringImpactDamage=%1 beat the living crap out of %2.
+DeathStringIncindiaryDamage=%1 taught %2 not to play with fire.
+DeathStringPistol=%1 killed %2 with a peashooter.
+DeathStringPlasmaWeapon=%1 turned %2 into a new state of matter.
+DeathStringProteanGrenade=%1 introduced %2 to Grenade Mods.
+DeathStringRocketLauncher=%1 blew %2 all to hell.
+DeathStringShockDamage=%1 gave %2 some shocking news.
+DeathStringShotgun=%1 turned %2 into swiss cheese.
+DeathStringSMG=%1 ripped %2 a new one.
+DeathStringSniperRifle=%1 blew %2 brains out.
+DeathStringSuicide=%2 got bored with life.
+DeathStringUnknown=%2 died a horrible death.
+DuelCountdownString=Prepare To Duel
+DuelOutOfBoundsString=Return To Duel Arena
+PickupWeaponString=Press %XBOXBUTTONX% to Pickup, Hold %XBOXBUTTONX% to Equip
+RespawnDialogFeeWaivedString=Fee: Waived\n\nWe at Hyperion value your existence! Please accept this complimentary Reconstruction.\n\nTake care of the New-U!
+RespawnDialogOtherDiedFeeWaivedString=Fee: Waived\n\n%s died and has been reconstructed. Your party has returned to the last checkpoint.
+RespawnDialogOtherDiedString=Fee: $%c\n\n%s died and has been reconstructed. Your party has returned to the last checkpoint.
+RespawnDialogString=Fee: $%c\n\nThanks for using the Hyperion personal reconstruction system!\n\nWe hope you enjoy the New-U!
+RespawnDialogTitleString=Reconstruction
+RespawnDialogUnknownPlayerString=Someone
+SwitchWeaponNameString=%s
+WaypointReachedString=Waypoint Reached!
+
+[WillowHUDGFxMovie]
+AllyDyingString=IS DYING!
+AllyRevivingString=IS REVIVING!
+PlayerInjuredString=FIGHT FOR YOUR LIFE!
+PlayerRevivingString=YOU ARE BEING REVIVED!
+RevivingTargetString=REVIVING `s!
+SecondWindString=SECOND WIND!
+SuicideString=HOLD <StringAliasMap:Action.Use> TO RESPAWN
+
+[WillowLANGameSettings]
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[WillowLockWarningMessage]
+AvrilLockOnString=""
+MissileLockOnString=""
+RadarLockString=""
+SPMAAcquiredString=""
+
+[WillowOnlineGameSettings]
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[WillowPawn]
+MenuName=""
+
+[WillowPlayerController]
+NoPauseMessage="Game is not pauseable"
+OwnCamera="Now viewing from own camera"
+QuickSaveString="Quick Saving"
+ViewingFrom="Now viewing from"
+
+[WillowPlayerPawn]
+MenuName=""
+
+[WillowPlayerReplicationInfo]
+StringDead="Dead"
+StringSpectating="Spectating"
+StringUnknown="Unknown"
+
+[WillowSystemSettings]
+SystemSettings="System Settings"
+
+[WillowProfileSettings]
+OwnerMappings[1]=(Name="Online Service Setting")
+OwnerMappings[2]=(Name="Game Setting")
+ProfileMappings[0]=(ValueMappings=((Name="Off"),(Name="On")))	;PSI_YInversion (KEEP THIS)
+ProfileMappings[1]=(ValueMappings=((Name="Off"),(Name="On")))	;PSI_AutoAim (KEEP THIS)
+ProfileMappings[10]=(ValueMappings=((Name="Decline"),(Name="Accept")))	;WPS_AcceptDuels (KEEP THIS)
+ProfileMappings[11]=(ValueMappings=((Name="Decline"),(Name="Accept")))	;WPS_AcceptTrades (KEEP THIS)
+ProfileMappings[12]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_EnableSubtitles (KEEP THIS)
+ProfileMappings[13]=(ValueMappings=((Name="Behind"),(Name="Front"),(Name="Inside")))
+ProfileMappings[14]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_SnapToTarget (KEEP THIS)
+ProfileMappings[15]=(ValueMappings=((Name="Trigger"),(Name="Button")))
+ProfileMappings[18]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_DisableOptionalVO (KEEP THIS)
+ProfileMappings[19]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_DisableTrainingMessages (KEEP THIS)
+ProfileMappings[2]=(ValueMappings=((Name="No"),(Name="Yes")))
+ProfileMappings[20]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_AmbientOcclusion (KEEP THIS)
+ProfileMappings[21]=(ValueMappings=((Name="Low"),(Name="High")))	;WPS_ShadowQuality (KEEP THIS)
+ProfileMappings[22]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_EnableLocalVoice (KEEP THIS)
+ProfileMappings[23]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_ShowCompass (KEEP THIS)
+ProfileMappings[24]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_ShowMinimap (KEEP THIS)
+ProfileMappings[25]=(ValueMappings=((Name="Off"),(Name="On"))) ;WPS_HDR (KEEP THIS)
+
+ProfileMappings[3]=(ValueMappings=((Name="Off"),(Name="On"),(Name="Both")))
+ProfileMappings[35]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_MouseSmoothing (KEEP THIS)
+ProfileMappings[36]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_MouseAcceleration (KEEP THIS)
+ProfileMappings[37]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_UseGamepad (KEEP THIS)
+ProfileMappings[38]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_PauseGameOnFocusLoss (KEEP THIS)
+ProfileMappings[40]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_MuteAudioOnFocusLoss (KEEP THIS)
+ProfileMappings[41]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_DisableWindowsKey (KEEP THIS)
+ProfileMappings[42]=(ValueMappings=((Name="Vertical"),(Name="Horizontal")))	;WPS_SplitScreenHorizontal (KEEP THIS)
+ProfileMappings[43]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_DisableLauncher (KEEP THIS)
+ProfileMappings[45]=(ValueMappings=((Name="Right"),(Name="Left")))	;WPS_SplitscreenFavorLeft(KEEP THIS)
+ProfileMappings[46]=(ValueMappings=((Name="Bottom"),(Name="Top")))	;WPS_SplitscreenFavorTop(KEEP THIS)
+ProfileMappings[47]=(ValueMappings=((Name="Low"),(Name="Medium"),(Name="High")))	;WPS_SplitscreenFavorTop(KEEP THIS)
+ProfileMappings[49]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_DynamicRange (KEEP THIS)
+
+ProfileMappings[52]=(ValueMappings=((Name="Off"),(Name="On")))	;WPS_MinimapShouldRotate (KEEP THIS)
+
+ProfileMappings[4]=(ValueMappings=(,))
+ProfileMappings[5]=(ValueMappings=((Name="Normal"),(Name="Easy"),(Name="Hard")))
+ProfileMappings[6]=(ValueMappings=((Name="Medium"),(Name="Low"),(Name="High")))
+ProfileMappings[7]=(ValueMappings=(,(Name="Black"),(Name="White"),(Name="Yellow"),(Name="Orange"),(Name="Pink"),(Name="Red"),(Name="Purple"),(Name="Blue"),(Name="Green"),(Name="Brown"),(Name="Silver")))
+ProfileMappings[8]=(ValueMappings=(,(Name="Black"),(Name="White"),(Name="Yellow"),(Name="Orange"),(Name="Pink"),(Name="Red"),(Name="Purple"),(Name="Blue"),(Name="Green"),(Name="Brown"),(Name="Silver")))
+ProfileMappings[9]=(ValueMappings=((Name="Off"),(Name="On")))
+
+[WillowSaveGameManager]
+CorruptSaveDataString="!Corrupted!"
+DateFormat=m/d/y
+LevelStr="Level"
+PluralDays=days
+PluralHours=hours
+PluralMinutes=minutes
+PluralSeconds=seconds
+SaveGameTitle="Borderlands"
+SingularDay=day
+SingularHour=hour
+SingularMinute=minute
+SingularSecond=second
+TimeFormat=12
+
+[WillowScout]
+MenuName=""
+
+[WillowUIDataProvider_MenuOption]
+Description=""
+FriendlyName=""
+
+[WillowUIEditBox]
+InitialValue="Initial Editbox Value"
+
+[WillowUIEquippedItemCardBase]
+Title=EQUIPPED
+
+[WillowUIEquippedMODCard]
+Title=EQUIPPED
+
+[WillowUIEquippedShieldCard]
+Title=EQUIPPED
+
+[WillowUIEquippedWeaponCard]
+Title=EQUIPPED
+
+[WillowUIFrontEnd]
+VersionText=""
+
+[WillowUIItemCardBase]
+QuantityMarkup=Qty: %s
+
+[WillowUIMenuItemCard]
+QuantityMarkup=Qty: %s
+
+[WillowUIMenuMODCard]
+DescriptionHeaderMarkup=Lvl-%d %s:\n
+QuantityMarkup=Qty: %s
+
+[WillowUIMenuShieldCard]
+DescriptionHeaderMarkup=Specials:\n
+QuantityMarkup=Qty: %s
+
+[WillowUIMODCardBase]
+QuantityMarkup=Qty: %s
+
+[WillowUINumericEditBox]
+InitialValue="Initial Editbox Value"
+
+[WillowUIOptionCard]
+LevelMarkup=<Styles:WillowMenuSmallTextStyle>lv<Styles:/> %02d
+OptionOfflineMarkup=//Currently Offline//
+
+[WillowUIPickupItemCard]
+QuantityMarkup=Qty: %s
+
+[WillowUIPickupMODCard]
+DescriptionMarkup=Lvl-%d %s:\nSee Equip Menu for details.
+QuantityMarkup=Qty: %s
+
+[WillowUIPickupShieldCard]
+DescriptionMarkup=Lvl-%d %s:\nSee Equip Menu for details.
+QuantityMarkup=Qty: %s
+
+[WillowUIPlayerCard]
+CorporationSlogan=POWERED BY
+ExpLevelMarkup=Level %d
+
+[WillowUIShieldCardBase]
+QuantityMarkup=Qty: %s
+
+[WillowUISkillCard]
+LevelMarkup=<Styles:WillowMenuSmallTextStyle>lv <Styles:/>%02d
+SkillOfflineMarkup=//Currently Offline//
+
+[WillowUIWeaponsProficiencyCard]
+Title=Weapon Proficiencies
+WeaponLevelMarkup=<Styles:WillowMenuSmallTextStyle>lv <Styles:/>%02d
+
+[WillowVehicle]
+DisplayName=""
+MenuName=""
+VehicleNameString=""
+VehiclePositionString=""
+
+[WillowVehicle_FlyingVehicle]
+DisplayName=""
+MenuName=""
+VehicleNameString=""
+VehiclePositionString=""
+
+[WillowVehicle_LightVehicle]
+DisplayName=""
+MenuName=""
+VehicleNameString=""
+VehiclePositionString=""
+
+[WillowVehicle_WheeledVehicle]
+DisplayName=""
+MenuName=""
+VehicleNameString=""
+VehiclePositionString=""
+
+[WillowVehicleBase]
+MenuName=""
+
+[WillowVersusArenaMessage]
+ArenaDraw=Draw!
+ArenaMatchVictory=%1 won the match!
+ArenaRoundVictory=%1 is victorious!
+ArenaRoundVictoryMulti=%1 are victorious!
+NextInLine=You are next in line for combat.
+PrepareForCombat=Prepare for combat!
+SecondInLine=You are second in line for combat.
+Spectator=You are now spectating.
+WaitingToFight=You are now waiting to fight.
+And=and
+
+[WillowVersusDuelMessage]
+AcceptedChallenge=%1 to %2, 'Then you shall have it!'
+AlreadyChallenged=You have already challenged %2 to a duel!
+AlreadyDueling=%2 is already dueling!
+ArenaWarning=Please return to the arena or forfeit the duel.
+DuelDraw=The duel between %1 and %2 resulted in a draw!
+DuelingDisabled=%2 is not accepting challenges at this time.
+DuelStart=FIGHT!
+DuelTimeout=The duel challenge from %2 is no longer valid!
+DuelWin=%1 has triumphed over %2 in a duel!
+IssuedChallenge=%1 demands satisfaction from %2!
+
+[WillowVersusTeamInfo]
+DefaultHumanReadableName=Team
+TeamName="Team"
+
+[WillowVersusWagerMessage]
+PlacedWagerMessage=%s wagered %i on the match.
+WonWagersMessage=%s received %i for winning the match.
+
+[WillowWeaponPawn]
+MenuName=""
+
+[UpsellGFxMovie]
+SelectTooltip=<StringAliasMap:GFx_Accept> Go to Store
+SelectTooltipXBOX=<StringAliasMap:GFx_Accept> Go to Microsoft Store
+SelectTooltipPS=<StringAliasMap:GFx_Accept> Go to PlayStation™Store
+CancelTooltip=<StringAliasMap:GFx_Cancel> Back
+

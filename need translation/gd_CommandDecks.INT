@@ -1,0 +1,479 @@
+[A_Item.Item_CommandDeck_Brick ItemDefinition]
+ItemName="Class Mod"
+NoManufacturerName="Generic"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Item_CommandDeck_Lilith ItemDefinition]
+ItemName="Class Mod"
+NoManufacturerName="Generic"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Item_CommandDeck_Loyalty ItemDefinition]
+ItemName="Command Deck"
+NoManufacturerName="Generic"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Item_CommandDeck_Mordecai ItemDefinition]
+ItemName="Class Mod"
+NoManufacturerName="Generic"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.Item_CommandDeck_Roland ItemDefinition]
+ItemName="Class Mod"
+NoManufacturerName="Generic"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Body_Brick.Brick_Berskerker ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_BlastMaster ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_Bombardier ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_Centurion ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_Skirmisher ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_Titan ItemPartDefinition]
+PartName=""
+
+[Body_Brick.Brick_Warmonger ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Catalyst ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Defender ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Firefly ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Mercenary ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Plaguebearer ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Tempest ItemPartDefinition]
+PartName=""
+
+[Body_Lilith.Lilith_Tormentor ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Anshin ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Atlas ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Dahl ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Gearbox ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Hyperion ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Jakobs ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Maliwan ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Pangolin ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_SandS ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Tediore ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Torgue ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Vladof ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Assassin ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Gunslinger ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Hunter ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Ranger ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Scavenger ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Sniper ItemPartDefinition]
+PartName=""
+
+[Body_Mordecai.Mordecai_Survivor ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_Commando ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_HeavyGunner ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_Leader ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_Rifleman ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_ShockTrooper ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_SupportGunner ItemPartDefinition]
+PartName=""
+
+[Body_Roland.Roland_Tactician ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside0 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside1 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside2 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside3 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside4 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside5 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftside6 ItemPartDefinition]
+PartName=""
+
+[LeftSide.leftsidenone ItemPartDefinition]
+PartName=
+
+[ManufacturerMaterials.Material_Anshin_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Anshin_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Anshin_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Atlas_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Atlas_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Atlas_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Dahl_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Dahl_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Dahl_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Hyperion_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Hyperion_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Hyperion_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Jakobs_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Jakobs_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Jakobs_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Maliwan_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Maliwan_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Maliwan_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Pangolin_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Pangolin_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Pangolin_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_SandS_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_SandS_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_SandS_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Tediore_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Tediore_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Tediore_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Torgue_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Torgue_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Torgue_3 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Vladof_1 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Vladof_2 ItemPartDefinition]
+PartName=""
+
+[ManufacturerMaterials.Material_Vladof_3 ItemPartDefinition]
+PartName=""
+
+[Prefix.Prefix_Brick_Berserker ItemNamePartDefinition]
+PartName="Berserker"
+
+[Prefix.Prefix_Brick_BlastMaster ItemNamePartDefinition]
+PartName="Blast Master"
+
+[Prefix.Prefix_Brick_Bombardier ItemNamePartDefinition]
+PartName="Bombardier"
+
+[Prefix.Prefix_Brick_Centurion ItemNamePartDefinition]
+PartName="Centurion"
+
+[Prefix.Prefix_Brick_Skirmisher ItemNamePartDefinition]
+PartName="Skirmisher"
+
+[Prefix.Prefix_Brick_Titan ItemNamePartDefinition]
+PartName="Titan"
+
+[Prefix.Prefix_Brick_Warmonger ItemNamePartDefinition]
+PartName="Warmonger"
+
+[Prefix.Prefix_Lilith_Catalyst ItemNamePartDefinition]
+PartName="Catalyst"
+
+[Prefix.Prefix_Lilith_Defender ItemNamePartDefinition]
+PartName="Defender"
+
+[Prefix.Prefix_Lilith_Firefly ItemNamePartDefinition]
+PartName="Firefly"
+
+[Prefix.Prefix_Lilith_Mercenary ItemNamePartDefinition]
+PartName="Mercenary"
+
+[Prefix.Prefix_Lilith_PlagueBearer ItemNamePartDefinition]
+PartName="Plaguebearer"
+
+[Prefix.Prefix_Lilith_Tempest ItemNamePartDefinition]
+PartName="Tempest"
+
+[Prefix.Prefix_Lilith_Tormentor ItemNamePartDefinition]
+PartName="Tormentor"
+
+[Prefix.Prefix_Loyalty_Anshin_PeaceKeeper ItemNamePartDefinition]
+PartName="Peace Keeper"
+
+[Prefix.Prefix_Loyalty_Atlas_Champion ItemNamePartDefinition]
+PartName="Champion"
+
+[Prefix.Prefix_Loyalty_Dahl_Professional ItemNamePartDefinition]
+PartName="Professional"
+
+[Prefix.Prefix_Loyalty_Hyperion_Sharpshooter ItemNamePartDefinition]
+PartName="Sharpshooter"
+
+[Prefix.Prefix_Loyalty_Jakobs_Gunfighter ItemNamePartDefinition]
+PartName="Gunfighter"
+
+[Prefix.Prefix_Loyalty_Maliwan_Specialist ItemNamePartDefinition]
+PartName="Specialist"
+
+[Prefix.Prefix_Loyalty_Pangolin_Tank ItemNamePartDefinition]
+PartName="Tank"
+
+[Prefix.Prefix_Loyalty_SandS_GunMan ItemNamePartDefinition]
+PartName="Gunman"
+
+[Prefix.Prefix_Loyalty_Tediore_CommonMan ItemNamePartDefinition]
+PartName="Common Man"
+
+[Prefix.Prefix_Loyalty_Torgue_BadAss ItemNamePartDefinition]
+PartName="Bad Ass"
+
+[Prefix.Prefix_Loyalty_Vladof_Patriot ItemNamePartDefinition]
+PartName="Patriot"
+
+[Prefix.Prefix_Mordecai_Assassin ItemNamePartDefinition]
+PartName="Assassin"
+
+[Prefix.Prefix_Mordecai_Gunslinger ItemNamePartDefinition]
+PartName="Gunslinger"
+
+[Prefix.Prefix_Mordecai_Hunter ItemNamePartDefinition]
+PartName="Hunter"
+
+[Prefix.Prefix_Mordecai_Ranger ItemNamePartDefinition]
+PartName="Ranger"
+
+[Prefix.Prefix_Mordecai_Scavenger ItemNamePartDefinition]
+PartName="Scavenger"
+
+[Prefix.Prefix_Mordecai_Sniper ItemNamePartDefinition]
+PartName="Sniper"
+
+[Prefix.Prefix_Mordecai_Survivor ItemNamePartDefinition]
+PartName="Survivor"
+
+[Prefix.Prefix_Roland_Commando ItemNamePartDefinition]
+PartName="Commando"
+
+[Prefix.Prefix_Roland_HeavyGunner ItemNamePartDefinition]
+PartName="Heavy Gunner"
+
+[Prefix.Prefix_Roland_Leader ItemNamePartDefinition]
+PartName="Leader"
+
+[Prefix.Prefix_Roland_Rifleman ItemNamePartDefinition]
+PartName="Rifleman"
+
+[Prefix.Prefix_Roland_ShockTrooper ItemNamePartDefinition]
+PartName="Shock Trooper"
+
+[Prefix.Prefix_Roland_SupportGunner ItemNamePartDefinition]
+PartName="Support Gunner"
+
+[Prefix.Prefix_Roland_Tactician ItemNamePartDefinition]
+PartName="Tactician"
+
+[RightSide.rightside1 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightside2 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightside3 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightside4 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightside5 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightside6 ItemPartDefinition]
+PartName=""
+
+[RightSide.rightsidenone ItemPartDefinition]
+PartName=""
+
+[Skills_Lilith.Skill_Catalyst SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Catalyst"
+
+[Skills_Lilith.Skill_Defender SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Defender"
+
+[Skills_Lilith.Skill_FireFly SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="FireFly"
+
+[Skills_Lilith.Skill_Mercenary SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Mercenary"
+
+[Skills_Lilith.Skill_PlagueBearer SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="PlagueBearer"
+
+[Skills_Lilith.Skill_Tempest SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Tempest"
+
+[Skills_Lilith.Skill_Tormentor SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName="Tormentor"
+
+[Title.Title_ComDeck ItemNamePartDefinition]
+PartName="Class Mod"
+
+[Title.Title_ComDeckBrick ItemNamePartDefinition]
+PartName="Class Mod"
+
+[Title.Title_ComDeckLilith ItemNamePartDefinition]
+PartName="Class Mod"
+
+[Title.Title_ComDeckMordecai ItemNamePartDefinition]
+PartName="Class Mod"
+
+[Title.Title_ComDeckRoland ItemNamePartDefinition]
+PartName="Class Mod"
+
+[Title.Title_LoyaltyDeck ItemNamePartDefinition]
+PartName="Loyalty Mod"
+

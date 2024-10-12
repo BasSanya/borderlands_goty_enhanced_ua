@@ -1,0 +1,77 @@
+[ItemDefs.ID_AlienArtifact2 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Fragment"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_AlienArtifact3 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Fragment"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_MarleySkull ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Marley's Skull"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_SkagCanCarrots ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Can of Carrots"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_MineKey ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Mine Key"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_MoeSkull ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Moe's Skull"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_SkagPearl ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Skag Pearl"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_VSSFuse ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Digistruct Module"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_VSSFuse:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It is marked with a warning label that reads 'Do not remove from the Catch-A-Ride unit, or equipment failure may result.'"
+NoConstraintText=""
+Suffix=""
+

@@ -1,0 +1,253 @@
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Atlas"
+
+[acc.acc2 WeaponPartDefinition]
+PartName=
+
+[Prefix.Prefix_Spread1_Hunters WeaponNamePartDefinition]
+PartName="Hunter's"
+
+[acc.acc3 WeaponPartDefinition]
+PartName=
+
+[Grip.grip3b WeaponPartDefinition]
+PartName="Hyperion"
+
+[Prefix.Prefix_Firerate1_Riot WeaponNamePartDefinition]
+PartName="Riot"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Jakobs"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="Maliwan"
+
+
+[Title.TitleU_BSG_BahaBlaster WeaponNamePartDefinition]
+PartName="Baha's Bigger Blaster"
+
+[Title.TitleU_BSG_BahaBlaster:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Giving you a leg up on the competition!"
+
+[Title.TitleM_Atlas1_Hydra:AttributePresentationDefinition_14 AttributePresentationDefinition]
+NoConstraintText="Five heads of Death"
+
+[Grip.grip3a WeaponPartDefinition]
+PartName="Vladof"
+
+[Prefix.Prefix_Acc2_Frenzied WeaponNamePartDefinition]
+PartName="Stabilized"
+
+[mag.mag2_Dahl_Bulldog WeaponPartDefinition]
+PartName="BullDog"
+
+[acc.acc5_Vladof_Hammer WeaponPartDefinition]
+PartName=Explosive
+
+[CustomParts.Material_Sledge WeaponPartDefinition]
+PartName=" XX"
+
+[Prefix.Prefix_Grip2_Riot WeaponNamePartDefinition]
+PartName="Riot"
+
+[Prefix.Prefix_Acc1_Jagged WeaponNamePartDefinition]
+PartName="Fanged"
+
+[Barrel.barrel4_SandSCrux WeaponPartDefinition]
+PartName=
+
+[Grip.grip2a_Torgue WeaponPartDefinition]
+PartName="Torgue"
+
+[Title.TitleU_TKBaha_TKsWave:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Ride the Wave, Dude!"
+
+[Title.TitleU_Retail_Blister:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="It's a painful thing"
+
+[Title.Title_HighSpread1_Scattergun WeaponNamePartDefinition]
+PartName="Scattergun"
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[acc.acc2_Frenzied WeaponPartDefinition]
+PartName="Frenzied"
+
+[A_Weapon.WeaponType_combat_shotgun WeaponTypeDefinition]
+TypeName="Combat Shotgun"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Damage1_Terrible WeaponNamePartDefinition]
+PartName="Terrible"
+
+[Title.TitleU_Sledge_SledgesShotgun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="The Legend Lives"
+
+[Title.TitleU_TKBaha_TKsWave WeaponNamePartDefinition]
+PartName="T.K's Wave"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[UniqueParts.TKsWave_Material WeaponPartDefinition]
+PartName=" U"
+
+[Prefix.Prefix_Sledge:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Sledge's prized possession"
+
+[UniqueParts.SledgesShotgun_Material WeaponPartDefinition]
+PartName=" XX"
+
+[Prefix.Prefix_Basic1_Combat WeaponNamePartDefinition]
+PartName="Combat"
+
+[Barrel.barrel3_Carnage:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Holy crap! It shoots rockets!"
+
+[Title.Title_Projectiles1_Shredder WeaponNamePartDefinition]
+PartName="Shredder"
+
+[Title.TitleM_Atlas1_Hydra WeaponNamePartDefinition]
+PartName="Hydra"
+
+[Title.Title__Shotgun WeaponNamePartDefinition]
+PartName="Shotgun"
+
+[Title.Title_Barrel3_Carnage WeaponNamePartDefinition]
+PartName="Carnage"
+
+[Title.Title_HighSpread2_Matador WeaponNamePartDefinition]
+PartName="Matador"
+
+[Prefix.Prefix_Torgue1_Friendly WeaponNamePartDefinition]
+PartName=Friendly
+
+[acc.acc5_Torgue_FriendlyFire WeaponPartDefinition]
+PartName="FiendlyFire"
+
+[Sight.sight1 WeaponPartDefinition]
+PartName=
+
+[Sight.sight2 WeaponPartDefinition]
+PartName=
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Dahl"
+
+[Grip.grip2_gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[Body.body4 WeaponPartDefinition]
+PartName="BA "
+
+[Grip.grip1a WeaponPartDefinition]
+PartName="SandS"
+
+[Body.body5 WeaponPartDefinition]
+PartName="ZPR"
+
+[Body.body3 WeaponPartDefinition]
+PartName="ZX"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Tediore"
+
+[Body.body3_Tediore_Defender WeaponPartDefinition]
+PartName="DEF"
+
+[Title.Title_Atlas1_Hydra WeaponNamePartDefinition]
+PartName=Hydra
+
+[Body.body2 WeaponPartDefinition]
+PartName="SPR"
+
+[Title.Title_Spread1_Scattergun WeaponNamePartDefinition]
+PartName=Scattergun
+
+[Title.Title_Spread2_Striker WeaponNamePartDefinition]
+PartName=Striker
+
+[Title.Title_Tediore1_Defender WeaponNamePartDefinition]
+PartName=Striker
+
+[Title.Title_Torgue1_Fire WeaponNamePartDefinition]
+PartName=Fire
+
+[Title.Title_Vladof1_Hammer WeaponNamePartDefinition]
+PartName=Fire
+
+[Title.TitleU_Sledge_SledgesShotgun WeaponNamePartDefinition]
+PartName="Sledge's Shotgun"
+
+[Title.TitleM_Dahl1_Bulldog:AttributePresentationDefinition_11 AttributePresentationDefinition]
+NoConstraintText="One Bad Dog!"
+
+[Sight.sight1_:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[Sight.sight3:AttributePresentationDefinition_16 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+
+[Body.body1 WeaponPartDefinition]
+PartName="SG"
+
+[Sight.sight2_:AttributePresentationDefinition_13 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Prefix.Prefix_Acc4_Terrible WeaponNamePartDefinition]
+PartName="Sighted"
+
+[Title.TitleM_Jakobs1_Striker:AttributePresentationDefinition_16 AttributePresentationDefinition]
+NoConstraintText="Sniper Rifles are for Chumps."
+
+[Title.TitleU_Retail_Blister WeaponNamePartDefinition]
+PartName="The Blister"
+
+[Title.TitleM_Tediore1_Defender WeaponNamePartDefinition]
+PartName="Defender"
+
+[Title.TitleM_Torgue1_Fire:AttributePresentationDefinition_11 AttributePresentationDefinition]
+NoConstraintText="Have a nice day!"
+
+[Prefix.Prefix_Sledge WeaponNamePartDefinition]
+PartName="Sledge's"
+
+[Title.TitleU_BaronFlynt_BoomStick WeaponNamePartDefinition]
+PartName="Boom Stick"
+
+[Title.TitleU_BaronFlynt_BoomStick:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Beyond Groovy"
+
+[Title.TitleM_Jakobs1_Striker WeaponNamePartDefinition]
+PartName="Striker"
+
+[Sight.sight5:AttributePresentationDefinition_29 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[Title.TitleM_Tediore1_Defender:AttributePresentationDefinition_13 AttributePresentationDefinition]
+NoConstraintText="I can do this all day..."
+
+[Title.TitleM_Torgue1_Fire WeaponNamePartDefinition]
+PartName="Fire"
+
+[Prefix.PrefixM_Torgue1_Friendly WeaponNamePartDefinition]
+PartName="Friendly"
+
+[Title.TitleM_Dahl1_Bulldog WeaponNamePartDefinition]
+PartName="Bulldog"
+
+[Sight.sight4:AttributePresentationDefinition_27 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+

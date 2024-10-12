@@ -1,0 +1,700 @@
+[ItemDefs.ID_AltarPieces ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bandit Scripture"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_AltarPieces:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's impossible to make out anything written here."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_BanditJournal ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="A Bandit's Journal"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_BanditJournal:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="With his rotten last breaths he wrote his last entry...."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_BanditKey ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bandit Key"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_BanditKey:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Looks like a key to a strongbox."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_BanditLockBox ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Strongbox"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_BanditLockBox:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="An unusual design with three keyholes."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_BountyBoardFuse ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bounty Board Fuse"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_BountyBoardFuse:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description="Twentieth century technology, today!"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_BridgeBeer ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Bottle Of Booze"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_BridgeBeer:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description="The label reads 'Dixie Wrecked Brand Moonshine.'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_Canyon ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_Canyon:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="All the stuff you need to repair Claptrap, and then some."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_NewHaven ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_NewHaven:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A hammer and some rusty nails. It'll have to do."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_OldHaven ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_OldHaven:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Jumper cables? Those might work."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_ScrapYard ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_ScrapYard:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Contains everything you need to repair a Claptrap robot."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_Trashcave ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_Trashcave:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="This should have everything a dying Claptrap needs."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ClaptrapRepairkit_TrashCoast ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_TrashCoast:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Tools to infiltrate all of Claptrap's little panels and access points."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_DirtyMags ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Dirty Mags"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_DirtyMags:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description="Ugh! Some of the pages are stuck together."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_DogFood ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Canned Skag Meat"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_DogFood:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's dog food. Literally."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_EarlExplosives ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="C-Charge"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_EarlExplosives:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="'Handle with care.'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_FirePowerPlans ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Weapon Shipment Invoice"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_FirePowerPlans:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Record of sale, munitions and other materiel."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_GreenThumbValve ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Valve"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_GreenThumbValve:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Somehow, you knew that you'd eventually need one of these."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_HeathenPamphlets_1 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Pamphlet"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_HeathenPamphlets_1:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="'Hell r Reely Bad Hell, wich ones rite for u?'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_HeathenPamphlets_2 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Pamphlet"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_HeathenPamphlets_2:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="'Evrthing u evr wantd to know abowt cults'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_HeathenPamphlets_3 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Pamphlet"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_HeathenPamphlets_3:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="'Git off ur ass and on ur nees'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_JackProof ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Jack's Other Eye"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_JackProof:AttributePresentationDefinition_16 AttributePresentationDefinition]
+Description="A stark reminder to always wear eye protection when handling firearms."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_KeyFragment2 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Piece"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_KeyFragment2:AttributePresentationDefinition_17 AttributePresentationDefinition]
+Description="A low hum emanates from within, and it is warm to the touch."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_KeyFragment3 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Piece"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_KeyFragment3:AttributePresentationDefinition_18 AttributePresentationDefinition]
+Description="This piece is cold to the touch."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_KromChest_Loot ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Piece"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_KromChest_Loot:AttributePresentationDefinition_19 AttributePresentationDefinition]
+Description="A low hum emanates from within, and it is warm to the touch."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_2a ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_2a:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It almost looks lonely."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_2b ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_2b:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Do not expose to open flame."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_2c ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_2c:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Little hearts have been scratched into the surface."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_2d ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_2d:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="How long did it take Tannis to hide these things?"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_2e ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_2e:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's amazing that nobody ever ran off with this."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_3a ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_3a:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Another of Tannis' lost data recorders."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_3b ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_3b:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Tannis had better pay well for finding these things."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_3c ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_3c:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Appears to have been refurbished at some point."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_3d ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_3d:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Looks like it was repeatedly hit with a hammer."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_LostData_3e ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Tannis Journal Entry"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_LostData_3e:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="'Not intended for use as a flotation device.'"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_QueenAbodomen ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Queen Abdomen"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_QueenAbodomen:AttributePresentationDefinition_20 AttributePresentationDefinition]
+Description="Like pulling the wings off a fly, times infinity."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_RakkChest_Loot ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Vault Key Piece"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_RakkChest_Loot:AttributePresentationDefinition_21 AttributePresentationDefinition]
+Description="This piece is cold to the touch."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger4_Barrel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="SMG Barrel"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger4_Barrel:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="This'll be a barrel of laughs when it's done."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger4_Body ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="SMG Body"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger4_Body:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="If I said this was an amazing body, would you hold it against me?"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger4_Magazine ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="SMG Magazine"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger4_Magazine:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's in excellent condition, believe it or not."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger4_Sight ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="SMG Sight"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger4_Sight:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Some assembly required."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger5_Barrel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Shotgun Barrel"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger5_Barrel:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It looks like some insects were nesting inside."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger5_Body ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Shotgun Body"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger5_Body:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It just might work."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger5_Magazine ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Shotgun Magazine"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger5_Magazine:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It'll do in a pinch."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger5_Stock ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Shotgun Stock"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger5_Stock:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A previous owner's initials are carved into it."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ScooterEngine ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Rusty Engine"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ScooterEngine:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="In desperate need of a tune-up."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ScooterFrontWheel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Front Fender"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ScooterFrontWheel:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Is that blood?"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ScooterFuelCell ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Fuel Cell"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ScooterFuelCell:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A heavily armored fuel tank fitted with a ladder for convenience."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_ScooterRearWheel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Rear Fender"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ScooterRearWheel:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Oh sure, that'll buff right out."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Z1_Crystal_Corrosive01 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Corrosive Crystal"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Z1_Crystal_Corrosive01:AttributePresentationDefinition_22 AttributePresentationDefinition]
+Description="It hisses as acid seeps from the surface."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Z1_DeadFish ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Fresh Fish"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Z1_DeadFish:AttributePresentationDefinition_23 AttributePresentationDefinition]
+Description="Delicious as only a fish recently exploded from putrid water can be."
+NoConstraintText=""
+Suffix=""
+

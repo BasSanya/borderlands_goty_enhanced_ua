@@ -1,0 +1,300 @@
+[bd_action_tauntrage_sledge_25a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="",Time=0.000000)
+
+[bd_action_tauntrage_sledge_25b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="",Time=0.000000)
+
+[bd_action_tauntrage_sledge_25c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="",Time=0.000000)
+
+[bd_response_goredeath_sledge_39 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntrage_sledge_23 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Killing Sledge's men makes Sledge angry!",Time=0.000000)
+
+[bd_action_tauntapproach_sledge_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one come here unless Sledge tell them to!",Time=0.000000)
+
+[bd_action_tauntapproach_sledge_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not going away, huh?  Must be a bounty hunter!  Sledge will punish you like others!",Time=0.000000)
+
+[bd_action_tauntapproach_sledge_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You come here to kill Sledge?  Sledge kill you!",Time=0.000000)
+
+[bd_response_goredeath_sledge_46 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_sledge_42 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I did not ask for this!",Time=0.000000)
+
+[bd_action_minionsattack_sledge_13b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No mercy for anyone who threaten Sledge!",Time=0.000000)
+
+[bd_action_minionsattack_sledge_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge's men gonna kill you!",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can beat Sledge?  Nuh uh, cause Sledge is too smart for you!",Time=0.000000)
+
+[bd_action_tauntrage_sledge_24b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now... Die. bounty hunter!",Time=0.000000)
+
+[bd_response_goredeath_sledge_49 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_sledge_37d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Someone feed my... puppy.",Time=0.000000)
+
+[bd_action_tauntrage_sledge_22 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge not like you!  Sledge kill thing he not like!",Time=0.000000)
+
+[bd_response_shielddown_sledge_19b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No, no!  No one threatens Sledge!",Time=0.000000)
+
+[bd_action_tauntapproach_sledge_3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bounty hunter!  You can't kill Sledge!  Sledge crush you like... like crush you style!",Time=0.000000)
+
+[bd_response_goredeath_sledge_44 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That burns... burn!!!!",Time=0.000000)
+
+[bd_response_shielddown_sledge_18a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge angry!  Sledge DESTROY!",Time=0.000000)
+
+[bd_response_shielddown_sledge_16a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Awww, where'd my shield go?  Sledge gonna crush you!",Time=0.000000)
+
+[bd_action_tauntrage_sledge_21a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must be bounty hunter!  Sledge will punish you!",Time=0.000000)
+
+[bd_response_shielddown_sledge_16b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge shield down.  Sledge will crush you!",Time=0.000000)
+
+[bd_response_death_sledge_36b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stupid bounty hunter... killed Sledge- [death sound]",Time=0.000000)
+
+[bd_response_death_sledge_37a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_shielddown_sledge_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, crap, shield down!  No one does that to Sledge!  Sledge kill!",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge destroy you!  Destroy you right now!",Time=0.000000)
+
+[bd_response_goredeath_sledge_41 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Noooo!",Time=0.000000)
+
+[bd_response_goredeath_sledge_51 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_sledge_37b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_shielddown_sledge_18b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge angry!  Sledge DESTROY!",Time=0.000000)
+
+[bd_response_goredeath_sledge_52 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_sledge_50 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_sledge_47 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_minionsattack_sledge_12b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge's men... my men!  Attack!",Time=0.000000)
+
+[bd_action_minionsattack_sledge_12a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge's men attack, please!",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge give little runt big death!",Time=0.000000)
+
+[bd_action_minionsattack_sledge_15b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kill the intruders!",Time=0.000000)
+
+[bd_response_shielddown_sledge_17 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge doesn't need shield!  Sledge gonna crush you to bloody stumpses.",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_10a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now, death come for you!",Time=0.000000)
+
+[bd_action_tauntapproach_sledge_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why are you here?  Go away!  Sledge is eating!",Time=0.000000)
+
+[bd_response_goredeath_sledge_54 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_sledge_36a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stupid bounty hunter killed Sledge- [death sound]",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_10b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now, death come for you from Sledge!",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_8b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge gonna pound you into dust!",Time=0.000000)
+
+[bd_action_tauntrage_sledge_21b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must be a bounty hunter!  Sledge will punish you!",Time=0.000000)
+
+[bd_action_minionsattack_sledge_13a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No mercy for anyone who threaten Sledge, okay?",Time=0.000000)
+
+[bd_action_minionsattack_sledge_15a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kill intruders!",Time=0.000000)
+
+[bd_action_tauntrage_sledge_24a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now you die, bounty hunter!",Time=0.000000)
+
+[bd_response_goredeath_sledge_40 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_sledge_48 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_sledge_36c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stupid bounty hunter!  Killed Sledge- [death sound]",Time=0.000000)
+
+[bd_action_minionsattack_sledge_14 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge have a idea!  Idea say, destroy them all!",Time=0.000000)
+
+[bd_response_goredeath_sledge_45 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The burning let's you know it's working!",Time=0.000000)
+
+[bd_action_tauntcombat_sledge_8a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sledge pound you into dust!",Time=0.000000)
+
+[bd_response_shielddown_sledge_19a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one threatens Sledge!",Time=0.000000)
+
+[bd_response_goredeath_sledge_53 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_sledge_43 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh ah... fire!  Oh, please, someone... water!  Water!",Time=0.000000)
+
+[bd_response_death_sledge_37c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh that doesn't feel good.",Time=0.000000)
+

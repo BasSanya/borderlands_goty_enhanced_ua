@@ -1,0 +1,14 @@
+[CustomGlobals GlobalsDefinition]
+PlayerCharacters[0].CharacterClassName="Soldier"
+PlayerCharacters[0].DefaultCharacterName="Roland"
+PlayerCharacters[1].CharacterClassName="Hunter"
+PlayerCharacters[1].DefaultCharacterName="Mordecai"
+PlayerCharacters[2].CharacterClassName="Siren"
+PlayerCharacters[2].DefaultCharacterName="Lilith"
+PlayerCharacters[3].CharacterClassName="Berserker"
+PlayerCharacters[3].DefaultCharacterName="Brick"
+AttributePresentationTranslation="$NUMBER$ $CONSTRAINT$ $DESCRIPTION$"
+
+[DLC3_def DLCPackageDefinition]
+DlcPackageName="The Secret Armory of General Knoxx"
+

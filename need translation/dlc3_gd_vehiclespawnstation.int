@@ -1,0 +1,52 @@
+[Definitions.VSSVehicle_Racer VehicleSpawnStationVehicleDefinition]
+VehicleName="Racer"
+
+[Definitions.VSSVehicle_Lancer VehicleSpawnStationVehicleDefinition]
+VehicleName="Lancer"
+
+[Definitions.VSSVehicle_ChetaPaw VehicleSpawnStationVehicleDefinition]
+VehicleName="Monster"
+
+[Definitions.dlc3_VSSMovieDefinition_StuntArena VehicleSpawnStationGFxDefinition]
+VehicleMaterials[0]=(MaterialName="DIRT DRIVER")
+VehicleMaterials[1]=(MaterialName="URBAN COMMANDO")
+VehicleMaterials[2]=(MaterialName="NIGHT RIDER")
+VehicleMaterials[3]=(MaterialName="HAPPY HUNTER")
+VehicleMaterials[4]=(MaterialName="RED ROVER")
+VehicleMaterials[5]=(MaterialName="HOT STUFF")
+VehicleMaterials[6]=(MaterialName="ROAD HAZZARD")
+VehicleMaterials[7]=(MaterialName="MOXXI MOBILE")
+VehicleMaterials[16]=(MaterialName="STORMTROOPER")
+VehicleMaterials[17]=(MaterialName="APC")
+VehicleMaterials[18]=(MaterialName="BLUE HORNET")
+VehicleMaterials[19]=(MaterialName="CAMO")
+VehicleMaterials[20]=(MaterialName="DIABLO")
+VehicleMaterials[21]=(MaterialName="THE CRUSH")
+VehicleMaterials[22]=(MaterialName="BLACK SUNSHINE")
+VehicleMaterials[23]=(MaterialName="TANKINI")
+
+[Definitions.dlc3_VSSMovieDefinition VehicleSpawnStationGFxDefinition]
+VehicleMaterials[0]=(MaterialName="DIRT DRIVER")
+VehicleMaterials[1]=(MaterialName="URBAN COMMANDO")
+VehicleMaterials[2]=(MaterialName="NIGHT RIDER")
+VehicleMaterials[3]=(MaterialName="HAPPY HUNTER")
+VehicleMaterials[4]=(MaterialName="RED ROVER")
+VehicleMaterials[5]=(MaterialName="HOT STUFF")
+VehicleMaterials[6]=(MaterialName="ROAD HAZZARD")
+VehicleMaterials[7]=(MaterialName="MOXXI MOBILE")
+VehicleMaterials[8]=(MaterialName="Dune Racer")
+VehicleMaterials[9]=(MaterialName="X-Racer")
+VehicleMaterials[10]=(MaterialName="Blue Blur")
+VehicleMaterials[11]=(MaterialName="Mean Green")
+VehicleMaterials[12]=(MaterialName="Fireball")
+VehicleMaterials[13]=(MaterialName="Burner")
+VehicleMaterials[14]=(MaterialName="Greasy Lighting")
+VehicleMaterials[15]=(MaterialName="Fast and Loose")
+VehicleMaterials[16]=(MaterialName="STORMTROOPER")
+VehicleMaterials[17]=(MaterialName="APC")
+VehicleMaterials[18]=(MaterialName="BLUE HORNET")
+VehicleMaterials[19]=(MaterialName="CAMO")
+VehicleMaterials[20]=(MaterialName="DIABLO")
+VehicleMaterials[21]=(MaterialName="THE CRUSH")
+VehicleMaterials[22]=(MaterialName="BLACK SUNSHINE")
+VehicleMaterials[23]=(MaterialName="TANKINI")

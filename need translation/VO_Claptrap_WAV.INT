@@ -1,0 +1,350 @@
+[NAR_Droid_Claptrap_101 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Welcome to Firestone!  I am CL4P-TP, you may call me by my locally designated name, 'Claptrap'.  Before continuing, please accept this ECHO communication device and heads-up display provided free of charge by the Dahl corporation!")
+
+[NAR_Droid_Claptrap_102 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Great!  I detect that your echo device is fully functioning!  This way, please.  [Robot Turns Around] Did you know that since our last visitor, I have analyzed over 4 billion, 7 million, and 240 thousand fine grains of sand?")
+
+[NAR_Droid_Claptrap_103 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Please step right up!  This is the New-U station.  When you step near this device, your DNA profile is automatically identified and stored.  In the event of a fatal death incident, get your instant free copy here!  Say hello to the new you!  Manufactured by Hyperion Industrial.")
+
+[NAR_Droid_Claptrap_104 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="If you will follow me!  [beat] As you can see, Firestone contains some-- [muttered] God damned stupid little [back to normal] of the most fascinating specimens of indigenous life forms in the galaxy!")
+
+[NAR_Droid_Claptrap_105 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="I'm over here!")
+
+[NAR_Droid_Claptrap_106 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Over here!")
+
+[NAR_Droid_Claptrap_107 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Hey, traveler!")
+
+[NAR_Droid_Claptrap_108 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Yooo hooooo!")
+
+[NAR_Droid_Claptrap_109 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="[starts to type - Making little noises as he types, much like he does now.] Aannnnnddd open!  [when the gate starts to open.] ohhhh!  [Expresses disappointment when it slams back down.]")
+
+[NAR_Droid_Claptrap_109a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="ohhhh!")
+
+[NAR_Droid_Claptrap_111 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Wait [Moves antenna towards bandits] is that?  Uh-oh.  Not again.  Ruuuuuuunnnnnnn!!!")
+
+[NAR_Droid_Claptrap_112 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="(loud, after the bandits) Are...  are they gone?  Whew!  Those bandits really have it in for us Claptraps.  [Indignant] Using us Claptraps as target practice is NOT part of our programming!")
+
+[NAR_Droid_Claptrap_113 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Aaaannnnndddd...!  Open!")
+
+[NAR_Droid_Claptrap_114 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="C'mon!  Over here!")
+
+[NAR_Droid_Claptrap_115 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Whoa!  What the?  Who put [Face Player - Agitated] Why do people insist on leaving these all over the place!  Would you leave your valuables here?  Go ahead and open it, see for yourself!  [grumbling mutters] Hmph!  Humans will never cease to be a mystery to me")
+
+[NAR_Droid_Claptrap_116 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Aaah!  Oh no!  Aaaahhhhh!  [Is shot at by a bandit around the next corner]")
+
+[NAR_Droid_Claptrap_119 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Attention Citizen of Firestone!  There is no cause for alarm.  This new visitor has resolved the problem!")
+
+[NAR_Droid_Claptrap_123 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="This is the Bounty Board.  You can find all sorts of jobs here.  It's a great way to earn some cash, and the occasional special item!  You know, I believe I've found the bounty for Nine Toes!")
+
+[NAR_Droid_Claptrap_124 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="A lot of jobs just are just never completed because people are always forgetting what they agreed to do!  You can avoid that by using your mission log.  Your mission log tracks your progress for all the jobs you've accepted.  It also lets you choose which mission you wish to keep active.")
+
+[NAR_Droid_Claptrap_125 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Wow!  Hey look!  Marcus is giving away free shields!  Marcus NEVER gives anything for free.  You should check that out!")
+
+[NAR_Droid_Claptrap_126 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Now that you've selected a mission, you will notice that a new icon has appeared on your Heads Up Display.  That's a waypoint.  The waypoint will tell you where you need to go, depending on what mission is currently active in your mission log.")
+
+[NAR_Droid_Claptrap_128 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="This machine may not look like much, but the technology in it allows Marcus to stock all the gear you could ever need!")
+
+[NAR_Droid_Claptrap_129 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="I believe Marcus was offering you a free shield.  We should be sure to get that now.  People don't last long outside these walls without one.")
+
+[NAR_Droid_Claptrap_130 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Congratulations!  You've completed a mission!  Now, we need to return to the Bounty Board and collect your reward!")
+
+[NAR_Droid_Claptrap_132 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Use the Bounty Board again to collect your reward!")
+
+[NAR_Droid_Claptrap_133 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You can use your mission log to collect bounties for missions you've completed.")
+
+[NAR_Droid_Claptrap_134 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Now you have a shield in your inventory!  You should access your Storage Deck and equip it before we head out.")
+
+[NAR_Droid_Claptrap_135 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You may find other shields more powerful than this one.  If Marcus gave this shield to you for free, you can bet it's not worth much.  Better shields will recharge faster, and absorb more damage.")
+
+[NAR_Droid_Claptrap_136 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Now that we're done with all that, please follow me, and I'll open the gate for you.")
+
+[NAR_Droid_Claptrap_137 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="I can see the code...  It's so, beautiful...")
+
+[NAR_Droid_Claptrap_144 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Whew!  Good as new!  I think Am I leaking?")
+
+[NAR_Droid_Claptrap_145 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="I see that you earned a level!  According to my readings, you're stronger, and definitely better with that gun!")
+
+[NAR_Droid_Claptrap_146 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="It seems that in addition to becoming more powerful, you earned a skill point!  You can spend that skill point at any New-U station to further improve yourself!")
+
+[NAR_Droid_Claptrap_148 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Thank you for visiting Firestone!  Farewell traveler, and be sure to say hello to all the friendly Claptraps that await you on Pandora!  I shall now continue my fascinating research on the wondrous properties of sand!")
+
+[NAR_Droid_Claptrap_149 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="See ya next time!")
+
+[NAR_Droid_Claptrap_150 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Good luck!")
+
+[NAR_Droid_Claptrap_151 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Hello, traveler!")
+
+[NAR_DroidECHO_Claptrap_85 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Hello!  Did you know that by aiming your crosshairs at an enemy, your HUD can display your target's level, health, and shield strength?  The higher level an enemy, the more dangerous they will be.  If you see a skull, you'd better get out of there fast!")
+
+[NAR_DroidECHO_Claptrap_86 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Watch out!  This individual is what you humans refer to as a BADASS.  Badasses are unusually tough for their level, and often have special attacks.  You can take them on, but be careful!")
+
+[NAR_DroidECHO_Claptrap_89 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You found an incendiary weapon!  These have a chance of setting their target on fire, which is useful against unshielded, unarmored enemies!")
+
+[NAR_DroidECHO_Claptrap_90 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You killed Nine-Toes, that means you completed a mission objective!  When you're ready, you should return to the Bounty Board and collect your reward.  Try using the Fast Travel feature of the New-U station, which will get you back here instantly!")
+
+[NAR_DroidECHO_Claptrap_91 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Protean Grenades are good for blowing up whatever you are fighting.  If you find one, you can also equip a Grenade Mod to make your grenades more powerful and endow them with special abilities.")
+
+[NAR_DroidECHO_Claptrap_92 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You found a shock weapon!  These can penetrate most shields, and have a chance of stunning their target.")
+
+[NAR_DroidECHO_Claptrap_93 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="A Storage Deck upgrade!  Be sure to equip that right away - it will give your Storage Deck a permanent size increase and let you carry more stuff!")
+
+[NAR_DroidECHO_Claptrap_94 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You found an explosive weapon!  Shots fired from these weapons have a chance of exploding on impact for MASSIVE DAMAGE!")
+
+[NAR_DroidECHO_Claptrap_95 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="That's a Grenade Mod!  Equip that, and you'll find that your Protean Grenades are suddenly more powerful and are now equipped with special abilities.  Always be on the lookout for new and different Grenade Mods to super-charge your arsenal!")
+
+[NAR_DroidECHO_Claptrap_96 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You found a corrosive weapon!  Shots fired from these weapons have a chance of splattering acid on your target.  The acid eats through armor and flesh in no time at all and can spread to other nearby enemies!")
+
+[NAR_DroidECHO_Claptrap_97 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="Revolvers don't fire as quickly as repeater pistols, but they really pack a punch!")
+
+[NAR_DroidECHO_Claptrap_98 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="You discovered a Com Deck!  Com Decks can be equipped to specialize your skills and proficiencies.")
+
+[NAR_DroidECHO_Claptrap_99 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+Subtitles[0]=(Text="A rocket launcher!  Now you are a force to be reckoned with!")
+

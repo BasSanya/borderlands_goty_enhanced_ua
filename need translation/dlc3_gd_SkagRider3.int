@@ -1,0 +1,6 @@
+[SkagMount3.PopOpDen.Pawn_Balance_Rider3 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=)
+
+[SkagMount3.PopOpDen.Pawn_Balance_Rider3Off AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Ravager"))
+

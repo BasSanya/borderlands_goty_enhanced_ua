@@ -1,0 +1,175 @@
+[bd_action_tauntcombat_steele_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="NOW YOU WILL DIE!",Time=0.000000)
+
+[bd_response_shielddown_steele_16 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="NOOOO - KILL THEM!",Time=0.000000)
+
+[bd_action_begtokill_steele_21 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Please... kill me!",Time=0.000000)
+
+[bd_action_minionsattack_steele_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="YOU WILL DESTROY THEM - NOW!",Time=0.000000)
+
+[bd_response_suckedaway_steele_32 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nooooooooo!",Time=0.000000)
+
+[bd_action_begtokill_steele_22 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't let it use me like this!",Time=0.000000)
+
+[bd_response_suckedaway_steele_35 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aaaaaaaahhh!",Time=0.000000)
+
+[bd_response_shielddown_steele_17 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DON'T LET THEM COME ANY CLOSER!",Time=0.000000)
+
+[bd_action_tauntapproach_steele_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You cannot win against us.",Time=0.000000)
+
+[bd_action_minionsattack_steele_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DESTROY THEM!",Time=0.000000)
+
+[bd_response_goredeath_steele_39 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_minionsattack_steele_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="ALL OF YOU - KILL THE INTRUDERS!",Time=0.000000)
+
+[bd_action_minionsattack_steele_14 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I COMMAND YOU TO KILL THEM ALL!",Time=0.000000)
+
+[bd_action_minionsattack_steele_15 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="THEY SHALL NOT THREATEN US!",Time=0.000000)
+
+[bd_response_death_steele_36 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntcombat_steele_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DEATH TO ALL WHO OPPOSE US!",Time=0.000000)
+
+[bd_action_begtokill_steele_24 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The pain!",Time=0.000000)
+
+[bd_response_goredeath_steele_40 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_steele_3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You have come so far, only to fail at the end.",Time=0.000000)
+
+[bd_response_shielddown_steele_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="THIS BODY IS WEAK - DON'T LET IT BE HARMED!",Time=0.000000)
+
+[bd_action_tauntapproach_steele_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Crimson Lance will not be stopped.",Time=0.000000)
+
+[bd_response_death_steele_36b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntcombat_steele_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="YOU WILL BE... DESTROYED!!",Time=0.000000)
+
+[bd_action_tauntcombat_steele_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DEATH TO ANY WHO OPPOSE US!",Time=0.000000)
+
+[bd_response_death_steele_38 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_shielddown_steele_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WE CANNOT BE STOPPED!",Time=0.000000)
+
+[bd_response_death_steele_37 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntapproach_steele_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I told you to stay away - now you will pay the price.",Time=0.000000)
+
+[bd_response_suckedaway_steele_33 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anything but that!  Nooooooo!",Time=0.000000)
+
+[bd_action_tauntapproach_steele_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We will complete our mission.",Time=0.000000)
+
+[bd_response_suckedaway_steele_31 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Noooooooo!",Time=0.000000)
+
+[bd_action_begtokill_steele_25 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aaaaaaaahhh!",Time=0.000000)
+
+[bd_action_tauntcombat_steele_8 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="YOU WILL NOT STOP US!",Time=0.000000)
+
+[bd_response_suckedaway_steele_34 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't let it take me again!!!",Time=0.000000)
+
+[bd_action_begtokill_steele_23 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kill me!",Time=0.000000)
+

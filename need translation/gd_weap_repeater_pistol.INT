@@ -1,0 +1,260 @@
+[Title.Title_Accuracy1_Swatter WeaponNamePartDefinition]
+PartName="Swatter"
+
+[Body.body3_Tediore_Protector WeaponPartDefinition]
+PartName="PRO"
+
+[Title.TitleM_Dahl1_Hornet:AttributePresentationDefinition_15 AttributePresentationDefinition]
+NoConstraintText="Feel the Sting"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Vladof"
+
+[acc.acc1_Lacerator:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=Burst Fire
+NoConstraintText=
+Suffix=
+
+[Sight.sight2:AttributePresentationDefinition_9 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Title.Title__Repeater WeaponNamePartDefinition]
+PartName="Repeater"
+
+[acc.acc2_Torgue_Violator WeaponPartDefinition]
+PartName=Violator
+
+[Title.Title_Quality1_Raptor WeaponNamePartDefinition]
+PartName="Raptor"
+
+[Sight.sight5:AttributePresentationDefinition_31 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+
+[Title.TitleM_SandSl1_Gemini WeaponNamePartDefinition]
+PartName="Gemini"
+
+[Title.TitleM_Dahl1_Hornet WeaponNamePartDefinition]
+PartName="Hornet"
+
+[Title.Title_DamageLow1_Peashooter WeaponNamePartDefinition]
+PartName="Peashooter"
+
+[Prefix.Prefix_Quality3_Wicked WeaponNamePartDefinition]
+PartName="Wicked"
+
+[Sight.sight4:AttributePresentationDefinition_25 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+
+[Title.TitleU_LadyFinger:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Omnia vincit amor"
+
+[Sight.sight5_Hyperion_Invader:AttributePresentationDefinition_36 AttributePresentationDefinition]
+NoConstraintText="Weapon Zoom"
+
+[Title.TitleM_Atlas1_Troll:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Pain Heals."
+
+[Title.TitleM_Maliwan1_Firehawk WeaponNamePartDefinition]
+PartName="Firehawk"
+
+[Title.TitleM_Maliwan1_Firehawk:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Bring the HEAT!"
+
+[Title.TitleM_Atlas1_Troll WeaponNamePartDefinition]
+PartName="Troll"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Tediore"
+
+[Sight.sight5_Hyperion_Invader WeaponPartDefinition]
+PartName="Scope"
+
+[Title.TitleM_Hyperion1_Invader:AttributePresentationDefinition_18 AttributePresentationDefinition]
+NoConstraintText="12 bullets invade your skull"
+
+[Title.Title_Acc2_Lacerator WeaponNamePartDefinition]
+PartName="Lacerator"
+
+[Sight.sight5 WeaponPartDefinition]
+PartName="Scope"
+
+[Title.Title_Firerate1_Needler WeaponNamePartDefinition]
+PartName="Needler"
+
+[Title.TitleM_Hyperion1_Invader WeaponNamePartDefinition]
+PartName="Invader"
+
+[Prefix.Prefix_Quality1_Bad WeaponNamePartDefinition]
+PartName="Bad"
+
+[Grip.grip3_Gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[Body.body2 WeaponPartDefinition]
+PartName="RF"
+
+[Grip.grip4_Dahl WeaponPartDefinition]
+PartName="Dahl"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="S&S Munitions"
+
+[Body.body4 WeaponPartDefinition]
+PartName="HRD"
+
+[Sight.sight1:AttributePresentationDefinition_5 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[Sight.sight3:AttributePresentationDefinition_18 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+
+[Prefix.Prefix_Quality2_Cruel WeaponNamePartDefinition]
+PartName="Cruel"
+
+[Barrel.barrel0 WeaponPartDefinition]
+PartName="Stripped"
+
+[Prefix.Prefix_Acc2_Stabilized WeaponNamePartDefinition]
+PartName="Stabilized"
+
+[Grip.grip3_Maliwan WeaponPartDefinition]
+PartName="Maliwan"
+
+[Body.body1 WeaponPartDefinition]
+PartName="BLR"
+
+[Prefix.Prefix_Acc3_Sighted WeaponNamePartDefinition]
+PartName="Sighted"
+
+[acc.acc5_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[Title.TitleM_Torgue1_Violator:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Your move, Creep."
+
+[Prefix.Prefix_Burst WeaponNamePartDefinition]
+PartName=Burst
+
+[Prefix.Prefix_Fanged WeaponNamePartDefinition]
+PartName=Fanged
+
+[Prefix.Prefix_Sighted WeaponNamePartDefinition]
+PartName=Sighted
+
+[Prefix.Prefix_Stabilized WeaponNamePartDefinition]
+PartName=Stabilized
+
+[Prefix.Prefix_Torgue1_Nasty WeaponNamePartDefinition]
+PartName=Nasty
+
+[Body.body3 WeaponPartDefinition]
+PartName="TK"
+
+[Title.TitleM_Tediore1_Protector WeaponNamePartDefinition]
+PartName="Protector"
+
+[Title.Title_Dahl1_Gemini WeaponNamePartDefinition]
+PartName=Gemini
+
+[Title.Title_Dahl1_Hornet WeaponNamePartDefinition]
+PartName=Hornet
+
+[Title.Title_Hyperion1_Invader WeaponNamePartDefinition]
+PartName=Invader
+
+[Title.Title_Maliwan1_Firehawk WeaponNamePartDefinition]
+PartName=Firehawk
+
+[Title.Title_Tediore1_Protector WeaponNamePartDefinition]
+PartName=Protector
+
+[Title.Title_Torgue1_Violator WeaponNamePartDefinition]
+PartName=Violator
+
+[Title.Title_Vladof1_Rebel WeaponNamePartDefinition]
+PartName=Rebel
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Torgue"
+
+[acc.acc3_LaserSight WeaponPartDefinition]
+PartName="laser sight"
+
+[Prefix.Prefix_Acc1_Fanged WeaponNamePartDefinition]
+PartName="Fanged"
+
+[acc.acc2_Stabilizer WeaponPartDefinition]
+PartName="Stabilizer"
+
+[A_Weapon.WeaponType_repeater_pistol WeaponTypeDefinition]
+TypeName="Repeater Pistol"
+
+[acc.acc4_SandS_Gemini WeaponPartDefinition]
+PartName="Gemini"
+
+[Title.TitleM_SandSl1_Gemini:AttributePresentationDefinition_3 AttributePresentationDefinition]
+NoConstraintText="Double Whammy."
+
+[acc.acc2_Atlas_Troll WeaponPartDefinition]
+PartName="Troll"
+
+[ManufacturerMaterials.Material_Vladof_3_Rebel WeaponPartDefinition]
+PartName="/VXX"
+
+[Prefix.Prefix_Noble WeaponNamePartDefinition]
+PartName="Noble"
+
+[Title.TitleM_Torgue1_Violator WeaponNamePartDefinition]
+PartName="Violator"
+
+[Title.TitleU_Krom_KromsSidearm:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="a gift from Papa Krom"
+
+[Title.TitleM_Tediore1_Protector:AttributePresentationDefinition_7 AttributePresentationDefinition]
+NoConstraintText="Ammo is no longer an issue."
+
+[Title.TitleU_Krom_KromsSidearm WeaponNamePartDefinition]
+PartName="Krom's Sidearm"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Nasty WeaponNamePartDefinition]
+PartName="Nasty"
+
+[Title.TitleU_LadyFinger WeaponNamePartDefinition]
+PartName="Lady Finger"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Hyperion"
+
+[Title.TitleM_Vladof1_Rebel WeaponNamePartDefinition]
+PartName="Rebel"
+
+[Title.TitleM_Vladof1_Rebel:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="Never stop shooting!"
+
+[Grip.grip2_Atlas WeaponPartDefinition]
+PartName="Atlas"
+
+[Barrel.barrel4_Torgue_Violator WeaponPartDefinition]
+PartName="Burst Violator"
+
+[acc.acc5_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[acc.acc5_Maliwan_Firehawk WeaponPartDefinition]
+PartName="Firehawk"
+
+[acc.acc5_Hornet_Dahl_Corrosive WeaponPartDefinition]
+PartName="Hornet"
+
+[Title.TitleU_Retail_TheDove WeaponNamePartDefinition]
+PartName="The Dove"
+
+[Title.TitleU_Retail_TheDove:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Sometimes, I forget to reload."
+

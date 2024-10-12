@@ -1,0 +1,9 @@
+[Missions.M_ClearArenas MissionDefinition]
+MissionDescription="In order to access the longer tournaments, you'll need to prove yourself by completing 5 rounds in each coliseum."
+MissionGiver="The Underdome Bounty Board"
+MissionName="Prove Yourself."
+MissionSummary="Complete 5 rounds in each coliseum."
+Objectives[0]=(ProgressMessage="Hell-burbia beat:")
+Objectives[1]=(ProgressMessage="The Angelic Ruins beat:")
+Objectives[2]=(ProgressMessage="The Gully beat:")
+TurnInDescription="You've proven yourself... at least a little bit.  Now that you've gotten through round 5, step behind the curtain and see if you can get to round 20!"

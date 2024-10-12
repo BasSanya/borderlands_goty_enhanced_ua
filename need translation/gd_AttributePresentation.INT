@@ -1,0 +1,625 @@
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Revolver_Pistol AttributePresentationDefinition]
+Description="Revolver Pistol Ammo Upgrade"
+
+[Weapons.AttrPresent_WeaponKnockback AttributePresentationDefinition]
+Description="Knockback"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponDamage_Is_Corrosive AttributePresentationDefinition]
+Description="Corrosive"
+
+[Weapons.AttrPresent_WeaponFireRate AttributePresentationDefinition]
+Description="Fire Rate"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponDamage AttributePresentationDefinition]
+Description="Damage"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponClipSize_ItemOverride AttributePresentationDefinition]
+Description="Magazine Size"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponClipSize AttributePresentationDefinition]
+Description="Magazine Size"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponAutomaticBurstCount AttributePresentationDefinition]
+Description="Burst Fire Count"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_Weapon_Is_Sniper_Rifle AttributePresentationDefinition]
+Description="Sniper Rifle"
+
+[Weapons.AttrPresent_Weapon_Is_RocketLauncher AttributePresentationDefinition]
+Description="Launcher"
+
+[Weapons.AttrPresent_Weapon_Is_Pistol AttributePresentationDefinition]
+Description="Pistol"
+
+[Weapons.AttrPresent_Weapon_Is_Combat_Rifle AttributePresentationDefinition]
+Description="Combat Rifle"
+
+[Weapons.AttrPresent_TechActiveRegenerationRate AttributePresentationDefinition]
+Description="Elemental Effect chance"
+
+[Weapons.AttrPresent_PlayerCurrentWeaponAmmoRegenerationMultiplier AttributePresentationDefinition]
+Description="Ammo Regeneration"
+
+[Weapons.AttrPresent_AccuracyOnIdleRegenerationRate AttributePresentationDefinition]
+Description="Accuracy Recovery"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_AccuracyMinValue AttributePresentationDefinition]
+Description="Accuracy"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_AccuracyMaxValue AttributePresentationDefinition]
+Description="Accuracy"
+NoConstraintText="Weapon"
+
+[AmmoPickups.AttrPresent_Ammo_Sniper_Rifle_CurrentValue AttributePresentationDefinition]
+Description="Sniper Rifle Bullets"
+
+[AmmoPickups.AttrPresent_Ammo_Rocket_Launcher_CurrentValue AttributePresentationDefinition]
+Description="Rockets"
+
+[AmmoPickups.AttrPresent_Ammo_Revolver_Pistol_CurrentValue AttributePresentationDefinition]
+Description="Revolver Pistol Bullets"
+
+[AmmoPickups.AttrPresent_Ammo_Repeater_Pistol_CurrentValue AttributePresentationDefinition]
+Description="Repeater Pistol Bullets"
+
+[AmmoPickups.AttrPresent_Ammo_Patrol_SMG_CurrentValue AttributePresentationDefinition]
+Description="SMG Bullets"
+
+[AmmoPickups.AttrPresent_Ammo_Grenade_ProteanCurrentValue AttributePresentationDefinition]
+Description="Grenades"
+
+[AmmoPickups.AttrPresent_Ammo_Combat_Shotgun_CurrentValue AttributePresentationDefinition]
+Description="Shotgun Shells"
+
+[AmmoPickups.AttrPresent_Ammo_Combat_Rifle_CurrentValue AttributePresentationDefinition]
+Description="Combat Rifle Bullets"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_QuickCharge AttributePresentationDefinition]
+Description="Quick Charge Skill"
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Repeater AttributePresentationDefinition]
+Description="Use to increase your Repeater Pistol Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Launcher AttributePresentationDefinition]
+Description="Use to increase your Launcher Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Shotgun AttributePresentationDefinition]
+Description="Use to increase your Shotgun Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Grenade AttributePresentationDefinition]
+Description="Use to increase your Grenade Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Revolver AttributePresentationDefinition]
+Description="Use to increase your Revolver Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Combat_Rifle AttributePresentationDefinition]
+Description="Use to increase your Combat Rifle Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Combat_Rifle AttributePresentationDefinition]
+Description="Combat Rifle Ammo Upgrade"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Combat_Shotgun AttributePresentationDefinition]
+Description="Combat Shotgun Ammo Upgrade"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Grenade_Protean AttributePresentationDefinition]
+Description="Grenade Ammo Upgrade"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Patrol_SMG AttributePresentationDefinition]
+Description="SMG Ammo Upgrade"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Repeater_Pistol AttributePresentationDefinition]
+Description="Repeater Pistol Ammo Upgrade"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_RiotousRemedy AttributePresentationDefinition]
+Description="Riotous Remedy Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_SupplyDrop AttributePresentationDefinition]
+Description="Supply Drop Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Stockpile AttributePresentationDefinition]
+Description="Stockpile Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Killer AttributePresentationDefinition]
+Description="Killer Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Relentless AttributePresentationDefinition]
+Description="Relentless Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_GunCrazy AttributePresentationDefinition]
+Description="Gun Crazy Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Focus AttributePresentationDefinition]
+Description="Focus Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Ransack AttributePresentationDefinition]
+Description="Ransack Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Predator AttributePresentationDefinition]
+Description="Predator Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_OutForBlood AttributePresentationDefinition]
+Description="Out for Blood Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Loaded AttributePresentationDefinition]
+Description="Loaded Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Defense AttributePresentationDefinition]
+Description="Defense Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_FastHands AttributePresentationDefinition]
+Description="Fast Hands Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_LethalStrike AttributePresentationDefinition]
+Description="Lethal Strike Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_deploy AttributePresentationDefinition]
+Description="Deploy Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_E_ShockWing AttributePresentationDefinition]
+Description="Shock Wing"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_E_Scorpio_ExplosiveBolt AttributePresentationDefinition]
+Description="Explosive Bolt"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Impact AttributePresentationDefinition]
+Description="Impact Skill"
+
+[Weapons.AttrPresent_Weapon_Is_Shotgun AttributePresentationDefinition]
+Description="Shotgun"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Rocket_Launcher AttributePresentationDefinition]
+Description="Launcher Ammo Upgrade"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Assault AttributePresentationDefinition]
+Description="Assault Skill"
+
+[Team.AttrPresent_ATT_TeamConstraint_Shield AttributePresentationDefinition]
+Description="Team Shield"
+
+[Team.AttrPresent_ATT_TeamConstraint AttributePresentationDefinition]
+Description="Team"
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Sniper_Rifle AttributePresentationDefinition]
+Description="Sniper Rifle Ammo Upgrade"
+
+[Weapons.AttrPresent_Weapon_Is_SMG AttributePresentationDefinition]
+Description="SMG"
+
+[Weapons.AttrPresent_WeaponProficiencyGainBonus AttributePresentationDefinition]
+Description="Proficiency Bonus"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponPerShotAccuracyImpulse AttributePresentationDefinition]
+Description="Recoil Reduction"
+NoConstraintText="Weapon"
+
+[Weapons.AttrPresent_WeaponMeleeDamage AttributePresentationDefinition]
+Description="Melee Damage"
+NoConstraintText="Weapon"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Barrage AttributePresentationDefinition]
+Description="Barrage Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Revive AttributePresentationDefinition]
+Description="Revive Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_MetalStorm AttributePresentationDefinition]
+Description="Metal Storm Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Scattershot AttributePresentationDefinition]
+Description="Scattershot Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_E_Scorpio_CorrosiveBolt AttributePresentationDefinition]
+Description="Corrosive Bolt"
+
+[DamageTypes.AttrPresent_ShockChanceResistanceModifier AttributePresentationDefinition]
+Description="Shock Chance Resistance"
+
+[DamageTypes.AttrPresent_NormalPassiveDamageModifier AttributePresentationDefinition]
+Description="Impact Passive Damage"
+
+[DamageTypes.AttrPresent_NormalImpactDamageModifier AttributePresentationDefinition]
+Description="Impact Damage"
+
+[DamageTypes.AttrPresent_IncendiaryPassiveDamageModifier AttributePresentationDefinition]
+Description="Ignite Damage"
+
+[DamageTypes.AttrPresent_IncendiaryImpactDamageModifier AttributePresentationDefinition]
+Description="Fire Impact Damage"
+
+[DamageTypes.AttrPresent_IgniteDurationResistanceModifier AttributePresentationDefinition]
+Description="Ignite Duration Reduction"
+
+[DamageTypes.AttrPresent_IgniteChanceResistanceModifier AttributePresentationDefinition]
+Description="Ignite Resistance"
+
+[DamageTypes.AttrPresent_ExplosiveImpactDamageModifier AttributePresentationDefinition]
+Description="Explosive Impact Damage"
+
+[DamageTypes.AttrPresent_DecayDurationResistanceModifier AttributePresentationDefinition]
+Description="Corrosive Duration Reduction"
+
+[DamageTypes.AttrPresent_DecayChanceResistanceModifier AttributePresentationDefinition]
+Description="Corrosive Resistance"
+
+[DamageTypes.AttrPresent_CorrosivePassiveDamageModifier AttributePresentationDefinition]
+Description="Corrode Damage"
+
+[DamageTypes.AttrPresent_CorrosiveImpactDamageModifier AttributePresentationDefinition]
+Description="Corrosive Impact Damage"
+
+[Damage.AttrPresent_ReceivedStatusEffectDamageModifier AttributePresentationDefinition]
+Description="Elemental Effect Damage Resistance"
+
+[Damage.AttrPresent_ReceivedRocketDamageModifier AttributePresentationDefinition]
+Description="Rocket Damage Resistance"
+
+[Damage.AttrPresent_ReceivedMeleeDamageModifier AttributePresentationDefinition]
+Description="Melee Damage Resistance"
+
+[Damage.AttrPresent_ReceivedGrenadeDamageModifier AttributePresentationDefinition]
+Description="Grenade Damage Resistance"
+
+[Damage.AttrPresent_ReceivedBulletDamageModifier AttributePresentationDefinition]
+Description="Bullet Damage Resistance"
+
+[Damage.AttrPresent_ProjectileDamage AttributePresentationDefinition]
+Description="Grenade Damage"
+
+[Damage.AttrPresent_InstigatedStatusEffectDamageModifier AttributePresentationDefinition]
+Description="Elemental Effect Damage"
+
+[Damage.AttrPresent_InstigatedRocketDamageModifier AttributePresentationDefinition]
+Description="Rocket Damage"
+
+[Damage.AttrPresent_InstigatedMeleeDamageModifier AttributePresentationDefinition]
+Description="Melee Damage"
+
+[Damage.AttrPresent_InstigatedGrenadeDamageModifier AttributePresentationDefinition]
+Description="Grenade Damage"
+
+[Damage.AttrPresent_InstigatedBulletDamageModifier AttributePresentationDefinition]
+Description="Bullet Damage"
+
+[CriticalHits.AttrPresent_PlayerCriticalHitBonus AttributePresentationDefinition]
+Description="Critical Hit Damage"
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Sniper AttributePresentationDefinition]
+Description="Use to increase your Sniper Rifle Ammo Capacity to $NUMBER$."
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_SMG AttributePresentationDefinition]
+Description="Use to increase your SMG Ammo Capacity to $NUMBER$."
+
+[DamageTypes.AttrPresent_ShockDurationResistanceModifier AttributePresentationDefinition]
+Description="Shock Duration Reduction"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_E_CorrosivePunch AttributePresentationDefinition]
+Description="Corrosive Punch"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Diehard AttributePresentationDefinition]
+Description="Die Hard Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_CastIron AttributePresentationDefinition]
+Description="Cast Iron Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_BloodSport AttributePresentationDefinition]
+Description="Blood Sport Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Bash AttributePresentationDefinition]
+Description="Bash Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_A_Berserk AttributePresentationDefinition]
+Description="Berserk"
+
+[Skills.AttrPresent_InstinctSkillImpulse AttributePresentationDefinition]
+Description="Adrenaline Gain"
+
+[Skills.AttrPresent_BloodwingDamage AttributePresentationDefinition]
+Description="Bloodwing Damage"
+
+[Skills.AttrPresent_ATT_ScavengerOdds AttributePresentationDefinition]
+Description="Scavenge Extra Items"
+
+[Skills.AttrPresent_ActionSkillCooldownTime AttributePresentationDefinition]
+Description="Action Skill Cooldown"
+
+[Shields.AttrPresent_ShieldPassiveRegenerationRate AttributePresentationDefinition]
+Description="Regeneration"
+NoConstraintText="Shield"
+
+[Shields.AttrPresent_ShieldOnIdleRegenerationRate AttributePresentationDefinition]
+Description="Recharge Rate"
+NoConstraintText="Shield"
+
+[Shields.AttrPresent_ShieldOnIdleRegenerationDelay AttributePresentationDefinition]
+Description="Recharge Delay"
+NoConstraintText="Shield"
+
+[Shields.AttrPresent_ShieldMaxValue AttributePresentationDefinition]
+Description="Capacity"
+NoConstraintText="Shield"
+
+[money.AttrPresent_PlayerCurrencyOnHand AttributePresentationDefinition]
+Description="Money"
+
+[Loot.AttrPresent_AwesomeLevel AttributePresentationDefinition]
+Description="Find Rare Items"
+
+[Inventory.AttrPresent_InventoryWeaponEquipMax AttributePresentationDefinition]
+Description="Weapon Equip Slots"
+
+[Inventory.AttrPresent_InventorySlotMax_Misc AttributePresentationDefinition]
+Description="Inventory Capacity"
+
+[Health.AttrPresent_HealthPassiveRegenerationRate AttributePresentationDefinition]
+Description="Health Regeneration"
+
+[Health.AttrPresent_HealthMaxValue AttributePresentationDefinition]
+Description="Maximum Health"
+
+[Health.AttrPresent_HealthCurrentValue AttributePresentationDefinition]
+Description="Health"
+
+[Health.AttrPresent_HealthActiveRegenerationRate AttributePresentationDefinition]
+Description="Health Regeneration"
+
+[Experience.AttrPresent_ExperiencePointsFromCombatScale AttributePresentationDefinition]
+Description="Extra Experience"
+
+[Experience.AttrPresent_ExperienceCurrentValue AttributePresentationDefinition]
+Description="Experience"
+
+[DamageTypes.AttrPresent_ShockPassiveDamageModifier AttributePresentationDefinition]
+Description="Electrocute Damage"
+
+[DamageTypes.AttrPresent_ShockImpactDamageModifier AttributePresentationDefinition]
+Description="Shock Impact Damage"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_E_ExplosivePunch AttributePresentationDefinition]
+Description="Explosive Punch"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_E_IncendiaryReturn AttributePresentationDefinition]
+Description="Incendiary Phasewalk"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_E_ExplosiveReturn AttributePresentationDefinition]
+Description="Explosive Phasewalk"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_E_CorrosiveReturn AttributePresentationDefinition]
+Description="Corrosive Phasewalk"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_DramaticEntrance AttributePresentationDefinition]
+Description="Dramatic Entrance Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Diva AttributePresentationDefinition]
+Description="Diva Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Blackout AttributePresentationDefinition]
+Description="Blackout Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_A_PhaseWalk AttributePresentationDefinition]
+Description="Phasewalk"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_WideLoad AttributePresentationDefinition]
+Description="Wide Load Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Unbreakable AttributePresentationDefinition]
+Description="Unbreakable Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_StingLikeaBee AttributePresentationDefinition]
+Description="Sting like a Bee Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_ShortFuse AttributePresentationDefinition]
+Description="Short Fuse Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Safeguard AttributePresentationDefinition]
+Description="Safeguard Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Revenge AttributePresentationDefinition]
+Description="Revenge Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_RapidReload AttributePresentationDefinition]
+Description="Rapid Reload Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_PrizeFighter AttributePresentationDefinition]
+Description="Prize Fighter Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_PayBack AttributePresentationDefinition]
+Description="Payback Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_MasterBlaster AttributePresentationDefinition]
+Description="Master Blaster Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Liquidate AttributePresentationDefinition]
+Description="Liquidate Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Juggernaut AttributePresentationDefinition]
+Description="Juggernaut Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_IronFist AttributePresentationDefinition]
+Description="Iron Fist Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_HeavyHanded AttributePresentationDefinition]
+Description="Heavy Handed Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Hardened AttributePresentationDefinition]
+Description="Hardened Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_Endowed AttributePresentationDefinition]
+Description="Endowed Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_EndlessRage AttributePresentationDefinition]
+Description="Endless Rage Skill"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_E_ShockingPunch AttributePresentationDefinition]
+Description="Shocking Punch"
+
+[Skills_Brick.AttrPresent_SkillGradeModifier_Brick_E_IncendiaryPunch AttributePresentationDefinition]
+Description="Incendiary Punch"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_E_ShockingReturn AttributePresentationDefinition]
+Description="Shocking Phasewalk"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_E_ExplosiveWing AttributePresentationDefinition]
+Description="Explosive Wing"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_E_AcidWing AttributePresentationDefinition]
+Description="Acid Wing"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Deadly AttributePresentationDefinition]
+Description="Deadly Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_CarrionCall AttributePresentationDefinition]
+Description="Carrion Call Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Caliber AttributePresentationDefinition]
+Description="Caliber Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_BloodRage AttributePresentationDefinition]
+Description="Blood Rage Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_BirdOfPrey AttributePresentationDefinition]
+Description="Bird of Prey Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_AerialImpact AttributePresentationDefinition]
+Description="Aerial Impact Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_A_LaunchBloodwing AttributePresentationDefinition]
+Description="Bloodwing Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Venom AttributePresentationDefinition]
+Description="Venom Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Striking AttributePresentationDefinition]
+Description="Striking Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Spark AttributePresentationDefinition]
+Description="Spark Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Slayer AttributePresentationDefinition]
+Description="Slayer Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_SilentResolve AttributePresentationDefinition]
+Description="Silent Resolve Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Resilience AttributePresentationDefinition]
+Description="Resilience Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Radiance AttributePresentationDefinition]
+Description="Radiance Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Quicksilver AttributePresentationDefinition]
+Description="Quicksilver Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Phoenix AttributePresentationDefinition]
+Description="Phoenix Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_PhaseStrike AttributePresentationDefinition]
+Description="Phase Strike Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_MindGames AttributePresentationDefinition]
+Description="Mind Games Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Intuition AttributePresentationDefinition]
+Description="Intuition Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_InnerGlow AttributePresentationDefinition]
+Description="Inner Glow Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_HitAndRun AttributePresentationDefinition]
+Description="Hit and Run Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_HighVelocity AttributePresentationDefinition]
+Description="High Velocity Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_HardToGet AttributePresentationDefinition]
+Description="Hard to Get Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_GirlPower AttributePresentationDefinition]
+Description="Girl Power Skill"
+
+[Skills_Lilith.AttrPresent_SkillGradeModifier_Lilith_Enforcer AttributePresentationDefinition]
+Description="Enforcer Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_E_FireWing AttributePresentationDefinition]
+Description="Fire Wing"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Cauterize AttributePresentationDefinition]
+Description="Cauterize Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Refire AttributePresentationDefinition]
+Description="Refire Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Overload AttributePresentationDefinition]
+Description="Overload Skill"
+
+[Weapons.AttrPresent_WeaponSpread AttributePresentationDefinition]
+Description="Accuracy"
+NoConstraintText="Weapon"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Stat AttributePresentationDefinition]
+Description="Stat Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_E_Scorpio_ShockBolt AttributePresentationDefinition]
+Description="Shock Bolt"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Fitness AttributePresentationDefinition]
+Description="Fitness Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Grenadier AttributePresentationDefinition]
+Description="Grenadier Skill"
+
+[Weapons.AttrPresent_WeaponReloadSpeed AttributePresentationDefinition]
+Description="Reload Speed"
+NoConstraintText="Weapon"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Grit AttributePresentationDefinition]
+Description="Grit Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_GuidedMissile AttributePresentationDefinition]
+Description="Guided Missile Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_A_DeployScorpio AttributePresentationDefinition]
+Description="Deploy Scorpio Turret"
+
+[Weapons.AttrPresent_WeaponProjectilesPerShot AttributePresentationDefinition]
+Description="Projectiles Fired"
+NoConstraintText="Weapon"
+
+[ActiveSkill.AttrPresent_ActiveSkillCooldownConsumptionRate AttributePresentationDefinition]
+Description="Cooldown Reduction"
+
+[Weapons.AttrPresent_WeaponZoomEndFOV AttributePresentationDefinition]
+Description="$NUMBER$x Weapon Zoom"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Sentry AttributePresentationDefinition]
+Description="Sentry Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Swipe AttributePresentationDefinition]
+Description="Swipe Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_SwiftStrike AttributePresentationDefinition]
+Description="Swift Strike Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_Detonate AttributePresentationDefinition]
+Description="Detonate Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_AidStation AttributePresentationDefinition]
+Description="Aid Station Skill"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Smirk AttributePresentationDefinition]
+Description="Smirk Skill"
+
+[Skills_Roland.AttrPresent_SkillGradeModifier_Roland_E_Scorpio_FireBolt AttributePresentationDefinition]
+Description="Fire Bolt"
+
+[Skills_Mordecai.AttrPresent_SkillGradeModifier_Mordecai_Trespass AttributePresentationDefinition]
+Description="Trespass Skill"
+

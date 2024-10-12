@@ -1,0 +1,249 @@
+[Athena.dlc1E_Athena_OmegaOrder EchoCallDefinition]
+Subject="Omega order"
+
+[Athena.dlc3E_Athena_5_4_3 EchoCallDefinition]
+Subject="5...4...3..."
+
+[Athena.dlc3E_Athena_Armory EchoCallDefinition]
+Subject="Atlas armory"
+
+[Athena.dlc3E_Athena_ControlRoom EchoCallDefinition]
+Subject="Find the control room"
+
+[Athena.dlc3E_Athena_DetonatorReady EchoCallDefinition]
+Subject="Progress report"
+
+[Athena.dlc3E_Athena_ExposeMunitions EchoCallDefinition]
+Subject="Expose the munitions"
+
+[Athena.dlc3E_Athena_FiveMinutes EchoCallDefinition]
+Subject="Five minutes"
+
+[Athena.dlc3E_Athena_FourMinutes EchoCallDefinition]
+Subject="Four minutes"
+
+[Athena.dlc3E_Athena_MaleEnhancement EchoCallDefinition]
+Subject="Pick up the pace"
+
+[Athena.dlc3E_Athena_MeetScooter EchoCallDefinition]
+Subject="See the mechanic"
+
+[Athena.dlc3E_Athena_MissionAccomplished EchoCallDefinition]
+Subject="Mission accomplished"
+
+[Athena.dlc3E_Athena_OneMinute EchoCallDefinition]
+Subject="One minute"
+
+[Athena.dlc3E_Athena_PickUpPace EchoCallDefinition]
+Subject="Pick up the pace"
+
+[Athena.dlc3E_Athena_PlaceDetonator EchoCallDefinition]
+Subject="Placing the detonator will start the timer"
+
+[Athena.dlc3E_Athena_ReturnToScooter EchoCallDefinition]
+Subject="Return to Scooter's"
+
+[Athena.dlc3E_Athena_SideEntrance EchoCallDefinition]
+Subject="Side entrance"
+
+[Athena.dlc3E_Athena_TenSeconds EchoCallDefinition]
+Subject="Ten seconds"
+
+[Athena.dlc3E_Athena_ThirtySeconds EchoCallDefinition]
+Subject="Thirty seconds"
+
+[Athena.dlc3E_Athena_TwoMinutes EchoCallDefinition]
+Subject="Two minutes"
+
+[CallerIDs.dlc3_ECID_Athena EchoCallerIDDefinition]
+CallerName="Athena"
+
+[CallerIDs.dlc3_ECID_Informant_Hitman01 EchoCallerIDDefinition]
+CallerName="Informant"
+
+[CallerIDs.dlc3_ECID_Knoxx EchoCallerIDDefinition]
+CallerName="General Knoxx"
+
+[CallerIDs.dlc3_ECID_LanceSoldier EchoCallerIDDefinition]
+CallerName="Soldiers"
+
+[CallerIDs.dlc3_ECID_Moxxi EchoCallerIDDefinition]
+CallerName="Moxxi"
+
+[CallerIDs.dlc3_ECID_MrShank EchoCallerIDDefinition]
+CallerName="Mr. Shank"
+
+[ClapTrap.dlc3E_Claptrap_NewMissions EchoCallDefinition]
+Subject="New missions available!"
+
+[Informant.dlc3E_Informant_Hitman_Echo01 EchoCallDefinition]
+Subject="Hitman 01"
+
+[Knoxx.dlc3E_Knoxx_Code EchoCallDefinition]
+Subject="Todays code - BYCO"
+
+[Knoxx.dlc3E_Knoxx_ECHO1 EchoCallDefinition]
+Subject="Expecting orders"
+
+[Knoxx.dlc3E_Knoxx_ECHO2 EchoCallDefinition]
+Subject="Re: New orders"
+
+[Knoxx.dlc3E_Knoxx_ECHO3 EchoCallDefinition]
+Subject="Orders please!"
+
+[Knoxx.dlc3E_Knoxx_ECHO4 EchoCallDefinition]
+Subject="No more orders"
+
+[Knoxx.dlc3E_Knoxx_ECHO5 EchoCallDefinition]
+Subject="Resignation"
+
+[Knoxx.dlc3E_Knoxx_Taunt1 EchoCallDefinition]
+Subject="Hemmoroids wrapped in bacon"
+
+[Knoxx.dlc3E_Knoxx_Taunt2 EchoCallDefinition]
+Subject="Nepotism"
+
+[Knoxx.dlc3E_Knoxx_Taunt3 EchoCallDefinition]
+Subject="Birthday card"
+
+[Knoxx.dlc3E_Knoxx_Taunt4 EchoCallDefinition]
+Subject="French toast"
+
+[LanceSoldier.dlc3E_LanceSoldier_LostCode EchoCallDefinition]
+Subject="Uh oh..."
+
+[Marcus.dlc3E_Marcus_NewMissions EchoCallDefinition]
+Subject="Opportunity for you!"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss1 EchoCallDefinition]
+Subject="Tricky"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss2 EchoCallDefinition]
+Subject="Little tip for ya"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss3 EchoCallDefinition]
+Subject="Again"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss4 EchoCallDefinition]
+Subject="Remain locked down I think"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss5 EchoCallDefinition]
+Subject="No skill"
+
+[Moxxi.dlc3E_Moxxi_BusJumpMiss6 EchoCallDefinition]
+Subject="Conjugal visit in your future"
+
+[Moxxi.dlc3E_Moxxi_FindAnEcho EchoCallDefinition]
+Subject="Call me"
+
+[Moxxi.dlc3E_Moxxi_GetInside EchoCallDefinition]
+Subject="Get inside"
+
+[Moxxi.dlc3E_Moxxi_HoopJumpMiss1 EchoCallDefinition]
+Subject="Not going to cut it"
+
+[Moxxi.dlc3E_Moxxi_HoopJumpMiss2 EchoCallDefinition]
+Subject="That's no good"
+
+[Moxxi.dlc3E_Moxxi_HoopJumpMiss3 EchoCallDefinition]
+Subject="Wheelman or gunman?"
+
+[Moxxi.dlc3E_Moxxi_HoopJumpMiss4 EchoCallDefinition]
+Subject="Might need a new plan"
+
+[Moxxi.dlc3E_Moxxi_HoopJumpMiss5 EchoCallDefinition]
+Subject="Above your paygrade?"
+
+[Moxxi.dlc3E_Moxxi_InsideWalls EchoCallDefinition]
+Subject="Contact me."
+
+[Moxxi.dlc3E_Moxxi_IntercomGreet EchoCallDefinition]
+Subject="Come on in."
+
+[Moxxi.dlc3E_Moxxi_KingDick EchoCallDefinition]
+Subject="World class stunt driver"
+
+[Moxxi.dlc3E_Moxxi_LockdownPalace EchoCallDefinition]
+Subject="Lockdown Palace"
+
+[Moxxi.dlc3E_Moxxi_NewMissions EchoCallDefinition]
+Subject="Wanna work for me?"
+
+[Moxxi.dlc3E_Moxxi_PourOneOut EchoCallDefinition]
+Subject="Pour one out, would ya?"
+
+[Moxxi.dlc3E_Moxxi_Racer EchoCallDefinition]
+Subject="The Racer"
+
+[Moxxi.dlc3E_Moxxi_RingOfFire EchoCallDefinition]
+Subject="Ring of fire!"
+
+[Moxxi.dlc3E_Moxxi_RiskMyNeck EchoCallDefinition]
+Subject="Risking my neck"
+
+[Moxxi.dlc3E_Moxxi_Showtime EchoCallDefinition]
+Subject="It's showtime!"
+
+[Moxxi.dlc3E_Moxxi_SpectacularFeat EchoCallDefinition]
+Subject="My schtick"
+
+[Moxxi.dlc3E_Moxxi_Teleporter EchoCallDefinition]
+Subject="Little teleporter"
+
+[Moxxi.dlc3E_Moxxi_YouKilledHim EchoCallDefinition]
+Subject="You killed him?!"
+
+[MrShank.dlc3E_MrShank_Taunt1 EchoCallDefinition]
+Subject="No more reruns"
+
+[MrShank.dlc3E_MrShank_Taunt2 EchoCallDefinition]
+Subject="Death on your head"
+
+[MrShank.dlc3E_MrShank_Taunt3 EchoCallDefinition]
+Subject="Jerome is dead."
+
+[Scooter.dlc3E_Scooter_CarParts EchoCallDefinition]
+Subject="Here's what I need"
+
+[Scooter.dlc3E_Scooter_Fathoms EchoCallDefinition]
+Subject="The Parched Fathoms"
+
+[Scooter.dlc3E_Scooter_GetExhaust EchoCallDefinition]
+Subject="The whatcha-ma-jigger-thingy-doodle"
+
+[Scooter.dlc3E_Scooter_GetNitrous EchoCallDefinition]
+Subject="Gotta get rid of the passenger seat"
+
+[Scooter.dlc3E_Scooter_GetSupercharger EchoCallDefinition]
+Subject="Sweet!"
+
+[Scooter.dlc3E_Scooter_GotAllParts EchoCallDefinition]
+Subject="Resourceful type"
+
+[Scooter.dlc3E_Scooter_LeaveTownNeedVehicle1 EchoCallDefinition]
+Subject="Get back here to Catch-A-Ride!"
+
+[Scooter.dlc3E_Scooter_LeaveTownNeedVehicle2 EchoCallDefinition]
+Subject="Wheels or monster bribe"
+
+[Scooter.dlc3E_Scooter_LeaveTownNeedVehicle3 EchoCallDefinition]
+Subject="Need to be drivin'"
+
+[Scooter.dlc3E_Scooter_LeaveTownNeedVehicle4 EchoCallDefinition]
+Subject="Are you from a planet full of morons?"
+
+[Scooter.dlc3E_Scooter_LeaveTownNeverHadVehicle EchoCallDefinition]
+Subject="Can't leave without car"
+
+[Scooter.dlc3E_Scooter_MoxxiIntro EchoCallDefinition]
+Subject="Moxxi"
+
+[Scooter.dlc3E_Scooter_NewMissions EchoCallDefinition]
+Subject="Job for ya"
+
+[Scooter.dlc3E_Scooter_Racer EchoCallDefinition]
+Subject="Racer is ready"
+
+[Scooter.dlc3E_Scooter_Roadblocks EchoCallDefinition]
+Subject="Roadblocks"
+

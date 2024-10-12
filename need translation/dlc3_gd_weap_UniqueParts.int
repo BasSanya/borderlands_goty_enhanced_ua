@@ -1,0 +1,601 @@
+[CombatRifle.TedioreAvenger_Material WeaponPartDefinition]
+PartName="-B"
+
+[CombatRifle.TedioreAvenger_sight5 WeaponPartDefinition]
+PartName="AV"
+
+[CombatShotgun.barrel3_DahlJackal WeaponPartDefinition]
+PartName=""
+
+[CombatShotgun.DahlJackal_Material WeaponPartDefinition]
+PartName=" U"
+
+[EridanRifle.Cannon.barrel5_MegaCannon WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_Fireball WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_Firebomb WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_Flaregun WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_GlobGun WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_RollingSpattergun WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_Splatgun WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel2_StampedingSpattergun WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.ElementalRifle.barrel3_Rifle WeaponPartDefinition]
+PartName=""
+
+[EridanRifle.WeaponType_Eridan_Elementalgun WeaponTypeDefinition]
+TypeName="Combat Rifle"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[EridanRifle.WeaponType_Eridan_Elementalgun:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Hold on...it does what?"
+NoConstraintText=""
+Suffix=""
+
+[MachinePistol.barrel4_VladofStalker WeaponPartDefinition]
+PartName=""
+
+[MachinePistol.VladofStalker_Material WeaponPartDefinition]
+PartName="/V3"
+
+[RepeaterPistol.acc5_Shock_HyperionNemesis WeaponPartDefinition]
+PartName="Shock"
+
+[RepeaterPistol.AthenasWisdom_Material WeaponPartDefinition]
+PartName=""
+
+[RepeaterPistol.barrel0_ChiquitoAmigo WeaponPartDefinition]
+PartName="ChiquitoAmigo"
+
+[RepeaterPistol.barrel5_AthenasWisdom WeaponPartDefinition]
+PartName=""
+
+[RepeaterPistol.HyperionNemesis_Material WeaponPartDefinition]
+PartName=".N"
+
+[RepeaterPistol.KnoxsGold_Material WeaponPartDefinition]
+PartName=".99"
+
+[RepeaterPistol.Material_ChiquitoAmigo_3 WeaponPartDefinition]
+PartName="-B"
+
+[RevolverPistol.acc5_Heal_AtlasAries WeaponPartDefinition]
+PartName="Nemesis"
+
+[RevolverPistol.Material_Aries_3 WeaponPartDefinition]
+PartName=""
+
+[RocketLauncher.barrel2_TorgueUndertaker WeaponPartDefinition]
+PartName=""
+
+[RocketLauncher.TorgueUndertaker_Material WeaponPartDefinition]
+PartName=""
+
+[SemiAutoSniper.acc2_KyrosPower WeaponPartDefinition]
+PartName="Explosive"
+
+[SemiAutoSniper.Material_KyrosPower_3 WeaponPartDefinition]
+PartName=""
+
+[Skills.Skill_Vladof_Revenge_InfiniteAmmo SkillDefinition]
+SkillName="RevengeBullets"
+SkillDescription="Infinite ammo in down state"
+LockedSkillDetailStr="<Locked>"
+
+[SMG.acc2_Typhoon WeaponPartDefinition]
+PartName="Typhoon"
+
+[SMG.acc3_Maliwan_Tsunami WeaponPartDefinition]
+PartName="Shock"
+
+[SMG.DahlTyphoon_Material WeaponPartDefinition]
+PartName=" U"
+
+[SMG.MaliwanTsunami_Material WeaponPartDefinition]
+PartName=" C"
+
+[SMG.MaliwanTsunami_Material:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Very high Elemental Effect chance"
+NoConstraintText=""
+Suffix=""
+
+[SniperRifle.JakobsBessie_Material WeaponPartDefinition]
+PartName=" ZZ"
+
+[SniperRifle.sight4_Jakobs_Bessie WeaponPartDefinition]
+PartName=""
+
+[SupportMachineGun.acc4_SandS_Serpens WeaponPartDefinition]
+PartName="Serpens"
+
+[SupportMachineGun.acc4_TheChopper WeaponPartDefinition]
+PartName="The Chopper"
+
+[SupportMachineGun.AjaxSpear_Material WeaponPartDefinition]
+PartName=""
+
+[SupportMachineGun.barrel5_AjaxSpear WeaponPartDefinition]
+PartName=""
+
+[SupportMachineGun.Material_TheChopper_3 WeaponPartDefinition]
+PartName="/V3"
+
+[SupportMachineGun.SandSSerpens_Material WeaponPartDefinition]
+PartName=".2"
+
+[Title.TitleP_Atlas_Aries WeaponNamePartDefinition]
+PartName="Aries"
+
+[Title.TitleP_Atlas_Aries:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Your Life Is Mine"
+Suffix=""
+
+[Title.TitleP_Dahl_Jackal WeaponNamePartDefinition]
+PartName="Jackal"
+
+[Title.TitleP_Dahl_Jackal:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="This dog bites."
+Suffix=""
+
+[Title.TitleP_Hyperion_Nemesis WeaponNamePartDefinition]
+PartName="Nemesis"
+
+[Title.TitleP_Hyperion_Nemesis:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="There is no escape"
+Suffix=""
+
+[Title.TitleP_Jakobs_Bessie WeaponNamePartDefinition]
+PartName="Bessie"
+
+[Title.TitleP_Jakobs_Bessie:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="That's my girl..."
+Suffix=""
+
+[Title.TitleP_Maliwan_Tsunami WeaponNamePartDefinition]
+PartName="Tsunami"
+
+[Title.TitleP_Maliwan_Tsunami:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Flee the wave"
+Suffix=""
+
+[Title.TitleP_SandS_Serpens WeaponNamePartDefinition]
+PartName="Serpens"
+
+[Title.TitleP_SandS_Serpens:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Poison in your veins"
+Suffix=""
+
+[Title.TitleP_Tediore_Avenger WeaponNamePartDefinition]
+PartName="Avenger"
+
+[Title.TitleP_Tediore_Avenger:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Uncommon Power"
+Suffix=""
+
+[Title.TitleP_Torgue_Undertaker WeaponNamePartDefinition]
+PartName="Undertaker"
+
+[Title.TitleP_Torgue_Undertaker:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Take 'em UNDER."
+Suffix=""
+
+[Title.TitleP_Vladof_Stalker WeaponNamePartDefinition]
+PartName="Stalker"
+
+[Title.TitleP_Vladof_Stalker:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="You can run, but you can't hide."
+Suffix=""
+
+[Title.TitleU_Repeater_AthenasWisdom WeaponNamePartDefinition]
+PartName="Athena's Wisdom"
+
+[Title.TitleU_Repeater_AthenasWisdom:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="War is the final option"
+Suffix=""
+
+[Title.TitleU_Repeater_ChiquitoAmigo WeaponNamePartDefinition]
+PartName="Chiquito Amigo"
+
+[Title.TitleU_Repeater_ChiquitoAmigo:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Say \"Hello\""
+Suffix=""
+
+[Title.TitleU_Repeater_KnoxsGold WeaponNamePartDefinition]
+PartName="Knoxx's Gold"
+
+[Title.TitleU_Repeater_KnoxsGold:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Bling!"
+Suffix=""
+
+[Title.TitleU_SemiAutoSniper_KyrosPower WeaponNamePartDefinition]
+PartName="Kyros' Power"
+
+[Title.TitleU_SemiAutoSniper_KyrosPower:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Good Touch"
+Suffix=""
+
+[Title.TitleU_SMG_Typhoon WeaponNamePartDefinition]
+PartName="Typhoon"
+
+[Title.TitleU_SMG_Typhoon:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Phooon!"
+Suffix=""
+
+[Title.TitleU_SupportMG_AjaxsSpear WeaponNamePartDefinition]
+PartName="Ajax's Spear"
+
+[Title.TitleU_SupportMG_AjaxsSpear:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Useful for kicking Hector's bitch ass."
+Suffix=""
+
+[Title.TitleU_SupportMG_TheChopper WeaponNamePartDefinition]
+PartName="The Chopper"
+
+[Title.TitleU_SupportMG_TheChopper:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description=""
+NoConstraintText="RAR!  BRAR BRAR!"
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle WeaponNamePartDefinition]
+PartName="Rifle"
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Full of electric death"
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Eridan_Rifle:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball WeaponNamePartDefinition]
+PartName="Fireball"
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="You'll need some bat guano..."
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Fireball:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb WeaponNamePartDefinition]
+PartName="Firebomb"
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Bad is Good, BABY!"
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Firebomb:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun WeaponNamePartDefinition]
+PartName="Flaregun"
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Smoke on the water..."
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Flaregun:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun WeaponNamePartDefinition]
+PartName="Glob Gun"
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="I think you have something on your shoe."
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Globgun:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun WeaponNamePartDefinition]
+PartName="Rolling Spatter Gun"
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="Splat! Sploch! Spluch!"
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_RollingSpattergun:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun WeaponNamePartDefinition]
+PartName="Splat Gun"
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="For when you want to splat something."
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_Splatgun:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun WeaponNamePartDefinition]
+PartName="Stampeding Spatter Gun"
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="For when you want to splat the living shit out of something."
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_StampedingSpattergun:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack WeaponNamePartDefinition]
+PartName=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.dlc3_SuperBlankMEGAHack:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon WeaponNamePartDefinition]
+PartName="Mega Cannon"
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=""
+NoConstraintText="01001111010011010100011001000111"
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+
+[Title_Eridan.Title_MegaCannon:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description=""
+NoConstraintText="  "
+Suffix=""
+

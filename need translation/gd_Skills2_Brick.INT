@@ -1,0 +1,300 @@
+[Action.A_Berserk SkillDefinition]
+SkillName="Berserk"
+SkillDescription="Gain the ability to go Berserk.  While Berserk, <StringAliasMap:Action.Fire> and <StringAliasMap:Action.Aim> throw punches.  Also, you gain resistance to all damage and you regenerate health while Berserking."
+LockedSkillDetailStr="<Locked>"
+
+[Action.A_Berserk:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Cooldown: $NUMBER$ seconds"
+NoConstraintText=""
+Suffix=""
+
+[ActionElemental.CorrosivePunch SkillDefinition]
+SkillName="Corrosive Punch"
+SkillDescription="Brick's punch deals Corrosive Damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.ExplosivePunch SkillDefinition]
+SkillName="Explosive Punch"
+SkillDescription="Brick's punch deals Explosive Damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.IncendiaryPunch SkillDefinition]
+SkillName="Incendiary Punch"
+SkillDescription="Brick's punch deals Incendiary Damage"
+LockedSkillDetailStr="<Locked>"
+
+[ActionElemental.ShockingPunch SkillDefinition]
+SkillName="Shocking Punch"
+SkillDescription="Brick's punch deals Shocking Damage"
+LockedSkillDetailStr="<Locked>"
+
+[Adrenaline.Adrenaline_Brick SkillDefinition]
+SkillName="Adrenaline - Roland"
+SkillDescription="Roland gains adrenaline when he damages enemies or if one of his friends gets crippled."
+LockedSkillDetailStr="<Locked>"
+
+[Adrenaline.Adrenaline_Brick:AttributePresentationDefinition_109 AttributePresentationDefinition]
+Description="Roland gains adrenaline when he damages enemies or if one of his friends gets crippled."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Endowed SkillDefinition]
+SkillName="Endowed"
+SkillDescription="Increases the Explosive Damage you deal."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Endowed:AttributePresentationDefinition_103 AttributePresentationDefinition]
+Description="Explosive Damage."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Hardened SkillDefinition]
+SkillName="Hardened"
+SkillDescription="Increases your maximum health."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Hardened:AttributePresentationDefinition_107 AttributePresentationDefinition]
+Description="Maximum Health."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.IronFist SkillDefinition]
+SkillName="Iron Fist"
+SkillDescription="Increases the melee damage you deal."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.IronFist:AttributePresentationDefinition_108 AttributePresentationDefinition]
+Description="Melee Damage."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.CastIron SkillDefinition]
+SkillName="Cast Iron"
+SkillDescription="Increases your resistance to Explosive Damage."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.CastIron:AttributePresentationDefinition_105 AttributePresentationDefinition]
+Description="Explosive Damage Resistance."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.Liquidate SkillDefinition]
+SkillName="Liquidate"
+SkillDescription="Dealing Explosive Damage to an enemy reduces the cooldown of Berserk."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.Liquidate:AttributePresentationDefinition_106 AttributePresentationDefinition]
+Description="Cooldown reduction per hit: $NUMBER$ (in seconds)"
+NoConstraintText=""
+Suffix=""
+
+[Blaster.Liquidate_active SkillDefinition]
+SkillName="Liquidate - active"
+SkillDescription="Killing an enemy with Explosive Damage provides an experience bonus and reduces the cooldown of Berserk. (BROKEN)"
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.Liquidate_active:AttributePresentationDefinition_146 AttributePresentationDefinition]
+Description="Cooldown reduction"
+NoConstraintText=""
+Suffix=""
+
+[Blaster.MasterBlaster SkillDefinition]
+SkillName="Master Blaster"
+SkillDescription="Killing an enemy increases your Fire Rate with all weapons and causes you to regenerate rockets for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.MasterBlaster:AttributePresentationDefinition_110 AttributePresentationDefinition]
+Description="Fire Rate."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.MasterBlaster:AttributePresentationDefinition_111 AttributePresentationDefinition]
+Description="rockets regenerated per minute."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.RapidReload SkillDefinition]
+SkillName="Rapid Reload"
+SkillDescription="Increases your Reload Speed and reduces Recoil with all weapons."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.RapidReload:AttributePresentationDefinition_112 AttributePresentationDefinition]
+Description="Reload Speed."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.RapidReload:AttributePresentationDefinition_113 AttributePresentationDefinition]
+Description="Recoil Reduction."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.Revenge SkillDefinition]
+SkillName="Revenge"
+SkillDescription="Killing an enemy increases your damage with all weapons for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.Revenge:AttributePresentationDefinition_116 AttributePresentationDefinition]
+Description="Damage."
+NoConstraintText=""
+Suffix=""
+
+[Blaster.WideLoad SkillDefinition]
+SkillName="Wide Load"
+SkillDescription="Increases the number of Rockets your Rocket Launcher can hold in its magazine."
+LockedSkillDetailStr="<Locked>"
+
+[Blaster.WideLoad:AttributePresentationDefinition_114 AttributePresentationDefinition]
+Description="Launcher Magazine Size."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.BloodSport SkillDefinition]
+SkillName="Blood Sport"
+SkillDescription="Killing an enemy while Berserk is active regenerates some of your health."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.BloodSport:AttributePresentationDefinition_115 AttributePresentationDefinition]
+Description="Percentage of Health Regenerated: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Brawler.BloodSport_activated SkillDefinition]
+SkillName="BloodSport - active"
+SkillDescription="While Berserk you gain increased damage with left handed attacks."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.BloodSport_activated:AttributePresentationDefinition_147 AttributePresentationDefinition]
+Description="Damage bonus"
+NoConstraintText=""
+Suffix=""
+
+[Brawler.EndlessRage SkillDefinition]
+SkillName="Endless Rage"
+SkillDescription="Increases the duration of Berserk."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.EndlessRage:AttributePresentationDefinition_63 AttributePresentationDefinition]
+Description="Berserk Duration."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.HeavyHanded SkillDefinition]
+SkillName="Heavy Handed"
+SkillDescription="Killing an enemy greatly increases your melee damage for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.HeavyHanded:AttributePresentationDefinition_118 AttributePresentationDefinition]
+Description="Melee Damage."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.PrizeFighter SkillDefinition]
+SkillName="Prize Fighter"
+SkillDescription="While Berserk is active your melee attacks have a chance to spawn cash prizes."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.PrizeFighter:AttributePresentationDefinition_119 AttributePresentationDefinition]
+Description="chance to spawn a cash prize."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.ShortFuse SkillDefinition]
+SkillName="Short Fuse"
+SkillDescription="Decreases the cooldown of Berserk."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.ShortFuse:AttributePresentationDefinition_123 AttributePresentationDefinition]
+Description="Berserk Cooldown reduced by $NUMBER$ seconds."
+NoConstraintText=""
+Suffix=""
+
+[Brawler.StingLikeaBee SkillDefinition]
+SkillName="Sting like a Bee"
+SkillDescription="Punching while Berserk causes you to dash forward and slug your enemies."
+LockedSkillDetailStr="<Locked>"
+
+[Brawler.StingLikeaBee:AttributePresentationDefinition_122 AttributePresentationDefinition]
+Description="Dash Distance: $NUMBER$ feet"
+NoConstraintText=""
+Suffix=""
+
+[Tank.Bash SkillDefinition]
+SkillName="Bash"
+SkillDescription="Gives your melee attacks a chance to Daze enemies, slowing them and reducing their accuracy."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Bash:AttributePresentationDefinition_138 AttributePresentationDefinition]
+Description="Chance to Daze: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Tank.Diehard SkillDefinition]
+SkillName="Diehard"
+SkillDescription="Increases the amount of health you regain when you are revived by a friend or by Second Wind.  Also increases the amount of time you have before you die when you are Crippled."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Diehard:AttributePresentationDefinition_127 AttributePresentationDefinition]
+Description="Revived Health Bonus."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Diehard:AttributePresentationDefinition_128 AttributePresentationDefinition]
+Description="time to be Revived."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Juggernaut SkillDefinition]
+SkillName="Juggernaut"
+SkillDescription="Killing an enemy gives you resistance to all damage for a few seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Juggernaut:AttributePresentationDefinition_124 AttributePresentationDefinition]
+Description="Damage Resistance."
+NoConstraintText=""
+Suffix=""
+
+[Tank.PayBack SkillDefinition]
+SkillName="Pay Back"
+SkillDescription="After your shields become depleted you gain a damage bonus for 10 seconds."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.PayBack:AttributePresentationDefinition_133 AttributePresentationDefinition]
+Description="Damage bonus."
+NoConstraintText=""
+Suffix=""
+
+[Tank.PayBack_active SkillDefinition]
+SkillName="Pay Back active"
+SkillDescription="damage bonus for the payback skill"
+LockedSkillDetailStr="<Locked>"
+
+[Tank.PayBack_active:AttributePresentationDefinition_148 AttributePresentationDefinition]
+Description="Damage Bonus"
+NoConstraintText=""
+Suffix=""
+
+[Tank.Safeguard SkillDefinition]
+SkillName="Safeguard"
+SkillDescription="Increases the strength of your shield."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Safeguard:AttributePresentationDefinition_134 AttributePresentationDefinition]
+Description="Shield Strength."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Unbreakable SkillDefinition]
+SkillName="Unbreakable"
+SkillDescription="When your shield is depleted you gain 5 seconds of powerful shield regeneration."
+LockedSkillDetailStr="<Locked>"
+
+[Tank.Unbreakable:AttributePresentationDefinition_131 AttributePresentationDefinition]
+Description="Shield Strength regenerated per second."
+NoConstraintText=""
+Suffix=""
+
+[Tank.Unbreakable_active SkillDefinition]
+SkillName="Unbreakable_active"
+SkillDescription="Shield regeneration for Unbreakable"
+LockedSkillDetailStr="<Locked>"
+

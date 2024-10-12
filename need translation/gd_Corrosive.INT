@@ -1,0 +1,20 @@
+[DamageType.DmgType_Corrosive_Impact:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Highly effective vs Armor"
+NoConstraintText=""
+Suffix=""
+
+[DamageType.DmgType_Corrosive_Impact:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Chance to Corrode enemies"
+NoConstraintText=""
+Suffix=""
+
+[Skill.Corrosive_AmplifyDamage SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillEffectDefinitions[0]=(HumanReadableText="Damage Reduction")
+SkillEffectDefinitions[1]=(HumanReadableText="Incoming Grenade Damage")
+SkillEffectDefinitions[2]=(HumanReadableText="Incoming Melee Damage")
+SkillEffectDefinitions[3]=(HumanReadableText="Incoming Projectile Damage")
+SkillEffectDefinitions[4]=(HumanReadableText="Incoming Status Effect Damage")
+SkillName="Corrosive - Amplify Damage"
+

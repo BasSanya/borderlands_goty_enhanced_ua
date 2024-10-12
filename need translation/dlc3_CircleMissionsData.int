@@ -1,0 +1,6 @@
+[Echos.dlc3_ECID_Circle EchoCallerIDDefinition]
+CallerName="Circle Director"
+
+[Echos.dlc3E_Circle_MeetUp EchoCallDefinition]
+Subject="Circle: Meet Up"
+

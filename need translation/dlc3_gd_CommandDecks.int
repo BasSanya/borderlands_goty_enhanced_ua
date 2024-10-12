@@ -1,0 +1,159 @@
+[A_Item.Item_LoyaltyDeck_Brick ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Class Mod"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_LoyaltyDeck_Gearbox ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Command Deck"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_LoyaltyDeck_Lilith ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Class Mod"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_LoyaltyDeck_Mordecai ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Class Mod"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.Item_LoyaltyDeck_Roland ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Class Mod"
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Body_Command.Brick_Torgue_Ogre ItemPartDefinition]
+PartName=""
+
+[Body_Command.Lilith_Hyperion_Specter ItemPartDefinition]
+PartName=""
+
+[Body_Command.Mordecai_SandS_Truxican ItemPartDefinition]
+PartName=""
+
+[Body_Command.Roland_Dahl_Marine ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_All_Gearbox ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Brick_Pangolin ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Brick_Tediore ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Brick_Torgue ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Lilith_Dahl ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Lilith_Eridian ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Lilith_Maliwan ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Mordecai_Anshin ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Mordecai_Hyperion ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Mordecai_Jakobs ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Roland_Atlas ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Roland_SandS ItemPartDefinition]
+PartName=""
+
+[Body_Loyalty.Loyalty_Roland_Vladof ItemPartDefinition]
+PartName=""
+
+[Prefix.Prefix_Command_Brick_Ogre ItemNamePartDefinition]
+PartName="Ogre"
+
+[Prefix.Prefix_Command_Lilith_Specter ItemNamePartDefinition]
+PartName="Specter"
+
+[Prefix.Prefix_Command_Mordecai_TruxicanWrestler ItemNamePartDefinition]
+PartName="Truxican Wrestler"
+
+[Prefix.Prefix_Command_Roland_Marine ItemNamePartDefinition]
+PartName="Marine"
+
+[Prefix.Prefix_Loyalty_Eridian_EridianWarrior ItemNamePartDefinition]
+PartName="Eridian Warrior"
+
+[Prefix.Prefix_Loyalty_Gearbox ItemNamePartDefinition]
+PartName="Badass"
+
+[Prefix.Prefix_Loyalty_Gearbox_Lilith ItemNamePartDefinition]
+PartName=""
+
+[Prefix.Prefix_Loyalty_Gearbox_Roland ItemNamePartDefinition]
+PartName="Gearhead"
+
+[Title.Title_AnshinLoyaltyDeck ItemNamePartDefinition]
+PartName="Anshin Enhancement Mod"
+
+[Title.Title_AtlasLoyaltyDeck ItemNamePartDefinition]
+PartName="Atlas Enhancement Mod"
+
+[Title.Title_DahlLoyaltyDeck ItemNamePartDefinition]
+PartName="Dahl Enhancement Mod"
+
+[Title.Title_EridianLoyaltyDeck ItemNamePartDefinition]
+PartName="Eridian Enhancement Mod"
+
+[Title.Title_GearboxLoyaltyDeck ItemNamePartDefinition]
+PartName="Gearbox Enhancement Mod"
+
+[Title.Title_HyperionLoyaltyDeck ItemNamePartDefinition]
+PartName="Hyperion Enhancement Mod"
+
+[Title.Title_JakobsLoyaltyDeck ItemNamePartDefinition]
+PartName="Jakobs Enhancement Mod"
+
+[Title.Title_MaliwanLoyaltyDeck ItemNamePartDefinition]
+PartName="Maliwan Enhancement Mod"
+
+[Title.Title_PangolinLoyaltyDeck ItemNamePartDefinition]
+PartName="Pangolin Enhancement Mod"
+
+[Title.Title_SandSLoyaltyDeck ItemNamePartDefinition]
+PartName="S and S Enhancement Mod"
+
+[Title.Title_TedioreLoyaltyDeck ItemNamePartDefinition]
+PartName="Tediore Enhancement Mod"
+
+[Title.Title_TorgueLoyaltyDeck ItemNamePartDefinition]
+PartName="Torgue Enhancement Mod"
+
+[Title.Title_VladofLoyaltyDeck ItemNamePartDefinition]
+PartName="Vladof Enhancement Mod"
+

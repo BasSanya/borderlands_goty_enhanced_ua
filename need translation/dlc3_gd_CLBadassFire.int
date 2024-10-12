@@ -1,0 +1,3 @@
+[Turret.Pawn_Balance_Scorpio_Fire AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Flame Thrower Scorpio"))
+

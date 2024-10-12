@@ -1,0 +1,4 @@
+[population.Pawn_Balance_VaultBoss_Main AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="The Destroyer"))
+Grades[1]=(GradeModifiers=(DisplayName="The Destroyer"))
+

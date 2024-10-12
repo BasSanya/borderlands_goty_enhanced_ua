@@ -1,0 +1,865 @@
+[bd_response_playerhit_roland_29a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_29b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_30a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_30b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_31a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_31b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_32b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_32c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_33a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_34a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_playerhit_roland_34b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_death_roland_120a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_fasttravel_roland_93b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're movin out!",Time=0.000000)
+
+[bd_action_approachchest_roland_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see a chest.",Time=0.000000)
+
+[bd_action_skillkill_roland_96 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Spray 'em and stay 'em!",Time=0.000000)
+
+[bd_action_skillkill_roland_99a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mowin' 'em down!",Time=0.000000)
+
+[bd_action_approachchest_roland_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, I see a resupply.",Time=0.000000)
+
+[bd_action_swapseat_roland_65b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Trade ya!",Time=0.000000)
+
+[bd_response_raredrop_roland_102c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That is awesome.",Time=0.000000)
+
+[bd_action_useskill_roland_17 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's see 'em get past THIS!",Time=0.000000)
+
+[bd_response_joincoop_roland_80b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I got your back.",Time=0.000000)
+
+[bd_response_duelwin_roland_52b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You gotta learn to punch your weight class.",Time=0.000000)
+
+[bd_action_openchest_roland_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This will help.",Time=0.000000)
+
+[bd_action_useskill_roland_23 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Turret up!",Time=0.000000)
+
+[bd_response_elitekill_roland_39 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another notch on my weapon.",Time=0.000000)
+
+[bd_response_death_roland_120c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_raredrop_roland_101 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's like Christmas.",Time=0.000000)
+
+[bd_response_criticalshot_roland_69b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Haha!  Bullseye!",Time=0.000000)
+
+[bd_response_playerhit_roland_28b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out of the fight.",Time=0.000000)
+
+[bd_response_criticalshot_roland_67 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Target hit.",Time=0.000000)
+
+[bd_action_heal_roland_97b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahhh, I feel better already.",Time=0.000000)
+
+[bd_response_levelup_roland_30 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gettin' better all the time.",Time=0.000000)
+
+[bd_action_reviveteam_roland_90a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, that's just a flesh wound.",Time=0.000000)
+
+[bd_action_duelstart_roland_46c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm issuing you a challenge, chump.",Time=0.000000)
+
+[bd_response_levelup_roland_31 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rankin' up!",Time=0.000000)
+
+[bd_response_playerhit_roland_26c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm down!",Time=0.000000)
+
+[bd_response_duellose_roland_55b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We'll settle this later.",Time=0.000000)
+
+[bd_action_swapseat_roland_63b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's switch.",Time=0.000000)
+
+[bd_action_duelstart_roland_47c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think you got what it takes?",Time=0.000000)
+
+[bd_response_idle_roland_78a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wastin' daylight here.",Time=0.000000)
+
+[bd_response_needammo_roland_84 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ammo count black.",Time=0.000000)
+
+[bd_response_death_roland_118b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_skillkill_roland_97a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's another one!",Time=0.000000)
+
+[bd_response_elitekill_roland_41 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are we keeping score here?",Time=0.000000)
+
+[bd_response_death_roland_119a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_swapseat_roland_64b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Swap with me!",Time=0.000000)
+
+[bd_response_duellose_roland_54a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This ain't over by a long shot.",Time=0.000000)
+
+[bd_response_criticalshot_roland_68a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, you know that hurt!",Time=0.000000)
+
+[bd_response_death_roland_118d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_duelwin_roland_53a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't mess with the best.",Time=0.000000)
+
+[bd_response_death_roland_118c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_fasttravel_roland_91a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Move it or lose it.",Time=0.000000)
+
+[bd_action_reviveteam_roland_89c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just walk it off.",Time=0.000000)
+
+[bd_response_joincoop_roland_79c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now we can get things started.",Time=0.000000)
+
+[bd_response_criticalshot_roland_67d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Critical bitch!",Time=0.000000)
+
+[bd_action_swapseat_roland_64c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, swap with me!",Time=0.000000)
+
+[bd_response_idle_roland_76 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Burnin' daylight.",Time=0.000000)
+
+[bd_response_duellose_roland_55c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We will settle this later.",Time=0.000000)
+
+[bd_response_elitekill_roland_38b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite, my ass.",Time=0.000000)
+
+[bd_action_skillkill_roland_95a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's like having another soldier on the field!",Time=0.000000)
+
+[bd_action_fasttravel_roland_92b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's make like lightning",Time=0.000000)
+
+[bd_action_openchest_roland_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Armaments here.",Time=0.000000)
+
+[bd_response_playerhit_roland_25a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Medic!",Time=0.000000)
+
+[bd_action_swapseat_roland_64a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Swap with me!",Time=0.000000)
+
+[bd_response_idle_roland_78c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wastin' daylight, foo.",Time=0.000000)
+
+[bd_response_criticalshot_roland_67b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Critical hit!",Time=0.000000)
+
+[bd_action_duelstart_roland_45b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's do this!",Time=0.000000)
+
+[bd_response_criticalshot_roland_68b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, that hurt!",Time=0.000000)
+
+[bd_action_useskill_roland_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Adding firepower!",Time=0.000000)
+
+[bd_response_needammo_roland_86 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Out of bullets.",Time=0.000000)
+
+[bd_action_skillkill_roland_94 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I love this damn thing!",Time=0.000000)
+
+[bd_action_approachchest_roland_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see loot ahead.",Time=0.000000)
+
+[bd_response_criticalshot_roland_66c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nailed it!",Time=0.000000)
+
+[bd_response_playerhit_roland_27c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Noooo!",Time=0.000000)
+
+[bd_response_duelwin_roland_52c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You gotta learn to punch your weight class.",Time=0.000000)
+
+[bd_response_death_roland_118a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_joincoop_roland_81c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Woo!  That's the jump off now!",Time=0.000000)
+
+[bd_response_elitekill_roland_36b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Woo!  Another one bites the dust.",Time=0.000000)
+
+[bd_action_reviveteam_roland_90c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, that's just a flesh wound.",Time=0.000000)
+
+[bd_action_useskill_roland_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Laying down backup!",Time=0.000000)
+
+[bd_response_raredrop_roland_102a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That is awesome.",Time=0.000000)
+
+[bd_action_openchest_roland_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Can never have enough stuff.",Time=0.000000)
+
+[bd_response_duelwin_roland_51a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mess with the bull, you gonna get the horns.",Time=0.000000)
+
+[bd_response_needammo_roland_82b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out of mags.",Time=0.000000)
+
+[bd_response_duelget_roland_49a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can take me?",Time=0.000000)
+
+[bd_response_elitekill_roland_37 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Upping the kill count.",Time=0.000000)
+
+[bd_response_joincoop_roland_81a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your chances of winning just got better.",Time=0.000000)
+
+[bd_response_playerhit_roland_28d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out of the fight.",Time=0.000000)
+
+[bd_response_duelwin_roland_53b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't mess with the best.",Time=0.000000)
+
+[bd_response_playerhit_roland_26b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm down!",Time=0.000000)
+
+[bd_action_skillkill_roland_97b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's another one!",Time=0.000000)
+
+[bd_response_duelget_roland_48c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you're gonna start this, I'm gonna end it.",Time=0.000000)
+
+[bd_response_duelget_roland_50b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You just picked the wrong fight.",Time=0.000000)
+
+[bd_action_usevss_roland_43 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll T.C. the vehicle.",Time=0.000000)
+
+[bd_response_duellose_roland_55a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We will settle this later.",Time=0.000000)
+
+[bd_response_duellose_roland_56b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lucky you caught me at a weak moment. You won't be so lucky next time.",Time=0.000000)
+
+[bd_action_heal_roland_99c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't need a medic now.",Time=0.000000)
+
+[bd_response_death_roland_120b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_reviveteam_roland_89b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Walk it off.",Time=0.000000)
+
+[bd_action_reviveteam_roland_88b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="On your feet, soldier!",Time=0.000000)
+
+[bd_action_openchest_roland_14 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Always room for more loot.",Time=0.000000)
+
+[bd_action_reviveteam_roland_89a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Walk it off.",Time=0.000000)
+
+[bd_action_heal_roland_97c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahhh, I feel better already.",Time=0.000000)
+
+[bd_action_fasttravel_roland_91b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Move it or lose it.",Time=0.000000)
+
+[bd_response_death_roland_119b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_duellose_roland_56a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lucky you caught me at a weak moment. You won't be so lucky next time.",Time=0.000000)
+
+[bd_action_duelstart_roland_47d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think you got what it takes?",Time=0.000000)
+
+[bd_response_elitekill_roland_36a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another one bites the dust.",Time=0.000000)
+
+[bd_action_fasttravel_roland_93a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're movin'!",Time=0.000000)
+
+[bd_action_openchest_roland_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, we've got guns over here.",Time=0.000000)
+
+[bd_action_skillkill_roland_98a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Efficient and effective!",Time=0.000000)
+
+[bd_response_levelup_roland_32 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bigger and badder.",Time=0.000000)
+
+[bd_action_heal_roland_99a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't need a medic now.",Time=0.000000)
+
+[bd_action_usevss_roland_42 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mounting up.",Time=0.000000)
+
+[bd_response_elitekill_roland_40 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh yeah!  That was all me.",Time=0.000000)
+
+[bd_response_duelget_roland_49b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can take me?",Time=0.000000)
+
+[bd_response_joincoop_roland_80a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I got your back.",Time=0.000000)
+
+[bd_response_criticalshot_roland_69c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bullseye!",Time=0.000000)
+
+[bd_action_useskill_roland_24 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Turret online!",Time=0.000000)
+
+[bd_action_approachchest_roland_8 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Resupply.",Time=0.000000)
+
+[bd_action_heal_roland_98b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, heals.",Time=0.000000)
+
+[bd_response_elitekill_roland_38a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite, my ass.",Time=0.000000)
+
+[bd_response_duelwin_roland_51c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mess with the bull, you'll get the horns.",Time=0.000000)
+
+[bd_response_duellose_roland_56c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lucky you caught me at a weak moment. You won't be so lucky next time.",Time=0.000000)
+
+[bd_action_reviveteam_roland_88c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="On your feet, soldier!",Time=0.000000)
+
+[bd_response_duellose_roland_54b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This ain't over by a long shot.",Time=0.000000)
+
+[bd_action_swapseat_roland_65c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Trade ya!",Time=0.000000)
+
+[bd_response_needammo_roland_83 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out.",Time=0.000000)
+
+[bd_action_approachchest_roland_3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot, over here.",Time=0.000000)
+
+[bd_response_death_roland_119c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_swapseat_roland_63a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's switch.",Time=0.000000)
+
+[bd_action_skillkill_roland_97c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's another one!",Time=0.000000)
+
+[bd_action_skillkill_roland_98c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Efficient and effective!",Time=0.000000)
+
+[bd_action_useskill_roland_21 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Laying turret!",Time=0.000000)
+
+[bd_response_playerhit_roland_25b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Medic!",Time=0.000000)
+
+[bd_response_criticalshot_roland_66b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nailed it.",Time=0.000000)
+
+[bd_response_playerhit_roland_27b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Noooo!",Time=0.000000)
+
+[bd_response_criticalshot_roland_67c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Critical hit!",Time=0.000000)
+
+[bd_action_openchest_roland_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Always nice to get resupplied.",Time=0.000000)
+
+[bd_response_joincoop_roland_79a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now we can get things started.",Time=0.000000)
+
+[bd_response_duelget_roland_50a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You just picked the wrong fight.",Time=0.000000)
+
+[bd_response_duelget_roland_48a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, if you're gonna start this, I'm gonna end it.",Time=0.000000)
+
+[bd_action_approachchest_roland_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cargo in sight.",Time=0.000000)
+
+[bd_response_criticalshot_roland_67a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Critical hit!",Time=0.000000)
+
+[bd_response_duelwin_roland_51b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mess with the bull, you'll get the horns.",Time=0.000000)
+
+[bd_response_criticalshot_roland_67e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Critical biatch!",Time=0.000000)
+
+[bd_response_joincoop_roland_79b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now we can get things started.",Time=0.000000)
+
+[bd_action_heal_roland_98a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, heals.",Time=0.000000)
+
+[bd_action_skillkill_roland_98b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Efficient and effective!",Time=0.000000)
+
+[bd_action_duelstart_roland_45a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's do this.",Time=0.000000)
+
+[bd_response_needammo_roland_87 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need to reload.",Time=0.000000)
+
+[bd_action_duelstart_roland_46a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm issuing you a challenge, chump!",Time=0.000000)
+
+[bd_response_needammo_roland_85 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need ammo.",Time=0.000000)
+
+[bd_action_heal_roland_99b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't need a medic now.",Time=0.000000)
+
+[bd_action_skillkill_roland_95b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's like having another soldier on the field!",Time=0.000000)
+
+[bd_action_approachchest_roland_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cargo over here.",Time=0.000000)
+
+[bd_action_reviveteam_roland_90b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, that's just a flesh wound.",Time=0.000000)
+
+[bd_action_usevss_roland_44 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I got the ride.",Time=0.000000)
+
+[bd_response_idle_roland_77 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Time is bullets.",Time=0.000000)
+
+[bd_response_raredrop_roland_100 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sweet.  Wasn't expecting that.",Time=0.000000)
+
+[bd_response_joincoop_roland_80c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I got your back.",Time=0.000000)
+
+[bd_action_useskill_roland_19 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got your back!",Time=0.000000)
+
+[bd_response_duelget_roland_48b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you're gonna start this, I'm gonna end it.",Time=0.000000)
+
+[bd_response_needammo_roland_82c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out of mags.",Time=0.000000)
+
+[bd_action_skillkill_roland_99c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mowin' 'em down!",Time=0.000000)
+
+[bd_action_approachchest_roland_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll get us resupplied.",Time=0.000000)
+
+[bd_action_heal_roland_98c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, heals.",Time=0.000000)
+
+[bd_response_joincoop_roland_81b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Woo!  Time to get up in this!",Time=0.000000)
+
+[bd_action_fasttravel_roland_92c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Woo!  Let's make like lightning ya'll!",Time=0.000000)
+
+[bd_action_reviveteam_roland_88a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="On your feet, soldier!",Time=0.000000)
+
+[bd_action_heal_roland_97a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahhh, I feel better already.",Time=0.000000)
+
+[bd_response_needammo_roland_82a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm out of mags.",Time=0.000000)
+
+[bd_action_skillkill_roland_95c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's like having another soldier on the field!",Time=0.000000)
+

@@ -1,0 +1,464 @@
+[Skills.Skill_Nova_Shock_medium SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[Title.Title_Torgue1_ToughGuyShield ItemNamePartDefinition]
+PartName="Tough Guy Shield"
+
+[ManufacturerMaterials.Material_Tediore_1:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Very slow health regeneration"
+
+[ManufacturerMaterials.Material_Atlas_2a:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="High Shock Resistance"
+
+[Body.body1 ItemPartDefinition]
+PartName="OBS"
+
+[Prefix.Prefix_Max2_Hardened ItemNamePartDefinition]
+PartName="Hardened"
+
+[ManufacturerMaterials.Material_Tediore_1 ItemPartDefinition]
+PartName="TDR-"
+
+[Skills.Skill_Nova_Incendiary_large SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[ManufacturerMaterials.Material_Dahl_1 ItemPartDefinition]
+PartName="DHL-"
+
+[Prefix.Prefix_Max3_Unbreakable ItemNamePartDefinition]
+PartName="Unbreakable"
+
+[ManufacturerMaterials.Material_Hyperion_1:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Fire Resistance"
+
+[ManufacturerMaterials.Material_Dahl_2a ItemPartDefinition]
+PartName="DHL-"
+
+[Title.Title_Hyperion1_ThermalShield ItemNamePartDefinition]
+PartName="Thermal Shield"
+
+[ManufacturerMaterials.Material_Pangolin_3:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Overcharge Capacity!"
+
+[Title.Title_Anshin1_GuerillaShield ItemNamePartDefinition]
+PartName="Guerilla Shield"
+
+[ManufacturerMaterials.Material_Anshin_3 ItemPartDefinition]
+PartName="ANS2-"
+
+[Title.Title_Anshin3_AmbushShield ItemNamePartDefinition]
+PartName="Ambush Shield"
+
+[ManufacturerMaterials.Material_SandS_1:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Creates a small Acid burst when depleted."
+
+[Title.Title_Atlas2_AnionicShield ItemNamePartDefinition]
+PartName="Anionic Shield"
+
+[ManufacturerMaterials.Material_Tediore_0_Starter ItemPartDefinition]
+PartName="TDR-"
+
+[Title.Title_Vladof2_FireWaveShield ItemNamePartDefinition]
+PartName="Fire Wave Shield"
+
+[ManufacturerMaterials.Material_Pangolin_3 ItemPartDefinition]
+PartName="PNG2-"
+
+[ManufacturerMaterials.Material_Anshin_3:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Super Fast Recharge!"
+
+[Title.Title_Dahl1_NeutralizingShield ItemNamePartDefinition]
+PartName="Neutralizing Shield"
+
+[Title.Title_Anshin2_SkirmisherShield ItemNamePartDefinition]
+PartName="Skirmisher Shield"
+
+[ManufacturerMaterials.Material_Atlas_3 ItemPartDefinition]
+PartName="ATL-"
+
+[ManufacturerMaterials.Material_Tediore_2a ItemPartDefinition]
+PartName="TDR-"
+
+[Title.Title_Dahl2_DilutionShield ItemNamePartDefinition]
+PartName="Dilution Shield"
+
+[Title.Title_Hyperion3_EndothermicShield ItemNamePartDefinition]
+PartName="Endothermic Shield"
+
+[Prefix.Prefix_Standard ItemNamePartDefinition]
+PartName="Standard"
+
+[ManufacturerMaterials.Material_Tediore_3:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description="Quick Health Regeneration!"
+
+[ManufacturerMaterials.Material_Anshin_2:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=Increases Maximum Health.
+
+[Prefix.Prefix_Speed2_Accelerated ItemNamePartDefinition]
+PartName="Accelerated"
+
+[Title.Title_Tediore2_RestorativeShield ItemNamePartDefinition]
+PartName="Restorative Shield"
+
+[Title.Title_Vladof3_FireNovaShield ItemNamePartDefinition]
+PartName="Fire Nova Shield"
+
+[ManufacturerMaterials.Material_Torgue_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=Creates a Fire Nova when depleted.
+
+[Title.Title_SandS2_AcidWaveShield ItemNamePartDefinition]
+PartName="Acid Wave Shield"
+
+[ManufacturerMaterials.Material_Vladof_2a:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Creates a Fire Wave when depleted."
+
+[ManufacturerMaterials.Material_Tediore_3 ItemPartDefinition]
+PartName="TDR-"
+
+[ManufacturerMaterials.Material_Anshin_3:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=Increases Maximum Health.
+
+[ManufacturerMaterials.Material_Maliwan_1 ItemPartDefinition]
+PartName="MLN-"
+
+[DELETEDELETE.Title_Hyperion1_RedShield ItemNamePartDefinition]
+PartName="Red Shield"
+
+[ManufacturerMaterials.Material_Hyperion_3:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Extreme Fire Resistance!"
+
+[Title.Title_Pangolin1_UnyieldingShield ItemNamePartDefinition]
+PartName="Unyielding Shield"
+
+[Title.Title_SandS3_AcidNovaShield ItemNamePartDefinition]
+PartName="Acid Nova Shield"
+
+[ManufacturerMaterials.Material_Anshin_1:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Fast Recharge"
+
+[Title.Title_Shield ItemNamePartDefinition]
+PartName="Shield"
+
+[ManufacturerMaterials.Material_Torgue_1 ItemPartDefinition]
+PartName="TRG-"
+
+[ManufacturerMaterials.Material_Pangolin_1 ItemPartDefinition]
+PartName="PNG-"
+
+[ManufacturerMaterials.Material_Vladof_3:AttributePresentationDefinition_12 AttributePresentationDefinition]
+Description=Charges very quickly.
+
+[ManufacturerMaterials.Material_Atlas_2a ItemPartDefinition]
+PartName="ATL-"
+
+[Prefix.Prefix_Speed3_Rapid ItemNamePartDefinition]
+PartName="Rapid"
+
+[Title.Title_Pangolin3_FortifiedShield ItemNamePartDefinition]
+PartName="Fortified Shield"
+
+[ManufacturerMaterials.Material_SandS_3 ItemPartDefinition]
+PartName="SnS-"
+
+[ManufacturerMaterials.Material_Torgue_3:AttributePresentationDefinition_2 AttributePresentationDefinition]
+NoConstraintText="Health Boost 60%"
+
+[Title.Title_Dahl3_HazmatShield ItemNamePartDefinition]
+PartName="Hazmat Shield"
+
+[Skills.Skill_Nova_Incendiary_medium SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[ManufacturerMaterials.Material_Pangolin_1:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="High Capacity"
+
+[Body.body4 ItemPartDefinition]
+PartName="AWE"
+
+[ManufacturerMaterials.Material_Dahl_3:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Extreme Corrosive Resistance!"
+
+[Skills.Skill_Nova_Shock_small SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[ManufacturerMaterials.Material_Dahl_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Corrosive Resistance"
+
+[Title.Title_Hyperion2_AsbesticShield ItemNamePartDefinition]
+PartName="Asbestic Shield"
+
+[ManufacturerMaterials.Material_SandS_3:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="Creates a large Acid Nova when depleted."
+
+[Title.Title_Hyperion1_RedShield ItemNamePartDefinition]
+PartName=Red Shield
+
+[Title.Title_Maliwan1_ShockBurstShield ItemNamePartDefinition]
+PartName="Shock Burst Shield"
+
+[ManufacturerMaterials.Material_Pangolin_2a ItemPartDefinition]
+PartName="PNG-"
+
+[ManufacturerMaterials.Material_SandS_2a:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Creates an Acid Wave when depleted."
+
+[Skills.Skill_Nova_Explosive_small SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[Title.Title_SandS1_AcidburstShield ItemNamePartDefinition]
+PartName="Acid Burst Shield"
+
+[ManufacturerMaterials.Material_SandS_1 ItemPartDefinition]
+PartName="SnS-"
+
+[ManufacturerMaterials.Material_Vladof_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Creates a small Fire Burst when depleted."
+
+[ManufacturerMaterials.Material_Hyperion_2a:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="High Fire Resistance"
+
+[ManufacturerMaterials.Material_Torgue_2a ItemPartDefinition]
+PartName="TRG-"
+
+[Prefix.Prefix_Speed4_Alacritous ItemNamePartDefinition]
+PartName="Alacritous"
+
+[ManufacturerMaterials.Material_Hyperion_1 ItemPartDefinition]
+PartName="HYP-"
+
+[ManufacturerMaterials.Material_Maliwan_2a:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Creates a Shock Wave when depleted."
+
+[ManufacturerMaterials.Material_Vladof_3:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Creates a large Fire Nova when depleted."
+
+[ManufacturerMaterials.Material_Dahl_2a:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="High Corrosive Resistance"
+
+[Title.Title_Anshin3_AmbushShield:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=Improved Charge Rate.
+
+[Title.Title_Atlas3_CationicShield ItemNamePartDefinition]
+PartName="Cationic Shield"
+
+[Title.Title_Anshin2_SkirmisherShield:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=Improved Charge Rate.
+
+[Prefix.Prefix_Speed1_QuickCharge ItemNamePartDefinition]
+PartName="Quick Charge"
+
+[Title.Title_Anshin1_GuerillaShield:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=Improved Charge Rate.
+
+[Prefix.Prefix_Quality4_Harmonious ItemNamePartDefinition]
+PartName="Harmonious"
+
+[Title.Title_Tediore1_HealingShield ItemNamePartDefinition]
+PartName="Healing Shield"
+
+[A_Item_stock.Item_Shield_Stock ItemDefinition]
+ItemName="STOCK Shield"
+PickupMessage="Acquired a Basic Orb Shield"
+
+[ManufacturerMaterials.Material_Dahl_3 ItemPartDefinition]
+PartName="DHL-"
+
+[ManufacturerMaterials.Material_Anshin_1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=Increases Maximum Health.
+
+[Skills.Skill_Nova_Incendiary_small SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[Skills.Skill_Nova_Shock_large SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[Prefix.Prefix_Orb ItemNamePartDefinition]
+PartName=Orb
+
+[Title.Title_Torgue2_MusclemanShield ItemNamePartDefinition]
+PartName="Muscleman Shield"
+
+[Body.body2 ItemPartDefinition]
+PartName="FRR"
+
+[Prefix.Prefix_Max1_Reinforced ItemNamePartDefinition]
+PartName="Reinforced"
+
+[Title.Title_Atlas1_GroundedShield ItemNamePartDefinition]
+PartName="Grounded Shield"
+
+[Prefix.Prefix_Quality2_Symmetrical ItemNamePartDefinition]
+PartName="Symmetrical"
+
+[Title.Title_Maliwan3_ShockNovaShield ItemNamePartDefinition]
+PartName="Shock Nova Shield"
+
+[Title.Title_Anshin1_StrengtheningShield ItemNamePartDefinition]
+PartName=Strengthening Shield
+
+[Title.Title_Anshin2_AnnealingShield ItemNamePartDefinition]
+PartName=Annealing Shield
+
+[Prefix.Prefix_Quality3_Sterling ItemNamePartDefinition]
+PartName="Sterling"
+
+[ManufacturerMaterials.Material_Vladof_2a:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=Improved Charge Rate.
+
+[Title.Title_Dahl1_InsulatedShield ItemNamePartDefinition]
+PartName=Insulated Shield
+
+[Title.Title_Dahl2_HazmatShield ItemNamePartDefinition]
+PartName=Hazmat Shield
+
+[ManufacturerMaterials.Material_Torgue_1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Health Boost 30%"
+
+[Title.Title_Hyperion2_CrimsonShield ItemNamePartDefinition]
+PartName=Crimson
+
+[Title.Title_Maliwan1_ShockShield ItemNamePartDefinition]
+PartName=Shock Shield
+
+[Title.Title_Maliwan2_ShockNovaShield ItemNamePartDefinition]
+PartName=Shock Nova Shield
+
+[Title.Title_Vladof1_FireburstShield ItemNamePartDefinition]
+PartName="Fire Burst Shield"
+
+[ManufacturerMaterials.Material_Pangolin_2a:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Very High Capacity"
+
+[ManufacturerMaterials.Material_Torgue_3 ItemPartDefinition]
+PartName="TRG-"
+
+[Title.Title_SandS2_AcidNovaShield ItemNamePartDefinition]
+PartName=Acid Nova Shield
+
+[ManufacturerMaterials.Material_Maliwan_1:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Creates a small Shock Burst when depleted."
+
+[ManufacturerMaterials.Material_Vladof_3 ItemPartDefinition]
+PartName="VDF-"
+
+[ManufacturerMaterials.Material_Atlas_3:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Extreme Shock Resistance!"
+
+[Title.Title_Torgue1_FireburstShield ItemNamePartDefinition]
+PartName=Fireburst Shield
+
+[Title.Title_Torgue2_FireNovaShield ItemNamePartDefinition]
+PartName=Fire Nova Shield
+
+[Title.Title_Vladof1_GuerillaShield ItemNamePartDefinition]
+PartName=Guerilla Shield
+
+[Title.Title_Vladof2_SkirmisherShield ItemNamePartDefinition]
+PartName=Skirmisher Shield
+
+[ManufacturerMaterials.Material_Torgue_2a:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Health Boost 40%"
+
+[Prefix.Prefix_Quality1_Balanced ItemNamePartDefinition]
+PartName="Balanced"
+
+[ManufacturerMaterials.Material_Maliwan_2a ItemPartDefinition]
+PartName="MLN-"
+
+[Title.Title_Maliwan2_ShockWaveShield ItemNamePartDefinition]
+PartName="Shock Wave Shield"
+
+[ManufacturerMaterials.Material_Vladof_1 ItemPartDefinition]
+PartName="VDF-"
+
+[ManufacturerMaterials.Material_Anshin_1 ItemPartDefinition]
+PartName="ANS-"
+
+[Skills.Skill_Nova_Corrosive_small SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[Skills.Skill_Nova_Corrosive_medium SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[ManufacturerMaterials.Material_Vladof_1:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description=Improved Charge Rate.
+
+[ManufacturerMaterials.Material_Tediore_2a:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Slow health regeneration"
+
+[Skills.Skill_Nova_Corrosive_large SkillDefinition]
+SkillName="ShockNova"
+SkillDescription="Can cause an electrical explosion when taking damage"
+
+[ManufacturerMaterials.Material_Maliwan_3 ItemPartDefinition]
+PartName="MLN-"
+
+[ManufacturerMaterials.Material_Anshin_2:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Very Fast Recharge"
+
+[Prefix.Prefix_Max4_Impenetrable ItemNamePartDefinition]
+PartName="Impenetrable"
+
+[Body.body3 ItemPartDefinition]
+PartName="OC"
+
+[ManufacturerMaterials.Material_Hyperion_2a ItemPartDefinition]
+PartName="HYP-"
+
+[Title.Title_Torgue3_MachoShield ItemNamePartDefinition]
+PartName="Macho Shield"
+
+[ManufacturerMaterials.Material_Anshin_2 ItemPartDefinition]
+PartName="ANS2-"
+
+[ManufacturerMaterials.Material_Vladof_2a ItemPartDefinition]
+PartName="VDF-"
+
+[ManufacturerMaterials.Material_Hyperion_3 ItemPartDefinition]
+PartName="HYP-"
+
+[ManufacturerMaterials.Material_SandS_2a ItemPartDefinition]
+PartName="SnS-"
+
+[Title.Title_Pangolin2_EnduringShield ItemNamePartDefinition]
+PartName="Enduring Shield"
+
+[ManufacturerMaterials.Material_Atlas_1 ItemPartDefinition]
+PartName="ATL-"
+
+[Title.Title_Tediore3_PanaceaShield ItemNamePartDefinition]
+PartName="Panacea Shield"
+
+[ManufacturerMaterials.Material_Atlas_1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Shock Resistance"
+
+[ManufacturerMaterials.Material_Maliwan_3:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Creates a large Shock Nova when depleted."
+
+[A_Item.Item_Shield ItemDefinition]
+ItemName="Orb Shield"
+PickupMessage="Acquired a Basic Orb Shield"
+
+[Title.Title_U_WeeWeesSuperBooster ItemNamePartDefinition]
+PartName="Wee Wee's Super Booster"
+
+[UniqueParts.Shield_WeeWee_Material:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Increases Health by 15%"
+
+[UniqueParts.Shield_WeeWee_Material:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Very Quick Health Regeneration!"
+
+[Title.Title_U_CrackedSash ItemNamePartDefinition]
+PartName="Cracked Sash"
+
+[UniqueParts.CrackedSash_Material:AttributePresentationDefinition_11 AttributePresentationDefinition]
+Description="Fast Recharge"

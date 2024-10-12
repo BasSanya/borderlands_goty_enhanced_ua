@@ -1,0 +1,175 @@
+[Title.Title_Level_6 ItemNamePartDefinition]
+PartName="- Level 6"
+
+[LeftSide.LeftSide_Level4 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level3:AttributePresentationDefinition_18 AttributePresentationDefinition]
+Description="Level 3 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[z_DELETEDELETE.INV_InventorySpace_Level_1 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="SDU - Inventory Upgrade LVL 1"
+PickupMessage="Storage Deck Upgrade - Inventory 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[z_DELETEDELETE.INV_InventorySpace_2nd_play ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Inventory Upgrade"
+PickupMessage="Your Carrying Capacity has Expanded!"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Title.Title_Level_5 ItemNamePartDefinition]
+PartName="- Level 5"
+
+[Prefix.Prefix_Sniper ItemNamePartDefinition]
+PartName="Sniper SDU"
+
+[Title.Title_Level_4 ItemNamePartDefinition]
+PartName="- Level 4"
+
+[Prefix.Prefix_SMG ItemNamePartDefinition]
+PartName="SMG SDU"
+
+[Title.Title_Level_3 ItemNamePartDefinition]
+PartName="- Level 3"
+
+[Prefix.Prefix_Shotgun ItemNamePartDefinition]
+PartName="Shotgun SDU"
+
+[Title.Title_Level_2 ItemNamePartDefinition]
+PartName="- Level 2"
+
+[Prefix.Prefix_Rifle ItemNamePartDefinition]
+PartName="Combat Rifle SDU"
+
+[Title.Title_Level_1 ItemNamePartDefinition]
+PartName="- Level 1"
+
+[Prefix.Prefix_Revolver ItemNamePartDefinition]
+PartName="Revolver SDU"
+
+[Title.Title_AmmoStorageUpgrade ItemNamePartDefinition]
+PartName="Ammo Storage Upgrade"
+
+[Prefix.Prefix_Repeater ItemNamePartDefinition]
+PartName="Repeater Pistol SDU"
+
+[Prefix.Prefix_Launcher ItemNamePartDefinition]
+PartName="Launcher SDU"
+
+[Prefix.Prefix_Grenade ItemNamePartDefinition]
+PartName="Grenade SDU"
+
+[LeftSide.LeftSide_Level2 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level6:AttributePresentationDefinition_16 AttributePresentationDefinition]
+Description="Level 6 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level6 ItemPartDefinition]
+PartName=""
+
+[Prefix.Prefix_none ItemNamePartDefinition]
+PartName="None"
+
+[LeftSide.LeftSide_Level5:AttributePresentationDefinition_20 AttributePresentationDefinition]
+Description="Level 5 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level5 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level4:AttributePresentationDefinition_19 AttributePresentationDefinition]
+Description="Level 4 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[RightSide.RightSide_Sniper ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_SMG ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Shotgun ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Revolver ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Repeater ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Launcher ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Grenade ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Combat_Rifle ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level1:AttributePresentationDefinition_15 AttributePresentationDefinition]
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level1 ItemPartDefinition]
+PartName=""
+
+[INV_WeaponEquip.INV_WeaponEquip_Level_1:AttributePresentationDefinition_14 AttributePresentationDefinition]
+Description="Increases the number of weapons you can have equipped."
+NoConstraintText=""
+Suffix=""
+
+[INV_WeaponEquip.INV_WeaponEquip_Level_1 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Weapon Equip Slot SDU"
+PickupMessage="Storage Deck Upgrade - Weapon Equip Slot"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[INV_InventorySpace.INV_InventorySpace:AttributePresentationDefinition_13 AttributePresentationDefinition]
+Description="Increases your backpack's carrying capacity."
+NoConstraintText=""
+Suffix=""
+
+[INV_InventorySpace.INV_InventorySpace ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Backpack SDU"
+PickupMessage="Your Carrying Capacity has Expanded!"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[A_Item.INV_SDU_Ammo ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName=""
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[LeftSide.LeftSide_Level3 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level2:AttributePresentationDefinition_17 AttributePresentationDefinition]
+Description="Level 2 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+

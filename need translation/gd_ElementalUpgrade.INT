@@ -1,0 +1,1017 @@
+[A_Item.ElementalArtifact_Brick ItemDefinition]
+ItemName=""
+NoManufacturerName="Generic"
+PickupMessage="Elemental Artifact"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.ElementalArtifact_Brick:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Improves Brick's Berserk skill."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.ElementalArtifact_Lilith ItemDefinition]
+ItemName=""
+NoManufacturerName="Generic"
+PickupMessage="Elemental Artifact"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.ElementalArtifact_Lilith:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Improves Lilith's Phasewalk skill."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.ElementalArtifact_Mordecai ItemDefinition]
+ItemName=""
+NoManufacturerName="Generic"
+PickupMessage="Elemental Artifact"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.ElementalArtifact_Mordecai:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Improves Mordecai's Bloodwing skill."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.ElementalArtifact_Roland ItemDefinition]
+ItemName=""
+NoManufacturerName="Generic"
+PickupMessage="Elemental Artifact"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Item.ElementalArtifact_Roland:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Improves Roland's Scorpio Turret skill."
+NoConstraintText=""
+Suffix=""
+
+[Body.Body_RequiredShared ItemPartDefinition]
+PartName=""
+
+[Brick.Corrosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 1"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Corrosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 2"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Corrosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 3"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Corrosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 4"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Corrosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 5"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Corrosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Punch 6"
+NoManufacturerName="Generic"
+PickupMessage="Punch Corrosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 1"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 2"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 3"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 4"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 5"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Explosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Punch 6"
+NoManufacturerName="Generic"
+PickupMessage="Punch Explosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 1"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 2"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 3"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 4"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 5"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Incendiary_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Punch 6"
+NoManufacturerName="Generic"
+PickupMessage="Punch Incendiary Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 1"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 2"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 3"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 4"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 5"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Brick.Shock_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Shock Punch 6"
+NoManufacturerName="Generic"
+PickupMessage="Punch Shock Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[LeftSide.LeftSide_Level1 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Level 1 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level2 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level2:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Level 2 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level3 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level3:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Level 3 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level4 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level4:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Level 4 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level5 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level5:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Level 5 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[LeftSide.LeftSide_Level6 ItemPartDefinition]
+PartName=""
+
+[LeftSide.LeftSide_Level6:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Level 6 Elemental Upgrade."
+NoConstraintText=""
+Suffix=""
+
+[Lilith.Corrosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 1"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Corrosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 2"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Corrosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 3"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Corrosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 4"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Corrosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 5"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Corrosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Phoenix 6"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Corrosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 1"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 2"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 3"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 4"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 5"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Explosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Phoenix 6"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Explosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 1"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 2"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 3"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 4"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 5"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Incendiary_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Phoenix 6"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Incendiary Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 1"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 2"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 3"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 4"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 5"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Lilith.Shock_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Shock Phoenix 6"
+NoManufacturerName="Generic"
+PickupMessage="Phoenix Shock Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 1"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 2"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 3"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 4"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 5"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Corrosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Wing 6"
+NoManufacturerName="Generic"
+PickupMessage="Wing Corrosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 1"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 2"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 3"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 4"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 5"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Explosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Wing 6"
+NoManufacturerName="Generic"
+PickupMessage="Wing Explosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 1"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 2"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 3"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 4"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 5"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Incendiary_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Wing 6"
+NoManufacturerName="Generic"
+PickupMessage="Wing Incendiary Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 1"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 2"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 3"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 4"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 5"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Mordecai.Shock_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Shock Wing 6"
+NoManufacturerName="Generic"
+PickupMessage="Wing Shock Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Prefix.Prefix_Corrosive ItemNamePartDefinition]
+PartName="Corrosive"
+
+[Prefix.Prefix_Explosive ItemNamePartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Incendiary ItemNamePartDefinition]
+PartName="Incendiary"
+
+[Prefix.Prefix_Shock ItemNamePartDefinition]
+PartName="Shock"
+
+[RightSide.RightSide_Corrosive ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Corrosive:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Adds Corrosive Damage."
+NoConstraintText=""
+Suffix=""
+
+[RightSide.RightSide_Explosive ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Explosive:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Adds Explosive damage."
+NoConstraintText=""
+Suffix=""
+
+[RightSide.RightSide_Incendiary ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Incendiary:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Adds Incendiary damage."
+NoConstraintText=""
+Suffix=""
+
+[RightSide.RightSide_Shock ItemPartDefinition]
+PartName=""
+
+[RightSide.RightSide_Shock:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Adds Shock damage."
+NoConstraintText=""
+Suffix=""
+
+[Roland.Corrosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 1"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Corrosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 2"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Corrosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 3"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Corrosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 4"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Corrosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 5"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Corrosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Corrosive Scorpio 6"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Corrosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 1"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 2"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 3"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 4"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 5"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Explosive_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Explosive Scorpio 6"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Explosive Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 1"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 2"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 3"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 4"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 5"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Incendiary_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Incendiary Scorpio 6"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Incendiary Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_1 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 1"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 1"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_2 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 2"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 2"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 1 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_3 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 3"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 3"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 2 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_4 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 4"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 4"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 3 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_5 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 5"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 5"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 4 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Roland.Shock_Level_6 ItemDefinition]
+ItemName="Elemental Artifact - Shock Scorpio 6"
+NoManufacturerName="Generic"
+PickupMessage="Scorpio Shock Artifact Level 6"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureCharacterMessage="You must be a %s to use this item."
+UseFailureConstraintsMessage="Level 5 Upgrade required to use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[Title.Title_Artifact ItemNamePartDefinition]
+PartName="Artifact"

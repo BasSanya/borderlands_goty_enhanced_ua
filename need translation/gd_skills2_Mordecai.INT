@@ -1,0 +1,355 @@
+[Action.A_LaunchBloodwing SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Здобудьте здатність посилати свого улюбленця Кровокрила атакувати ворога, а потім повертатися."
+SkillName="Кровокрил"
+
+[Action.A_LaunchBloodwing:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Cooldown: $NUMBER$ seconds"
+NoConstraintText=""
+Suffix=""
+
+[ActionElemental.AcidWing SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Кровокрил завдає корозійної шкоди"
+SkillName="Кислотні крила"
+
+[ActionElemental.ExplosiveWing SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Кровокрил завдає вибухової шкоди."
+SkillName="Вибухові крила"
+
+[ActionElemental.FireWing SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="The Bloodwing deals Incendiary damage"
+SkillName="Fire Wing"
+
+[ActionElemental.ShockWing SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="The Bloodwing deals Shock damage"
+SkillName="Shock Wing"
+
+[Adrenaline.Adrenaline_Mordecai SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Mordecai gains adrenaline when he kills an enemy."
+SkillName="Adrenaline - Mordecai"
+
+[Adrenaline.Adrenaline_Mordecai:AttributePresentationDefinition_56 AttributePresentationDefinition]
+Description="Mordecai gains adrenaline when he kills an enemy."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.Deadly SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases Critical Hit damage."
+SkillName="Deadly"
+
+[Gunslinger.Deadly:AttributePresentationDefinition_57 AttributePresentationDefinition]
+Description="Critical Hit Damage."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.GunCrazy SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="When using pistols you have a chance to fire 2 shots with each pull of the trigger instead of just 1."
+SkillName="Gun Crazy"
+
+[Gunslinger.GunCrazy:AttributePresentationDefinition_60 AttributePresentationDefinition]
+Description="chance to fire 2 shots."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.HairTrigger SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases Fire Rate and Magazine Size with pistols."
+SkillName="Hair Trigger"
+
+[Gunslinger.HairTrigger:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Fire Rate: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.HairTrigger:AttributePresentationDefinition_34 AttributePresentationDefinition]
+Description="Magazine Size: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.LethalStrike SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases melee damage.  Also, every melee attack has a 35% chance to be a Lethal Strike and deal extremely high damage."
+SkillName="Lethal Strike"
+
+[Gunslinger.LethalStrike:AttributePresentationDefinition_61 AttributePresentationDefinition]
+Description="Melee Damage: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.LethalStrike:AttributePresentationDefinition_62 AttributePresentationDefinition]
+Description="Lethal Strikes deal $NUMBER$ damage."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.LethalStrike_Crit SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases melee damage and gives every melee attack a chance to deal double damage. "
+SkillName="Lethal Strike_Crit"
+
+[Gunslinger.LethalStrike_Crit:AttributePresentationDefinition_140 AttributePresentationDefinition]
+Description="Melee Damage"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.Predator SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Decreases the cooldown of your pet Bloodwing."
+SkillName="Predator"
+
+[Gunslinger.Predator:AttributePresentationDefinition_64 AttributePresentationDefinition]
+Description="Bloodwing Cooldown reduced by $NUMBER$ seconds."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.Relentless SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Killing an enemy increases your fire rate and gives every bullet fired a 25% chance to be a Killer Shot and deal additional damage.  This effect lasts a few seconds."
+SkillName="Relentless"
+
+[Gunslinger.Relentless:AttributePresentationDefinition_65 AttributePresentationDefinition]
+Description="Fire Rate: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.Relentless:AttributePresentationDefinition_66 AttributePresentationDefinition]
+Description="Killer Shot damage: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.Relentless_Crit SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Rushing increases your fire rate with all weapons and gives every bullet a chance to count as a critical hit regardless of where the bullet hit.  "
+SkillName="Relentless_Crit"
+
+[Gunslinger.Relentless_Crit:AttributePresentationDefinition_141 AttributePresentationDefinition]
+Description="Bullet Damage"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.RiotousRemedy SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Killing an enemy gives you chaotic health regeneration for a few seconds."
+SkillName="Riotous Remedy"
+
+[Gunslinger.RiotousRemedy:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="You can be healed for up to $NUMBER$ of your maximum Health over 7 seconds."
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.RiotousRemedy:AttributePresentationDefinition_67 AttributePresentationDefinition]
+Description="Minimum Health gain: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Gunslinger.RiotousRemedy_HealthGain SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Killing an enemy provides a random amount of health."
+SkillName="Riotous Remedy - Health Gain"
+
+[Rogue.AerialImpact SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Attacks from your Bloodwing can Daze enemies, reducing their movement speed and accuracy."
+SkillName="Aerial Impact"
+
+[Rogue.AerialImpact:AttributePresentationDefinition_68 AttributePresentationDefinition]
+Description="Chance to Daze (vs an equal level enemy): $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.AerialImpact:AttributePresentationDefinition_69 AttributePresentationDefinition]
+Description="Knockback (BROKEN)"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.BirdOfPrey SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases the number of targets the Bloodwing can attack before returning."
+SkillName="Bird of Prey"
+
+[Rogue.BirdOfPrey:AttributePresentationDefinition_120 AttributePresentationDefinition]
+Description="The Bloodwing attacks up to $NUMBER$ targets."
+NoConstraintText=""
+Suffix=""
+
+[Rogue.FastHands SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases Reload Speed with all weapon types."
+SkillName="Fast Hands"
+
+[Rogue.FastHands:AttributePresentationDefinition_59 AttributePresentationDefinition]
+Description="Reload Speed: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.OutForBlood SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="When your Bloodwing strikes an enemy you gain health based on the amount of damage done."
+SkillName="Out for Blood"
+
+[Rogue.OutForBlood:AttributePresentationDefinition_71 AttributePresentationDefinition]
+Description="Percentage of damage converted to health: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.Ransack SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Killling an enemy increases the amount of loot you get from other enemies killed for a few seconds."
+SkillName="Ransack"
+
+[Rogue.Ransack:AttributePresentationDefinition_121 AttributePresentationDefinition]
+Description="Chance to drop an additional item: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.SwiftStrike SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases Bloodwing Damage and movement speed."
+SkillName="Swift Strike"
+
+[Rogue.SwiftStrike:AttributePresentationDefinition_94 AttributePresentationDefinition]
+Description="Bloodwing Damage"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.SwiftStrike:AttributePresentationDefinition_95 AttributePresentationDefinition]
+Description="Bloodwing Speed"
+NoConstraintText=""
+Suffix=""
+
+[Rogue.Swipe SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="The Bloodwing causes enemies to drop additional money, ammo, and healing items when it attacks."
+SkillName="Swipe"
+
+[Rogue.Swipe:AttributePresentationDefinition_125 AttributePresentationDefinition]
+Description="Maximum number of additional items dropped: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Caliber SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases damage with Sniper Rifles."
+SkillName="Caliber"
+
+[Sniper.Caliber:AttributePresentationDefinition_72 AttributePresentationDefinition]
+Description="Sniper Rifle damage."
+NoConstraintText=""
+Suffix=""
+
+[Sniper.CarrionCall SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Shooting an enemy with a Sniper Rifle reduces the cooldown of your Bloodwing."
+SkillName="Carrion Call"
+
+[Sniper.CarrionCall:AttributePresentationDefinition_75 AttributePresentationDefinition]
+Description="Cooldown reduction per hit: $NUMBER$ (in seconds)"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.CarrionCall_activated SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Hitting an enemy with a Sniper Rifle reduces the cooldown of Bloodwing."
+SkillName="Carrion Call - activated"
+
+[Sniper.CarrionCall_activated:AttributePresentationDefinition_142 AttributePresentationDefinition]
+Description="Cooldown reduction"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Focus SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases accuracy with all weapon types."
+SkillName="Focus"
+
+[Sniper.Focus:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Sniper Rifle sway: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Focus:AttributePresentationDefinition_58 AttributePresentationDefinition]
+Description="$NUMBER$ Accuracy."
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Killer SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Killing an enemy increases your Damage and Reload Speed with all guns for a few seconds."
+SkillName="Killer"
+
+[Sniper.Killer:AttributePresentationDefinition_73 AttributePresentationDefinition]
+Description="Damage: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Killer:AttributePresentationDefinition_74 AttributePresentationDefinition]
+Description="Reload Speed: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Loaded SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increases Magazine Capacity with Sniper Rifles."
+SkillName="Loaded"
+
+[Sniper.Loaded:AttributePresentationDefinition_70 AttributePresentationDefinition]
+Description="Magazine Capacity: $NUMBER$"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Smirk SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="All players on your team (including you) gain additional experience when you kill an enemy with a Critical Hit."
+SkillName="Smirk"
+
+[Sniper.Smirk:AttributePresentationDefinition_117 AttributePresentationDefinition]
+Description="Experience Bonus."
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Smirk_active SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="After killing an enemy with a Sniper Rifle the team gets a bonus to all experience gained for 10 seconds."
+SkillName="Smirk - active"
+
+[Sniper.Smirk_active:AttributePresentationDefinition_149 AttributePresentationDefinition]
+Description="Experience bonus"
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Trespass SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Your bullets have a chance to ignore shields.  Also slightly increases Bullet Damage."
+SkillName="Trespass"
+
+[Sniper.Trespass:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Bullet Damage."
+NoConstraintText=""
+Suffix=""
+
+[Sniper.Trespass:AttributePresentationDefinition_83 AttributePresentationDefinition]
+Description="chance to penetrate shields."
+NoConstraintText=""
+Suffix=""
+
+[z_DELETEDELETE.Trespass_pistolDmg SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Increased pistol damage from the Trespass skill."
+SkillName="Tresspass_pistolDmg"
+
+[z_DELETEDELETE.z_DELETEDELETE SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Pistols fire extra bullets with each shot"
+SkillName="Gun Crazy"
+
+[z_DELETEDELETE.z_DELETEDELETE:AttributePresentationDefinition_150 AttributePresentationDefinition]
+Description="Additional Bullets"
+NoConstraintText=""
+Suffix=""
+

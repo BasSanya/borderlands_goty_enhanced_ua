@@ -1,0 +1,6 @@
+[SkagMount2.PopOpDen.Pawn_Balance_Rider2 AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=)
+
+[SkagMount2.PopOpDen.Pawn_Balance_Rider2Off AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Midget Rustler"))
+

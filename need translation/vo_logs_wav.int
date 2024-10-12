@@ -1,0 +1,270 @@
+[helena.log_enemy_helena_30 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Skag is a kind of nasty, scavenging pack animal.  They're all over this region.  When not hunting, they mostly stay safely hidden in their dens with one or two sentries wandering around outside.  Skags are tough, but we quickly discovered that the insides of their mouths are quite tender, and they do open their mouths very wide.  Admittedly, that's usually while eating you, but you take what you can get.",Time=0.000000)
+
+[helena.log_enemy_helena_31 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Alpha is the big brute of the Skags.  They are the pack leaders and are very, very dangerous.  The entire front half of the body is covered with a thick, armored carapace, and they rarely expose the weak spot in their mouths.  They are the deadliest of the Skags.",Time=0.000000)
+
+[helena.log_enemy_helena_32 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There's something new out there - we call them Rakk.  When they first showed up, flying in packs overhead, we thought they were migrating and would move on.  But they aren't.  Every day there are more.  Every day they get closer, and every day they get more aggressive.  These things aren't migrating... they're moving in.",Time=0.000000)
+
+[helena.log_enemy_helena_33 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="With thirty thousand prisoners on Pandora, you may wonder what Dahl's security plan was.  The answer is just as cheap and short-sighted as the plan to have thirty thousand criminals do your work for you.  Dahl's security plan consisted of 600 armed men, and over forty six hundred unmanned sentry turrets.  Predictably, when the prisoners took over the mines and prisons, they took over the sentry turrets as well.",Time=0.000000)
+
+[helena.log_enemy_helena_34 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Spiderant is a quick, insect-like creature.  They are aggressive, fearless, and they live underground in burrows with entrances that are almost completely invisible.  If you see one, there are likely many more beneath you, and possibly even behind you.  Their armor-like exoskeleton covers the front of their bodies almost entirely, but there is a large area on the back where they are completely defenseless.",Time=0.000000)
+
+[helena.log_enemy_helena_35 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Scythid Crawler is often found hunting alongside Spiderants.  We're not sure if they are part of the same species, or if it's simply a symbiotic relationship.  Either way, they make for a vicious combination.  The Crawler is slow, but it is capable of quickly burrowing underground, and it attacks with a poisonous spit at long ranges.  They have a very tender weak spot on their sides near the ground, so aim low.",Time=0.000000)
+
+[helena.log_enemy_helena_36 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bandits have been a problem for a long time now, but they were generally too stupid to be much of a threat.  Now someone new is in charge, and he's no fool.  They're becoming organized.  What was once dozens of small gangs, is now turning into an army.  A thousand murderous assholes with guns.",Time=0.000000)
+
+[helena.log_enemy_helena_37 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Some of the prisoners found... something.  It changed them.  I don't know what or how, but some of them have done something to themselves.  Others have been mutated, changed into grotesque, oversized brutes.  What they've become is disgusting, disturbing, and dangerous.",Time=0.000000)
+
+[helena.log_enemy_helena_38 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Crimson Lance - Atlas' private army.  Elite, highly trained, and merciless.  The bandits are criminals with guns, but the Crimson Lance are real soldiers.",Time=0.000000)
+
+[helena.log_zones_helena_18 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Fyrestone.  It was going to be the friendly town.  Open.  Inviting.  The residents weren't afraid of the Skags.  They weren't afraid of the Bandits.  They weren't afraid of Pandora.  But fear... fear is your body's way of telling you that you are going to die.  By the end, they put up hasty walls of scrap and debris, but it was too late... far too late.",Time=0.000000)
+
+[helena.log_zones_helena_19 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Skag Gully, is the name residents of Fyrestone gave the Skag breeding grounds just outside of town.  The few who came to Pandora to research the wildlife found this location quite interesting.  Being a breeding ground, the Skags in this area are young and more timid than most.  If you keep your distance, they usually don't attack.  Usually.",Time=0.000000)
+
+[helena.log_zones_helena_20 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nearly every mine was run by criminals, so next to each mine was a Bunker.  The Bunker was utilitarian structure.  Guardhouse, prison, work camp, storage facility...  They served many purposes.  In the end, though, the Bunkers were where the rebellion began, and the Bunkers are where most of the bandits live now.",Time=0.000000)
+
+[helena.log_zones_helena_21 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="When the Dahl Corporation opened their mining operations here on Pandora, they decided to use the cheapest labor possible. So they shipped thirty thousand irredeemable criminals from their prison system to man their mining operations here on Pandora, a move best described as staggeringly idiotic.  When the prisoners inevitably rebelled, the mines quickly became a dangerous place to be.",Time=0.000000)
+
+[helena.log_zones_helena_22 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Pandora is a remote planet.  Supply and trade are inconsistent at best the closest we get to regular shipments are the one way junk ships that dump unwanted salvage from the Core.  The founders of New Haven took a bold stance on this supply and demand problem, they placed their town in the middle of the largest scrapyard in the Frontier.  Residents of the nicer settlements, like Sanctuary and Fyrestone, scoffed at this, but amongst the scrap and broken equipment of far wealthier planets, New Haven survives.  That is more than can be said for Fyrestone.",Time=0.000000)
+
+[helena.log_zones_helena_23 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="At last count, there is six and a half million tons of junk in the Scrapyard.  Entire decommissioned ships have been towed and dumped here.  Many of the junk ships were war vessels, making weapons and ammunition plentiful as well.  For scavengers who aren't afraid of the risks involved in looting through junked weaponry and cracked reactor cores, there is an almost infinite supply of salvageable materials.  The husks and debris of this landscape provide shelter and supplies to others as well.",Time=0.000000)
+
+[helena.log_zones_helena_24 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The face of Pandora is scarred and cracked.  Across the continent, tens of thousands of vast canyons run deep, each filled with unknowable dangers. Fortune hunters searching for alien wealth or the mythic Vault often venture into the shadows of the earth...  many never return.  The ones who do, come out empty handed... but alive.",Time=0.000000)
+
+[helena.log_zones_helena_25b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Refuse Point is, frankly, an embarrassment.  The industrial waste and debris has polluted the water, rendering it corrosive and poisonous to us and the wildlife alike.  This our legacy, I suppose.  We contaminate every world we settle.",Time=0.000000)
+
+[helena.log_zones_helena_26 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sanctuary reminds us all what it takes to be successful on Pandora... lots of money and a complete disregard for others.  When Fyrestone fell apart, some of the survivors made it to New Haven, while others tried to reach Sanctuary.  Those who made it here found a place with us, provided they were willing to pull their weight.  The rest found out the hard way that the managers of Sanctuary do not believe in sharing.",Time=0.000000)
+
+[helena.log_zones_helena_27 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="One of the mines was shut down a while ago.  The official word was that there had been an accident and an investigation was called for.  I wonder if they really expected anyone to believe the company would shut down a mining operation because some criminals got hurt?  Most people think they found something, some Eridian trinket of value, perhaps, and were afraid the other corporations would get wind of it, so they shut the mine down.",Time=0.000000)
+
+[helena.log_zones_helena_28 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Vault is a myth, a fairy story told by Eridian creatures to Eridian children, and passed on to humanity through some scrawled markings on otherwise non-descript ruins.  Fortune hunters come time after time to die on this planet, searching for a Vault that doesn't exist.",Time=0.000000)
+
+[helena.log_zones_helena_29 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="For six thousand kilometers, there is nothing.  The Salt Flats are a great expanse of cracked earth and dust.  Along the southern edge lie the Spires of Heaven.  We had a successful strip mine there, once.  A source of wealth, a source of hope.  It belongs to them now.",Time=0.000000)
+
+[markus.log_vending_marcus_1 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Cheap, reliable, lightweight, and incredibly fast reload speeds.  Tediore makes an easy to use gun.",Time=0.000000)
+
+[markus.log_vending_marcus_10 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The SS philosophy is, Tech Ammo Capacity I win.",Time=0.000000)
+
+[markus.log_vending_marcus_11 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Torgue combines good damage, high firerate, and recoil reduction into one lethal weapon.",Time=0.000000)
+
+[markus.log_vending_marcus_12 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="400 percent more awesome!  Also, Torgue doesn't make their guns out of freakin' wood.",Time=0.000000)
+
+[markus.log_vending_marcus_13 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jakobs guns do one thing really well... power.  And honestly, what else do you need?",Time=0.000000)
+
+[markus.log_vending_marcus_14 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If it took more than one shot... you weren't using a Jakobs.",Time=0.000000)
+
+[markus.log_vending_marcus_15 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buy an Atlas and you too can see what it feels like to hold the power of the gods in your hands.",Time=0.000000)
+
+[markus.log_vending_marcus_16 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Atlas spares no expense in making guns that excel in every area.",Time=0.000000)
+
+[markus.log_vending_marcus_17 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion asks, What good is a gun that doesn't shoot where you point?  Get a gun that's as accurate as you are.",Time=0.000000)
+
+[markus.log_vending_marcus_18 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Enemies only die if you hit 'em.  So buy Hyperion today!",Time=0.000000)
+
+[markus.log_vending_marcus_2 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you're on a budget, Tediore is always the way to go.",Time=0.000000)
+
+[markus.log_vending_marcus_3 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wanna shoot a lot of bullets really fast?  Vladof has your needs covered.",Time=0.000000)
+
+[markus.log_vending_marcus_4 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vladof.  You don't need to be a better shot, you just need to shoot more bullets.",Time=0.000000)
+
+[markus.log_vending_marcus_5 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dahl's guns absorb a lot of recoil, allowing you to stay accurate throughout the fight.",Time=0.000000)
+
+[markus.log_vending_marcus_6 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dahl makes guns for professional Mercs.  They're heavy, accurate, and effective... assuming your strong enough to hold one.",Time=0.000000)
+
+[markus.log_vending_marcus_7 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Maliwan guns shoot more lightning than the next leading competitor.",Time=0.000000)
+
+[markus.log_vending_marcus_8 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is shooting bullets just not cool enough for you?  Get a Maliwan, and light some people on fire.",Time=0.000000)
+
+[markus.log_vending_marcus_9 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you find that your gun just doesn't hold enough bullets, then SS has the solution.  More bullets!  All SS guns have extended magazines.",Time=0.000000)
+
+[tannis.log_historical_tannis_1 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Patricia Tannis, Dahl scientific advisor, Day 1 on planet Pandora.  I have been assigned to this sector by my superiors to find evidence of abandoned alien technology similar to that found by our competitor, the Atlas company, in the ruins on Prometheus; technology that many believe made them the superpower they are now.  This kind of find seems astronomically improbable on a rock like this, but my benefactors believe in it enough to waste my considerable talents.  I've only been here for three hours and I already believe this planet will be the death of me.  Scientists do not chase myths and legends.",Time=0.000000)
+
+[tannis.log_historical_tannis_10 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 481.  It's true.  It's all true.  My program did it.  Program.  Program...  I am now certain that the Vault is here, and that the symbol has something to do with opening it!  I have checked and triple-checked my findings, and it all seems to make sense.  It looks like there are extreme measures to keep the Vault secure, but that it can be opened every 200 years.  The Vault's contents must be extremely valuable.  Maybe better than the Atlas tech.  But I cannot reveal this information to anyone just yet.  If I'm wrong, I'm done.  And if I'm right, the suits will claim it.  I must find the vault myself.  Find.  Find...",Time=0.000000)
+
+[tannis.log_historical_tannis_11 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 493.  Dahl Corporation just shut down their mining operations here on Pandora.  I think they are insane.  Or, that is, whoever is making the decision is insane.  Iridium mining on this planet has been hugely lucrative for Dahl and has funded my project!  It's been especially profitable given how low their labor costs are.  I wonder what Dahl will do with all the unpaid convicts they've been using to work their mines.  I wonder if any of them will be my friend...  What?  Why are you always so jealous of me getting new friends?  I'm turning you off.",Time=0.000000)
+
+[tannis.log_historical_tannis_12 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 578.  I haven't slept in three days.  I just ate... six bugs in alphabetical order starting with carabus auronitens and ending with a dessert of tetrix undulata.  The information I've uncovered from my automated deciphering has me closing in on the location of this 'event' - an event I believe to the be the opening of the Vault.  ECHO recorder and I are not together anymore.  But I wish him the best and we remain friends so that I can keep recording these messages.  He agreed, because we need to complete what we set out to do and document the intensive search for the mythic Vault.  It's not a myth.  It is real.",Time=0.000000)
+
+[tannis.log_historical_tannis_13 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 616.  Sometimes, I wish I had never been given this assignment, and never come to Pandora.  Dahl has asked me to leave.  The transmission said it's time to go.  Everyone has left - except the criminals who they've let loose.  They won't be my friends.  So I had decided to return to leave as Dahl has ordered.  But then... I found something.  I think it is a key to the Vault!  It proves the Vault is real and that it is here on Pandora, and that it can be mine!  I also learned that, by my calculations, we are near the 200th anniversary of the last Vault opening - within half a year, approximately.  If I leave now, I will never make it back in time.  I will stay.  Maybe one of the convicts will be my friend.",Time=0.000000)
+
+[tannis.log_historical_tannis_14 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 653.  Today is my birthday.  I've been alone for an incalculable amount of time.  A convict accidentally crossed over into my encampment this morning, and I allowed him to look about before I shot him in the back several times.  I was immediately filled with regret upon doing this, because the human contact, no matter how awkward, would have been nice.  I've decided his name was Lesli, and he had a troubled childhood where people would make fun of him for having a girl's name, and the torment eventually lead Lesli to a life of crime and debauchery.  There was a tattoo on his bum that looked not unlike the name, 'Patricia'.  I might have imagined the tattoo.  The experience compelled me to move the Vault key fragment I found so that it can be safe.  It's extremely important.  So I've given it to the man known as Crazy Earl.  He's not crazy.  He doesn't like people.  The Vault key will be safe with him...  I also gave him my underwear.",Time=0.000000)
+
+[tannis.log_historical_tannis_15 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 684.  I seem to be unable to leave camp anymore.  I've collected all of the information I need to be able to find the Vault, but I am overcome with terror and instantaneous paralyzation upon any attempt to leave my confines.  I believe I have some kind of psychosis.  Whatever it is, I am a prisoner of my own jail and I will not be able to find anything without help from an outside party.  I will put out feelers to see if I can get someone on this rock to grant me assistance.  Perhaps I can send an off-world message to attract some Vault hunters.  Some company would be lovely.",Time=0.000000)
+
+[tannis.log_historical_tannis_16 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day Seven.  One.  Eight.  I woke up outside the camp today.  I don't know how I got outside, but I seem to have overcome my inability to leave.  This will be my last recording before I scatter the ECHO recordings as far as I can.  My ECHO recorder has clearly gone crazy, and if I am not careful, I too might go insane.  I will come back and resume my research when I have rid myself of this two-timing recorder.  This is Patricia Tannis, signing out.",Time=0.000000)
+
+[tannis.log_historical_tannis_2 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 43 on Pandora, at least I believe it to be the forty-third day I've been here.  The moonlight cycles are difficult to get used to.  The planet rotation day is over 90 hours long.  The people that inhabit this salted dustball are as ignorant as I've seen in this galaxy.  When I attach scientific inquiry to something like the Vault, I am greeted with silly nursery rhymes and slack-jawed soliloquy about a man who knew a man who knew a man.  They drift off into a stupor, where I half imagine they're drunk or brain damaged and are unaware of my continued presence.  If I believed in Hell, I would contemplate how it compared to Pandora.  Ironically, such a belief would align me with these Neanderthals.",Time=0.000000)
+
+[tannis.log_historical_tannis_3 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is the 76th day.  I was woken up hoping I was having a reoccurring nightmare.  We spent more than 36 hours earlier today relocating our campsite closer to our dig site, only to be ambushed by local wildlife that's hungry coming out of hibernation.  Half of my staff was eaten alive or killed by Skags.  I survived by hiding under a colleague of mine who was being devoured on top of me.  His name was Carl.  My...  emotions are deadened and I grieved for none of them.  In point of fact, the only emotion I felt was that of joy.  I felt joy because his chair was always more comfortable than mine!  I took his chair.  And then I noticed the emissive glow on the rocks at the dig site...",Time=0.000000)
+
+[tannis.log_historical_tannis_4 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 119.  I sat in the shower in tears for just under an hour.  This is interesting considering we haven't had water for days.  I equate my ever decreasing sanity with that of the population of my dig site.  With the investigation of the symbols and glowing patterns at the site we have finally unearthed arguably certifiable proof of the existence of alien life having been here on Pandora.  But, this celebration was lonely as I only have two colleagues left, and I'm not too fond of the fat girl, Chimay.  I've been told that scientific discovery requires sacrifice, but I never understood what they meant until now.",Time=0.000000)
+
+[tannis.log_historical_tannis_5 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 172. The fat girl, Chimay, was crushed under an alien ruin that collapsed today.  She didn't... die right away and begged me to put her out of her misery as she choked on various fluids and bile.  I hesitated because she was the last one alive that wasn't me.  As she was choking, and coughing, and dying, I tried to enjoy the interaction, which I imagined to be a conversation, as I knew it was the last I would have for a while.  When I finally got around to smothering her so that I could continue my research, I could tell that she regretted the decision.  The Skags had been waiting for this meal for a while; they will not go hungry tonight.",Time=0.000000)
+
+[tannis.log_historical_tannis_6 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Patricia Tannis, Chief scientific advisor, Dahl Corporation, Day 224.  The only conversations I have anymore are with this ECHO recorder.  I've developed a relationship with it.  Some cycles I sleep with it and others I make it stay outside of my tent!  My waning ability to discern logic from insanity is becoming cumbersome.  I've been translating Eridian writings in between arguing with the recorder.  He went off for a few hours during my last sleep cycle - I heard you sneak out!  If I were to pontificate, I would infer that the Eridian writings show a class based society that was quite capable of both leadership and of armed conflict.",Time=0.000000)
+
+[tannis.log_historical_tannis_7 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="321st day.  As I work, I spend the majority of the days having conversations with people that are not there.  Two days ago, I explained to my mother how the translation program I was writing would greatly help me understand exactly what all this Eridian text I've attempted to decipher actually means.  My mother has been dead for sixteen years, and she was never actually interested in the science to begin with.  I am unsure if I am quite to the point of no return, but my stubbornness, which I got from her in the first place, will keep me here putting up with her until I find exactly where the Vault is, or until I drive myself so far off the edge I do not remember why I was doing this in the first place.",Time=0.000000)
+
+[tannis.log_historical_tannis_8 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Day 457.  This is exciting.  I think I might strip naked and run around to celebrate, but I'll do it during a dim cycle for fear of prying eyes.  Before overloading and melting four of my computers' thirteen qubit operators, my program was able to decipher quite a bit more than I had been able to understand before.  It will take a few days to fix, but I was able to find many repeated instances of an event that takes place every 200 years.  It's repeated many times with... a symbol that looks not unlike a circle with an upside down 'V' it in.  It's possible that this is the Vault.  And something about the Vault happens every 200 years.  Tonight, for dinner?  I will have eggs.",Time=0.000000)
+

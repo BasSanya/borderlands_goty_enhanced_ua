@@ -1,0 +1,10 @@
+[DamageType.DmgType_Incendiary_Impact:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Highly effective vs Flesh"
+NoConstraintText=""
+Suffix=""
+
+[DamageType.DmgType_Incendiary_Impact:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Chance to light enemies on fire"
+NoConstraintText=""
+Suffix=""
+

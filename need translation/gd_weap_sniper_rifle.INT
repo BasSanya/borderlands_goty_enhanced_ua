@@ -1,0 +1,182 @@
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[Title.TitleU_Retail_Nailer:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Thwack!"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=
+
+[Title.TitleU_BSG_SilentNight WeaponNamePartDefinition]
+PartName="Silent Night"
+
+[Title.TitleU_BSG_SilentNight:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="It knows when you're awake"
+
+[A_Weapon.BSG_WeaponType_sniper_rifle:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Critical Hit Damage"
+
+[Title.TitleM_Vladof1_Surkov:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="For the Motherland."
+
+[acc.acc5 WeaponPartDefinition]
+PartName=
+
+[Title.TitleU_Retail_Nailer WeaponNamePartDefinition]
+PartName="Nailer"
+
+[Body.body3 WeaponPartDefinition]
+PartName="VRR"
+
+[Prefix.Title_Accuracy1_Distant WeaponNamePartDefinition]
+PartName="Distant"
+
+[Prefix.Prefix_Acc5_Long WeaponNamePartDefinition]
+PartName="Long"
+
+[Title.TitleM_Maliwan1_Volcano WeaponNamePartDefinition]
+PartName="Volcano"
+
+[Prefix.Prefix_Quality1_Solid WeaponNamePartDefinition]
+PartName="Solid"
+
+[Title.TitleM_Maliwan1_Volcano:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="Pele demands a sacrifice!"
+
+[acc.acc2_Maliwan_Volcano_Incendiary WeaponPartDefinition]
+PartName="Volcano"
+
+[Title.Title_LowAccuracy1_Gamble WeaponNamePartDefinition]
+PartName="Gamble"
+
+[Title.TitleM_SandS1_DELETE:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="Trick Shot"
+
+[Title.TitleM_SandS1_DELETE WeaponNamePartDefinition]
+PartName="Orion"
+
+[Prefix.Prefix_Quality2_Hard WeaponNamePartDefinition]
+PartName="Hard"
+
+[Prefix.Prefix_Quality3_Fearsome WeaponNamePartDefinition]
+PartName="Fearsome"
+
+[Title.TitleM_Atlas1_Cyclops:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="I have you in my eye, sir."
+
+[Title.TitleM_Atlas1_Cyclops WeaponNamePartDefinition]
+PartName="Cyclops"
+
+[Prefix.Prefix_Acc4_Heavy WeaponNamePartDefinition]
+PartName="Sighted"
+
+[UniqueParts.ShepsElephantGun_Material WeaponPartDefinition]
+PartName=" ZZ"
+
+[Title.TitleM_Jakobs1_SkullMasher:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="Makes their brain hurt"
+
+[Grip.grip2a_Torgue WeaponPartDefinition]
+PartName="Torgue"
+
+[Grip.grip1a WeaponPartDefinition]
+PartName="Vladof"
+
+[Sight.sight3:AttributePresentationDefinition_15 AttributePresentationDefinition]
+NoConstraintText=2x Weapon Zoom
+
+[A_Weapon.WeaponType_sniper_rifle:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Critical Hit Damage"
+
+[Grip.grip3_Gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Hyperion"
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Jakobs"
+
+[Title.TitleM_Jakobs1_SkullMasher WeaponNamePartDefinition]
+PartName="Skullmasher"
+
+[acc.acc2_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Acc1_Rolling WeaponNamePartDefinition]
+PartName="Rolling"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[Title.Title_Damage1_Thunder WeaponNamePartDefinition]
+PartName="Thunder"
+
+[Title.Title_Accuracy1_Hawkeye WeaponNamePartDefinition]
+PartName="Hawkeye"
+
+[Title.Title__SniperRifle WeaponNamePartDefinition]
+PartName="Sniper"
+
+[Title.TitleM_Vladof1_Surkov WeaponNamePartDefinition]
+PartName="Surkov"
+
+[Prefix.Title_FireRate1_Liquid WeaponNamePartDefinition]
+PartName="Liquid"
+
+[Body.body1 WeaponPartDefinition]
+PartName="GGN"
+
+[Title.Title_Accuracy1_Lance WeaponNamePartDefinition]
+PartName=Lance
+
+[acc.acc2_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[Sight.sight2:AttributePresentationDefinition_7 AttributePresentationDefinition]
+NoConstraintText=1.7x Weapon Zoom
+
+[Title.TitleU_Shep_ShepsElephantGun WeaponNamePartDefinition]
+PartName="Whitting's Elephant Gun"
+
+[A_Weapon.WeaponType_sniper_rifle WeaponTypeDefinition]
+TypeName="Sniper Rifle"
+
+[Sight.sight5:AttributePresentationDefinition_28 AttributePresentationDefinition]
+NoConstraintText=4x Weapon Zoom
+
+[Sight.sight4:AttributePresentationDefinition_23 AttributePresentationDefinition]
+NoConstraintText=3x Weapon Zoom
+
+[Sight.sight5_Atlas_Cyclops:AttributePresentationDefinition_35 AttributePresentationDefinition]
+NoConstraintText=Weapon Zoom
+
+[Title.TitleM_SandS1_Orion WeaponNamePartDefinition]
+PartName=Orion
+
+[Title.TitleM_SandS1_Orion:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Trick Shot
+Suffix=
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Dahl"
+
+[Title.TitleU_Shep_ShepsElephantGun:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Why don't you go shoot yourself an elephant?"
+
+[Sight.sight1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText=1.4x Weapon Zoom
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="S&S Munitions"
+
+[Body.body4 WeaponPartDefinition]
+PartName="DVL"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="Maliwan"
+

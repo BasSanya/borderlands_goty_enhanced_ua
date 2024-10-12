@@ -1,0 +1,11 @@
+[missions.m_scavenger6 MissionDefinition]
+MissionName="Scavenger: Machine Gun"
+MissionDescription="There are components to machine gun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Stock, and Barrel."
+TurnInDescription="I was able to assemble those parts into a complete weapon. Here's your new machine gun. Enjoy!"
+MissionSummary="Find all of the machine gun parts."
+MissionGiver="Middle Of Nowhere Bounty Board"
+Objectives[0]=(ProgressMessage="Machine Gun Body:")
+Objectives[1]=(ProgressMessage="Machine Gun Magazine:")
+Objectives[2]=(ProgressMessage="Machine Gun Stock:")
+Objectives[3]=(ProgressMessage="Machine Gun Barrel:")
+

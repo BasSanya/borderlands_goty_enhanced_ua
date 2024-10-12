@@ -1,0 +1,620 @@
+[sal_scooter_live_1 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heya man!  Hey, you need sumthin'?",Time=0.000000)
+
+[sal_scooter_live_10 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, I'll catcha later.",Time=0.000000)
+
+[sal_scooter_live_11 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you keep yerself outta trouble!",Time=0.000000)
+
+[sal_scooter_live_12 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, I hope you come back in one piece, man.",Time=0.000000)
+
+[sal_scooter_live_13 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, I hope to see you soon, alright?",Time=0.000000)
+
+[sal_scooter_live_14 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, yer cute and all, but, if ya ain't got business here, man, move along.",Time=0.000000)
+
+[sal_scooter_live_15 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eh, it'd be better if you got to movin' on, ya know?",Time=0.000000)
+
+[sal_scooter_live_16 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Best be gettin' on, now.",Time=0.000000)
+
+[sal_scooter_live_17 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Man, we ain't got time to be sittin' around staring at each otha all lady-like!",Time=0.000000)
+
+[sal_scooter_live_18 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Much as I like company, I've got a business to run.",Time=0.000000)
+
+[sal_scooter_live_19 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, good to see ya, man.  Wish I had time to shoot the breeze more, but chit-chattin' is not my strong suit.",Time=0.000000)
+
+[sal_scooter_live_2 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey man, whatchu want?",Time=0.000000)
+
+[sal_scooter_live_20 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, sorry I got no time for ya.  I got more work piled up today than I got time for.",Time=0.000000)
+
+[sal_scooter_live_21 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, don't reckon I got the time to spare for you right now.  Can I holler at you later?",Time=0.000000)
+
+[sal_scooter_live_22 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, if people weren't so damned careless with these machines, I would have more time for fraternizing and such-like.  I'll have to get with you later.",Time=0.000000)
+
+[sal_scooter_live_23 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My pa knew just about everything there is about cars, man.  Taught me most of it, you know, 'fore his accident... Always look both ways, friend.",Time=0.000000)
+
+[sal_scooter_live_24 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I sure as hell ain't yella, but workin' in this here garage beats being Skag food... which leads to being Skag shit... and uh, yeah, it smells like you just stepped in some.  So, circle o' life, man, ya know?",Time=0.000000)
+
+[sal_scooter_live_25 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Glad you're here, I guess.  Gimme sumthin' ta do.  Shop ain't been as busy in recent years, probably in fair part to mosta my customers bein' eaten and all.",Time=0.000000)
+
+[sal_scooter_live_26 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heard you huntin' for that Vault.  You know, even if it weren't hogwash, would it matter?  What you gonna do with treasure anyhow - all we got here's mud, guns, an' dirt!",Time=0.000000)
+
+[sal_scooter_live_27 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, so yer here for the Vault, eh?  Well, hell, I got some ocean-front property near Sanctuary I'll sell ya real cheap.  I'll even throw in a yacht if the price is right!",Time=0.000000)
+
+[sal_scooter_live_28 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, I wasn't born in no barn, alright?  Well... actually I was, but all I'm sayin' is you don't believe people runnin' around talkin' 'bout some magic door spewin' out treasure and the like, alright?",Time=0.000000)
+
+[sal_scooter_live_29 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I ain't one to gossip - but that Tannis ain't quite on the up and up, ya know what I mean?",Time=0.000000)
+
+[sal_scooter_live_3 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, come on in, poke around!",Time=0.000000)
+
+[sal_scooter_live_30 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, this is just between you and me, and some choice machine parts over there, but that Tannis acts real peculiar-like - it don't befit a lady.",Time=0.000000)
+
+[sal_scooter_live_31 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I should tell ya, I wouldn't trust Tannis with any one of my vehicles... what with all that science and... her boyish haircut.",Time=0.000000)
+
+[sal_scooter_live_32 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey - I got a story for ya.  I fell in a well once.  Stayed there for four days before Helena pulled me out with a rickety ass rope... that was the whole story.",Time=0.000000)
+
+[sal_scooter_live_33 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know, I played myself a few hands of seven card smoke-down back on Prometheus.  Damn near lost everything; my shop, my car, my favorite pair of pants, my squirrel collection - almost straight down the tubes.",Time=0.000000)
+
+[sal_scooter_live_34 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Too bad you weren't around when we first started gettin' settled.  We used to hold these races out I in the dust; really gave me somethin' to look forward to.",Time=0.000000)
+
+[sal_scooter_live_35 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know, I was married once.  Well, she got ate...  Oh shoot, I apologize.  That's awkward, right? That's a awkward conversation topic...",Time=0.000000)
+
+[sal_scooter_live_36 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, if you wouldn't mind doing me a favor - if you're out and about in a runner, just see how many of those bastard bandit jackasses you could pancake for me.  I'd be mighty obliged.",Time=0.000000)
+
+[sal_scooter_live_37 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You gots the wheels, now go git you some!",Time=0.000000)
+
+[sal_scooter_live_38 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I gotta say... Not sure we need crazy robot people like the Crimson Lance comin' in here tellin' us what is the what.",Time=0.000000)
+
+[sal_scooter_live_39 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you seen those Crimson Lance?  Buncha walkin' buckets!  Ain't that I got any beef with 'em, they just armed up to the teeth, and I ain't sure what they are up to.",Time=0.000000)
+
+[sal_scooter_live_4 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well hey there, welcome!",Time=0.000000)
+
+[sal_scooter_live_40 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you seen them Lance soldiers 'round here?  Why'd anyone send an army out here for, anyway?",Time=0.000000)
+
+[sal_scooter_live_41 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you heard the news?  Don't seem to make but two beans a sense, the Vault bein' real and all.",Time=0.000000)
+
+[sal_scooter_live_42 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you hear the Vault is real?  I been tellin' everyone the whole time that son-of-a-bitch was real.  I said it, I swear on my daddy's body, bless his run-over soul.",Time=0.000000)
+
+[sal_scooter_live_43 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Word now's the Vault's real.  Well, if it is real, what'd anyone put in the damn thing?  Gold?  Hot chicks? ...Monkeys?",Time=0.000000)
+
+[sal_scooter_live_44 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I gotta tell ya man, I don't trust them Crimson Lance.  Those bucket monkeys ought not done what they done.",Time=0.000000)
+
+[sal_scooter_live_45 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm right fed up 'bout all this.  See, this is what happens when ya got robot people like the Crimson Lance walkin' all over doin' whatever - nothin' but trouble!",Time=0.000000)
+
+[sal_scooter_live_46 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey now, you listen to Scooter - Those Crimson Lance ain't no good for none of us.  They don't give half a thin shit about the blue collars.  We'll be long dead, and they'll still be fightin' an' fussin' over who gets to play king for a day over our dead-ass corpses.",Time=0.000000)
+
+[sal_scooter_live_47 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know, I knew I smelled trouble when those Crimson Lance started showin' up 'round here.",Time=0.000000)
+
+[sal_scooter_live_48 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Work!  Work, work!  Hey - come get you some!  Could help ol' Scooter out, can'tcha?",Time=0.000000)
+
+[sal_scooter_live_49 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, thanks for droppin' by!  If you ain't too busy, I could sure use an extra hand or two.",Time=0.000000)
+
+[sal_scooter_live_5 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on in!  I ain't gonna bite... probably.",Time=0.000000)
+
+[sal_scooter_live_50 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, good to see ya!  Hey, let's see about gettin' you somethin' ta do.",Time=0.000000)
+
+[sal_scooter_live_51 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, glad you're here.  I got something for ya, if ya got the time.",Time=0.000000)
+
+[sal_scooter_live_52 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, it's you!  Hey, are you ready for some action?",Time=0.000000)
+
+[sal_scooter_live_53 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thanks for comin' by.  Things are gettin' tougher by the cycle 'round here - hey, can you help me out?",Time=0.000000)
+
+[sal_scooter_live_54 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Always somethin' crazy and life-threatenin' to do for money on Pandora, and now I've got a job for ya.  You up for it?",Time=0.000000)
+
+[sal_scooter_live_55 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You, are late.  I gotta a job that needs doin', and I mean yesterday!",Time=0.000000)
+
+[sal_scooter_live_56 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hot damn!",Time=0.000000)
+
+[sal_scooter_live_57 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, I know I had you pegged as a go git 'er!",Time=0.000000)
+
+[sal_scooter_live_58 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, that's what I like to hear!",Time=0.000000)
+
+[sal_scooter_live_59 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heh.  Hey, you're alright, man.",Time=0.000000)
+
+[sal_scooter_live_6 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, I got my eye out, just wait your turn, man!",Time=0.000000)
+
+[sal_scooter_live_60 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Man, you ain't finish that job, yet?  You better get to it!",Time=0.000000)
+
+[sal_scooter_live_61 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey - what's the hold up?",Time=0.000000)
+
+[sal_scooter_live_62 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It'd be great if you could get that done for me, you know, like, ever...",Time=0.000000)
+
+[sal_scooter_live_63 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, come on now!  Dang it...  I really need you to finish.",Time=0.000000)
+
+[sal_scooter_live_64 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sweet holy damn, you did it!",Time=0.000000)
+
+[sal_scooter_live_65 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I knew you was gonna be good people.  I was like, 30% sure an' everything.",Time=0.000000)
+
+[sal_scooter_live_66 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now see, that's just fine!",Time=0.000000)
+
+[sal_scooter_live_67 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, I'll be a Skag's right nut, you did a fine job right there.",Time=0.000000)
+
+[sal_scooter_live_68 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well yes, sir!",Time=0.000000)
+
+[sal_scooter_live_69 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yup!",Time=0.000000)
+
+[sal_scooter_live_7 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come in outta that dust.  Nasty out there, ain't it?",Time=0.000000)
+
+[sal_scooter_live_70 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You got that right.",Time=0.000000)
+
+[sal_scooter_live_71 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, uh, for sure.",Time=0.000000)
+
+[sal_scooter_live_72 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yep!",Time=0.000000)
+
+[sal_scooter_live_73 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nah.",Time=0.000000)
+
+[sal_scooter_live_74 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nope!",Time=0.000000)
+
+[sal_scooter_live_75 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's a big negative.",Time=0.000000)
+
+[sal_scooter_live_76 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, negative on that.",Time=0.000000)
+
+[sal_scooter_live_77 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hell, nah!",Time=0.000000)
+
+[sal_scooter_live_8 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you just holler when you need me, alright?",Time=0.000000)
+
+[sal_scooter_live_9 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, bye now!",Time=0.000000)
+
+[sal_scooter_record_100 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is Scooter saying you might could just steer clear of them Crimson trash bins, alright?  Hey, I ain't steer you wrong, right?",Time=0.000000)
+
+[sal_scooter_record_101 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here, and I'm just thinking.  Seriously, what is a Crimson Lance?  You seen these guys, yet?  From their name, you can't tell if they'll gut ya, or decorate your house...",Time=0.000000)
+
+[sal_scooter_record_102 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is Scooter, and I just need to make one thing clear - I was telling everyone how I knew the Vault was real.  I was a true believer all along, I didn't make that up, so I better get my cut!",Time=0.000000)
+
+[sal_scooter_record_103 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Catch-a-Ride from Scooter!  Gotta find that Vault on foot?  What?  Uh-uh!  Use one of my cars!",Time=0.000000)
+
+[sal_scooter_record_104 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here with a question: Who's gonna find that Vault first?  I know there's a few of ya out there huntin' for it.  Whoever finds it, hey, you remember ol' Scooter with a cut of that action.  Man's gotta eat.",Time=0.000000)
+
+[sal_scooter_record_105 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here saying give those bucket monkeys a kick in the robot-sack, alright?",Time=0.000000)
+
+[sal_scooter_record_106 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here with an announcement: The Crimson Lance are bad!  My daddy always said, Never trust a man dressed in sixty pounds of metal.",Time=0.000000)
+
+[sal_scooter_record_107 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter with a message to all you travelers out there: Them Lance don't give two hoots about you, or me, or anyone stuck on this rock.  You give 'em hell!",Time=0.000000)
+
+[sal_scooter_record_108 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is Scooter saying, Do us proud and you give those Crimson Prancer's hell!",Time=0.000000)
+
+[sal_scooter_record_109a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey let's get rollin', man!",Time=0.000000)
+
+[sal_scooter_record_109b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you about ready to get rollin'?",Time=0.000000)
+
+[sal_scooter_record_109c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's get rollin'!",Time=0.000000)
+
+[sal_scooter_record_109d SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's get rollin'!",Time=0.000000)
+
+[sal_scooter_record_110a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, trick out your ride, now!",Time=0.000000)
+
+[sal_scooter_record_110b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Trick out your ride!",Time=0.000000)
+
+[sal_scooter_record_110c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's trick out your ride!",Time=0.000000)
+
+[sal_scooter_record_111a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is where the cars live!  Get you one!",Time=0.000000)
+
+[sal_scooter_record_111b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is where the cars live!  Get you one!",Time=0.000000)
+
+[sal_scooter_record_111c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is where the cars live!  Get you one!",Time=0.000000)
+
+[sal_scooter_record_112a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, don't be shy now!  Come on!  Catch-A-Ride!",Time=0.000000)
+
+[sal_scooter_record_112b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't be shy now, come on!  Catch-A-Ride!",Time=0.000000)
+
+[sal_scooter_record_112c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't be shy now, come on!  Catch-A-Ride!",Time=0.000000)
+
+[sal_scooter_record_113a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey!  This is the place to Catch-A-Ride!  You can paint it all kinds of pretty colors to boot!",Time=0.000000)
+
+[sal_scooter_record_113b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey!  This is the place to Catch-A-Ride!  You can paint it all kinds of pretty colors to boot!",Time=0.000000)
+
+[sal_scooter_record_113c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey!  This is the place to Catch-A-Ride!  You can paint it all kinds of pretty colors to boot!",Time=0.000000)
+
+[sal_scooter_record_78 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Scooter says, come get you some wheels, kid!  Yeah!",Time=0.000000)
+
+[sal_scooter_record_79 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here - my runner may not look like a blushin' bride or anything, but she'll get you there... maybe even alive.  Catch-a-Ride!",Time=0.000000)
+
+[sal_scooter_record_80 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, listen to Scooter!  When you gotta get across the rough 'n rowdiest places on Pandora, accept no substitute!",Time=0.000000)
+
+[sal_scooter_record_81 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter says don't walk, drive!  My daddy always said wheels were better than heels.  Uh, he was paralyzed, though.  Anyway, don't walk, drive!",Time=0.000000)
+
+[sal_scooter_record_82 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is Scooter saying, four wheels is better than... than uh, zero... wheels!  Hey, have fun!",Time=0.000000)
+
+[sal_scooter_record_83 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, listen to Scooter!  Don't just stand there thumbs-up-yer-ass an' slack-jawed!  Get you some wheels!",Time=0.000000)
+
+[sal_scooter_record_84 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here, remindin' ya there's only one thing worth knowin', and that's cars!  Well, other'n maybe drinkin' and women, and that's like four things worth knowin'... and I know all of 'em!",Time=0.000000)
+
+[sal_scooter_record_85 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Scooter here, lettin' you know that I know cars, and cars is what I know!",Time=0.000000)
+
+[sal_scooter_record_86 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey!  Name's Scooter!  I's named after my sister.  Hey, come get you some wheels!",Time=0.000000)
+
+[sal_scooter_record_87 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here - I got cars for days and helpful tips: Save time, and you forget about that Vault.  That thing's about as real as a Skag in a tutu bakin' rainbows.",Time=0.000000)
+
+[sal_scooter_record_88 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm Scooter, and this is my Catch-a-Ride!  Can't really say one way or the other.  Vault's real, Vault ain't.  Flip a coin, say a prayer.  Whatever.",Time=0.000000)
+
+[sal_scooter_record_89 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here.  Anyone notice how everyone's talkin' 'bout the Vault?  Buncha fairy tale nonsense.  Ya know what?  Catch-a-Ride!",Time=0.000000)
+
+[sal_scooter_record_90 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here!  Any ya'll met that Tannis lady, yet?  She strikes me as more than a mite insincere...",Time=0.000000)
+
+[sal_scooter_record_91 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter talkin'!  That Tannis lady all locked up with them experiments and science stuff?  No way can you trust a woman like that!",Time=0.000000)
+
+[sal_scooter_record_92 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter, again.  Can't say I buy into all the stuff I heard outta Tannis's mouth.",Time=0.000000)
+
+[sal_scooter_record_93 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter comin' at you with a big scoop: The Vault is real, and it's out there somewhere.  But let's say you find it... How you gonna open the durn thing?",Time=0.000000)
+
+[sal_scooter_record_94 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is Scooter with a tip for ya!  Hey, you steer clear from that Crazy Earl, man... He stab me!",Time=0.000000)
+
+[sal_scooter_record_95 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here with a tip for ya - If you're lookin' for cash, get yerself to the bounty board.  Always someone needin' somethin' done.",Time=0.000000)
+
+[sal_scooter_record_96 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Catch-a-Ride from Scooter, and get a free tip!  Hey, here's one: Stay away from the Bandits.  They'll kill ya!",Time=0.000000)
+
+[sal_scooter_record_97 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Scooter here with some good advice: Need to kill somethin' dead?  Get a gun - or five!",Time=0.000000)
+
+[sal_scooter_record_98 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's Scooter!  Oh hell, what was I gonna say?",Time=0.000000)
+
+[sal_scooter_record_99 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, this is Scooter with a big shout out to all the bucket monkeys.  What is a Crimson Lance, anyhow?",Time=0.000000)
+

@@ -1,0 +1,305 @@
+[bd_action_weaponattack_flynt_17b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="NOW who has the biggest gun?",Time=0.000000)
+
+[bd_action_tauntcombat_flynt_8 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My minions are gonna slice you to pieces!",Time=0.000000)
+
+[bd_response_goredeath_flynt_40b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_weaponattack_flynt_18b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna be nothing but a sticky red smear!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39g SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_minionskilled_flynt_23 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Idiots! Let me show you how it's done!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_3b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will make an example of you, so that no one else will dare challenge me!",Time=0.000000)
+
+[bd_action_minionsattack_flynt_15a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten Skag pearls to the one who brings me a head!",Time=0.000000)
+
+[bd_action_weaponattack_flynt_19 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="See how you like THIS!",Time=0.000000)
+
+[bd_action_weaponattack_flynt_16a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take that!",Time=0.000000)
+
+[bd_action_minionsattack_flynt_15b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten Skag pearls to the one who brings me a head!",Time=0.000000)
+
+[bd_response_thordamage_flynt_31a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna pay for that!",Time=0.000000)
+
+[bd_response_death_flynt_37d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shit!",Time=0.000000)
+
+[bd_response_minionskilled_flynt_24b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do I care?  I've got plenty of lackeys!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've cost me a lot - but you're going pay it all back, with interest.",Time=0.000000)
+
+[bd_action_minionsattack_flynt_12a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now, men!  Attack!",Time=0.000000)
+
+[bd_response_death_flynt_37c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="God damn!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_goredeath_flynt_39b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_thordamage_flynt_33b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one does that to MY ride!",Time=0.000000)
+
+[bd_response_death_flynt_38d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_thordamage_flynt_31b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna pay for that!",Time=0.000000)
+
+[bd_action_minionsattack_flynt_14b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I said, KILL THEM, you fools!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_3a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will make an example of you, so that no one else will dare challenge me!",Time=0.000000)
+
+[bd_response_thordamage_flynt_33a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one does that to MY ride!",Time=0.000000)
+
+[bd_response_thordamage_flynt_32a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna do twice the damage to you, merc!",Time=0.000000)
+
+[bd_response_minionskilled_flynt_25 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The more of my men you kill, the madder the rest get!",Time=0.000000)
+
+[bd_response_death_flynt_38c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_minionsattack_flynt_12b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now, men!  Attack!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_thordamage_flynt_34a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't let 'em get away!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, well - looks like I get to kill you myself!",Time=0.000000)
+
+[bd_response_thordamage_flynt_35a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna crush you under Thor's treads when I'm done!",Time=0.000000)
+
+[bd_response_thordamage_flynt_32b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna do twice the damage to you, merc!",Time=0.000000)
+
+[bd_response_goredeath_flynt_40a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_flynt_38a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_flynt_36 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll regret this - somehow...",Time=0.000000)
+
+[bd_action_tauntcombat_flynt_6 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's gonna be a long way down, merc!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll not be getting out of here alive,",Time=0.000000)
+
+[bd_response_minionskilled_flynt_21 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Want something done right, do it yourself!",Time=0.000000)
+
+[bd_response_thordamage_flynt_34b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't let 'em get away!",Time=0.000000)
+
+[bd_action_weaponattack_flynt_18a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're gonna be nothing but a sticky red smear!",Time=0.000000)
+
+[bd_response_death_flynt_37b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="God damnit!",Time=0.000000)
+
+[bd_action_minionsattack_flynt_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Attack!  Show no mercy!",Time=0.000000)
+
+[bd_action_tauntcombat_flynt_7 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll never make it to the top!",Time=0.000000)
+
+[bd_action_minionsattack_flynt_14a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I said, KILL THEM, you fools!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntcombat_flynt_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Say your prayers, loser!",Time=0.000000)
+
+[bd_response_death_flynt_38b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_tauntcombat_flynt_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can stop me?",Time=0.000000)
+
+[bd_action_minionsattack_flynt_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get them, you idiots!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_weaponattack_flynt_17a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="NOW who has the biggest gun?",Time=0.000000)
+
+[bd_response_minionskilled_flynt_22 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kill those merc before they kill you!",Time=0.000000)
+
+[bd_action_weaponattack_flynt_16b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take that!",Time=0.000000)
+
+[bd_action_tauntapproach_flynt_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You are a terrible guest.  I must teach you some manners!",Time=0.000000)
+
+[bd_action_weaponattack_flynt_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="None may challenge me!",Time=0.000000)
+
+[bd_response_thordamage_flynt_35b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna crush you under Thor's treads when I'm done!",Time=0.000000)
+
+[bd_response_goredeath_flynt_39a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_flynt_37a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shit!",Time=0.000000)
+
+[bd_response_minionskilled_flynt_24a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do I care?  I've got plenty of lackeys!",Time=0.000000)
+

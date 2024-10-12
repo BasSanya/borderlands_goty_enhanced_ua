@@ -1,0 +1,1185 @@
+[bd_action_openchest_brick_14a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_openchest_brick_14b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_openchest_brick_14c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_elitekill_brick_41a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_elitekill_brick_41b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_elitekill_brick_41c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_96d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_96e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_96f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_action_skillkill_brick_97g SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text=" ",Time=0.000000)
+
+[bd_response_duellose_brick_58c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whateva!",Time=0.000000)
+
+[bd_response_elitekill_brick_39b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Smashed!",Time=0.000000)
+
+[bd_response_duellose_brick_59b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must be your birthday!",Time=0.000000)
+
+[bd_action_skillkill_brick_96g SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KILL!",Time=0.000000)
+
+[bd_action_reviveteam_brick_91b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I ain't carrying you!",Time=0.000000)
+
+[bd_response_needammo_brick_82a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ammo gone!",Time=0.000000)
+
+[bd_action_usevss_brick_42a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drive!",Time=0.000000)
+
+[bd_response_duelget_brick_50c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What the... okay.",Time=0.000000)
+
+[bd_response_levelup_brick_35a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bringin' the pain!",Time=0.000000)
+
+[bd_action_swapseat_brick_66b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Move!",Time=0.000000)
+
+[bd_action_reviveteam_brick_88f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get up!",Time=0.000000)
+
+[bd_response_duellose_brick_55f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_action_approachchest_brick_2c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found stuff.",Time=0.000000)
+
+[bd_action_fasttravel_brick_92c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Movin' on.",Time=0.000000)
+
+[bd_response_duellose_brick_54c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WHAT!?",Time=0.000000)
+
+[bd_response_idle_brick_78a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What you think I got nothin' better to do?",Time=0.000000)
+
+[bd_response_duelwin_brick_52a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What'd you think was gonna happen?",Time=0.000000)
+
+[bd_action_duelstart_brick_46a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's dance!",Time=0.000000)
+
+[bd_action_duelstart_brick_45c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fight me!",Time=0.000000)
+
+[bd_action_openchest_brick_13a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's what I want!",Time=0.000000)
+
+[bd_response_levelup_brick_35c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bringin' the pain!",Time=0.000000)
+
+[bd_response_duellose_brick_55d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_response_elitekill_brick_40c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme something else to kill!",Time=0.000000)
+
+[bd_action_skillkill_brick_94b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BLOOD!",Time=0.000000)
+
+[bd_response_elitekill_brick_40a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme something else to kill!",Time=0.000000)
+
+[bd_response_duelget_brick_48b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're dead.",Time=0.000000)
+
+[bd_action_swapseat_brick_63b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Switch!",Time=0.000000)
+
+[bd_action_fasttravel_brick_91c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's move.",Time=0.000000)
+
+[bd_action_heal_brick_98a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health here!",Time=0.000000)
+
+[bd_response_idle_brick_77c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whatchu waitin' for?",Time=0.000000)
+
+[bd_response_death_brick_118c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_death_brick_119b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_action_heal_brick_97b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyone need some health?",Time=0.000000)
+
+[bd_response_criticalshot_brick_66b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That must have hurt!",Time=0.000000)
+
+[bd_response_joincoop_brick_80b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Time to pound somethin'!",Time=0.000000)
+
+[bd_response_duelget_brick_49b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You better run!",Time=0.000000)
+
+[bd_response_elitekill_brick_36a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crushed!",Time=0.000000)
+
+[bd_action_openchest_brick_13c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's what I want!",Time=0.000000)
+
+[bd_response_criticalshot_brick_67b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooohhh, yeah!",Time=0.000000)
+
+[bd_response_duellose_brick_58e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whateva!",Time=0.000000)
+
+[bd_action_usevss_brick_43b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drive on, brutha!",Time=0.000000)
+
+[bd_response_raredrop_brick_101a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa!",Time=0.000000)
+
+[bd_response_idle_brick_76c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="(Humming)",Time=0.000000)
+
+[bd_action_fasttravel_brick_94b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Getting' gone.",Time=0.000000)
+
+[bd_response_criticalshot_brick_67d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="yeah!",Time=0.000000)
+
+[bd_action_heal_brick_100c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health over here!",Time=0.000000)
+
+[bd_response_duelwin_brick_53b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never look at my fist bitch!",Time=0.000000)
+
+[bd_response_duellose_brick_54a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WHAT!?",Time=0.000000)
+
+[bd_action_skillkill_brick_96b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KILL!",Time=0.000000)
+
+[bd_response_needammo_brick_85b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_response_elitekill_brick_38a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dumbass.",Time=0.000000)
+
+[bd_action_heal_brick_100a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health over here!",Time=0.000000)
+
+[bd_action_heal_brick_99a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health!",Time=0.000000)
+
+[bd_response_duellose_brick_55b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_response_criticalshot_brick_68e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Feel it!",Time=0.000000)
+
+[bd_action_openchest_brick_10a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Look at this shit!",Time=0.000000)
+
+[bd_response_raredrop_brick_102a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="For me?",Time=0.000000)
+
+[bd_response_raredrop_brick_102c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="For me?",Time=0.000000)
+
+[bd_response_elitekill_brick_36b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crushed!",Time=0.000000)
+
+[bd_response_duellose_brick_58a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whateva!",Time=0.000000)
+
+[bd_response_duelget_brick_51b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay.",Time=0.000000)
+
+[bd_action_reviveteam_brick_88a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get up!",Time=0.000000)
+
+[bd_action_openchest_brick_9 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's my stuff.",Time=0.000000)
+
+[bd_response_duellose_brick_54b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WHAT!?",Time=0.000000)
+
+[bd_action_duelstart_brick_47b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanna take me on?",Time=0.000000)
+
+[bd_response_raredrop_brick_101c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa!",Time=0.000000)
+
+[bd_response_raredrop_brick_102d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="For me?  Seriously?",Time=0.000000)
+
+[bd_action_duelstart_brick_48c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lookin' at my fist?",Time=0.000000)
+
+[bd_action_heal_brick_98c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health here!",Time=0.000000)
+
+[bd_action_reviveteam_brick_88d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get up!",Time=0.000000)
+
+[bd_response_criticalshot_brick_68f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Feel it!",Time=0.000000)
+
+[bd_response_duellose_brick_57c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you happy now?",Time=0.000000)
+
+[bd_action_reviveteam_brick_91d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I ain't carrying you!  So you betta bring yo ass on!",Time=0.000000)
+
+[bd_response_idle_brick_77e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna kick yo ass, let's go!",Time=0.000000)
+
+[bd_response_criticalshot_brick_68d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Feel it!",Time=0.000000)
+
+[bd_action_skillkill_brick_95a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MORE!",Time=0.000000)
+
+[bd_response_raredrop_brick_10c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahhh!  Mine!",Time=0.000000)
+
+[bd_response_duelwin_brick_51b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need some time to find yo teeth?",Time=0.000000)
+
+[bd_response_duelwin_brick_53a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never look at my fist bitch!",Time=0.000000)
+
+[bd_action_swapseat_brick_64a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Trade with me!",Time=0.000000)
+
+[bd_action_reviveteam_brick_90b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get yo ass back up!",Time=0.000000)
+
+[bd_action_openchest_brick_10c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Look at this shit!",Time=0.000000)
+
+[bd_action_skillkill_brick_94a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BLOOD!",Time=0.000000)
+
+[bd_response_duelget_brick_50a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What!?  Oh, okay.",Time=0.000000)
+
+[bd_response_levelup_brick_34c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hell, yeah!",Time=0.000000)
+
+[bd_response_duellose_brick_57a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you happy now?",Time=0.000000)
+
+[bd_response_levelup_brick_33c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah!",Time=0.000000)
+
+[bd_action_heal_brick_99b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health!",Time=0.000000)
+
+[bd_action_approachchest_brick_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stuff here.",Time=0.000000)
+
+[bd_response_duelget_brick_48c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're dead!",Time=0.000000)
+
+[bd_response_death_brick_118a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_duelget_brick_51a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay.",Time=0.000000)
+
+[bd_action_skillkill_brick_95c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MORE!",Time=0.000000)
+
+[bd_action_openchest_brick_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright!",Time=0.000000)
+
+[bd_action_swapseat_brick_65a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My turn!",Time=0.000000)
+
+[bd_response_elitekill_brick_37b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beatdown!",Time=0.000000)
+
+[bd_action_heal_brick_99d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health!",Time=0.000000)
+
+[bd_response_levelup_brick_34a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hell, yeah!",Time=0.000000)
+
+[bd_response_raredrop_brick_100d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah ha!  Mine!",Time=0.000000)
+
+[bd_response_joincoop_brick_81a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme somethin to hit!",Time=0.000000)
+
+[bd_response_levelup_brick_33a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah!",Time=0.000000)
+
+[bd_action_heal_brick_97c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyone need some health?",Time=0.000000)
+
+[bd_response_needammo_brick_86a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Punch time!",Time=0.000000)
+
+[bd_response_joincoop_brick_79a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Brick's here, bitch.",Time=0.000000)
+
+[bd_response_needammo_brick_83b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Empty!",Time=0.000000)
+
+[bd_response_joincoop_brick_81c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme somethin to hit!",Time=0.000000)
+
+[bd_action_skillkill_brick_94c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BLOOD!",Time=0.000000)
+
+[bd_response_duelwin_brick_52e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What'd you think was gonna happen?",Time=0.000000)
+
+[bd_response_elitekill_brick_40b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme something else to kill!",Time=0.000000)
+
+[bd_response_duelwin_brick_53d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never look at my fist bitch!",Time=0.000000)
+
+[bd_action_fasttravel_brick_91b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's move!",Time=0.000000)
+
+[bd_action_openchest_brick_8b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mine.",Time=0.000000)
+
+[bd_action_approachchest_brick_2b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found stuff!",Time=0.000000)
+
+[bd_action_fasttravel_brick_93a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's go!",Time=0.000000)
+
+[bd_action_swapseat_brick_63a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Switch!",Time=0.000000)
+
+[bd_action_fasttravel_brick_92a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Movin' on.",Time=0.000000)
+
+[bd_response_duellose_brick_56c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Go on, go on, live it up.",Time=0.000000)
+
+[bd_action_usevss_brick_42d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drive!",Time=0.000000)
+
+[bd_action_duelstart_brick_45d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="C'mon, fight me!",Time=0.000000)
+
+[bd_response_raredrop_brick_100e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah!  Mine!",Time=0.000000)
+
+[bd_action_heal_brick_97a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyone need some health?",Time=0.000000)
+
+[bd_response_needammo_brick_84c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_action_openchest_brick_13b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's what I want!",Time=0.000000)
+
+[bd_action_reviveteam_brick_91a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I ain't carrying you!",Time=0.000000)
+
+[bd_response_elitekill_brick_38b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dumbass.",Time=0.000000)
+
+[bd_action_heal_brick_98b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health- here!",Time=0.000000)
+
+[bd_response_duellose_brick_55e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_response_raredrop_brick_102b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="For me?",Time=0.000000)
+
+[bd_response_duellose_brick_56b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, go on, go on, live it up!",Time=0.000000)
+
+[bd_action_approachchest_brick_3c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a chest.",Time=0.000000)
+
+[bd_response_duelget_brick_48a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're dead.",Time=0.000000)
+
+[bd_response_needammo_brick_84a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_response_criticalshot_brick_69a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Show me some blood!",Time=0.000000)
+
+[bd_response_duelget_brick_49c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Better run.",Time=0.000000)
+
+[bd_response_needammo_brick_86c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Punch time!",Time=0.000000)
+
+[bd_response_needammo_brick_86b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Punch time!",Time=0.000000)
+
+[bd_response_duellose_brick_59c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must be your birthday.",Time=0.000000)
+
+[bd_response_death_brick_118b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_criticalshot_brick_66a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damn, I'm good!",Time=0.000000)
+
+[bd_response_joincoop_brick_80a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Time to pound somethin'.",Time=0.000000)
+
+[bd_action_openchest_brick_12c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright!",Time=0.000000)
+
+[bd_action_reviveteam_brick_89b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No resting!",Time=0.000000)
+
+[bd_action_skillkill_brick_96c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KILL!",Time=0.000000)
+
+[bd_response_levelup_brick_35b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bringin' the pain!",Time=0.000000)
+
+[bd_action_reviveteam_brick_88b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="GET up!",Time=0.000000)
+
+[bd_response_needammo_brick_82c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ammo gone!",Time=0.000000)
+
+[bd_response_elitekill_brick_37a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beatdown!",Time=0.000000)
+
+[bd_action_approachchest_brick_7b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More stuff over here!",Time=0.000000)
+
+[bd_response_duellose_brick_59a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must be your birthday!",Time=0.000000)
+
+[bd_action_heal_brick_100b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health over here!",Time=0.000000)
+
+[bd_response_death_brick_119c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_idle_brick_76a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="(Humming) This waitin' around is killing me.",Time=0.000000)
+
+[bd_response_duelget_brick_51c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay.",Time=0.000000)
+
+[bd_response_joincoop_brick_79b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Brick's here bitch... yeah.",Time=0.000000)
+
+[bd_action_duelstart_brick_45a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="C'mon, Fight me!",Time=0.000000)
+
+[bd_action_openchest_brick_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's here?",Time=0.000000)
+
+[bd_action_duelstart_brick_48a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lookin' at my fist?",Time=0.000000)
+
+[bd_action_duelstart_brick_46b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah!  Let's dance!",Time=0.000000)
+
+[bd_action_skillkill_brick_95b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MORE!",Time=0.000000)
+
+[bd_action_approachchest_brick_4 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I see a chest.",Time=0.000000)
+
+[bd_action_fasttravel_brick_94a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Getting' gone.",Time=0.000000)
+
+[bd_response_needammo_brick_83c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Empty!",Time=0.000000)
+
+[bd_response_needammo_brick_82b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ammo gone!",Time=0.000000)
+
+[bd_response_needammo_brick_85a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_action_approachchest_brick_7c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More stuff over here.",Time=0.000000)
+
+[bd_action_skillkill_brick_96h SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KILL!",Time=0.000000)
+
+[bd_response_levelup_brick_34b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hell, yeah!",Time=0.000000)
+
+[bd_action_fasttravel_brick_94c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Getting' gone!",Time=0.000000)
+
+[bd_action_swapseat_brick_65b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My turn!",Time=0.000000)
+
+[bd_response_duellose_brick_55c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_response_idle_brick_77d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What... are you... waitin' for?",Time=0.000000)
+
+[bd_response_duellose_brick_55a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can't believe this!",Time=0.000000)
+
+[bd_response_needammo_brick_83a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Empty!",Time=0.000000)
+
+[bd_response_needammo_brick_84b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_action_heal_brick_98d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Health here!",Time=0.000000)
+
+[bd_action_fasttravel_brick_91a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's move.",Time=0.000000)
+
+[bd_action_duelstart_brick_47c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanna take me on?",Time=0.000000)
+
+[bd_response_duelget_brick_48e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're dead.",Time=0.000000)
+
+[bd_response_duelwin_brick_52b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What'd you think was gonna happen?",Time=0.000000)
+
+[bd_response_idle_brick_76b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="(Humming)",Time=0.000000)
+
+[bd_response_needammo_brick_85c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need Ammo!",Time=0.000000)
+
+[bd_response_duelwin_brick_52d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What'd you think was gonna happen?",Time=0.000000)
+
+[bd_response_duellose_brick_58d SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whateva!",Time=0.000000)
+
+[bd_action_fasttravel_brick_93c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's go!",Time=0.000000)
+
+[bd_response_duellose_brick_56a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, go on, go on, live it up!",Time=0.000000)
+
+[bd_response_joincoop_brick_79c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Brick's here bitch!",Time=0.000000)
+
+[bd_action_approachchest_brick_3a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a chest.",Time=0.000000)
+
+[bd_response_duellose_brick_58b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whateva!",Time=0.000000)
+
+[bd_action_heal_brick_99c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Found health!",Time=0.000000)
+
+[bd_action_fasttravel_brick_92b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Movin' on.",Time=0.000000)
+
+[bd_action_reviveteam_brick_88c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get up!",Time=0.000000)
+
+[bd_response_elitekill_brick_39a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Smashed!",Time=0.000000)
+
+[bd_response_duelget_brick_49a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Better run.",Time=0.000000)
+
+[bd_response_duellose_brick_57b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you happy now?",Time=0.000000)
+
+[bd_action_swapseat_brick_64b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Trade with me!",Time=0.000000)
+
+[bd_response_duelwin_brick_53c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never look at my fist bitch!",Time=0.000000)
+
+[bd_response_raredrop_brick_101b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa!",Time=0.000000)
+
+[bd_response_duelget_brick_49e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You better run.",Time=0.000000)
+
+[bd_response_duelwin_brick_51a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need some time to find yo teeth?",Time=0.000000)
+
+[bd_action_duelstart_brick_47a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanna take me on?",Time=0.000000)
+
+[bd_response_joincoop_brick_81b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gimme somethin to hit!",Time=0.000000)
+
+[bd_action_skillkill_brick_96a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KILL!",Time=0.000000)
+
+[bd_action_swapseat_brick_66a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Move!",Time=0.000000)
+
+[bd_response_idle_brick_78c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think I ain't got nothin' better to do?",Time=0.000000)
+
+[bd_response_idle_brick_78b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think I ain't got nothin' better to do?",Time=0.000000)
+
+[bd_action_usevss_brick_44 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drive on, drive on.",Time=0.000000)
+
+[bd_action_usevss_brick_43c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drive on, brutha!",Time=0.000000)
+
+[bd_action_openchest_brick_8c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mine.",Time=0.000000)
+
+[bd_action_duelstart_brick_45b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="C'mon, fight me!",Time=0.000000)
+
+[bd_response_duelwin_brick_51e SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need some time to find yo teeth?",Time=0.000000)
+
+[bd_action_reviveteam_brick_89c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No resting!",Time=0.000000)
+
+[bd_response_duelwin_brick_51c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Need some time to find yo teeth?",Time=0.000000)
+
+[bd_action_openchest_brick_12b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright!",Time=0.000000)
+
+[bd_response_duelget_brick_50b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What the... okay.",Time=0.000000)
+
+[bd_response_idle_brick_77f SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whatchu waitin for?",Time=0.000000)
+
+[bd_action_duelstart_brick_48b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lookin' at my fist?",Time=0.000000)
+
+[bd_response_idle_brick_77b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whatchu waitin' for, now?",Time=0.000000)
+
+[bd_response_criticalshot_brick_69b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Show me some blood",Time=0.000000)
+
+[bd_action_swapseat_brick_65c SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My turn!",Time=0.000000)
+
+[bd_response_death_brick_119a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[Death cry]",Time=0.000000)
+
+[bd_response_levelup_brick_33b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah!",Time=0.000000)
+

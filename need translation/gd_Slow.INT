@@ -1,0 +1,6 @@
+[StatusEffect.Skill_SlowEffects SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Attribute manipulation for the slow status effect"
+SkillEffectDefinitions[6]=(HumanReadableText="Enemy Leap probability")
+SkillName="Slow Status Effect"
+

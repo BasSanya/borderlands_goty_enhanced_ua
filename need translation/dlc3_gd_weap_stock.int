@@ -1,0 +1,8 @@
+[A_Weapon.WeaponType_combat_rifle_stock WeaponTypeDefinition]
+TypeName="Combat Rifle"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

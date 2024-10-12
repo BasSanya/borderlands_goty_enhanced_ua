@@ -1,0 +1,12 @@
+[population.BalanceDef_RakkDefender AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Defender Rakk"))
+Grades[1]=(GradeModifiers=(DisplayName="Experienced Defender Rakk"))
+Grades[2]=(GradeModifiers=(DisplayName="Hardened Defender Rakk"))
+Grades[3]=(GradeModifiers=(DisplayName="Veteran Defender Rakk"))
+
+[population.BalanceDef_RakkKamikaze AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Kamikaze Rakk"))
+Grades[1]=(GradeModifiers=(DisplayName="Experienced Kamikaze Rakk"))
+Grades[2]=(GradeModifiers=(DisplayName="Hardened Kamikaze Rakk"))
+Grades[3]=(GradeModifiers=(DisplayName="Veteran Kamikaze Rakk"))
+

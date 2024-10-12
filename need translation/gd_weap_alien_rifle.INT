@@ -1,0 +1,346 @@
+[A_Launcher.a_weap.WeaponType_Eridan_Cannon WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Eridian Cannon"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Launcher.a_weap.WeaponType_Eridan_Cannon:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="010011110100110101000111"
+NoConstraintText=""
+Suffix=""
+
+[A_Rifle.a_weap.WeaponType_Eridan_Elementalgun WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Rifle.a_weap.WeaponType_Eridan_Elementalgun:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Hold on...it does what?"
+NoConstraintText=""
+Suffix=""
+
+[A_Shotgun.a_weap.WeaponType_Eridan_ShockGun WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Shotgun.a_weap.WeaponType_Eridan_ShockGun:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Getting near this thing makes your hair stand on end."
+NoConstraintText=""
+Suffix=""
+
+[A_Shotgun.a_weap.WeaponType_Eridan_Thunder_Storm WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Shotgun.a_weap.WeaponType_Eridan_Thunder_Storm:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Lightning never strikes the same place twice, but it can strike freaking everywhere!"
+NoConstraintText=""
+Suffix=""
+
+[A_SMG.a_weap.WeaponType_Eridan_Acid_Storm WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_SMG.a_weap.WeaponType_Eridan_Acid_Storm:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="No face shall go unmelted."
+NoConstraintText=""
+Suffix=""
+
+[A_SMG.a_weap.WeaponType_Eridan_Blaster WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Eridian Blaster"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_SMG.a_weap.WeaponType_Eridan_Blaster:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Pew Pew Pew!"
+NoConstraintText=""
+Suffix=""
+
+[A_SMG.a_weap.WeaponType_Eridan_Fire_Storm WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_SMG.a_weap.WeaponType_Eridan_Fire_Storm:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="Anybody need a light?"
+NoConstraintText=""
+Suffix=""
+
+[A_Sniper.a_weap.WeaponType_Eridan_Lightning WeaponTypeDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+TypeName="Combat Rifle"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[A_Sniper.a_weap.WeaponType_Eridan_Lightning:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="I feel like I'm gonna break this thing."
+NoConstraintText=""
+Suffix=""
+
+[acc.acc_none WeaponPartDefinition]
+PartName=""
+
+[acc.acc1 WeaponPartDefinition]
+PartName=""
+
+[acc.acc2 WeaponPartDefinition]
+PartName=""
+
+[acc.acc3 WeaponPartDefinition]
+PartName=""
+
+[acc.acc4 WeaponPartDefinition]
+PartName=""
+
+[acc.acc5 WeaponPartDefinition]
+PartName=""
+
+[acc.acc6 WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel1 WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_Fireball WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_Firebomb WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_Flaregun WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_GlobGun WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_Rifle WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_RollingSpattergun WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_Splatgun WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel2_StampedingSpattergun WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel3_Rifle WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel4_BallBlaster WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel4_Blaster WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel4_MercurialBlaster WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel4_WaveBlaster WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel5_Cannon WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel5_MegaCannon WeaponPartDefinition]
+PartName=""
+
+[Barrel.barrel6 WeaponPartDefinition]
+PartName=""
+
+[Body.body1 WeaponPartDefinition]
+PartName=""
+
+[Body.body2 WeaponPartDefinition]
+PartName=""
+
+[Body.body3 WeaponPartDefinition]
+PartName=""
+
+[Body.body4 WeaponPartDefinition]
+PartName=""
+
+[Body.body5 WeaponPartDefinition]
+PartName=""
+
+[Body.body6 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip1 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip2 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip3 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip4 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip5 WeaponPartDefinition]
+PartName=""
+
+[Grip.grip6 WeaponPartDefinition]
+PartName=""
+
+[mag.mag1 WeaponPartDefinition]
+PartName=""
+
+[mag.mag2 WeaponPartDefinition]
+PartName=""
+
+[mag.mag3 WeaponPartDefinition]
+PartName=""
+
+[mag.mag4 WeaponPartDefinition]
+PartName=""
+
+[mag.mag5 WeaponPartDefinition]
+PartName=""
+
+[mag.mag6 WeaponPartDefinition]
+PartName=""
+
+[Prefix.Prefix_Acid WeaponNamePartDefinition]
+PartName="Acid"
+
+[Prefix.Prefix_Ball WeaponNamePartDefinition]
+PartName="Ball"
+
+[Prefix.Prefix_Chain WeaponNamePartDefinition]
+PartName="Chain"
+
+[Prefix.Prefix_Eridan WeaponNamePartDefinition]
+PartName="Eridian"
+
+[Prefix.Prefix_Fire WeaponNamePartDefinition]
+PartName="Fire"
+
+[Prefix.Prefix_Mega WeaponNamePartDefinition]
+PartName="Mega"
+
+[Prefix.Prefix_Mercurial WeaponNamePartDefinition]
+PartName="Mercurial"
+
+[Prefix.Prefix_Rolling WeaponNamePartDefinition]
+PartName="Rolling"
+
+[Prefix.Prefix_Thunder WeaponNamePartDefinition]
+PartName="Thunder"
+
+[Prefix.Prefix_Wave WeaponNamePartDefinition]
+PartName="Wave"
+
+[Sight.sight_none WeaponPartDefinition]
+PartName=""
+
+[Sight.sight1 WeaponPartDefinition]
+PartName=""
+
+[Sight.sight2 WeaponPartDefinition]
+PartName=""
+
+[Sight.sight3 WeaponPartDefinition]
+PartName=""
+
+[Sight.sight4 WeaponPartDefinition]
+PartName=""
+
+[Sight.sight5 WeaponPartDefinition]
+PartName=""
+
+[Sight.sight6 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock_none WeaponPartDefinition]
+PartName=""
+
+[Stock.stock1 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock2 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock3 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock4 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock5 WeaponPartDefinition]
+PartName=""
+
+[Stock.stock6 WeaponPartDefinition]
+PartName=""
+
+[TESTWeapons.WeaponType_Eridan_Sniper WeaponTypeDefinition]
+NoManufacturerName=Generic
+PickupMessage=You got %s
+PickupMessageWithLevel=You got %s (Level %d)
+TypeName=Combat Rifle
+UseFailureConstraintsMessage=You cannot use this item.
+UseFailureLevelMessage=You must be at least level %d to use this item.
+
+[Title.Title_Blaster WeaponNamePartDefinition]
+PartName="Blaster"
+
+[Title.Title_Cannon WeaponNamePartDefinition]
+PartName="Cannon"
+
+[Title.Title_Fireball WeaponNamePartDefinition]
+PartName="Fireball"
+
+[Title.Title_Firebomb WeaponNamePartDefinition]
+PartName="Firebomb"
+
+[Title.Title_Flaregun_ WeaponNamePartDefinition]
+PartName="Flaregun"
+
+[Title.Title_Globgun WeaponNamePartDefinition]
+PartName="Glob Gun"
+
+[Title.Title_Lightning WeaponNamePartDefinition]
+PartName="Lightning"
+
+[Title.Title_RollingSpattergun WeaponNamePartDefinition]
+PartName="Rolling Spatter Gun"
+
+[Title.Title_Shockgun WeaponNamePartDefinition]
+PartName="Shockgun"
+
+[Title.Title_Splatgun WeaponNamePartDefinition]
+PartName="Splat Gun"
+
+[Title.Title_StampedingSpattergun WeaponNamePartDefinition]
+PartName="Stampeding Spatter Gun"
+
+[Title.Title_Storm WeaponNamePartDefinition]
+PartName="Storm"
+

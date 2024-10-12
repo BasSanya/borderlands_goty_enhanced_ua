@@ -1,0 +1,147 @@
+[ItemDefs.ID_dlc1_EchoPickup_Code ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="ECHO Recorder"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc1_EchoPickup_Code:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="An ECHO recording device.  It may have some interesting information on it."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc1_EchoPickup_FindCode1 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="ECHO Recorder"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc1_EchoPickup_FindCode1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="An ECHO recording device.  It may have some interesting information on it."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_CarPart1 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="X-372 Supercharger"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_CarPart1:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Thankfully this is not the X-373."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_CarPart2 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Nitrous oxide tank"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_CarPart2:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="The nitrous tank Scooter needs."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_CarPart3 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Exhaust pipe"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_CarPart3:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="The exhaust whatcha-ma-doohicky for Scooter's new vehicle."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_Detonator ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Detonator"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Atlas"
+
+[ItemDefs.ID_dlc3_Detonator:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="A detonator device specially encoded to activate Crimson Lance munitions when wired into the Atlas computer network."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_dlc3_PersonalTeleporter ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Crimson Lance Personal Teleporter Device"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_dlc3_PersonalTeleporter:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="A hi-tech device used by Atlas assassins to ambush their prey"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_PowerCore_DELETEME ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Crimson Lance power core"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Skills.PowerCore_DamageBuff SkillDefinition]
+SkillName="PowerCore - Damage Buff"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.PowerCore_MoveXPbuff SkillDefinition]
+SkillName="PowerCore - XP + Move Speed"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.PowerCore_MoveXPbuff:AttributePresentationDefinition_38 AttributePresentationDefinition]
+Description="Maximum Health"
+NoConstraintText=""
+Suffix=""
+
+[Skills.PowerCore_ShieldBuff SkillDefinition]
+SkillName="PowerCore - Shield Buff"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.PowerCore_ShieldBuff_FullShields SkillDefinition]
+SkillName="PowerCore - Shield Buff - Full Shields"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.PowerCore_ShieldBuff_ShockNova_1 SkillDefinition]
+SkillName="PowerCore - Shield Buff - Shock Nova"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Skills.test_bonusHealth SkillDefinition]
+SkillName="Power Core Health"
+SkillDescription="Increases your Maximum Health."
+LockedSkillDetailStr="<Locked>"
+
+[Skills.test_bonusHealth:AttributePresentationDefinition_38 AttributePresentationDefinition]
+Description="Maximum Health"
+NoConstraintText=""
+Suffix=""
+

@@ -1,0 +1,34 @@
+[VehicleArchetype.DLC3_Cheetah_Paw:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[VehicleArchetype.DLC3_Cheetah_Paw_enemy:SkillDefinition_0 SkillDefinition]
+SkillName="Afterburner Consumption"
+SkillDescription=""
+LockedSkillDetailStr="<Locked>"
+
+[Weapon_TurretMG.WeaponType_RunnerTurretMG WeaponTypeDefinition]
+TypeName="Light Vehicle Machine Gun"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretRocketLauncher.WeaponType_ChetahPawTurretRocketLauncher WeaponTypeDefinition]
+TypeName="Light Vehicle Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[Weapon_TurretRocketLauncher.WeaponType_ChetahPawTurretRocketLauncher_enemy WeaponTypeDefinition]
+TypeName="Light Vehicle Rocket Launcher"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+

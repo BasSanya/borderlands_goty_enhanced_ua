@@ -1,0 +1,70 @@
+[ItemDefs.ID_ClaptrapRepairkit_Digger ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Claptrap Repair Kit"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_ClaptrapRepairkit_Digger:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="It's got what Claptraps crave."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger6_Barrel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Machine Gun Barrel"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger6_Barrel:AttributePresentationDefinition_10 AttributePresentationDefinition]
+Description="Shows signs of heavy use."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger6_Body ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Machine Gun Body"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger6_Body:AttributePresentationDefinition_9 AttributePresentationDefinition]
+Description="Smooth and deadly."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger6_Cylinder ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Machine Gun Magazine"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger6_Cylinder:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description="It's remarkably well preserved, all things considered."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger6_Sight ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Machine Gun Stock"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger6_Sight:AttributePresentationDefinition_7 AttributePresentationDefinition]
+Description="Looks like it'll probably work."
+NoConstraintText=""
+Suffix=""
+

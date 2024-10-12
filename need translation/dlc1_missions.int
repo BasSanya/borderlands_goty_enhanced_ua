@@ -1,0 +1,235 @@
+[MainMissions.M_dlc1_DefendTown MissionDefinition]
+MissionDescription="Claptrap has informed you of the nearby zombie infestation. The town is normally kept safe by three defensive turrets, but they don't yet recognize zombies as a threat. Your only hope to restore any semblance of security to the area is to recalibrate the town's defensive batteries."
+MissionGiver="Claptrap"
+MissionName="Welcoming Committee"
+MissionSummary="Recalibrate the defense turrets"
+Objectives[0]=(ProgressMessage="Turret 1 calibrated:")
+Objectives[1]=(ProgressMessage="Turret 2 calibrated:")
+Objectives[2]=(ProgressMessage="Turret 3 calibrated:")
+TurnInDescription="The turrets seem to be holding off the zombies. The town should be safe."
+
+[MainMissions.M_dlc1_KillNed MissionDefinition]
+MissionDescription="Ned is in the mill.  There is nothing in your way.  Kill him."
+MissionGiver="Jakobs ECHO"
+MissionName="Night of the Living Ned"
+MissionSummary="Assassinate Dr. Ned for the Jakobs Corporation."
+Objectives[0]=(ProgressMessage="Dr. Ned killed:")
+TurnInDescription="That was easy."
+
+[MainMissions.M_dlc1_KillZombieNed MissionDefinition]
+MissionDescription="Dr. Ned has turned himself into a zombie.  Kill him again!"
+MissionGiver="Jakobs ECHO"
+MissionName="Ned's undead, baby, Ned's undead"
+MissionSummary="Kill Dr. Ned... again."
+Objectives[0]=(ProgressMessage="Dr. Ned killed... again:")
+TurnInDescription="That was hard."
+
+[MainMissions.M_dlc1_LowerBridge MissionDefinition]
+MissionDescription="Jakobs has hired you to take care of Dr. Ned once and for all.  You can find him hidden deep in the Jakobs lumber mill, but the zombie-impeding bridge near the mill needs to be lowered first."
+MissionGiver="Jakobs Claptrap"
+MissionName="A Bridge Too Ned"
+MissionSummary="Lower the bridge near the mill so you can reach Dr. Ned."
+Objectives[0]=(ProgressMessage="Lowered Bridge:")
+TurnInDescription="Now that the bridge is down you can proceed to the mill to find Dr. Ned."
+
+[MainMissions.M_dlc1_MeetNed MissionDefinition]
+MissionDescription="There is a note on the door to Dr. Ned's office. The fine print reads:  'Screw this. I'm not hanging around here to get killed. I can protect myself better at home. If any fool finds this, I'm at my place in the bayou. Good luck reaching me, though. Just stay away. It's safer if you don't try to get to me.'"
+MissionGiver="Dr. Ned"
+MissionName="House of the Ned"
+MissionSummary="Find and contact Dr. Ned in the bayou."
+Objectives[0]=(ProgressMessage="Dr. Ned contacted:")
+TurnInDescription="Dr. Ned made a terrible mistake and he needs your help to fix it."
+
+[MainMissions.M_dlc1_NedLab MissionDefinition]
+MissionDescription="Someone hacked into Claptrap and left you a cryptic message.  You were told that Dr. Ned is not to be trusted, and you can find Dr. Ned's old laboratory by taking a boat off the island.  Find Ned's lab and use the secret knock to enter."
+MissionGiver="Ned's Claptrap"
+MissionName="Secrets and Mysteries"
+MissionSummary="Find Ned's original lab to see if he is who he says he is."
+Objectives[0]=(ProgressMessage="Boat found:")
+Objectives[1]=(ProgressMessage="Lab opened:")
+TurnInDescription="Dr. Ned is behind the zombies. Imagine that."
+
+[MainMissions.M_dlc1_NedsNote MissionDefinition]
+MissionDescription="Claptrap has told you that there is a doctor who could use your help to stop the zombies.  Find Dr. Ned's office down at the docks and figure out what's going on."
+MissionGiver="Claptrap"
+MissionName="Is The Doctor In?"
+MissionSummary="Find Dr. Ned."
+Objectives[0]=(ProgressMessage="Gate opened:")
+Objectives[1]=(ProgressMessage="Office found:")
+TurnInDescription="Dr. Ned is nowhere to be seen, but there is a note on the door..."
+
+[MainMissions.M_dlc1_ReturnToIsland MissionDefinition]
+MissionDescription="You told Jakobs what Ned's been up to.  They have hired you to take care of Ned, but first you need to return to Jakobs Cove.  Send a signal to Jakobs so they can send you a ride back to the island.  Once you get back to the island, find the Jakobs representative in town."
+MissionGiver="Jakobs ECHO"
+MissionName="Hitching A Ride"
+MissionSummary="Go back to the island and meet the Jakobs representative"
+Objectives[0]=(ProgressMessage="Signal sent:")
+Objectives[1]=(ProgressMessage="Survived:")
+Objectives[2]=(ProgressMessage="Take a ride:")
+TurnInDescription="A claptrap from Jakobs is awaiting your arrival. It appears he has more information for you."
+
+[MainMissions.M_dlc1_TellJakobs MissionDefinition]
+MissionDescription="Dr. Ned seems to be behind the zombies.  You decide to contact Jakobs so that he doesn't get away with it, but first you feel you better have more evidence to ensure they believe you. Surely they'll send troops or some other help, right?  You'll need to find a satellite communications array in order to send the ECHOS to them."
+MissionGiver="Ned ECHO"
+MissionName="Jakobs Fodder"
+MissionSummary="Collect evidence and notify Jakobs of Dr. Ned's experiments"
+Objectives[0]=(ProgressMessage="ECHO 1 taken:")
+Objectives[1]=(ProgressMessage="ECHO 2 taken:")
+Objectives[2]=(ProgressMessage="Comm array located:")
+Objectives[3]=(ProgressMessage="ECHO sent:")
+TurnInDescription="You sent word to Jakobs and they have already responded."
+
+[MainMissions.M_dlc1_Wereskag MissionDefinition]
+MissionDescription="Ned was testing a skag-based antidote to the zombie plague. The skags are immune to the illness, so Ned believes his antidote could be effective. Bring the antidote sample to the Claptrap in town so Ned can continue his research."
+MissionGiver="Dr. Ned"
+MissionName="There May Be Some Side Effects..."
+MissionSummary="Find the antidote sample for Dr. Ned."
+Objectives[0]=(ProgressMessage="Spooky entrance found:")
+Objectives[1]=(ProgressMessage="Antidote recovered:")
+TurnInDescription="Claptrap was hacked!  Investigate the story about Dr. Ned."
+
+[SideMissions.M_dlc1_BountyHunterLogs_Mill MissionDefinition]
+MissionDescription="To whomever discovers the circumstances of Jackie O'Callahan's death: HR has informed me that there were four others like yourself who were hired to deal with the issue. These employees also seem to have run into some difficulties.  Try to determine what happened to them."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Here We Go Again"
+MissionSummary="Find out what happened to the others who came to stop the zombies."
+Objectives[0]=(ProgressMessage="Moron found:")
+Objectives[1]=(ProgressMessage="Newb found:")
+Objectives[2]=(ProgressMessage="Wuss found:")
+Objectives[3]=(ProgressMessage="Chump found:")
+TurnInDescription="Well, at least we can clear those items from our accounts payable.  Let's hope that you don't meet a similar grisly demise - but if you do, could you try to get word to us in your last moments so that we can handle the resulting paperwork? That would be great."
+
+[SideMissions.M_dlc1_BountyHunterLogs_priest MissionDefinition]
+MissionDescription="To whomever is still alive: When the zombie issue first arose, there was a lone zealot among the work force who demanded a chance to destroy the 'evil' that had befallen our mill. The board decided that it couldn't hurt to have someone out there trying to stop the problem while employees were being lost. The Jakobs Corporation has not heard from him since that time.  There is a moderate monetary reward for determining the outcome of his endeavors."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Leave It To The Professionals"
+MissionSummary="Find some information about what happened to the 'zealot.'"
+Objectives[0]=(ProgressMessage="Clue found:")
+Objectives[1]=(ProgressMessage="Zealot found:")
+TurnInDescription="In hindsight, it was probably against our better judgment to let him make such an attempt, but his passion and outside-the-box thinking convinced us.  Unfortunately, he was not the last person hired to handle our situation."
+
+[SideMissions.M_dlc1_Eggs MissionDefinition]
+MissionDescription="Markus here.  Would you believe it?  I found a market for rotten, stinky undead bird eggs.  Some crazy bandits in the east think they are some sort of delicacy.  As I like to say, there is always opportunity!  I hear the crusty corpse eaters like to nest on coastline.  If you get me a shipment of eggs, I'll pay you handsomely."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Eggcellent Opportunity!"
+MissionSummary="Get Markus a shipment of corpse eater eggs."
+Objectives[0]=(ProgressMessage="Eggs:")
+TurnInDescription="Be sure to seal the box really tight.  I don't want to have to smell those things.  Enjoy your payment."
+
+[SideMissions.M_dlc1_FindZombieTK MissionDefinition]
+MissionDescription="TK Baha's prosthetic leg!  TK Baha must be nearby.  Find him!"
+MissionGiver="TK Baha's Leg"
+MissionName="TK Lives!"
+MissionSummary="Find TK Baha"
+Objectives[0]=(ProgressMessage="TK found:")
+TurnInDescription="TK Baha lives...sort of.  The poor guy has been turned into a zombie and all he can talk about is brains.  Maybe you can ease his pain."
+
+[SideMissions.M_dlc1_FixJakobsVending MissionDefinition]
+MissionDescription="To anyone attempting to survive in Jakobs Cove: There is a Jakobs company vending machine in town that could help you deal with Dr. Ned.  It may need a new power coupling, but if you're able to repair the machine, you can gain access to its inventory - something which could help you survive.  Remember, if it just needs to be dead, it needs to be a Jakobs.  These zombies need to be dead."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Upsale"
+MissionSummary="Find a power coupling and repair the Jakobs vending machine."
+Objectives[0]=(ProgressMessage="Power coupling:")
+Objectives[1]=(ProgressMessage="Coupling installed:")
+TurnInDescription="Excellent work.  If you survive, you should consider applying to Jakobs as a maintenance engineer."
+
+[SideMissions.M_dlc1_FrankenBill MissionDefinition]
+MissionDescription="To any employee of the Jakobs Corporation: We at Hyper-Temps, a division of Hyperion Industrial, offer an invitation to whomever can determine the whereabouts of the contractor we sent to work with the Jakobs company physician.  Frank Igorski has not reported to his agent for over a month. As a direct result of this behaviour, Frank has been terminated.  We now have a severance package that needs to be delivered to him. Please find information about his new situation and deliver the package."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="It's Alive!"
+MissionSummary="Uncover what happened to Frank Igorski and deliver his severance."
+Objectives[0]=(ProgressMessage="Info found:")
+Objectives[1]=(ProgressMessage="Severance delivered:")
+TurnInDescription="Thank you for reporting the circumstances of his untimely demise and reanimation."
+
+[SideMissions.M_dlc1_LogCollection MissionDefinition]
+MissionDescription="I have not heard from my husband, Hank, for weeks.  He worked down at the Jakobs mill.  I fear the worst; I must know what happened to him.  Please send me any news that you can.  I am offering a reward for anyone who can find him."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Missing: Hank Reiss"
+MissionSummary="Investigate the disappearance of Hank Reiss."
+Objectives[0]=(ProgressMessage="ECHO #1 found:")
+Objectives[1]=(ProgressMessage="ECHO #2 found:")
+Objectives[2]=(ProgressMessage="ECHO #3 found:")
+Objectives[3]=(ProgressMessage="ECHO #4 found:")
+Objectives[4]=(ProgressMessage="ECHO #5 found:")
+TurnInDescription="Thank you... Hearing his voice again is a cold comfort, but one I will have to accept to move on."
+
+[SideMissions.M_dlc1_PumpkinHead MissionDefinition]
+MissionDescription="Patricia Tannis here.  There have always been legends of a mysterious and elusive creature out at Jakobs Cove.  Some people call him Pumpkinhead.  Pretty spooky, huh?  I just call him Bob. As a scientist with a bit of a crackpot reputation, this story captivates me.  I would love a first-hand account of the creature.  Of course, the best way to prove something like this exists - which will then vindicate a so-called 'obsession with such a frivolous pursuit' - is a body.  So while a really blurry picture or an ECHO with some unidentifiable sounds on it would be nice, a corpse would be better. It's said to roam the swamps but only comes out when people carve creepy faces into pumpkins and put candles in them.  Doesn't make sense to me, but I never was any good at cooking."
+MissionGiver="Jakobs Cove Bounty Board"
+MissionName="Pumpkinhead"
+MissionSummary="Find and kill the mythical Pumpkinhead"
+Objectives[0]=(ProgressMessage="Jack-o-lantern 1 lit:")
+Objectives[1]=(ProgressMessage="Jack-o-lantern 2 lit:")
+Objectives[2]=(ProgressMessage="Corpse found:")
+TurnInDescription="You left the body to rot in the swamp?!  What good will that do me?  Amateurs..."
+
+[SideMissions.M_dlc1_RepairClaptrap MissionDefinition]
+MissionDescription="You've discovered a defunct Claptrap here.  Perhaps there is a Repair Kit nearby?"
+MissionGiver="Claptrap"
+MissionName="Claptrap Rescue: The Lumber Yard"
+MissionSummary="Find the Repair Kit and repair this Claptrap."
+Objectives[0]=(ProgressMessage="Repair Kit:")
+TurnInDescription="Thank you, kind traveler! I can now return to my assigned duties. By the way, I found this SDU. You look like you could use one of these!"
+
+[SideMissions.M_dlc1_TKBrains1 MissionDefinition]
+MissionDescription="TK seems to be in dire need of a brain to munch on."
+MissionGiver="Zombie TK Baha"
+MissionName="Brains"
+MissionSummary="Get TK some brains to eat."
+Objectives[0]=(ProgressMessage="Brains:")
+TurnInDescription="You gave him a few brains.  He appears to be coughing up an item..."
+
+[SideMissions.M_dlc1_TKBrains2 MissionDefinition]
+MissionDescription="TK is still hungry for brains.  Get him some more."
+MissionGiver="Zombie TK Baha"
+MissionName="Braaains"
+MissionSummary="Get TK some brains to eat."
+Objectives[0]=(ProgressMessage="Braaains:")
+TurnInDescription="You gave him more brains.  He appears to be coughing up an item..."
+
+[SideMissions.M_dlc1_TKBrains3 MissionDefinition]
+MissionDescription="TK's hunger seems to be growing.  Find him more brains."
+MissionGiver="Zombie TK Baha"
+MissionName="Braaaaains"
+MissionSummary="Get TK a bunch of brains to eat."
+Objectives[0]=(ProgressMessage="Braaaaains:")
+TurnInDescription="You gave him a bunch of brains.  He appears to be coughing up an item..."
+
+[SideMissions.M_dlc1_TKBrains4 MissionDefinition]
+MissionDescription="TK still needs brains.  Apparently a lot of them."
+MissionGiver="Zombie TK Baha"
+MissionName="Braaaaaaaaaaaains"
+MissionSummary="Get TK a boatload of brains to eat."
+Objectives[0]=(ProgressMessage="Braaaaaaaaaaaains:")
+TurnInDescription="You gave him a bunch of brains.  He appears to be coughing up an item..."
+
+[SideMissions.M_dlc1_TKBrains5 MissionDefinition]
+MissionDescription="Holy crap. This time you are going to come back with enough.  Find him more brains."
+MissionGiver="Zombie TK Baha"
+MissionName="Braaaaaaaaaaaaaaaaains"
+MissionSummary="Get TK a metric butt-ton of brains to eat."
+Objectives[0]=(ProgressMessage="Braaaaaaaaaaaaaaaaains:")
+TurnInDescription="You gave him a butt-ton of brains.  He appears to be coughing up an item...!  Hopefully he is finally satiated, and you've cleared his stomach of loot."
+
+[SideMissions.M_dlc1_WereskagPack MissionDefinition]
+MissionDescription="Dr. Ned here.  Seems like my antidote from skag blood didn't quite have the intended results.  You're lucky you survived your encounter with the so called Wereskag.  I wish I could say he was the only one, but the other test subjects seem to have formed a pack and are terrorizing the coastline by the old hospital. You should really take care of them to avoid the spread of that disease as well.  Man, sometimes I wonder if maybe I should have been a villain instead of an NPC."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="The Pack"
+MissionSummary="Find and kill the members of the pack."
+Objectives[0]=(ProgressMessage="Whiskey Wesley killed:")
+Objectives[1]=(ProgressMessage="Bigfoot killed:")
+Objectives[2]=(ProgressMessage="Red Jack killed:")
+Objectives[3]=(ProgressMessage="Father O'Callahan:")
+TurnInDescription="Thanks for that.  At least now the wereskags won't kill all the zombies...and become a bigger problem.  Yeah.  That's what I meant."
+
+[SideMissions.M_dlc1_WereskagPackAlt MissionDefinition]
+MissionDescription="Dr. Ned here.  Now, I know I'm supposed to be killin' you an all, but, you see, I got a problem. My attempt at making a skag-person hybrid was a complete success on the first try. I almost busted my gut trying to keep a straight face while I told this poor sap Hank that it was a cure for becoming a zombie.  The half-wit believed me and let me test it on him.  Worked like a charm as you well know.  Seems he must have bitten a few others before you came along.  They've formed a pack and have set up shop on the beach near the hospital.  Clean broke down the old gate on the beach and everything.  I hate to ask it of you, seeing as how we are mortal enemies now, but could you kill them so that they don't kill off my zombie army? Otherwise you'd be left with a more aggressive and harder-to-kill horde of abominations.  I'd be much obliged."
+MissionGiver="Jakobs Cove bounty board"
+MissionName="Truce?"
+MissionSummary="Find and kill the wereskag pack."
+Objectives[0]=(ProgressMessage="Whiskey Wesley killed:")
+Objectives[1]=(ProgressMessage="Bigfoot killed:")
+Objectives[2]=(ProgressMessage="Red Jack killed:")
+Objectives[3]=(ProgressMessage="Father O'Callahan:")
+TurnInDescription="Thanks for that.  At least now the wereskags won't kill all the zombies...and become a bigger problem.  OK, it's on again."

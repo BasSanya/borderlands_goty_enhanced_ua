@@ -1,0 +1,15 @@
+[Turret.Pawn_Balance_Turret_Gatling AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Gatling Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Gatling Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Gatling Turret"))
+
+[Turret.Pawn_Balance_Turret_Grenade AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Grenade Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Grenade Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Grenade Turret"))
+
+[Turret.Pawn_Balance_Turret_Rocket AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Rocket Turret"))
+Grades[1]=(GradeModifiers=(DisplayName="Rocket Turret"))
+Grades[2]=(GradeModifiers=(DisplayName="Rocket Turret"))
+

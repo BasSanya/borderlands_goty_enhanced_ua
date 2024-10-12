@@ -1,0 +1,11 @@
+[Definitions.AllRules ColiseumRuleDefinition]
+RuleTitle="-"
+RuleDescription="-"
+
+[Definitions.ColiseumOverlayDefinition WillowGFxColiseumOverlayDefinition]
+WaveLabels[0]="Starter Wave"
+WaveLabels[1]="Gun Wave"
+WaveLabels[2]="Horde Wave"
+WaveLabels[3]="Badass Wave"
+WaveLabels[4]="Boss Wave"
+

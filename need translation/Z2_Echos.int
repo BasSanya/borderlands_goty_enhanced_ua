@@ -1,0 +1,60 @@
+[Markus.Z2E_GetOnBus EchoCallDefinition]
+Subject="You Did It!"
+
+[Markus.Z2E_NetworkIsBack EchoCallDefinition]
+Subject="The ECHO Network Is Back"
+
+[Markus.Z2E_StaticSignal EchoCallDefinition]
+Subject="There's Only One Person"
+
+[Steele.Z2E_MartialLaw EchoCallDefinition]
+Subject="Martial Law"
+
+[Tannis.Z2E_BewareGuardians EchoCallDefinition]
+Subject="Guardians"
+
+[Tannis.Z2E_ExcellentWork EchoCallDefinition]
+Subject="Excellent Work"
+
+[Tannis.Z2E_Static EchoCallDefinition]
+Subject="Static"
+
+[VoG.Z2E_AllOverAgain EchoCallDefinition]
+Subject="To Do It All Over Again"
+
+[VoG.Z2E_FeelingWeek EchoCallDefinition]
+Subject="I'm Feeling Weak"
+
+[VoG.Z2E_IAmBlind EchoCallDefinition]
+Subject="I Am Blind"
+
+[VoG.Z2E_ICanSee EchoCallDefinition]
+Subject="I Can See!"
+
+[VoG.Z2E_IFeelLost EchoCallDefinition]
+Subject="I Feel Lost"
+
+[VoG.Z2E_ItCanBeBeaten EchoCallDefinition]
+Subject="You Can Beat It!"
+
+[VoG.Z2E_KillTheHost EchoCallDefinition]
+Subject="Kill The Host!"
+
+[VoG.Z2E_LoosenItsGrip EchoCallDefinition]
+Subject="Loosen Its Grip!"
+
+[VoG.Z2E_NoHope EchoCallDefinition]
+Subject="There's No Hope"
+
+[VoG.Z2E_TimeToFight EchoCallDefinition]
+Subject="It's Time To Fight"
+
+[VoG.Z2E_VaultIsSealed EchoCallDefinition]
+Subject="That's It!"
+
+[VoG.Z2E_YouveInjuredIt EchoCallDefinition]
+Subject="It's Time To Fight"
+
+[VoG.Z2E_YouWon EchoCallDefinition]
+Subject="You Did It!"
+

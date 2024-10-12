@@ -1,0 +1,207 @@
+[acc.acc2_Evil WeaponPartDefinition]
+PartName="Evil"
+
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[acc.acc1_Recoiless WeaponPartDefinition]
+PartName="Recoiless"
+
+[acc.acc2 WeaponPartDefinition]
+PartName=
+
+[Title.TitleU_BSG_HiveMind WeaponNamePartDefinition]
+PartName="Hive Mind"
+
+[Title.TitleU_BSG_HiveMind:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="That's gonna leave a Marx"
+
+[A_Weapon.WeaponType_rocket_launcher WeaponTypeDefinition]
+TypeName="Rocket Launcher"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Title.TitleU_Retail_Leviathan:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="It rises!"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=
+
+[Title.TitleU_TaylorKobb_TheRoaster WeaponNamePartDefinition]
+PartName="The Roaster"
+
+[Title.TitleU_TaylorKobb_TheRoaster:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Gonna cook someone today"
+
+[acc.acc4_Devastating WeaponPartDefinition]
+PartName="Devastating"
+
+[Barrel.barrel1 WeaponPartDefinition]
+PartName=
+
+[Body.body5 WeaponPartDefinition]
+PartName="RWL"
+
+[Body.body1 WeaponPartDefinition]
+PartName="RPG"
+
+[Grip.grip3_Gearbox WeaponPartDefinition]
+PartName="Maliwan"
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[Barrel.barrel1_tripple WeaponPartDefinition]
+PartName=
+
+[Prefix.Prefix_Quality2_Massive WeaponNamePartDefinition]
+PartName="Massive"
+
+[Barrel.barrel2 WeaponPartDefinition]
+PartName=
+
+[Barrel.barrel2_Hyperion_Nidhogg WeaponPartDefinition]
+PartName="Nidhogg"
+
+[Prefix.Prefix_Barrel_Triple WeaponNamePartDefinition]
+PartName="Triple"
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Torgue"
+
+[Barrel.barrel3 WeaponPartDefinition]
+PartName=
+
+[Barrel.barrel4 WeaponPartDefinition]
+PartName=
+
+[Body.body3 WeaponPartDefinition]
+PartName="SPC"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Atlas"
+
+[Barrel.barrel5 WeaponPartDefinition]
+PartName=
+
+[Body.body2 WeaponPartDefinition]
+PartName=RPD
+
+[Body.body4 WeaponPartDefinition]
+PartName=VLK
+
+[Title.TitleM_Hyperion1_Nidhogg WeaponNamePartDefinition]
+PartName="Nidhogg"
+
+[Barrel.barrel4_Torgue_Redemption WeaponPartDefinition]
+PartName="Redemption"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Vladof"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Dahl"
+
+[Title.TitleM_Torgue1_Redemption WeaponNamePartDefinition]
+PartName="Redemption"
+
+[Title.TitleM_Hyperion1_Nidhogg:AttributePresentationDefinition_1 AttributePresentationDefinition]
+NoConstraintText="Airburst Rockets"
+
+[Title.TitleM_Maliwan1_Rhino:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="The Unstoppable Force"
+
+[Prefix.Prefix_Quality3_Colossal WeaponNamePartDefinition]
+PartName="Colossal"
+
+[Sight.sight1:AttributePresentationDefinition_3 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[Sight.sight2:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Prefix.Prefix_Barrel_Tripple WeaponNamePartDefinition]
+PartName=Tripple
+
+[Title.Title_Accuracy1_Harpoon WeaponNamePartDefinition]
+PartName="Harpoon"
+
+[Title.Title_RocketLauncher WeaponNamePartDefinition]
+PartName="Rocket Launcher"
+
+[Prefix.Prefix_Quality1_Big WeaponNamePartDefinition]
+PartName="Big"
+
+[Prefix.Prefix_Acc1_Recoiless WeaponNamePartDefinition]
+PartName="Recoiless"
+
+[Prefix.Prefix_Acc2_Evil WeaponNamePartDefinition]
+PartName="Evil"
+
+[Prefix.Prefix_Basic1_Rocket WeaponNamePartDefinition]
+PartName="Rocket"
+
+[UniqueParts.TheRoaster_Material WeaponPartDefinition]
+PartName=" C"
+
+[UniqueParts.TheRoaster_Material:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Very high Elemental Effect chance"
+
+[UniqueParts.Leviathan_Material WeaponPartDefinition]
+PartName=" C"
+
+[UniqueParts.TheRoaster_acc5_Incendiary WeaponPartDefinition]
+PartName="The Roaster"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[Title.Title_Damage1_Destructor WeaponNamePartDefinition]
+PartName="Destructor"
+
+[Prefix.Prefix_Acc4_Devastating WeaponNamePartDefinition]
+PartName="Devastating"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="Maliwan"
+
+[Title.TitleM_Torgue1_Redemption:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Monster Kill!"
+
+[Prefix.Prefix_Barrel_Helix WeaponNamePartDefinition]
+PartName="Helix"
+
+[Title.TitleM_Vladof1_Mongol WeaponNamePartDefinition]
+PartName="Mongol"
+
+[Title.TitleM_Maliwan1_Rhino WeaponNamePartDefinition]
+PartName="Rhino"
+
+[Title.TitleM_Vladof1_Mongol:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Beware the Horde!"
+
+[Prefix.Prefix_Barrel_Spread WeaponNamePartDefinition]
+PartName="Spread"
+
+[Title.TitleU_Retail_Leviathan WeaponNamePartDefinition]
+PartName="Leviathan"
+
+[Sight.sight4:AttributePresentationDefinition_24 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+
+[Title.Title__Launcher WeaponNamePartDefinition]
+PartName="Launcher"
+
+[Title.TitleM_Hyperion1_Nidhogg:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="Death rains from above"
+
+[Sight.sight3:AttributePresentationDefinition_17 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+
+[Sight.sight5:AttributePresentationDefinition_33 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+

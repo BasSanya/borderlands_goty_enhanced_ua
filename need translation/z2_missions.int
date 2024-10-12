@@ -1,0 +1,84 @@
+[missions.m_speaktotannis MissionDefinition]
+MissionName="Talk to Tannis"
+MissionDescription="You continue to be adequate. I can tell the ECHO system is back online because you can hear me, and I can hear you. But, even though we can hear each other, I want you to come back here and talk to me in person. I need to tinker with your ECHO device a bit."
+TurnInDescription="Those useless Lance don't realize I'm helping you. If they had any sense, they'd have killed all of us long ago. That Steele woman is too intent on opening the Vault, though. Her ambition will be the death of her. Well, if you don't kill her first. You like killing people, right?"
+MissionSummary="Talk to Tannis inside the Crimson Fastness."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="Tannis talked to:")
+
+[missions.m_claptraprescuesanctuary MissionDefinition]
+MissionName="Claptrap Rescue: The Salt Flats"
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out in this desolate place?"
+TurnInDescription="It was horrible! I don't know what happened, exactly, but I was caught in the crossfire! You definitely want to have the best possible gear if you're going to venture into this battleground. Here, you might find this useful."
+MissionSummary="Find a repair kit and return to the Claptrap robot."
+MissionGiver="Claptrap"
+Objectives[0]=(ProgressMessage="Repair Kit:")
+
+[missions.m_findecho MissionDefinition]
+MissionName="Find the ECHO Command Console"
+MissionDescription="It's probably impossible to take back the Vault Key or open the Vault now. Let's focus on something else instead. Let's bring the ECHO system back on-line. The Lance locked it down, but I know how we can bring it back, since I pretty much invented it. I wrote some instructions on the back of this paper towel. Find the ECHO command console, and follow my instructions."
+TurnInDescription="This appears to be the ECHO command console that Tannis described. If you manage to read her rambling scrawl, you should be able to reactivate the system."
+MissionSummary="Find the ECHO command console."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="ECHO console found:")
+
+[missions.m_findsteele MissionDefinition]
+MissionName="Find Steele"
+MissionDescription="I know where the Vault is, and so does Steele. She took my Vault Key. You know, the one you worked so hard to get for me? Well, she took it. That albino bitch is going to open the Vault unless you can somehow find her and beat her to it. I'm marking a waypoint at the location of the Vault. I don't have to tell you what to do, do I?"
+TurnInDescription="You've fallen into an ambush set by the Crimson Lance. Steele anticipated your pursuit and took measures to ensure you couldn't interfere."
+MissionSummary="Find Steele and take back the Vault Key."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="Steele found:")
+
+[missions.m_recoverlostdata_3 MissionDefinition]
+MissionName="Hidden Journal: Rust Commons East"
+MissionDescription="This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in Rust Commons East, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board."
+TurnInDescription="Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal."
+MissionSummary="Download 5 Log Entries from Data Recorders in Rust Commons East."
+MissionGiver="Middle Of Nowhere Bounty Board"
+Objectives[0]=(ProgressMessage="Journal Day 578:")
+Objectives[1]=(ProgressMessage="Journal Day 616:")
+Objectives[2]=(ProgressMessage="Journal Day 653:")
+Objectives[3]=(ProgressMessage="Journal Day 684:")
+Objectives[4]=(ProgressMessage="Journal Day 718:")
+
+[missions.m_returnkey MissionDefinition]
+MissionName="Bring The Vault Key To Tannis"
+MissionDescription="The Vault Key won't work again for another two hundred years, so it is now effectively useless. Tannis has volunteered to become the caretaker of the key, and may even pay well for it."
+TurnInDescription="Thank you for bringing this to me. This cash sum should cover the hardships you've endured, and ensure your continued silence. The key won't work again for hundreds of years, but I must keep it from falling into the wrong hands. In the meantime, I will continue my research. It appears that there is more to be learned from the Eridians than weaponry and spaceships."
+MissionSummary="Grab the Vault Key and return to Tannis at her Rust Commons dig site."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="Vault Key:")
+
+[missions.m_reactivateecho MissionDefinition]
+MissionName="Reactivate the ECHO Comm System"
+MissionDescription="The notes Tannis gave you are rambling and disjointed, and appear to be written in the form of an argument with either an invisible cellmate or a rat. However, she also mentions reactivating three network transmitter consoles in three separate buildings, then returning to this main control console."
+TurnInDescription="Success! The ECHO communication network is back on-line."
+MissionSummary="Reactivate Transmitter Consoles."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="Transmitter Console activated:")
+
+[missions.m_unknown MissionDefinition]
+MissionName="Get Some Answers"
+MissionDescription="Tannis has betrayed you. Who knows what motivates that babbling bitch, but it's a sure bet she's fled her dig site. It's time to take back your Vault key and get some answers. First, you'll need to figure out where she's hiding."
+TurnInDescription="I see you either received my message or came here on some other errand. The Lance locked me in here and shut down the ECHO, but they left my communicator with me. That was really stupid of them. You probably hate me, but I didn't intend to betray you. Steele wanted the key and wanted you gone. Sending you after Baron Flynt was her idea, and it seemed like something you'd enjoy, so I went along with it. Now I'm trapped here, and she's taken the Vault Key."
+MissionSummary="Find Tannis, wherever she may be."
+MissionGiver="Patricia Tannis"
+Objectives[0]=(ProgressMessage="Tannis found:")
+
+[missions.m_claptraprescuelancebunker MissionDefinition]
+MissionName="Claptrap Rescue: Crimson Fastness"
+MissionDescription="You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out here?"
+TurnInDescription="Thank you kindly, stranger! The Crimson Lance have no tolerance for perfectly innocent robots, such as yours truly, who wander into other people's bunkers and then get lost through no fault of their own. Here's a small gift to show my undying gratitude."
+MissionSummary="Find a repair kit and return to the Claptrap robot."
+MissionGiver="Claptrap"
+Objectives[0]=(ProgressMessage="Repair Kit:")
+
+[missions.m_findthevault MissionDefinition]
+MissionName="Destroy The Destroyer"
+MissionDescription="Do you feel that I betrayed you? Do not. I am possessed of a sight that allows me to look forward and backward along the timeline, and the release of this creature was inevitable. There was only one chance for this dimension's continued existence. A hero. Someone who was at the right place, at the right time, and strong enough to push back. I have given you the unique opportunity to defend the existence of all that you know. Go! Fight! Be that hero! I will help you however I can."
+TurnInDescription="You did it! You won. I'm sorry I couldn't warn you, but for you to be here, it couldn't have unfolded any other way. You were brilliant, and your actions will not go unrewarded."
+MissionSummary="Defeat the Destroyer."
+MissionGiver="Guardian Angel"
+Objectives[0]=(ProgressMessage="Destroyer defeated:")
+

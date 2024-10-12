@@ -1,0 +1,28 @@
+[dlgNewDlc]
+Caption=Downloadable Content
+Prompt=You have installed "%DLCPACKAGE%".\n\nYou can travel to this new area by selecting "%DLCOUTPOST%" from a Fast Travel Station! You will not be able to access downloadable content when connected to a host that doesn't have the downloadable content.\nIf you are currently in the Borderlands, you will need to exit to the main menu to access this downloadable content.
+
+[dlgUnableToJoinForDlc]
+Caption=Unable to Join
+Prompt=You were unable to join the host because you either have an incompatible version of the game, or the host is currently in downloadable content you do not have.
+
+[dlgRemovedDlcDependantMU]
+Caption=Downloadable Content
+Prompt=You have been returned to the main menu because a storage device that contained downloadable content being used by the game was removed.
+
+[dlgClientOutdated]
+Caption=Connection Failed
+Prompt=The match you are trying to join is running an incompatible version of the game.  Please try upgrading your game version.
+
+[dlgServerOutdated]
+Caption=Connection Failed
+Prompt=The host you are trying to connect to is running an outdated version of the game.
+
+[dlgBonusContent]
+URL=https://store.gearboxsoftware.com/
+Caption=Bonus Content
+Prompt=Pressing 'Yes' will launch your web browser to the website where you may download bonus content for Borderlands.
+
+[dlgNewDLCAvailable]
+Caption=New content
+Prompt=The following new downloadable content is now available. Press Yes to view the Xbox LIVE Marketplace or No to go back to the main menu.

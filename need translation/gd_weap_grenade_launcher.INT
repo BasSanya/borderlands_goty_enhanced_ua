@@ -1,0 +1,93 @@
+[acc.acc2_Blitz WeaponPartDefinition]
+PartName="Blitz"
+
+[Body.body4_Jakobs_Terror WeaponPartDefinition]
+PartName="JKB"
+
+[Prefix.Prefix_Barrel_Rebounding WeaponNamePartDefinition]
+PartName="Rebounding"
+
+[Title.TitleU_NineToes_BigToe:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Stubbed"
+
+[Title.Title_Barrel4_Mortar WeaponNamePartDefinition]
+PartName="Mortar"
+
+[Prefix.Prefix_Barrel_Sticky WeaponNamePartDefinition]
+PartName="Impact"
+
+[acc.acc4_Mad WeaponPartDefinition]
+PartName="Mad"
+
+[Body.body2 WeaponPartDefinition]
+PartName="BGL"
+
+[Body.body4 WeaponPartDefinition]
+PartName="VLK"
+
+[Prefix.Prefix_Acc1_Divine WeaponNamePartDefinition]
+PartName="Divine"
+
+[Prefix.Prefix_Barrel_Impact WeaponNamePartDefinition]
+PartName="Impact"
+
+[A_Weapon.WeaponType_grenade_launcher WeaponTypeDefinition]
+TypeName="Grenade Launcher"
+
+[Prefix.Prefix_Quality1_Fat WeaponNamePartDefinition]
+PartName="Fat"
+
+[Prefix.Prefix_Quality2_Jumbo WeaponNamePartDefinition]
+PartName="Jumbo"
+
+[Title.TitleM_SandS1_Rainmaker:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="I feel a storm coming"
+
+[Title.TitleM_SandS1_Rainmaker WeaponNamePartDefinition]
+PartName="Rainmaker"
+
+[Prefix.Prefix_Basic1_Grenade WeaponNamePartDefinition]
+PartName="Grenade"
+
+[Title.Title_GrenadeLauncher WeaponNamePartDefinition]
+PartName="Grenade Launcher"
+
+[acc.acc1_Divine WeaponPartDefinition]
+PartName="Divine"
+
+[Title.TitleM_Dahl1_Onslaught:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Artillery Strike!"
+
+[Title.TitleM_Jakobs1_Terror:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Mister Jakobs sends his regards"
+
+[Prefix.Prefix_Acc2_Blitz WeaponNamePartDefinition]
+PartName="Blitz"
+
+[Title.Title_Damage1_Trauma WeaponNamePartDefinition]
+PartName="Trauma"
+
+[Title.Title_Firerate1_Raider WeaponNamePartDefinition]
+PartName="Raider"
+
+[Title.TitleU_NineToes_BigToe WeaponNamePartDefinition]
+PartName="The Big Toe"
+
+[Prefix.Prefix_Acc4_Mad WeaponNamePartDefinition]
+PartName="Grenade"
+
+[Title.TitleM_Jakobs1_Terror WeaponNamePartDefinition]
+PartName="Terror"
+
+[Prefix.Prefix_Quality3_Mammoth WeaponNamePartDefinition]
+PartName="Mammoth"
+
+[Title.TitleM_Dahl1_Onslaught WeaponNamePartDefinition]
+PartName="Onslaught"
+
+[Title.TitleM_Atlas1_Leviathan:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="It Rises!"
+
+[Title.TitleM_Atlas1_Leviathan WeaponNamePartDefinition]
+PartName="Leviathan"
+

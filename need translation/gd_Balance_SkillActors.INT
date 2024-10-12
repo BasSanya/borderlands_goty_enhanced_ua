@@ -1,0 +1,19 @@
+[Turret.Pawn_Balance_Scorpio AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[1]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[2]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[3]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[4]=(GradeModifiers=(DisplayName="Scorpio"))
+
+[Turret.Pawn_Balance_Scorpio:Behavior_AttributeEffect_0.SkillDefinition_3 SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription=""
+SkillName=""
+
+[Turret.Pawn_Balance_Scorpio_CrimsonLance AIPawnBalanceDefinition]
+Grades[0]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[1]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[2]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[3]=(GradeModifiers=(DisplayName="Scorpio"))
+Grades[4]=(GradeModifiers=(DisplayName="Scorpio"))
+

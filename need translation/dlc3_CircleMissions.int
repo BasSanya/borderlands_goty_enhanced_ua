@@ -1,0 +1,48 @@
+[MainMissions.M_dlc3_Circle_Wave1 MissionDefinition]
+MissionName="Circle of Duty: Cadet"
+MissionDescription="A new recruit! Excellent. When you are ready to fight. Enter center of the red Crimson Lance logo notify the squad you are ready. This first round weeds out the real weaklings. Let's see how you do."
+TurnInDescription="Not bad. A bit of a greenhorn, but you show potential."
+MissionSummary="Survive the round."
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Survive round:")
+
+[MainMissions.M_dlc3_Circle_Wave2 MissionDefinition]
+MissionName="Circle of Duty: Private"
+MissionDescription="Ready for the next challenge? Things should be a bit tougher. Head on into the center ring when you are ready. Good luck."
+TurnInDescription="Good job! You might have what it takes to be part of the glory of the Lance!"
+MissionSummary="Survive the round."
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Survive round:")
+
+[MainMissions.M_dlc3_Circle_Wave3 MissionDefinition]
+MissionName="Circle of Duty: Corporal"
+MissionDescription="You're moving up the ranks. Time to really put youto the test. When you are ready, enter the center of the red Crimson Lance logo. I hope you've been training."
+TurnInDescription="You've definitely caught the eye of the Lance higher-ups. Keep up the good work."
+MissionSummary="Survive the round."
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Survive round:")
+
+[MainMissions.M_dlc3_Circle_Wave4 MissionDefinition]
+MissionName="Circle of Duty: Sergeant"
+MissionDescription="You ready to try the sergeant level, eh? Well don't stand there looking at me, get going!"
+TurnInDescription="This is it recruit. Only one more and you are in."
+MissionSummary="Survive the round"
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Survive round:")
+
+[MainMissions.M_dlc3_Circle_Wave5 MissionDefinition]
+MissionName="Circle of Duty: Medal of Duty"
+MissionDescription="This is it. The final challenge to prove your honor and worthiness to be one of the Crimson Lance."
+TurnInDescription="Well, you did a great job, but it has just come to our attention that you recently murdered our General. Therefore I must decline your request to join the Crimson Lance."
+MissionSummary="Survive the round"
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Survive round:")
+
+[MainMissions.M_dlc3_CircleMeet MissionDefinition]
+MissionName="Circle of Duty: New Recruit"
+MissionDescription="The Crimson Lance is looking for local Pandorans to add to their ranks. You need only survive the Circle of Duty to join! They are also looking for new recruits to join them. If you think you are ready to join the elite ranks, stop on by!"
+TurnInDescription="Excellent! Are you ready to test your worth in the Circle of Duty?"
+MissionSummary="Meet the Circle of Duty Director, Zach."
+MissionGiver="Circle Director"
+Objectives[0]=(ProgressMessage="Meet Zach:")
+

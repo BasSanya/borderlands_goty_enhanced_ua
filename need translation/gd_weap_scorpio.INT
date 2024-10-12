@@ -1,0 +1,15 @@
+[A_Weapon.WeaponType_scorpio_weapon WeaponTypeDefinition]
+TypeName="Semi-auto Sniper Rifle"
+
+[acc.acc_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[acc.acc_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[acc.acc_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[acc.acc_Shock WeaponPartDefinition]
+PartName="Shock"
+

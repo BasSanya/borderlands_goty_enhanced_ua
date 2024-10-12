@@ -1,0 +1,11 @@
+[Skills.Insane SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Going Insane so prefer melee"
+SkillName="Insane"
+
+[Skills.Sprint SkillDefinition]
+LockedSkillDetailStr="<Locked>"
+SkillDescription="Sprint towards current target to aid with melee"
+SkillEffectDefinitions[0]=(HumanReadableText="Increase pawn's movement speed")
+SkillName="Sprint"
+

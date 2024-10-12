@@ -1,0 +1,98 @@
+[ItemDefs.ID_Baggage ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Baggage"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Baggage:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Looks pretty beat up."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Int1_Crystal_Orange01 ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Incendiary Crystals"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Int1_Crystal_Orange01:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="It glows with inner heat."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger3_Barrel ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Revolver Barrel"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger3_Barrel:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="It's a revolver barrel. What else is there to say?"
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger3_Body ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Revolver Body"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger3_Body:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Another part of a revolver."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger3_Cylinder ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Revolver Cylinder"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger3_Cylinder:AttributePresentationDefinition_4 AttributePresentationDefinition]
+Description="As revolver parts go, this one's pretty awesome."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Scavenger3_Sight ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Revolver Sight"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Scavenger3_Sight:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="It looks serviceable."
+NoConstraintText=""
+Suffix=""
+
+[ItemDefs.ID_Skag ItemDefinition]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Skagzilla Bait"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+
+[ItemDefs.ID_Skag:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="The smells of rotting fish and burning hair, together at last!"
+NoConstraintText=""
+Suffix=""
+

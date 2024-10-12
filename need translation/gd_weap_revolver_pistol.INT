@@ -1,0 +1,201 @@
+[Title.TitleU_Retail_Patton WeaponNamePartDefinition]
+PartName="Patton"
+
+[Title.TitleU_BSG_Violence WeaponNamePartDefinition]
+PartName="Violence"
+
+[Title.TitleU_BSG_Violence:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Death will reign."
+
+[acc.acc1 WeaponPartDefinition]
+PartName=
+
+[Title.TitleM_Maliwan1_Defiler:AttributePresentationDefinition_9 AttributePresentationDefinition]
+NoConstraintText="Give Sick"
+
+[Title.TitleM_Tediore1_Equalizer WeaponNamePartDefinition]
+PartName="Equalizer"
+
+[acc.acc2 WeaponPartDefinition]
+PartName=
+
+[Title.TitleM_Tediore1_Equalizer:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Unending Firepower"
+
+[Prefix.Prefix_Firerate1_Swift WeaponNamePartDefinition]
+PartName="Swift"
+
+[Title.Title_Acc2_Masher WeaponNamePartDefinition]
+PartName="Masher"
+
+[Sight.sight5:AttributePresentationDefinition_34 AttributePresentationDefinition]
+NoConstraintText="4x Weapon Zoom"
+
+[acc.acc4 WeaponPartDefinition]
+PartName=Stabilizer
+
+[Title.Title_Accuracy1_Viper WeaponNamePartDefinition]
+PartName="Viper"
+
+[Title.Title__Revolver WeaponNamePartDefinition]
+PartName="Revolver"
+
+[Title.Title_Acc1_Razor WeaponNamePartDefinition]
+PartName="Razor"
+
+[mag.mag3 WeaponPartDefinition]
+PartName="Shotblast"
+
+[Grip.grip3 WeaponPartDefinition]
+PartName="Maliwan"
+
+[mag.mag4 WeaponPartDefinition]
+PartName="0"
+
+[acc.acc5_Incendiary WeaponPartDefinition]
+PartName="Incendiary"
+
+[UniqueParts.MadJack_Material WeaponPartDefinition]
+PartName=" B"
+
+[Title.TitleU_Retail_Patton:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="May God have mercy upon my enemies, because I won't."
+
+[UniqueParts.MadJack_Material:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Higher Elemental Effect chance"
+
+[acc.acc4_stabilized WeaponPartDefinition]
+PartName="Stabilizer"
+
+[acc.acc3_Shock WeaponPartDefinition]
+PartName="Shock"
+
+[acc.acc5_Explosive WeaponPartDefinition]
+PartName="Explosive"
+
+[Body.body3 WeaponPartDefinition]
+PartName="MAL"
+
+[Body.body4 WeaponPartDefinition]
+PartName="KLR"
+
+[acc.acc5_Atlas_Chimera WeaponPartDefinition]
+PartName="Chimera"
+
+[Body.body2 WeaponPartDefinition]
+PartName="DL"
+
+[Body.body3_tediore_Equalizer WeaponPartDefinition]
+PartName="EQ"
+
+[Body.body5 WeaponPartDefinition]
+PartName="AX"
+
+[Grip.grip4 WeaponPartDefinition]
+PartName="Jakobs"
+
+[Grip.grip3_Gearbox WeaponPartDefinition]
+PartName="Gearbox"
+
+[mag.mag5 WeaponPartDefinition]
+PartName="X"
+
+[Grip.grip1 WeaponPartDefinition]
+PartName="Tediore"
+
+[Grip.grip5 WeaponPartDefinition]
+PartName="Atlas"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName="Dahl"
+
+[Title.TitleM_Maliwan1_Defiler WeaponNamePartDefinition]
+PartName="Defiler"
+
+[acc.acc2_Masher WeaponPartDefinition]
+PartName="Masher"
+
+[Prefix.Prefix_Acc1_Bladed WeaponNamePartDefinition]
+PartName="Bladed"
+
+[Prefix.Prefix_Damage1_Bloody WeaponNamePartDefinition]
+PartName="Bloody"
+
+[UniqueParts.Patton_grip5 WeaponPartDefinition]
+PartName="Atlas"
+
+[acc.acc3_Maliwan_Defiler_Corrosive WeaponPartDefinition]
+PartName="Defiler"
+
+[acc.acc3_Corrosive WeaponPartDefinition]
+PartName="Corrosive"
+
+[A_Weapon.WeaponType_revolver_pistol WeaponTypeDefinition]
+TypeName="Revolver Pistol"
+
+[Body.body1 WeaponPartDefinition]
+PartName="RV"
+
+[Title.TitleU_OneEyedJack_Madjack WeaponNamePartDefinition]
+PartName="Madjack"
+
+[Title.TitleU_OneEyedJack_Madjack:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Fools!  They called me maaaad!"
+
+[Title.Title_Damage2_Justice WeaponNamePartDefinition]
+PartName="Justice"
+
+[Title.Title_Firerate1_Law WeaponNamePartDefinition]
+PartName="Law"
+
+[UniqueParts.Patton_Material:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Higher Elemental Effect chance"
+
+[Title.Title_Tediore1_Equalizer WeaponNamePartDefinition]
+PartName=Equalizer
+
+[Title.TitleM_Atlas1_Chimera:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="A beast of many forms - Fire, Lightning, and Poison"
+
+[Title.TitleM_Jakobs1_Unforgiven:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="It's a helluva thing..."
+
+[Title.TitleM_Dahl1_Anaconda WeaponNamePartDefinition]
+PartName="Anaconda"
+
+[Prefix.Prefix_Quality2_Primal WeaponNamePartDefinition]
+PartName="Primal"
+
+[Title.TitleM_Atlas1_Chimera WeaponNamePartDefinition]
+PartName="Chimera"
+
+[Prefix.Prefix_Quality3_Savage WeaponNamePartDefinition]
+PartName="Savage"
+
+[Title.Title_Firerate1_Steel WeaponNamePartDefinition]
+PartName="Steel"
+
+[Title.TitleM_Jakobs1_Unforgiven WeaponNamePartDefinition]
+PartName="Unforgiven"
+
+[Title.TitleM_Dahl1_Anaconda:AttributePresentationDefinition_10 AttributePresentationDefinition]
+NoConstraintText="Long and Strong"
+
+[Prefix.Prefix_LowAccuracy1_Raw WeaponNamePartDefinition]
+PartName="Raw"
+
+[Prefix.Prefix_Quality1_Brutal WeaponNamePartDefinition]
+PartName="Brutal"
+
+[Sight.sight4:AttributePresentationDefinition_21 AttributePresentationDefinition]
+NoConstraintText="3x Weapon Zoom"
+
+[Sight.sight1:AttributePresentationDefinition_4 AttributePresentationDefinition]
+NoConstraintText="1.4x Weapon Zoom"
+
+[Sight.sight2:AttributePresentationDefinition_12 AttributePresentationDefinition]
+NoConstraintText="1.7x Weapon Zoom"
+
+[Sight.sight3:AttributePresentationDefinition_14 AttributePresentationDefinition]
+NoConstraintText="2x Weapon Zoom"
+

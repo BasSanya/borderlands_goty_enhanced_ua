@@ -1,0 +1,10 @@
+[DamageType.DmgType_Shock_Impact:AttributePresentationDefinition_5 AttributePresentationDefinition]
+Description="Highly effective vs Shields"
+NoConstraintText=""
+Suffix=""
+
+[DamageType.DmgType_Shock_Impact:AttributePresentationDefinition_6 AttributePresentationDefinition]
+Description="Chance to electrocute enemies"
+NoConstraintText=""
+Suffix=""
+

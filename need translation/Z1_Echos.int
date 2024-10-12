@@ -1,0 +1,300 @@
+[ClapTrap.Z1E_ClassMod EchoCallDefinition]
+Subject="Class Mods"
+
+[ClapTrap.Z1E_MoreMissionsEarl EchoCallDefinition]
+Subject="Crazy Earl Has More Missions"
+
+[ClapTrap.Z1E_MoreMissionsErnest EchoCallDefinition]
+Subject="Ernest Has More Missions"
+
+[ClapTrap.Z1E_MoreMissionsHelena EchoCallDefinition]
+Subject="Helena Has More Missions"
+
+[ClapTrap.Z1E_MoreMissionsLucky EchoCallDefinition]
+Subject="Lucky's Bounty Board"
+
+[ClapTrap.Z1E_MoreMissionsMON EchoCallDefinition]
+Subject="Middle Of Nowhere Bounty Board"
+
+[ClapTrap.Z1E_MoreMissionsNewHaven EchoCallDefinition]
+Subject="New Haven Bounty Board"
+
+[ClapTrap.Z1E_MoreMissionsScooter EchoCallDefinition]
+Subject="Scooter Has More Missions"
+
+[ClapTrap.Z1E_MoreMissionsScrapyard EchoCallDefinition]
+Subject="Scrapyard Bounty Board"
+
+[ClapTrap.Z1E_MoreMissionsTannis EchoCallDefinition]
+Subject="Tannis Has More Missions"
+
+[Earl.Z1E_IsThisThingOn EchoCallDefinition]
+Subject="Is This Thing On?"
+
+[Earl.Z1E_KeepItTheHellAway EchoCallDefinition]
+Subject="Keep It The Hell Away"
+
+[Earl.Z1E_KromStoleIt EchoCallDefinition]
+Subject="Krom Stole It"
+
+[Flynt.Z1E_Taunt_01 EchoCallDefinition]
+Subject="Let You Live Too Long"
+
+[Flynt.Z1E_Taunt_02 EchoCallDefinition]
+Subject="Been Looking Forward To This"
+
+[Flynt.Z1E_Taunt_03 EchoCallDefinition]
+Subject="Beaten A Path To My Door"
+
+[Flynt.Z1E_Taunt_04 EchoCallDefinition]
+Subject="Make Yourself At Home"
+
+[Flynt.Z1E_YouMustBePunished EchoCallDefinition]
+Subject="Top Of My Hit List"
+
+[Helena.Z1E_BargainsWithBandits EchoCallDefinition]
+Subject="Bargains With Bandits?"
+
+[Helena.Z1E_IWasThinking EchoCallDefinition]
+Subject="I Was Thinking"
+
+[Helena.Z1E_SanctuaryClosed EchoCallDefinition]
+Subject="The Road to Sanctuary is Closed"
+
+[Helena.Z1E_StrangeInterference EchoCallDefinition]
+Subject="Strange Interference"
+
+[Helena.Z1E_WhatTheHell EchoCallDefinition]
+Subject="What The Hell Happened?"
+
+[Markus.Z1E_AboutTannis EchoCallDefinition]
+Subject="About Tannis"
+
+[Markus.Z1E_AnOutrage EchoCallDefinition]
+Subject="It's An Outrage!"
+
+[Markus.Z1E_DontForgetMyStores EchoCallDefinition]
+Subject="Remember The Commerce Grid"
+
+[Markus.Z1E_ECHOGlitching EchoCallDefinition]
+Subject="So You Killed Flynt"
+
+[Markus.Z1E_MoreAboutTannis EchoCallDefinition]
+Subject="More About Tannis"
+
+[Markus.Z1E_NextTimeYouSeeTannis EchoCallDefinition]
+Subject="The Next Time You See Tannis"
+
+[Markus.Z1E_SellingIsDifficult EchoCallDefinition]
+Subject="Selling Is Very Difficult Work"
+
+[Markus.Z1E_TellYouWhat EchoCallDefinition]
+Subject="Tell You What"
+
+[Markus.Z1E_VaultIsReal EchoCallDefinition]
+Subject="The Right Partner"
+
+[Scooter.Z1E_BlowingUpRides01 EchoCallDefinition]
+Subject="Blowing Up My Rides"
+
+[Scooter.Z1E_BlowingUpRides02 EchoCallDefinition]
+Subject="Still Blowing Up My Rides"
+
+[Scooter.Z1E_GoingToLucky EchoCallDefinition]
+Subject="My Old Buddy Lucky"
+
+[Scooter.Z1E_MadMel_Victory EchoCallDefinition]
+Subject="Mad Mel Is Gone"
+
+[Scooter.Z1E_MadMel_Warning EchoCallDefinition]
+Subject="This Mad Mel Guy"
+
+[Scooter.Z1E_ThanksForSavingLucky EchoCallDefinition]
+Subject="Thanks For Saving Lucky"
+
+[Steele.Z1E_GeneralAnnounce EchoCallDefinition]
+Subject="General Announcement"
+
+[Steele.Z1E_TannisIsWithUs EchoCallDefinition]
+Subject="Tannis Is With Us"
+
+[Steele.Z1E_WhatAreYouUpToNow EchoCallDefinition]
+Subject="What Are You Up To Now?"
+
+[Tannis.Z1E_AnInterestingFind EchoCallDefinition]
+Subject="An Interesting Find"
+
+[Tannis.Z1E_AWhileAgo EchoCallDefinition]
+Subject="A While Ago"
+
+[Tannis.Z1E_CrimsonLance EchoCallDefinition]
+Subject="Diminishing Returns"
+
+[Tannis.Z1E_DidYouFindit EchoCallDefinition]
+Subject="Did You Find It?"
+
+[Tannis.Z1E_FlyntWasAnEmployee EchoCallDefinition]
+Subject="Baron Flynt"
+
+[Tannis.Z1E_HaveYouManaged EchoCallDefinition]
+Subject="You Should Go Faster"
+
+[Tannis.Z1E_IfTheLanceAre EchoCallDefinition]
+Subject="A Lot More Dangerous"
+
+[Tannis.Z1E_IfYouStillHave EchoCallDefinition]
+Subject="Bring The Vault Key To Me"
+
+[Tannis.Z1E_IWasAbleToEscape EchoCallDefinition]
+Subject="I Escaped"
+
+[Tannis.Z1E_IWastedMyWholeLife EchoCallDefinition]
+Subject="I Wasted My Whole Life"
+
+[Tannis.Z1E_KilledTheUglyOne EchoCallDefinition]
+Subject="Killed The Ugly One"
+
+[Tannis.Z1E_LastDayOfChildhood EchoCallDefinition]
+Subject="Steele Is On Her Way"
+
+[Tannis.Z1E_LookingForWork EchoCallDefinition]
+Subject="Looking For Work?"
+
+[Tannis.Z1E_MyInstrumentReadings EchoCallDefinition]
+Subject="My Instrument Readings"
+
+[Tannis.Z1E_PierceWasExplaining EchoCallDefinition]
+Subject="Pierce Was Explaining"
+
+[Tannis.Z1E_TheseDirtyCriminals EchoCallDefinition]
+Subject="These Dirty Criminals"
+
+[Tannis.Z1E_UnknownTransmission EchoCallDefinition]
+Subject="Garbled Transmission"
+
+[Tannis.Z1E_WhoBetrayedWhom EchoCallDefinition]
+Subject="Steele Is On Her Way"
+
+[TannisLogs.Z1E_TannisLogDay01 EchoCallDefinition]
+Subject="Day 1"
+
+[TannisLogs.Z1E_TannisLogDay09 EchoCallDefinition]
+Subject="Day 43"
+
+[TannisLogs.Z1E_TannisLogDay116 EchoCallDefinition]
+Subject="Day 481"
+
+[TannisLogs.Z1E_TannisLogDay129 EchoCallDefinition]
+Subject="Day 493"
+
+[TannisLogs.Z1E_TannisLogDay132 EchoCallDefinition]
+Subject="Day 578"
+
+[TannisLogs.Z1E_TannisLogDay135 EchoCallDefinition]
+Subject="Day 616"
+
+[TannisLogs.Z1E_TannisLogDay141 EchoCallDefinition]
+Subject="Day 653"
+
+[TannisLogs.Z1E_TannisLogDay158 EchoCallDefinition]
+Subject="Day 684"
+
+[TannisLogs.Z1E_TannisLogDay181 EchoCallDefinition]
+Subject="Day 718"
+
+[TannisLogs.Z1E_TannisLogDay21 EchoCallDefinition]
+Subject="Day 76"
+
+[TannisLogs.Z1E_TannisLogDay37 EchoCallDefinition]
+Subject="Day 119"
+
+[TannisLogs.Z1E_TannisLogDay53 EchoCallDefinition]
+Subject="Day 172"
+
+[TannisLogs.Z1E_TannisLogDay64 EchoCallDefinition]
+Subject="Day 224"
+
+[TannisLogs.Z1E_TannisLogDay81 EchoCallDefinition]
+Subject="Day 321"
+
+[TannisLogs.Z1E_TannisLogDay96 EchoCallDefinition]
+Subject="Day 457"
+
+[VoG.Z1E_AnotherSurprise EchoCallDefinition]
+Subject="Another Surprise"
+
+[VoG.Z1E_Got2ndKeyPiece EchoCallDefinition]
+Subject="You Found Another Piece"
+
+[VoG.Z1E_HardLesson EchoCallDefinition]
+Subject="A Hard Lesson"
+
+[VoG.Z1E_IAmBlind EchoCallDefinition]
+Subject="I'm Blind!"
+
+[VoG.Z1E_IAmCurious EchoCallDefinition]
+Subject="I Am Curious"
+
+[VoG.Z1E_IAmImpressed EchoCallDefinition]
+Subject="I'm Impressed"
+
+[VoG.Z1E_RakkHive_ShootEyes EchoCallDefinition]
+Subject="The Eyes Might Be Vulnerable"
+
+[VoG.Z1E_RakkHive_Victory EchoCallDefinition]
+Subject="Prepare Yourself"
+
+[VoG.Z1E_RakkHive_Warning EchoCallDefinition]
+Subject="Prepare Yourself"
+
+[VoG.Z1E_SeekOutTannis EchoCallDefinition]
+Subject="An Archaeologist"
+
+[VoG.Z1E_SellTheKey EchoCallDefinition]
+Subject="You Did Well"
+
+[VoG.Z1E_StillTrustMe EchoCallDefinition]
+Subject="You Must Still Trust Me"
+
+[VoG.Z1E_Vault_BeforeOpening EchoCallDefinition]
+Subject="This Is It"
+
+[VoG.Z1E_Vault_ClosingTheGateway EchoCallDefinition]
+Subject="Closing The Vault"
+
+[VoG.Z1E_Vault_DestroyTheHost EchoCallDefinition]
+Subject="Destroy The Host"
+
+[VoG.Z1E_Vault_LoosenItsGrip EchoCallDefinition]
+Subject="Loosen Its Grip"
+
+[VoG.Z1E_Vault_PostOpening EchoCallDefinition]
+Subject="It Can Be Hurt"
+
+[VoG.Z1E_VaultPush_Hourglass EchoCallDefinition]
+Subject="Last Few Grains Of Sand"
+
+[VoG.Z1E_VaultPush_NoTimeLeft EchoCallDefinition]
+Subject="No Time Left"
+
+[VoG.Z1E_VoGBlinded01 EchoCallDefinition]
+Subject="An Unpleasant Discovery"
+
+[VoG.Z1E_VoGBlinded02 EchoCallDefinition]
+Subject="Can You See Me?"
+
+[VoG.Z1E_VoGBlinded03 EchoCallDefinition]
+Subject="You're In Real Danger Now"
+
+[VoG.Z1E_VoGBlinded04 EchoCallDefinition]
+Subject="Time Is Running Out"
+
+[VoG.Z1E_VoGBlinded05 EchoCallDefinition]
+Subject="You Must Be Dead"
+
+[VoG.Z1E_VoGCanSee EchoCallDefinition]
+Subject="I Can See Again"
+
+[VoG.Z1E_WontHurtHimDirectly EchoCallDefinition]
+Subject="You Can't Hurt Him Directly"
+

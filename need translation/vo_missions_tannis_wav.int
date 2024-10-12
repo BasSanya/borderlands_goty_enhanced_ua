@@ -1,0 +1,700 @@
+[sal_tannis_live_10a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I guess you're leaving.",Time=0.000000)
+
+[sal_tannis_live_10b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I guess you're leaving.",Time=0.000000)
+
+[sal_tannis_live_11a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We should talk again.",Time=0.000000)
+
+[sal_tannis_live_11b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We should talk again.",Time=0.000000)
+
+[sal_tannis_live_12a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep your eyes open.",Time=0.000000)
+
+[sal_tannis_live_12b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep your eyes open.",Time=0.000000)
+
+[sal_tannis_live_13a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We'll speak again.",Time=0.000000)
+
+[sal_tannis_live_13b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We'll speak again.",Time=0.000000)
+
+[sal_tannis_live_14a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're lumbering and bothersome.",Time=0.000000)
+
+[sal_tannis_live_14b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're lumbering and bothersome.",Time=0.000000)
+
+[sal_tannis_live_15a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Perhaps you could leave me alone.",Time=0.000000)
+
+[sal_tannis_live_15b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Perhaps you could leave me alone.",Time=0.000000)
+
+[sal_tannis_live_16a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are you a lumox?  Move on, please.",Time=0.000000)
+
+[sal_tannis_live_16b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are you a lumox?  Move on, please.",Time=0.000000)
+
+[sal_tannis_live_17a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Perhaps you could be somewhere that isn't, you know, here?",Time=0.000000)
+
+[sal_tannis_live_17b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Perhaps you could be somewhere that isn't, you know, here?",Time=0.000000)
+
+[sal_tannis_live_18a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shouldn't you jog onward?",Time=0.000000)
+
+[sal_tannis_live_18b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shouldn't you jog onward?",Time=0.000000)
+
+[sal_tannis_live_19a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm in the middle of something important.",Time=0.000000)
+
+[sal_tannis_live_19b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm in the middle of something important.",Time=0.000000)
+
+[sal_tannis_live_1a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do you need something?",Time=0.000000)
+
+[sal_tannis_live_1b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do you need something?",Time=0.000000)
+
+[sal_tannis_live_20a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This can wait until later, please vacate.",Time=0.000000)
+
+[sal_tannis_live_20b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This can wait until later, please vacate.",Time=0.000000)
+
+[sal_tannis_live_21a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm busy with my own work.",Time=0.000000)
+
+[sal_tannis_live_21b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm busy with my own work.",Time=0.000000)
+
+[sal_tannis_live_22a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I don't really have time now.",Time=0.000000)
+
+[sal_tannis_live_22b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[1]=(Text="I don't really have time now.",Time=0.000000)
+
+[sal_tannis_live_23a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I used to be a galaxy class scientist; I've been reduced to a babbling hang-on.",Time=0.000000)
+
+[sal_tannis_live_23b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I used to be a galaxy class scientist; I've been reduced to a babbling hang-on.",Time=0.000000)
+
+[sal_tannis_live_24a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My talents were squandered on this rock.",Time=0.000000)
+
+[sal_tannis_live_24b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My talents were squandered on this rock.",Time=0.000000)
+
+[sal_tannis_live_25a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can be of service to my talent.",Time=0.000000)
+
+[sal_tannis_live_25b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can be of service to my talent.",Time=0.000000)
+
+[sal_tannis_live_26a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Of course no one believe the Vault is here.  Nursery rhymes are written by buffoons.",Time=0.000000)
+
+[sal_tannis_live_26b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Of course no one believe the Vault is here.  Nursery rhymes are written by buffoons.",Time=0.000000)
+
+[sal_tannis_live_27a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I believe I know where the Vault is.  I told myself where.",Time=0.000000)
+
+[sal_tannis_live_27b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I believe I know where the Vault is.  I told myself where.",Time=0.000000)
+
+[sal_tannis_live_28a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're a strange specimen.  Have we met?  Did I tell you where the Vault is?",Time=0.000000)
+
+[sal_tannis_live_28b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're a strange specimen.  Have we met?  Did I tell you where the Vault is?",Time=0.000000)
+
+[sal_tannis_live_29a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I am easy to discount.  Hundreds of days in a hole and watching everyone around you get murdered will do that to you.",Time=0.000000)
+
+[sal_tannis_live_29b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I am easy to discount.  Hundreds of days in a hole and watching everyone around you get murdered will do that to you.",Time=0.000000)
+
+[sal_tannis_live_2a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're from off planet, you smell oddly.",Time=0.000000)
+
+[sal_tannis_live_2b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're from off planet, you smell oddly.",Time=0.000000)
+
+[sal_tannis_live_30a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="At this point, I've begun to doubt myself.",Time=0.000000)
+
+[sal_tannis_live_30b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="At this point, I've begun to doubt myself.",Time=0.000000)
+
+[sal_tannis_live_31a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I no longer have my proof of the Vault.  I scattered it.  I don't want anyone else to find it, anyway.",Time=0.000000)
+
+[sal_tannis_live_31b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I no longer have my proof of the Vault.  I scattered it.  I don't want anyone else to find it, anyway.",Time=0.000000)
+
+[sal_tannis_live_32 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bandits are like children.  Wait, not children.  I was gonna say we should bury them in shallow graves...",Time=0.000000)
+
+[sal_tannis_live_33 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This world is capable of corrupting anything or anyone.  Maybe if we all had kites to fly, we'd be nicer.",Time=0.000000)
+
+[sal_tannis_live_34 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Every creature here is more dangerous than the last.",Time=0.000000)
+
+[sal_tannis_live_35 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My work would go so much smoother if I wasn't always distracted by... surviving.",Time=0.000000)
+
+[sal_tannis_live_36 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This planet is dying, and we're all just here for the show.",Time=0.000000)
+
+[sal_tannis_live_37 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Anything you can do to make my life easier is adequate.",Time=0.000000)
+
+[sal_tannis_live_38 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I gave up on asking for assistance or aid.  The Crimson Lance will be the death of us all.",Time=0.000000)
+
+[sal_tannis_live_39 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've heard stories about the Crimson Lance.  Bloody and corrupt.  They are not what they appear.",Time=0.000000)
+
+[sal_tannis_live_3a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="New faces, I see.",Time=0.000000)
+
+[sal_tannis_live_3b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="New faces, I see.",Time=0.000000)
+
+[sal_tannis_live_40 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Crimson Lance remind me of walking cans.  I don't see people anymore really, just shapes and objects.",Time=0.000000)
+
+[sal_tannis_live_41 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I knew it! I knew I would find the Vault!  I was right!",Time=0.000000)
+
+[sal_tannis_live_42 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Everyone is acting so surprised about the Vault.  Known for a while.",Time=0.000000)
+
+[sal_tannis_live_43 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No one has come out to talk to me.  It's all just a myth still.  The science will lead us.",Time=0.000000)
+
+[sal_tannis_live_44 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Trash cans with automatic weapons.  This is discovery, not war.  We deserve the pain we bring ourselves from our staggering idiocy.",Time=0.000000)
+
+[sal_tannis_live_45 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Odd that the Lance would so openly display their moral corruption.  On a rock where people are not easily trusted they are making it known that they should not be.",Time=0.000000)
+
+[sal_tannis_live_46 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Morally corrupt Atlas twats.  Do what you will.",Time=0.000000)
+
+[sal_tannis_live_47 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You want to know about the Lance?  Corporate greed meets a contracted Army.  They will take whatever they please.",Time=0.000000)
+
+[sal_tannis_live_48a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I have something you should do for me.",Time=0.000000)
+
+[sal_tannis_live_48b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I have something you should do for me.",Time=0.000000)
+
+[sal_tannis_live_49a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I have more things you could do accomplish in my stead.",Time=0.000000)
+
+[sal_tannis_live_49b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I have more things you could do accomplish in my stead.",Time=0.000000)
+
+[sal_tannis_live_4a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Why would anyone come here on purpose?",Time=0.000000)
+
+[sal_tannis_live_4b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Why would anyone come here on purpose?",Time=0.000000)
+
+[sal_tannis_live_50a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need your help with something.",Time=0.000000)
+
+[sal_tannis_live_50b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need your help with something.",Time=0.000000)
+
+[sal_tannis_live_51a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm not concerned with other obstacles in your way, I will pay you to do what I need instead.",Time=0.000000)
+
+[sal_tannis_live_51b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm not concerned with other obstacles in your way, I will pay you to do what I need instead.",Time=0.000000)
+
+[sal_tannis_live_52a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="About time you showed up - I need this done right away!",Time=0.000000)
+
+[sal_tannis_live_52b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="About time you showed up - I need this done right away!",Time=0.000000)
+
+[sal_tannis_live_53a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So what took you so long?  This is urgent!",Time=0.000000)
+
+[sal_tannis_live_53b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So what took you so long?  This is urgent!",Time=0.000000)
+
+[sal_tannis_live_54a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need this done now.",Time=0.000000)
+
+[sal_tannis_live_54b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need this done now.",Time=0.000000)
+
+[sal_tannis_live_56a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can leave and go do it now.",Time=0.000000)
+
+[sal_tannis_live_56b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can leave and go do it now.",Time=0.000000)
+
+[sal_tannis_live_57a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is the part where you leave.",Time=0.000000)
+
+[sal_tannis_live_57b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is the part where you leave.",Time=0.000000)
+
+[sal_tannis_live_58a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Accomplish your objective and return.",Time=0.000000)
+
+[sal_tannis_live_58b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Accomplish your objective and return.",Time=0.000000)
+
+[sal_tannis_live_59a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I trust you won't take too long.",Time=0.000000)
+
+[sal_tannis_live_59b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I trust you won't take too long.",Time=0.000000)
+
+[sal_tannis_live_5a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good to see you here.",Time=0.000000)
+
+[sal_tannis_live_5b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good to see you here.",Time=0.000000)
+
+[sal_tannis_live_60a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Haven't finished that job yet?  Better get to it!",Time=0.000000)
+
+[sal_tannis_live_60b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Haven't finished that job yet?  Better get to it!",Time=0.000000)
+
+[sal_tannis_live_61a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I wouldn't have given you the task if it wasn't really important.",Time=0.000000)
+
+[sal_tannis_live_61b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I wouldn't have given you the task if it wasn't really important.",Time=0.000000)
+
+[sal_tannis_live_62a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is there a reason you returned without completing your mission?  I am not a conversationalist.",Time=0.000000)
+
+[sal_tannis_live_62b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is there a reason you returned without completing your mission?  I am not a conversationalist.",Time=0.000000)
+
+[sal_tannis_live_63a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Maybe my instructions weren't clear.  Don't come back until you're done.",Time=0.000000)
+
+[sal_tannis_live_63b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Maybe my instructions weren't clear.  Don't come back until you're done.",Time=0.000000)
+
+[sal_tannis_live_63c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You haven't finished it yet?",Time=0.000000)
+
+[sal_tannis_live_63d SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You haven't finished it yet?",Time=0.000000)
+
+[sal_tannis_live_63e SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Finish your task?",Time=0.000000)
+
+[sal_tannis_live_63f SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Finish your task?",Time=0.000000)
+
+[sal_tannis_live_64a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Adequate.",Time=0.000000)
+
+[sal_tannis_live_64b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Adequate.",Time=0.000000)
+
+[sal_tannis_live_65a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That will work.",Time=0.000000)
+
+[sal_tannis_live_65b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That will work.",Time=0.000000)
+
+[sal_tannis_live_66a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I guess 'thanks,' is the correct word.",Time=0.000000)
+
+[sal_tannis_live_66b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I guess 'thanks,' is the correct word.",Time=0.000000)
+
+[sal_tannis_live_67a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You have succeeded with satisfactory results.",Time=0.000000)
+
+[sal_tannis_live_67b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You have succeeded with satisfactory results.",Time=0.000000)
+
+[sal_tannis_live_68a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes.",Time=0.000000)
+
+[sal_tannis_live_68b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes.",Time=0.000000)
+
+[sal_tannis_live_69a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, indeed.",Time=0.000000)
+
+[sal_tannis_live_69b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, indeed.",Time=0.000000)
+
+[sal_tannis_live_6a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Greetings.",Time=0.000000)
+
+[sal_tannis_live_6b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Greetings.",Time=0.000000)
+
+[sal_tannis_live_70a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Quite.",Time=0.000000)
+
+[sal_tannis_live_70b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Quite.",Time=0.000000)
+
+[sal_tannis_live_71a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Agreed.",Time=0.000000)
+
+[sal_tannis_live_71b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Agreed.",Time=0.000000)
+
+[sal_tannis_live_72a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Affirmative.",Time=0.000000)
+
+[sal_tannis_live_72b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Affirmative.",Time=0.000000)
+
+[sal_tannis_live_73a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No.",Time=0.000000)
+
+[sal_tannis_live_73b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No.",Time=0.000000)
+
+[sal_tannis_live_74a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Absolutely, not.",Time=0.000000)
+
+[sal_tannis_live_74b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Absolutely, not.",Time=0.000000)
+
+[sal_tannis_live_75a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I think not.",Time=0.000000)
+
+[sal_tannis_live_75b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I think not.",Time=0.000000)
+
+[sal_tannis_live_76a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No!",Time=0.000000)
+
+[sal_tannis_live_76b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No!",Time=0.000000)
+
+[sal_tannis_live_77a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Negative.",Time=0.000000)
+
+[sal_tannis_live_77b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Negative.",Time=0.000000)
+
+[sal_tannis_live_7a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Welcome to my camp, or what's left of it.",Time=0.000000)
+
+[sal_tannis_live_7b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Welcome to my camp, or what's left of it.",Time=0.000000)
+
+[sal_tannis_live_8a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What can you do for me?",Time=0.000000)
+
+[sal_tannis_live_8b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What can you do for me?",Time=0.000000)
+
+[sal_tannis_live_9a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's hope you're more useful than the last one I hired.",Time=0.000000)
+
+[sal_tannis_live_9b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's hope you're more useful than the last one I hired.",Time=0.000000)
+

@@ -1,0 +1,700 @@
+[sal_zed_live_10a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That'll do for now.",Time=0.000000)
+
+[sal_zed_live_10b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That'll do for now.",Time=0.000000)
+
+[sal_zed_live_11a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I think we're done here.",Time=0.000000)
+
+[sal_zed_live_11b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I think we're done here.",Time=0.000000)
+
+[sal_zed_live_12 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You got what you need, now scram.",Time=0.000000)
+
+[sal_zed_live_13a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, that should cover it, kid.",Time=0.000000)
+
+[sal_zed_live_13b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, that should cover it, kid.",Time=0.000000)
+
+[sal_zed_live_14 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I ain't got all day.",Time=0.000000)
+
+[sal_zed_live_15a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Clear outta here - I've got drinking to do.",Time=0.000000)
+
+[sal_zed_live_15b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Clear outta here - I've got drinking to do.",Time=0.000000)
+
+[sal_zed_live_15c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Clear outta here - I've got drinking to do.",Time=0.000000)
+
+[sal_zed_live_16 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do you mind not standing so close?",Time=0.000000)
+
+[sal_zed_live_17 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, don't feel like you need to stick around on my account.",Time=0.000000)
+
+[sal_zed_live_18 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are we done here?",Time=0.000000)
+
+[sal_zed_live_19 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Not now - my liver is running on empty.",Time=0.000000)
+
+[sal_zed_live_1a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You need something?",Time=0.000000)
+
+[sal_zed_live_1b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You need something?",Time=0.000000)
+
+[sal_zed_live_20 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't bother me right now - I need to get that med unit fixed.",Time=0.000000)
+
+[sal_zed_live_21 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I don't have time for a conversation, unless you're buying the next round.",Time=0.000000)
+
+[sal_zed_live_22 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Go away now - I have a date with a bottle, and I'm looking to get lucky.",Time=0.000000)
+
+[sal_zed_live_23 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can call me Zed - everyone else does.",Time=0.000000)
+
+[sal_zed_live_24 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I keep the medical equipment working - more or less.",Time=0.000000)
+
+[sal_zed_live_25 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I might not have a med school degree, but when you get shot, you'll be happy I'm here.",Time=0.000000)
+
+[sal_zed_live_26 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't believe people are still coming here on that wild goose chase. There ain't no Vault.",Time=0.000000)
+
+[sal_zed_live_27 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't you think there are better ways to spend you time, than chasing that stupid Vault?",Time=0.000000)
+
+[sal_zed_live_28 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sometimes, I think you fortune hunters are all a bunch of idiots chasing rainbows.  The Vault's nothing but a fairy tale.",Time=0.000000)
+
+[sal_zed_live_29 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That scientist, Tannis, is as crazy as they come - why would you trust her?",Time=0.000000)
+
+[sal_zed_live_2a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What can I do for you?",Time=0.000000)
+
+[sal_zed_live_2b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What can I do for you?",Time=0.000000)
+
+[sal_zed_live_30 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I don't know about that Dr. Tannis.  Never trust a company man - and especially not a company woman.",Time=0.000000)
+
+[sal_zed_live_31 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That Tannis woman will be the death of you, mark my words.",Time=0.000000)
+
+[sal_zed_live_32 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You keep getting shot up like that, you're not gonna last long.",Time=0.000000)
+
+[sal_zed_live_33 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="These yahoos have no respect for human life.",Time=0.000000)
+
+[sal_zed_live_34 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This place is none too forgiving for outsiders.",Time=0.000000)
+
+[sal_zed_live_35 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Why would you want to come here, of all places?",Time=0.000000)
+
+[sal_zed_live_36 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You ought to get out of here while you still have all your fingers and toes.",Time=0.000000)
+
+[sal_zed_live_37 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know what might help with that?  Don't get shot.",Time=0.000000)
+
+[sal_zed_live_38 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just who the hell are these Crimson Lance soldiers, anyway?",Time=0.000000)
+
+[sal_zed_live_39 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just what we need - the Crimson Lance, another bunch of thugs who think they own the place.",Time=0.000000)
+
+[sal_zed_live_3a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is there something you need?",Time=0.000000)
+
+[sal_zed_live_3b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is there something you need?",Time=0.000000)
+
+[sal_zed_live_40 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Never trust a man in uniform - especially when it has a Crimson Lance logo on it.",Time=0.000000)
+
+[sal_zed_live_41 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I still don't believe it - we've been sitting on the Vault all this time?",Time=0.000000)
+
+[sal_zed_live_42 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, if you find that Vault, you're gonna cut us all in on the profits, right?",Time=0.000000)
+
+[sal_zed_live_43 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So the Vault is real?  I wouldn't have believed this planet has anything valuable on it.",Time=0.000000)
+
+[sal_zed_live_44 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just who the hell are these Lance soldiers, anyway?",Time=0.000000)
+
+[sal_zed_live_45 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ever since these Crimson Lance bozos arrived, the bodies started piling up deeper than usual.",Time=0.000000)
+
+[sal_zed_live_46 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Lance, I haven't seen anything that brutal since the war.",Time=0.000000)
+
+[sal_zed_live_47 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ever since these Lance guys showed up, we can't get through to Sanctuary.",Time=0.000000)
+
+[sal_zed_live_48 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What say you do a little favor for me?  I'll make it worth your while.",Time=0.000000)
+
+[sal_zed_live_49 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You got a way of getting things done, don't you?  I could use you for something.",Time=0.000000)
+
+[sal_zed_live_4a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What do you want?  Spit it out!",Time=0.000000)
+
+[sal_zed_live_4c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What do you want?  Spit it out!",Time=0.000000)
+
+[sal_zed_live_50 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looking for work?  I might have a job for you.",Time=0.000000)
+
+[sal_zed_live_51 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't pay much, but I've got something I need doing - I hear you have some expertise.",Time=0.000000)
+
+[sal_zed_live_52 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got a minute?  I need help with something.",Time=0.000000)
+
+[sal_zed_live_53 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This ain't gonna wait - I need it taken care of now.",Time=0.000000)
+
+[sal_zed_live_54 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, this is what you might call a pressing concern.",Time=0.000000)
+
+[sal_zed_live_55 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, drop what your doing, and get this taken care of, will ya?",Time=0.000000)
+
+[sal_zed_live_56 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know what I need you to do.",Time=0.000000)
+
+[sal_zed_live_57 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Make yourself useful, huh?",Time=0.000000)
+
+[sal_zed_live_58 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got what you need to know.",Time=0.000000)
+
+[sal_zed_live_59a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, git 'er done.",Time=0.000000)
+
+[sal_zed_live_59b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, git 'er done.",Time=0.000000)
+
+[sal_zed_live_59c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, git 'er done.",Time=0.000000)
+
+[sal_zed_live_5b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What do ya need?",Time=0.000000)
+
+[sal_zed_live_60 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Not done yet?  Time is wastin', kid.",Time=0.000000)
+
+[sal_zed_live_61 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I really need you on that as soon as possible.",Time=0.000000)
+
+[sal_zed_live_62 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't relax knowing you haven't finished that job.",Time=0.000000)
+
+[sal_zed_live_63 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just waiting on you to get that job done, kid.",Time=0.000000)
+
+[sal_zed_live_64 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah... one less problem to be solved.",Time=0.000000)
+
+[sal_zed_live_65 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That takes care of that.",Time=0.000000)
+
+[sal_zed_live_66 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, that was good work - even I have to admit.",Time=0.000000)
+
+[sal_zed_live_67 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, I'm not much for compliments, but you did fine.",Time=0.000000)
+
+[sal_zed_live_68 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, sir!",Time=0.000000)
+
+[sal_zed_live_69 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yup!",Time=0.000000)
+
+[sal_zed_live_6a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, yeah... what is it?",Time=0.000000)
+
+[sal_zed_live_6b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, yeah... what is it?",Time=0.000000)
+
+[sal_zed_live_70 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You got that right.",Time=0.000000)
+
+[sal_zed_live_71 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes.",Time=0.000000)
+
+[sal_zed_live_72 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yep!",Time=0.000000)
+
+[sal_zed_live_73 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nah.",Time=0.000000)
+
+[sal_zed_live_74 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nope!",Time=0.000000)
+
+[sal_zed_live_75 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No.",Time=0.000000)
+
+[sal_zed_live_76 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Negative on that.",Time=0.000000)
+
+[sal_zed_live_77 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sorry, no.",Time=0.000000)
+
+[sal_zed_live_7a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just tell me if you need anything.",Time=0.000000)
+
+[sal_zed_live_7b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just tell me if you need anything.",Time=0.000000)
+
+[sal_zed_live_8a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Give me a shout if I can help you.",Time=0.000000)
+
+[sal_zed_live_8b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Give me a shout if I can help you.",Time=0.000000)
+
+[sal_zed_live_9 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know what you need to know.",Time=0.000000)
+
+[sal_zed_record_100 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't take a knife to a gunfight, or we'll be seeing you here again.",Time=0.000000)
+
+[sal_zed_record_101 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Best to avoid anyone you don't know - less likely to get shot that way.",Time=0.000000)
+
+[sal_zed_record_102 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch your back, or you're likely to get another bullet in it.",Time=0.000000)
+
+[sal_zed_record_103 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't let 'em get the drop on you.",Time=0.000000)
+
+[sal_zed_record_104 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This thing can't heal you if you're dead.",Time=0.000000)
+
+[sal_zed_record_105 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If those Lance bastards chew you up, we can straighten you out.",Time=0.000000)
+
+[sal_zed_record_106 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Next time, try to shoot them before they shoot you.",Time=0.000000)
+
+[sal_zed_record_107 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Those Lance weapons can do some serious damage.",Time=0.000000)
+
+[sal_zed_record_109 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We'll get you patched up.",Time=0.000000)
+
+[sal_zed_record_110a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your meds here!",Time=0.000000)
+
+[sal_zed_record_110b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your meds here!",Time=0.000000)
+
+[sal_zed_record_110c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your meds here!",Time=0.000000)
+
+[sal_zed_record_111a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It ain't quite a doctor, but it'll patch you up just fine.",Time=0.000000)
+
+[sal_zed_record_111b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It ain't quite a doctor, but it'll patch you up just fine.",Time=0.000000)
+
+[sal_zed_record_111c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It ain't quite a doctor, but it'll patch you up just fine.",Time=0.000000)
+
+[sal_zed_record_112a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you need healin', step right up!",Time=0.000000)
+
+[sal_zed_record_112b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you need healin', step right up!",Time=0.000000)
+
+[sal_zed_record_112c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you need healin', step right up!",Time=0.000000)
+
+[sal_zed_record_113a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your drugs here!",Time=0.000000)
+
+[sal_zed_record_113b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your drugs here!",Time=0.000000)
+
+[sal_zed_record_113c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get your drugs here!",Time=0.000000)
+
+[sal_zed_record_114a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Who needs a real doctor when you got my machines and their scary needles?",Time=0.000000)
+
+[sal_zed_record_114b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Who needs a real doctor when you got my machines and their scary needles?",Time=0.000000)
+
+[sal_zed_record_114c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Who needs a real doctor when you got my machines and their scary needles?",Time=0.000000)
+
+[sal_zed_record_115a SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buy a First Aid Kit, and you won't regret it.",Time=0.000000)
+
+[sal_zed_record_115b SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buy a First Aid Kit... you won't regret it.",Time=0.000000)
+
+[sal_zed_record_115c SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buy a First Aid Kit.  You won't regret it.",Time=0.000000)
+
+[sal_zed_record_78 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This will keep you going.",Time=0.000000)
+
+[sal_zed_record_79 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on back if you need to get patched up again.",Time=0.000000)
+
+[sal_zed_record_80 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just hold still - this will be over in a second.",Time=0.000000)
+
+[sal_zed_record_81 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you get shot again, we'll see you back here.",Time=0.000000)
+
+[sal_zed_record_82 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't just stand there bleeding!",Time=0.000000)
+
+[sal_zed_record_83 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Step right up and we'll take care of you.",Time=0.000000)
+
+[sal_zed_record_84 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They don't let me cut on people any more, but I fix this gizmo that does.",Time=0.000000)
+
+[sal_zed_record_85 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="These med stations are old, but they still work fine.  Mostly, anyways.",Time=0.000000)
+
+[sal_zed_record_86 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No pain, no gain, youngster.",Time=0.000000)
+
+[sal_zed_record_87 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you're gonna go Vault huntin', be more careful.",Time=0.000000)
+
+[sal_zed_record_88 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you're exploring, watch out for the wildlife.",Time=0.000000)
+
+[sal_zed_record_89 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Trustin' folks around here is what gets you shot.",Time=0.000000)
+
+[sal_zed_record_90 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't trust anyone, just let the technology do the work.",Time=0.000000)
+
+[sal_zed_record_91 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Be careful who you trust, or you'll get yourself killed.",Time=0.000000)
+
+[sal_zed_record_92 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't trade bullets unless you have to.",Time=0.000000)
+
+[sal_zed_record_93 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are you trying to get yourself good and killed?",Time=0.000000)
+
+[sal_zed_record_94 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You youngsters think you're gonna live forever.",Time=0.000000)
+
+[sal_zed_record_95 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This will heal you up, but be more careful.",Time=0.000000)
+
+[sal_zed_record_96 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Those bandits sure like to dish out some hurt, don't they?",Time=0.000000)
+
+[sal_zed_record_97 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Next time, shoot before you get shot.",Time=0.000000)
+
+[sal_zed_record_98 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Not much fun when they shoot back, is it?",Time=0.000000)
+
+[sal_zed_record_99 SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch yourself out there.",Time=0.000000)
+

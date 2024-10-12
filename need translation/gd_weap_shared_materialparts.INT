@@ -1,0 +1,153 @@
+[ManufacturerMaterials.Material_Dahl_2 WeaponPartDefinition]
+PartName=" U"
+
+[ManufacturerMaterials.Material_Dahl_3 WeaponPartDefinition]
+PartName="D"
+
+[ManufacturerMaterials.Material_Gearbox_1 WeaponPartDefinition]
+PartName="-XX"
+
+[ManufacturerMaterials.Material_Gearbox_2 WeaponPartDefinition]
+PartName="-OP4"
+
+[ManufacturerMaterials.Material_Gearbox_3 WeaponPartDefinition]
+PartName="-BIA"
+
+[ManufacturerMaterials.Material_Hyperion_2 WeaponPartDefinition]
+PartName=".W"
+
+[ManufacturerMaterials.Material_Hyperion_3 WeaponPartDefinition]
+PartName=".G"
+
+[ManufacturerMaterials.Material_Jakobs_2 WeaponPartDefinition]
+PartName=" ZZ"
+
+[ManufacturerMaterials.Material_Jakobs_3 WeaponPartDefinition]
+PartName=" XX"
+
+[ManufacturerMaterials.Material_Maliwan_1:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="High Elemental Effect chance"
+
+[ManufacturerMaterials.Material_Maliwan_2 WeaponPartDefinition]
+PartName=" B"
+
+[ManufacturerMaterials.Material_Maliwan_2:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Higher Elemental Effect chance"
+
+[ManufacturerMaterials.Material_Maliwan_3 WeaponPartDefinition]
+PartName=" C"
+
+[ManufacturerMaterials.Material_Maliwan_3:AttributePresentationDefinition_3 AttributePresentationDefinition]
+Description="Very high Elemental Effect chance"
+
+[ManufacturerMaterials.Material_SandS_2 WeaponPartDefinition]
+PartName=".2"
+
+[ManufacturerMaterials.Material_SandS_3 WeaponPartDefinition]
+PartName=".3"
+
+[ManufacturerMaterials.Material_Tediore_2 WeaponPartDefinition]
+PartName="-A"
+
+[ManufacturerMaterials.Material_Tediore_3 WeaponPartDefinition]
+PartName="-B"
+
+[ManufacturerMaterials.Material_Vladof_2 WeaponPartDefinition]
+PartName="/V2"
+
+[ManufacturerMaterials.Material_Vladof_3 WeaponPartDefinition]
+PartName="/V3"
+
+[Material.armygreen_army WeaponPartDefinition]
+PartName="-A"
+
+[Material.armygreen_black WeaponPartDefinition]
+PartName="-A2"
+
+[Material.black_armygreen WeaponPartDefinition]
+PartName="-MB"
+
+[Material.black_black WeaponPartDefinition]
+PartName="-MB1"
+
+[Material.black_tan WeaponPartDefinition]
+PartName="-MB2"
+
+[Material.black_white WeaponPartDefinition]
+PartName="-BW"
+
+[Material.black_yellow WeaponPartDefinition]
+PartName="-BY"
+
+[Material.chameleon WeaponPartDefinition]
+PartName=" Madness"
+
+[Material.chaos WeaponPartDefinition]
+PartName=" Chaos"
+
+[Material.chrome_black WeaponPartDefinition]
+PartName="-CR"
+
+[Material.chrome_blue WeaponPartDefinition]
+PartName="-CR2"
+
+[Material.chrome_red WeaponPartDefinition]
+PartName="-CRR"
+
+[Material.drksilver_maroon WeaponPartDefinition]
+PartName="-SVR"
+
+[Material.gold_black WeaponPartDefinition]
+PartName=" Thunder"
+
+[Material.gold_gold WeaponPartDefinition]
+PartName=" -G Thunder"
+
+[Material.matblack_matblack WeaponPartDefinition]
+PartName="-MAT"
+
+[Material.red_black WeaponPartDefinition]
+PartName="-RBR"
+
+[Material.silver_ice WeaponPartDefinition]
+PartName=" Ice"
+
+[Material.silver_red WeaponPartDefinition]
+PartName=" Striker"
+
+[Material.stock_weapon WeaponPartDefinition]
+PartName="-A"
+
+[Material.white_white WeaponPartDefinition]
+PartName="-WW"
+
+[Prefix.Prefix_Atlas1_White WeaponNamePartDefinition]
+PartName="White"
+
+[Prefix.Prefix_Atlas2_Pearl WeaponNamePartDefinition]
+PartName="Pearl"
+
+[Prefix.Prefix_Dahl1_Urban WeaponNamePartDefinition]
+PartName="Urban"
+
+[Prefix.Prefix_Dahl2_Desert WeaponNamePartDefinition]
+PartName="Desert"
+
+[Prefix.Prefix_Hyperion1_Red WeaponNamePartDefinition]
+PartName="Red"
+
+[Prefix.Prefix_Hyperion2_Crimson WeaponNamePartDefinition]
+PartName="Crimson"
+
+[Prefix.Prefix_Maliwan1_Blue WeaponNamePartDefinition]
+PartName="Blue"
+
+[Prefix.Prefix_Maliwan2_Cobalt WeaponNamePartDefinition]
+PartName="Cobalt"
+
+[Prefix.Prefix_Torque1_Iron WeaponNamePartDefinition]
+PartName="Iron"
+
+[Prefix.Prefix_Torque2_Steel WeaponNamePartDefinition]
+PartName="Steel"
+
